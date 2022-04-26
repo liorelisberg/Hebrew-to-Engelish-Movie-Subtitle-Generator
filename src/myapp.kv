@@ -1,0 +1,281 @@
+#:kivy 2.1.0
+
+<MyLabel@Label>:
+    color: 0,0,0,1
+
+<MainWindow>
+
+    BoxLayout:
+        # width: self.minimum_width
+        # height: self.minimum_height
+		size: root.width-100, root.height-100
+        orientation:'vertical'
+            
+        BoxLayout:
+            orientation:'vertical'
+            # spacing: 10
+            padding: 10
+
+            MyLabel:
+                text: '[b]Hebrew Subtitles Maker[/b]'
+                markup:'True'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'50sp'
+                size: dp(100), dp(40)
+            
+            MyLabel:
+                text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, \nmolestiae quas vel sint commodi repudiandae consequuntur \nlaborum numquam harum quisquam eius sed odit.'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'20sp'
+                size: dp(40), dp(40)
+
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                orientation: 'horizontal'
+                spacing: 120
+                padding: 50
+
+                Button:
+                    text: 'YOUTUBE URL'
+                    font_size:'25sp'
+                    size_hint: (.8,.8)
+                    pos_hint: {"top": 0.6}
+                    on_press: root.manager.current = 'YouTube'
+        
+                Button:
+                    text: 'UPLOAD FROM PC'
+                    font_size:'25sp'
+                    size_hint: (.8,.8)
+                    pos_hint: {"top": 0.6}
+                    on_press: root.manager.current = 'MyPC'
+
+            
+        FloatLayout:
+            Button:
+                text: 'About Us'
+                font_size: 18
+                size_hint: (0.2,0.3)
+                pos_hint: {"x":0.4, "top": 0.6}
+                on_press: root.manager.current = 'AbutUs'
+
+<MyPC>:
+    #file_path: file_path
+    
+    BoxLayout:
+        # width: self.minimum_width
+        # height: self.minimum_height
+		size: root.width-100, root.height-100
+        orientation:'vertical'
+            
+        BoxLayout:
+            orientation:'vertical'
+            # spacing: 10
+            padding: 10
+
+            MyLabel:
+                text: '[b]Hebrew Subtitles Maker[/b]'
+                markup:'True'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'50sp'
+                size: dp(100), dp(40)
+            
+            MyLabel:
+                text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, \nmolestiae quas vel sint commodi repudiandae consequuntur \nlaborum numquam harum quisquam eius sed odit.'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'20sp'
+                size: dp(40), dp(40)
+
+        BoxLayout:
+            orientation: 'vertical'
+            padding: 10
+            # spacing: 10
+
+            # url label
+            # Label:
+            #     text: 'Browse from PC'
+            #     font_size:'25sp'
+            #     size: dp(200), dp(50)
+            #     pos_hint: {'center_x':0.5}
+            #     size_hint: None, None
+            #     canvas.before:
+            #         Color: 
+            #             rgba: (0,0,0,0.65)
+            #         Rectangle:
+            #             size: self.size
+            #             pos: self.pos
+                # canvas:
+                #     Color:
+                #         rgba: 0,1,1,0.5
+                #     Rectangle:
+                #         pos: self.pos
+                #         size: self.size
+            
+            BoxLayout:
+                orientation: 'vertical'
+                padding: 10
+                spacing: 20
+                
+                Image:
+                    source: 'images/upload_file.png'
+                    allow_stretch: True
+                    keep_ratio: True
+                    size_hint: None,None
+                    pos_hint: {'center_x': 0.5,'y':0}
+                            
+                MyLabel:
+                    text: '[b] Drag & Drop file\nOr [/b]'
+                    markup:'True'
+                    height: '40sp'
+                    multiline: False
+                    size_hint: (.2,None)
+                    pos_hint: {'center_x': 0.5}
+                    font_size:'22sp'
+                    halign: 'center'
+        
+        FloatLayout:
+            Button:
+                text: 'BROWSE'
+                font_size:'22sp'
+                size: dp(170), dp(60)
+                pos_hint: {'y': 0.6, 'center_x': 0.5}
+                size_hint: (None,None)
+                on_press: root.select(*args)
+            
+            Button:
+                text: 'Back to menu'
+                font_size:'16sp'
+                size: dp(120), dp(40)
+                # pos_hint: {"x":0.4, "top": 0.5}
+                pos_hint: {'y': 0.2, 'center_x': 0.5}
+                size_hint: (None,None)
+                on_press: root.manager.current = 'main'
+
+<YouTube>:
+    url: url
+    BoxLayout:
+        # width: self.minimum_width
+        # height: self.minimum_height
+		size: root.width-100, root.height-100
+        orientation:'vertical'
+            
+        BoxLayout:
+            orientation:'vertical'
+            # spacing: 10
+            padding: 10
+
+            MyLabel:
+                text: '[b]Hebrew Subtitles Maker[/b]'
+                markup:'True'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'50sp'
+                size: dp(100), dp(40)
+            
+            MyLabel:
+                text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, \nmolestiae quas vel sint commodi repudiandae consequuntur \nlaborum numquam harum quisquam eius sed odit.'
+                text_size:self.size
+                halign:'center'
+                valign:'bottom'
+                font_size:'20sp'
+                size: dp(40), dp(40)
+
+        BoxLayout:
+            orientation: 'vertical'
+            padding: 10
+            # spacing: 10
+
+            # url label
+            # Label:
+            #     text: 'YOUTUBE URL'
+            #     font_size:'25sp'
+            #     size: dp(300), dp(80)
+            #     pos_hint: {'center_x':0.5}
+            #     size_hint: None, None
+            #     canvas.before:
+            #         Color: 
+            #             rgba: (0,0,0,0.65)
+            #         Rectangle:
+            #             size: self.size
+            #             pos: self.pos
+                # canvas:
+                #     Color:
+                #         rgba: 0,1,1,0.5
+                #     Rectangle:
+                #         pos: self.pos
+                #         size: self.size
+            
+            BoxLayout:
+                orientation: 'horizontal'
+                padding: 10
+
+                MyLabel:
+                    text: "URL: "
+                    text_size: self.size
+                    valign: 'bottom'
+                    halign: 'center'
+                    font_size:'25sp'
+                    size_hint: None, None
+                    # canvas:
+                    #     Color:
+                    #         rgba: 0,0,1,0.5
+                    #     Rectangle:
+                    #         pos: self.pos
+                    #         size: self.size
+                    
+                TextInput:
+                    id: url
+                    height: '40sp'
+                    multiline: False
+                    size_hint: (.2,None)
+                    hint_text: 'Enter YouTube URL ...'
+                    font_size:'20sp'
+
+                    canvas:
+                        Color:
+                            rgba: 0,1,1,1
+                        Rectangle:
+                            pos: self.pos
+                            size: self.size
+            
+        FloatLayout:
+            Button:
+                text: 'Back to menu'
+                font_size:'20sp'
+                size: dp(150), dp(50)
+                # pos_hint: {"x":0.4, "top": 0.5}
+                pos_hint: {'y': 0.2, 'center_x': 0.5}
+                size_hint: (None,None)
+                on_press: root.manager.current = 'main'
+
+            Button:
+                text: 'SUBMIT'
+                font_size:'22sp'
+                size: dp(170), dp(60)
+                # pos_hint: {"x":0.4, "top": 0.5}
+                pos_hint: {'y': 0.6, 'center_x': 0.5}
+                size_hint: (None,None)
+                on_press: root.submit_url()
+
+
+<AboutUs>:
+    BoxLayout:
+        Label:
+            text: 'About Us'
+            color:0,0,0,1
+        Button:
+            text: 'Back to menu'
+            on_press: root.manager.current = 'main'
+    
+        
+
+

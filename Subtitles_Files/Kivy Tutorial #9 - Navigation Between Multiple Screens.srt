@@ -1,0 +1,1099 @@
+1
+00:00:30,000 --> 01:09:00,000
+hey guys and welcome back from the kV
+
+3
+00:37:30,000 --> 01:47:00,000
+tutorial so in today's video we're gonna
+
+5
+01:09:00,000 --> 02:16:29,000
+be going through how to change screens
+
+7
+01:47:00,000 --> 02:50:30,000
+so essentially having multiple windows
+
+9
+02:16:29,000 --> 03:25:00,000
+and then doing some kind of transition
+
+11
+02:50:30,000 --> 03:57:30,000
+between them based on like an event
+
+13
+03:25:00,000 --> 04:16:29,000
+occurs so the exact example that I'm
+
+15
+03:57:30,000 --> 04:53:29,000
+gonna be using is we're gonna have a
+
+17
+04:16:29,000 --> 05:21:00,000
+login form and if you type in the
+
+19
+04:53:29,000 --> 05:37:30,000
+password correctly it'll move you to the
+
+21
+05:21:00,000 --> 06:08:29,000
+next page
+
+23
+05:37:30,000 --> 06:31:00,000
+if not then obviously it won't move you
+
+25
+06:08:29,000 --> 06:59:00,000
+there so this is actually quite a few
+
+27
+06:31:00,000 --> 07:33:30,000
+steps so make sure you guys follow along
+
+29
+06:59:00,000 --> 08:18:00,000
+closely and as always all the code will
+
+31
+07:33:30,000 --> 08:46:30,000
+be up on tech with Tim net ok so what
+
+33
+08:18:00,000 --> 09:10:00,000
+we're actually gonna start by doing is
+
+35
+08:46:30,000 --> 09:49:30,000
+something different that we haven't done
+
+37
+09:10:00,000 --> 10:17:00,000
+yet so notice that I change the name of
+
+39
+09:49:30,000 --> 10:37:30,000
+my main app I've just deleted
+
+41
+10:17:00,000 --> 11:27:30,000
+essentially everything there's nothing
+
+43
+10:37:30,000 --> 12:21:00,000
+in my KB file to my main app instead of
+
+45
+11:27:30,000 --> 12:52:00,000
+just my app so now this Cavey file won't
+
+47
+12:21:00,000 --> 13:40:00,000
+actually load incorrectly if we remember
+
+49
+12:52:00,000 --> 14:00:30,000
+the naming conventions from before so
+
+51
+13:40:00,000 --> 14:32:00,000
+what I want to do is only use something
+
+53
+14:00:30,000 --> 15:17:00,000
+called a builder which will allow us to
+
+55
+14:32:00,000 --> 15:42:59,000
+load in the KB file no matter what the
+
+57
+15:17:00,000 --> 16:22:00,000
+name of it is so let's just start by
+
+59
+15:42:59,000 --> 17:16:59,000
+importing it so I leave us from K V dot
+
+61
+16:22:00,000 --> 17:33:59,000
+Lang we're gonna import builder and then
+
+63
+17:16:59,000 --> 18:17:20,000
+what we're gonna do is just type right
+
+65
+17:33:59,000 --> 19:56:00,000
+above our class we'll say K V equals
+
+67
+18:17:20,000 --> 20:29:59,000
+builder if I could type load underscore
+
+69
+19:56:00,000 --> 20:51:00,000
+file believe that's the name and then
+
+71
+20:29:59,000 --> 21:35:00,000
+what we'll do is put the name of our
+
+73
+20:51:00,000 --> 22:18:30,000
+file so my dot K V and what we're gonna
+
+75
+21:35:00,000 --> 23:09:29,000
+do now is we're just gonna return K V
+
+77
+22:18:30,000 --> 23:27:00,000
+from this my main app so essentially
+
+79
+23:09:29,000 --> 23:49:59,000
+what this is gonna do is this she's
+
+81
+23:27:00,000 --> 00:13:30,000
+gonna load up this file it doesn't
+
+83
+23:49:59,000 --> 01:06:00,000
+matter what the name of this file is now
+
+85
+00:13:30,000 --> 01:42:29,000
+and we're gonna return this file when
+
+87
+01:06:00,000 --> 02:11:30,000
+we're building the app so like let's
+
+89
+01:42:29,000 --> 03:24:30,000
+just do an example here if I say button
+
+91
+02:11:30,000 --> 04:23:00,000
+and I say text and we'll just go like
+
+93
+03:24:30,000 --> 04:44:30,000
+Tim and to see if this works just to
+
+95
+04:23:00,000 --> 05:23:00,000
+test and there we go we see we get a
+
+97
+04:44:30,000 --> 05:50:30,000
+button Tim and again because we're
+
+99
+05:23:00,000 --> 06:15:30,000
+loading up this KB fall it's the way
+
+101
+05:50:30,000 --> 06:48:00,000
+this builder thing works just you don't
+
+103
+06:15:30,000 --> 07:32:29,000
+have to name your K V file like the same
+
+105
+06:48:00,000 --> 08:02:00,000
+thing as the class ok so that's it for
+
+107
+07:32:29,000 --> 08:37:00,000
+Builder so what we're gonna do now is
+
+109
+08:02:00,000 --> 09:05:30,000
+since we're setting up screens we
+
+111
+08:37:00,000 --> 09:42:00,000
+actually have to use something from
+
+113
+09:05:30,000 --> 10:08:29,000
+Kibby which is well screens and screen
+
+115
+09:42:00,000 --> 11:21:30,000
+managers what we're gonna do is going to
+
+117
+10:08:29,000 --> 12:14:30,000
+say from Kivi dot UI x dot screen
+
+119
+11:21:30,000 --> 12:52:30,000
+manager import screen manager and import
+
+121
+12:14:30,000 --> 13:05:00,000
+screen so we're gonna set up three
+
+123
+12:52:30,000 --> 13:19:30,000
+classes
+
+125
+13:05:00,000 --> 13:43:30,000
+and they're not gonna have anything
+
+127
+13:19:30,000 --> 14:12:30,000
+inside of them but they're just gonna
+
+129
+13:43:30,000 --> 14:50:30,000
+dictate our different screens and then
+
+131
+14:12:30,000 --> 15:14:00,000
+our screen manager so our first class
+
+133
+14:50:30,000 --> 16:16:30,000
+will be our first window so I'm just
+
+135
+15:14:00,000 --> 16:47:30,000
+gonna say this main window okay and this
+
+137
+16:16:30,000 --> 17:13:00,000
+is just gonna inherit from screen and
+
+139
+16:47:30,000 --> 17:55:00,000
+then all we have to do in here is just
+
+141
+17:13:00,000 --> 18:36:30,000
+pass now I'll actually copy this and
+
+143
+17:55:00,000 --> 19:35:30,000
+paste this and instead of having main
+
+145
+18:36:30,000 --> 20:01:30,000
+window we'll do second window and then
+
+147
+19:35:30,000 --> 20:55:50,000
+we'll paste this one more time and
+
+149
+20:01:30,000 --> 22:04:30,000
+against the main window we're gonna do
+
+151
+20:55:50,000 --> 22:26:00,000
+what is it window manager the names of
+
+153
+22:04:30,000 --> 23:01:00,000
+these don't really matter as long as you
+
+155
+22:26:00,000 --> 23:40:20,000
+remember what they are and that instead
+
+157
+23:01:00,000 --> 00:44:30,000
+of screen we're gonna do screen manager
+
+159
+23:40:20,000 --> 01:05:00,000
+okay screen manager so essentially what
+
+161
+00:44:30,000 --> 01:28:30,000
+this is gonna do now is this is gonna
+
+163
+01:05:00,000 --> 01:56:00,000
+represent our main window which is our
+
+165
+01:28:30,000 --> 02:43:00,000
+login form this will represent the page
+
+167
+01:56:00,000 --> 03:38:30,000
+we go to next and this window manager
+
+169
+02:43:00,000 --> 04:14:00,000
+will just represent like the transitions
+
+171
+03:38:30,000 --> 04:50:30,000
+and stuff between the windows okay so
+
+173
+04:14:00,000 --> 05:27:30,000
+what we're gonna do now is what we will
+
+175
+04:50:30,000 --> 06:05:30,000
+I think we may be done actually for the
+
+177
+05:27:30,000 --> 06:46:00,000
+Python file so let's move over to the kV
+
+179
+06:05:30,000 --> 07:15:30,000
+file and start setting some stuff up so
+
+181
+06:46:00,000 --> 07:54:29,000
+the first thing we need to do is we're
+
+183
+07:15:30,000 --> 08:28:30,000
+just gonna grab this window manager and
+
+185
+07:54:29,000 --> 08:52:30,000
+we're gonna set what type of screens are
+
+187
+08:28:30,000 --> 09:32:30,000
+what screens are going to be inside of
+
+189
+08:52:30,000 --> 10:25:00,000
+this so the two screens we have our main
+
+191
+09:32:30,000 --> 11:04:30,000
+window okay and then we also have a
+
+193
+10:25:00,000 --> 12:00:30,000
+second window right so we'll put those
+
+195
+11:04:30,000 --> 12:32:00,000
+in here like that and just leave these
+
+197
+12:00:30,000 --> 12:53:00,000
+as you need a colon here and we're not
+
+199
+12:32:00,000 --> 13:22:30,000
+gonna type anything else but you just
+
+201
+12:53:00,000 --> 13:54:30,000
+need the colon because there is possible
+
+203
+13:22:30,000 --> 14:16:00,000
+options you could put so this right now
+
+205
+13:54:30,000 --> 14:45:59,000
+is just saying we're gonna have two
+
+207
+14:16:00,000 --> 15:10:59,000
+windows main window in second window if
+
+209
+14:45:59,000 --> 16:12:00,000
+you wanted to add a third window you do
+
+211
+15:10:59,000 --> 17:13:00,000
+something like third window here if I
+
+213
+16:12:00,000 --> 17:23:20,000
+could type this and yeah then that's how
+
+215
+17:13:00,000 --> 17:55:30,000
+you do that
+
+217
+17:23:20,000 --> 18:20:30,000
+but you'd also have to make sure that
+
+219
+17:55:30,000 --> 18:41:30,000
+you have a third window class here and I
+
+221
+18:20:30,000 --> 18:58:00,000
+think you guys probably get the point so
+
+223
+18:41:30,000 --> 19:33:00,000
+what I'm gonna do now is I'm just gonna
+
+225
+18:58:00,000 --> 19:57:30,000
+start creating the kind of forms for our
+
+227
+19:33:00,000 --> 20:29:30,000
+different windows now this is really
+
+229
+19:57:30,000 --> 21:00:59,000
+similar to what we've done before except
+
+231
+20:29:30,000 --> 21:25:00,000
+we just need to add a few other things
+
+233
+21:00:59,000 --> 22:10:30,000
+to it so essentially what we're gonna do
+
+235
+21:25:00,000 --> 22:54:29,000
+is gonna go May in the window like this
+
+237
+22:10:30,000 --> 23:29:00,000
+and then in here what we'll put is uh
+
+239
+22:54:29,000 --> 00:21:59,000
+first need to give it a name now the
+
+241
+23:29:00,000 --> 00:55:30,000
+name is gonna be how we what do you call
+
+243
+00:21:59,000 --> 01:20:30,000
+it call it in terms of moving between
+
+245
+00:55:30,000 --> 01:57:30,000
+screens so the name of this one we'll
+
+247
+01:20:30,000 --> 02:03:10,000
+just call this main now we'll even just
+
+249
+01:57:30,000 --> 02:25:40,000
+we'll just
+
+251
+02:03:10,000 --> 03:26:10,000
+the second window right now so we don't
+
+253
+02:25:40,000 --> 04:33:40,000
+forget so second window and it's for the
+
+255
+03:26:10,000 --> 04:54:10,000
+name here we'll just do second okay now
+
+257
+04:33:40,000 --> 05:14:10,000
+again these names can be whatever you
+
+259
+04:54:10,000 --> 05:40:39,000
+want just make sure you remember them
+
+261
+05:14:10,000 --> 06:18:39,000
+because we are gonna have to use them so
+
+263
+05:40:39,000 --> 06:43:09,000
+name main names second now all I'm gonna
+
+265
+06:18:39,000 --> 07:08:09,000
+do in the second window notice - it's
+
+267
+06:43:09,000 --> 07:41:10,000
+already here is just create a button and
+
+269
+07:08:09,000 --> 08:16:40,000
+on my button all I'm gonna do is just
+
+271
+07:41:10,000 --> 08:59:10,000
+have some text and that Texas is gonna
+
+273
+08:16:40,000 --> 09:41:40,000
+say go back right because if we make it
+
+275
+08:59:10,000 --> 10:09:10,000
+to this screen then we just want to be
+
+277
+09:41:40,000 --> 10:33:40,000
+able to navigate back to the other
+
+279
+10:09:10,000 --> 11:07:09,000
+screen so that's what we need for second
+
+281
+10:33:40,000 --> 11:53:10,000
+window now for main window I want to set
+
+283
+11:07:09,000 --> 12:28:10,000
+up this login form that essentially all
+
+285
+11:53:10,000 --> 13:16:10,000
+it does is is just gonna have like a
+
+287
+12:28:10,000 --> 13:46:10,000
+label a text input box and then a button
+
+289
+13:16:10,000 --> 14:06:40,000
+so we're gonna do this similar to what
+
+291
+13:46:10,000 --> 14:31:40,000
+we've done before with multiple grid
+
+293
+14:06:40,000 --> 15:14:40,000
+layouts so in case you forget we're
+
+295
+14:31:40,000 --> 15:36:10,000
+gonna do a grid layout and then for the
+
+297
+15:14:40,000 --> 16:51:40,000
+first grid layout we're gonna have calls
+
+299
+15:36:10,000 --> 17:20:10,000
+is one okay and then what should we put
+
+301
+16:51:40,000 --> 17:53:30,000
+inside here we need to put another grid
+
+303
+17:20:10,000 --> 18:26:40,000
+layout so the other grid layout will be
+
+305
+17:53:30,000 --> 18:56:10,000
+calls too
+
+307
+18:26:40,000 --> 19:55:40,000
+and then inside here we're gonna have a
+
+309
+18:56:10,000 --> 20:14:40,000
+label and Wow okay I don't know what I
+
+311
+19:55:40,000 --> 20:59:40,000
+just clicked to do that that was
+
+313
+20:14:40,000 --> 21:53:10,000
+interesting and we'll say text and for
+
+315
+20:59:40,000 --> 22:34:39,000
+this we'll just say is password okay
+
+317
+21:53:10,000 --> 23:00:10,000
+colon and then we'll put a text input
+
+319
+22:34:39,000 --> 23:37:40,000
+box and we're gonna need to give this an
+
+321
+23:00:10,000 --> 00:35:10,000
+ID so the ID for this I'll just say is
+
+323
+23:37:40,000 --> 01:18:00,000
+passed W okay and then in here what
+
+325
+00:35:10,000 --> 02:38:10,000
+we'll do is we'll say for text input
+
+327
+01:18:00,000 --> 03:12:40,000
+multi-line equals false okay so that's
+
+329
+02:38:10,000 --> 03:44:40,000
+all we need for here now we actually
+
+331
+03:12:40,000 --> 04:25:10,000
+know we need to add a button sorry give
+
+333
+03:44:40,000 --> 04:48:39,000
+me on that one so add a button and this
+
+335
+04:25:10,000 --> 05:47:10,000
+button is just gonna have a text that
+
+337
+04:48:39,000 --> 06:20:10,000
+says submit and we're gonna have an on
+
+339
+05:47:10,000 --> 06:53:09,000
+press event which were actually on
+
+341
+06:20:10,000 --> 07:14:40,000
+release event which we'll do in just a
+
+343
+06:53:09,000 --> 07:37:40,000
+second and we're gonna have a non
+
+345
+07:14:40,000 --> 08:02:10,000
+release event here so let's just do that
+
+347
+07:37:40,000 --> 08:28:10,000
+so we don't forget let's do a quick
+
+349
+08:02:10,000 --> 08:56:40,000
+summary of what we've done so
+
+351
+08:28:10,000 --> 09:20:40,000
+essentially this is all like this is
+
+353
+08:56:40,000 --> 09:56:40,000
+probably a review except for this part
+
+355
+09:20:40,000 --> 10:26:09,000
+here of what we've done before so we
+
+357
+09:56:40,000 --> 11:05:10,000
+just created a very basic form all we're
+
+359
+10:26:09,000 --> 11:54:10,000
+going to do is we have what do you call
+
+361
+11:05:10,000 --> 12:18:09,000
+it the text input which is going to just
+
+363
+11:54:10,000 --> 12:41:40,000
+ask you for a password you can type and
+
+365
+12:18:09,000 --> 13:12:40,000
+password and then we're just gonna check
+
+367
+12:41:40,000 --> 13:42:10,000
+here if the password is a certain value
+
+369
+13:12:40,000 --> 14:15:09,000
+and if it is then we're going to
+
+371
+13:42:10,000 --> 14:35:40,000
+transition to the other window so the
+
+373
+14:15:09,000 --> 15:04:09,000
+way that we transition to the other
+
+375
+14:35:40,000 --> 16:16:29,000
+windows is we
+
+377
+15:04:09,000 --> 17:05:10,000
+you this we do app JA root dot current
+
+379
+16:16:29,000 --> 17:38:09,000
+okay and then we set it equal to the
+
+381
+17:05:10,000 --> 18:09:09,000
+window we want to go to so in this case
+
+383
+17:38:09,000 --> 18:38:39,000
+if we hit submit we want to go to the
+
+385
+18:09:09,000 --> 19:06:39,000
+second window that that is this right
+
+387
+18:38:39,000 --> 19:45:40,000
+now the name of that window is second
+
+389
+19:06:39,000 --> 20:06:09,000
+like we named it here so that's all
+
+391
+19:45:40,000 --> 20:46:39,000
+we're gonna do we're gonna say app dot
+
+393
+20:06:09,000 --> 21:29:39,000
+root current equals second now we can
+
+395
+20:46:39,000 --> 22:16:10,000
+actually copy this and we can paste it
+
+397
+21:29:39,000 --> 22:44:39,000
+right here as well and here though if we
+
+399
+22:16:10,000 --> 23:11:09,000
+want to go back we won't want to do the
+
+401
+22:44:39,000 --> 23:50:09,000
+name main so that's what we'll do and
+
+403
+23:11:09,000 --> 00:31:39,000
+actually let's just tab this in here
+
+405
+23:50:09,000 --> 01:14:09,000
+underneath on release and this should be
+
+407
+00:31:39,000 --> 01:36:40,000
+working fine so let's run this quickly
+
+409
+01:14:09,000 --> 02:01:40,000
+and assuming I didn't make any mistakes
+
+411
+01:36:40,000 --> 02:46:30,000
+which I probably did we should be
+
+413
+02:01:40,000 --> 03:51:09,000
+working invalid property property name
+
+415
+02:46:30,000 --> 04:41:39,000
+multi-line I can't do equals false I
+
+417
+03:51:09,000 --> 05:28:09,000
+have to do : false believe that's the
+
+419
+04:41:39,000 --> 05:55:39,000
+issue yes there we go okay so we have a
+
+421
+05:28:09,000 --> 06:25:39,000
+little login window make it a bit
+
+423
+05:55:39,000 --> 06:58:09,000
+smaller you can see it resizes so I'd
+
+425
+06:25:39,000 --> 07:33:09,000
+type something in here hit submit and
+
+427
+06:58:09,000 --> 08:24:39,000
+you can see it brings me over to my
+
+429
+07:33:09,000 --> 09:01:39,000
+other page and then if I hit go back it
+
+431
+08:24:39,000 --> 09:31:09,000
+brings me back now notice though that
+
+433
+09:01:39,000 --> 10:03:09,000
+these transitions are probably not ideal
+
+435
+09:31:09,000 --> 10:24:39,000
+moving like left right or just keep
+
+437
+10:03:09,000 --> 11:02:39,000
+moving to the left but we want to go
+
+439
+10:24:39,000 --> 11:36:09,000
+left and then to the right so how do we
+
+441
+11:02:39,000 --> 12:24:09,000
+do that well luckily there is a way that
+
+443
+11:36:09,000 --> 12:50:09,000
+we can do that so on the release here
+
+445
+12:24:09,000 --> 14:27:09,000
+what we're actually gonna type in type
+
+447
+12:50:09,000 --> 15:06:29,000
+root dot manager dot transition assuming
+
+449
+14:27:09,000 --> 16:08:39,000
+I spell this correctly so root dot
+
+451
+15:06:29,000 --> 17:00:09,000
+manager dot transition dot direction and
+
+453
+16:08:39,000 --> 17:19:09,000
+then this is gonna be equal to what
+
+455
+17:00:09,000 --> 18:02:39,000
+direction I wanted ghost in this case
+
+457
+17:19:09,000 --> 18:49:09,000
+we're gonna go left okay and then if we
+
+459
+18:02:39,000 --> 19:38:39,000
+copy this and we paste it here we can go
+
+461
+18:49:09,000 --> 20:32:39,000
+right so now let's check this out and
+
+463
+19:38:39,000 --> 21:00:39,000
+see if I did this correctly okay so if I
+
+465
+20:32:39,000 --> 21:32:39,000
+hit submit you can see removing to the
+
+467
+21:00:39,000 --> 21:56:39,000
+left now watch this if I hit go back we
+
+469
+21:32:39,000 --> 22:19:09,000
+move to the right so you can see that
+
+471
+21:56:39,000 --> 23:02:39,000
+it's kind of going back and forth and
+
+473
+22:19:09,000 --> 23:23:39,000
+that's awesome okay so the last thing I
+
+475
+23:02:39,000 --> 23:47:39,000
+want to do for this video is I want to
+
+477
+23:23:39,000 --> 00:22:39,000
+make it so it only lets us go to the
+
+479
+23:47:39,000 --> 00:55:40,000
+next page if we type this password
+
+481
+00:22:39,000 --> 01:46:09,000
+correctly right so how can we do that
+
+483
+00:55:40,000 --> 02:10:09,000
+well we just need to do a little bit of
+
+485
+01:46:09,000 --> 02:42:10,000
+logic inside of here
+
+487
+02:10:09,000 --> 03:11:10,000
+so the reason we gave this an idea so
+
+489
+02:42:10,000 --> 03:45:39,000
+that we can check the value so on on
+
+491
+03:11:10,000 --> 04:03:00,000
+release here let's go in here and let's
+
+493
+03:45:39,000 --> 05:04:59,000
+do a bit of logic
+
+495
+04:03:00,000 --> 06:21:30,000
+let's just say if or we'll say second if
+
+497
+05:04:59,000 --> 06:48:00,000
+and I will say Pass W dot txt equals
+
+499
+06:21:30,000 --> 07:40:00,000
+equals and let's just make the password
+
+501
+06:48:00,000 --> 08:17:30,000
+Tim in this case we'll say else we're
+
+503
+07:40:00,000 --> 08:53:30,000
+just gonna stay on this main page so
+
+505
+08:17:30,000 --> 09:26:29,000
+we'll go to second if the password is
+
+507
+08:53:30,000 --> 10:06:19,000
+Tim otherwise we'll go we'll just stay
+
+509
+09:26:29,000 --> 10:49:30,000
+on the main page okay so let's try this
+
+511
+10:06:19,000 --> 11:16:30,000
+if I hit submit I'm not typing a
+
+513
+10:49:30,000 --> 12:14:00,000
+password it's not working if I type T I
+
+515
+11:16:30,000 --> 12:50:30,000
+doesn't work if I type Tim you can see
+
+517
+12:14:00,000 --> 13:22:59,000
+we go to the next page and that is
+
+519
+12:50:30,000 --> 13:44:30,000
+essentially oh we should probably
+
+521
+13:22:59,000 --> 14:41:00,000
+actually would want to clear this as
+
+523
+13:44:30,000 --> 14:57:30,000
+well so we could do that too you know
+
+525
+14:41:00,000 --> 15:22:00,000
+what let's not worry about that right
+
+527
+14:57:30,000 --> 15:46:30,000
+now how am I do in the next video but
+
+529
+15:22:00,000 --> 16:26:00,000
+essentially that's how that works
+
+531
+15:46:30,000 --> 16:43:30,000
+this is how we can go between multiple
+
+533
+16:26:00,000 --> 17:31:30,000
+windows if you want to create another
+
+535
+16:43:30,000 --> 18:19:59,000
+window create another class inherit from
+
+537
+17:31:30,000 --> 18:43:59,000
+screen same thing here and then you can
+
+539
+18:19:59,000 --> 19:16:30,000
+kind of lay out the navigation for
+
+541
+18:43:59,000 --> 19:38:30,000
+yourself so if you guys enjoyed the
+
+543
+19:16:30,000 --> 20:03:30,000
+video please make sure you leave a like
+
+545
+19:38:30,000 --> 20:25:20,000
+and subscribe and I will see you again
+
+547
+20:03:30,000 --> 00:12:39,000
+in another one
+
+549
+20:25:20,000 --> 00:12:39,000
+[Music]
