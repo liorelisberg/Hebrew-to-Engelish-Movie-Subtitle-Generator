@@ -46,10 +46,10 @@ class YouTube(Screen):
         yt = YT(url,on_progress_callback=on_progress,on_complete_callback=self.download_complete)
         # print(yt.captions)
         title = yt.title
-        print("captions: ",yt.captions)
+        # print("captions: ",yt.captions)
         if len(yt.captions) != 0 :
             caption = yt.captions['a.en']
-            print("caption: ",caption)
+            # print("caption: ",caption)
             subtitle = caption.generate_srt_captions()
             # print("subtitle: ",subtitle)
             completeName = os.path.join("Subtitles_Files", title + '.srt')
