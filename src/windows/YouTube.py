@@ -1,6 +1,7 @@
 import os
 
-from kivy.uix.screenmanager import Screen
+from kivy.app import App
+from kivy.uix.screenmanager import ScreenManager,Screen
 
 from pytube import YouTube as YT
 from pytube.cli import on_progress
