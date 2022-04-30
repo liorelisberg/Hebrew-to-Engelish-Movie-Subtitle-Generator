@@ -1,4 +1,5 @@
-from kivy.uix.screenmanager import  Screen
+from kivy.uix.screenmanager import Screen
 
 class MainWindow(Screen):
-    pass
+    def __init__(self, **kw):
+        super().__init__(**kw)

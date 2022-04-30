@@ -1,5 +1,7 @@
 import os
-from kivy.uix.screenmanager import  Screen
+
+from kivy.app import App
+from kivy.uix.screenmanager import ScreenManager,Screen
 from kivy.core.window import Window
 
 from components.popups.popup import PopUp

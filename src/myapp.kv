@@ -45,14 +45,18 @@
                     font_size:'25sp'
                     size_hint: (.8,.8)
                     pos_hint: {"top": 0.6}
-                    on_press: root.manager.current = 'YouTube'
+                    on_press: 
+                        root.manager.current = 'YouTube'
+                        root.manager.transition.direction = 'right'
         
                 Button:
                     text: 'UPLOAD FROM PC'
                     font_size:'25sp'
                     size_hint: (.8,.8)
                     pos_hint: {"top": 0.6}
-                    on_press: root.manager.current = 'MyPC'
+                    on_press:
+                        root.manager.current = 'MyPC'
+                        root.manager.transition.direction = 'right'
 
             
         FloatLayout:
@@ -61,7 +65,9 @@
                 font_size: 18
                 size_hint: (0.2,0.3)
                 pos_hint: {"x":0.4, "top": 0.6}
-                on_press: root.manager.current = 'AbutUs'
+                on_press:
+                    root.manager.current = 'AbutUs'
+                    root.manager.transition.direction = 'right'
 
 <MyPC>:
     #file_path: file_path
@@ -157,7 +163,9 @@
                 # pos_hint: {"x":0.4, "top": 0.5}
                 pos_hint: {'y': 0.2, 'center_x': 0.5}
                 size_hint: (None,None)
-                on_press: root.manager.current = 'main'
+                on_press:
+                    root.manager.transition.direction = 'left'
+                    root.manager.current = 'main'
 
 <YouTube>:
     url: url
@@ -255,7 +263,9 @@
                 # pos_hint: {"x":0.4, "top": 0.5}
                 pos_hint: {'y': 0.2, 'center_x': 0.5}
                 size_hint: (None,None)
-                on_press: root.manager.current = 'main'
+                on_press: 
+                    root.manager.current = 'main'
+                    root.manager.transition.direction = 'left'
 
             Button:
                 text: 'SUBMIT'
@@ -274,7 +284,9 @@
             color:0,0,0,1
         Button:
             text: 'Back to menu'
-            on_press: root.manager.current = 'main'
+            on_press: 
+                root.manager.current = 'main'
+                root.manager.transition.direction = 'left'
     
         
 

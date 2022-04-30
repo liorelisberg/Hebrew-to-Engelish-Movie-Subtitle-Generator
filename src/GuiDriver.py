@@ -1,17 +1,17 @@
 from kivy.app import App
-from kivy.uix.screenmanager import ScreenManager
+from kivy.uix.screenmanager import ScreenManager,Screen
 
 from kivy.core.window import Window
 from kivy.lang import Builder
 
-from windows import YouTube 
-from windows import MyPC
-from windows import MainWindow
-from windows import AboutUs
+from src.windows.MainWindow import MainWindow
+from windows.YouTube import YouTube 
+from windows.MyPC import MyPC
+from windows.AboutUs import AboutUs
 
 from logs.LoggerFactory import Logger
 
-import webbrowser
+# import webbrowser
 
 Builder.load_file("myapp.kv")
 Window.clearcolor = (1,1,1,1)
@@ -26,7 +26,7 @@ sm.add_widget(AboutUs(name='AbutUs'))
 class MyApp(App):
     def build(self):
         self.title = 'Hebrew Subtitles Maker'
-        
+        # sm.current = 'main'
         return sm
 
 if __name__ == "__main__":
