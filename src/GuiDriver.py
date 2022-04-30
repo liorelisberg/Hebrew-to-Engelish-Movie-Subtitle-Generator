@@ -1,3 +1,13 @@
+import logging
+import sys
+
+from logs.LoggerFactory import Logger
+logger = Logger().get_logger(__name__)
+logger.info("initiliaizing project")
+
+from kivy.logger import Logger
+logging.Logger.manager.root = Logger
+
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager,Screen
 
@@ -9,13 +19,8 @@ from windows.YouTube import YouTube
 from windows.MyPC import MyPC
 from windows.AboutUs import AboutUs
 
-from logs.LoggerFactory import Logger
-
-# import webbrowser
-
-Builder.load_file("myapp.kv")
 Window.clearcolor = (1,1,1,1)
-Logger = Logger()
+Builder.load_file('app.kv')
             
 sm = ScreenManager()
 sm.add_widget(MainWindow(name='main'))
@@ -25,11 +30,12 @@ sm.add_widget(AboutUs(name='AbutUs'))
 
 class MyApp(App):
     def build(self):
+        logger = Logger().get_logger(self.__class__.__init__)
+        logger.info("initializing window")
         self.title = 'Hebrew Subtitles Maker'
-        # sm.current = 'main'
+        sm.current = 'main'
         return sm
 
 if __name__ == "__main__":
-    logger = Logger.get_logger()
-    logger.info("Initializing Application")
+    logger.info("MyApp is running")    
     MyApp().run()
