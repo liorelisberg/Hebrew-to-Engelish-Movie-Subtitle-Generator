@@ -1,3 +1,4 @@
+from msilib.schema import Error
 import os
 
 from kivy.app import App
@@ -6,8 +7,8 @@ from kivy.uix.screenmanager import ScreenManager,Screen
 from pytube import YouTube as YT
 from pytube.cli import on_progress
 
-from components.validators.validate_url import UrlValidator
-from components.popups.popup import PopUp
+from  src.components.validators.validate_url import UrlValidator
+from src.components.popups.popup import PopUp
 
 
 class YouTube(Screen):
@@ -54,5 +55,10 @@ class YouTube(Screen):
         # print("title: ",title,"caption size: ", caption)
         print("downloading ...")
 
-        yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first().download(self._video_output_path)
+        try:
+            video = yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first()
+            video.download(self._video_output_path)
+        except Error:
+            print(Error)
+            
    
