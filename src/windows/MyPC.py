@@ -31,12 +31,10 @@ class MyPC(Screen):
         if filename != []:
             print("path: ",path)
             print("filename: ",filename)
-            Window.close()
+            self._popup.dismiss()
             
     def dismiss_popup(self):
-        self._popup.dismiss()
-        Window.close()
-        
+        self._popup.dismiss()        
 class LoadFileChooser(Screen):
     load = ObjectProperty(None)
     cancel = ObjectProperty(None)
