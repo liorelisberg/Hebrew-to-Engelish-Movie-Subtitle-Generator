@@ -162,7 +162,7 @@
                 size: dp(170), dp(60)
                 pos_hint: {'y': 0.6, 'center_x': 0.5}
                 size_hint: (None,None)
-                on_press: root.select(*args)
+                on_release: root.show_load_list()
             
             Button:
                 text: 'Back to menu'
@@ -208,27 +208,6 @@
         BoxLayout:
             orientation: 'vertical'
             padding: 10
-            # spacing: 10
-
-            # url label
-            # Label:
-            #     text: 'YOUTUBE URL'
-            #     font_size:'25sp'
-            #     size: dp(300), dp(80)
-            #     pos_hint: {'center_x':0.5}
-            #     size_hint: None, None
-            #     canvas.before:
-            #         Color: 
-            #             rgba: (0,0,0,0.65)
-            #         Rectangle:
-            #             size: self.size
-            #             pos: self.pos
-                # canvas:
-                #     Color:
-                #         rgba: 0,1,1,0.5
-                #     Rectangle:
-                #         pos: self.pos
-                #         size: self.size
             
             BoxLayout:
                 orientation: 'horizontal'
@@ -295,6 +274,24 @@
             on_press: 
                 root.manager.current = 'main'
                 root.manager.transition.direction = 'left'
+
+<LoadFileChooser>:
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserListView:
+            id: filechooser
+            path: '././'
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+            Button:
+                text: "Load"
+                on_release: root.load(filechooser.path, filechooser.selection)
     
         
 

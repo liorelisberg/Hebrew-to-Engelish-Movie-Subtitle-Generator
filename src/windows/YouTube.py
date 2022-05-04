@@ -56,8 +56,8 @@ class YouTube(Screen):
         print("downloading ...")
 
         try:
-            video = yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first()
-            video.download(self._video_output_path)
+            yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution').desc().first().download(self._video_output_path)
+            
         except Error:
             print(Error)
             
