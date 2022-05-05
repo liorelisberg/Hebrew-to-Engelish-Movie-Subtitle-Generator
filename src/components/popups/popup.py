@@ -1,27 +1,38 @@
 from kivy.uix.popup import Popup
 from kivy.uix.label import Label
 from kivy.uix.button import Button
-from kivy.uix.gridlayout import GridLayout
+from kivy.uix.boxlayout import BoxLayout
+from kivy.lang import Builder
+from kivy.factory import Factory
 
-class PopUp:
+# Builder.load_file('mypopup.kv')
+
+class MyPopUp:
     def __init__(self,title_text,msg_text,button_text="Ok"):
-        layout = GridLayout(cols=1, padding=10)
-        popupLabel  = Label(text = msg_text,size_hint_y = None,)
-        closeButton = Button(text = button_text,size_hint=(None, None), size=(50, 30))
+        # layout = BoxLayout(orientation='vertical',padding=(10),size_hint_y=None)
+        # popupLabel  = Label(text = msg_text,size_hint_y = None,)
+        # closeButton = Button(text = button_text,size_hint=(None, None), size=(50, 30),pos_hint ={'x':0.45, 'y':1})
 
-        layout.add_widget(popupLabel)
-        layout.add_widget(closeButton)      
-
-        # Instantiate the modal popup and display
-        self.popup = Popup(
-            title=title_text,
-            content=layout,
-            size_hint=(None, None),
-            size=(400, 300)
-            )  
-
-        #content=(Label(text='This is a demo pop-up')))
+        # layout.add_widget(popupLabel)
+        # layout.add_widget(closeButton)      
+            
+        # # Instantiate the modal popup and display
+        # self.popup = Popup(
+        #     title_align='center',
+        #     auto_dismiss=False,
+        #     title=title_text,
+        #     content=layout,
+        #     size_hint=(None, None),
+        #     size=(400, 300))  
+        print("title_text: ",title_text)
+        print("msg_text: ",msg_text)
+        print("button_text: ",button_text)
+        print("\n")
+        
+        self.popup = Factory.MyPopUp()
+        self.popup.message.text = msg_text
+        self.popup.title = title_text
         self.popup.open()   
 
         # Attach close button press with popup.dismiss action
-        closeButton.bind(on_press=self.popup.dismiss)
+        # closeButton.bind(on_press=self.popup.dismiss)

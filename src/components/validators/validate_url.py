@@ -13,6 +13,9 @@ class UrlValidator:
         try:
             request = requests.get(url)
             match = re.match(self.youtube_regex,url)
+        except requests.ConnectionError:
+            return False
+        
         except requests.exceptions.MissingSchema:
             return False
            

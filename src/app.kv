@@ -11,7 +11,7 @@
     AboutUs:
     
 
-<MainWindow>
+<MainWindow>:
 
     BoxLayout:
         # width: self.minimum_width
@@ -292,7 +292,46 @@
             Button:
                 text: "Load"
                 on_release: root.load(filechooser.path, filechooser.selection)
+
+<MyPopUp@Popup>:
+    message: message
+    auto_dismiss: False
+    size_hint: None, None
+    title_align: 'center'
+    width: grid.width + dp(25)
+    height: grid.height + root.title_size + dp(48)
     
-        
+    GridLayout:
+        id: grid
+        size_hint: None, None
+        size: self.minimum_size
+        padding: [20, 10]
+        spacing: 10
+        cols: 1
+        AnchorLayout:
+            anchor_x: "center"
+            anchor_y: "bottom"
+            size_hint: None, None
+            height: message.height
+            width: max(message.width, butt.width)
 
+            Label:
+                id: message
+                size_hint: None, None
+                size: self.texture_size
+                padding: [20, 10]
 
+        AnchorLayout:
+            anchor_x: "center"
+            anchor_y: "bottom"
+            size_hint: None, None
+            height: butt.height
+            width: max(message.width, butt.width)
+            Button:
+                id: butt
+                text: "ok"
+                size_hint: None, None
+                size: self.texture_size
+                padding: [10, 5]
+                on_release: root.dismiss()
+            

@@ -1,5 +1,4 @@
 import logging
-import sys
 
 from logs.LoggerFactory import Logger
 logger = Logger().get_logger(__name__)
