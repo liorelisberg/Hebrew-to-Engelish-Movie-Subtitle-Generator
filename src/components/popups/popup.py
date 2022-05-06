@@ -36,3 +36,18 @@ class MyPopUp:
 
         # Attach close button press with popup.dismiss action
         # closeButton.bind(on_press=self.popup.dismiss)
+        
+class MyProgressBarPopUp:
+    def __init__(self,value=0.00):
+        print("opening MyProgressBarPopUp")
+        self.popup = Factory.MyProgressBarPopUp()
+        self.popup.value = value
+        # self.popup.message.text = "Downloading ..."
+        self.popup.title = "Progress bar"
+    
+    def open_pb(self):
+        self.popup.open()
+        
+    def update_progress(self,value):
+        print("precent: ",value)
+        self.popup.value = value/100

@@ -14,7 +14,7 @@ class MyPC(Screen):
     
     def __init__(self, **kw):
         super().__init__(**kw)
-        Window.bind(on_drop_file=MyPC.handlesDrop)
+        Window.bind(on_drop_file=self.handlesDrop)
         Window.bind(on_request_close=self.load_list)
         
     def select(self, *args):
@@ -23,6 +23,7 @@ class MyPC(Screen):
         
     def handlesDrop(self,filename:str,x,y):
         self.file_name = filename.decode("utf-8") 
+        print("global path: {}, local path: {}".format(filename,self.file_name))
         MyPopUp(title_text="Success",msg_text=f'this is my dropped file:\n{self.file_name}')
         
     def show_load_list(self):
@@ -42,7 +43,6 @@ class MyPC(Screen):
         self._popup.dismiss()
         
         
-            
     def dismiss_popup(self):
         self._popup.dismiss()        
 

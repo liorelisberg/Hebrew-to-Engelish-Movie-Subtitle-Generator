@@ -29,7 +29,6 @@ sm.add_widget(AboutUs(name='AbutUs'))
 
 class MyApp(App):
     def build(self):
-        # logger = Logger().get_logger(self.__class__.__init__)
         logger.info("initializing window")
         self.title = 'Hebrew Subtitles Maker'
         sm.current = 'main'
