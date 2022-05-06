@@ -18,6 +18,11 @@ class YouTube(Screen):
     icv = InternetConnectionValidator()
     _video_output_path = "/Video_Downloads"
     _subtitle_output_path = "/Subtitles_Files"
+    
+    
+    def __init__(self, **kw):
+        super().__init__(**kw)
+        self.mpbpp = MyProgressBarPopUp()
         
     def create_popup(self,url):
         if(self.urlValidator.is_empty_url(url)):
@@ -37,18 +42,17 @@ class YouTube(Screen):
         perc = (float(tem) / float(total)) * float(100)
         return perc
     
-    def download_progress(stream = None, chunk = None, file_handle = None, remaining = None):
+    def download_progress(self,stream = None, chunk = None, file_handle = None, remaining = None):
         # Gets the percentage of the file that has been downloaded.
         percent = (100*(file_size-remaining))/file_size
-        print("{}".format(percent,3) + "%" +" downloaded")
+        print("{}".format(round(percent,3)) + "%" +" downloaded")
         # print("stream.filesize: ",stream.filesize)
         # total_size = stream.filesize
         # bytes_downloaded = total_size - bytes_remaining 
         # percentage_of_completion = round((bytes_downloaded / total_size * 100),3)
         
-        # print("precentage completed: ",percentage_of_completion)         
-        MyProgressBarPopUp()
-        
+        # print("precentage completed: ",percentage_of_completion) 
+        self.mpbpp.update_progress(value=percent)          
         
     
     def download_complete(self,stream,file_path):
@@ -85,8 +89,11 @@ class YouTube(Screen):
 
         try:
             video.download(self._video_output_path)
-            # video = yt.order_by(mp4files[-1].extension,mp4files[-1].resolution)      
+            # video = yt.order_by(mp4files[-1].extension,mp4files[-1].resolution)    
+            self.mpbpp.open_pb()    
+        
         except Exception as e:
             print(e)
+            
             
    

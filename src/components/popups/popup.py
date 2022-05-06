@@ -38,9 +38,16 @@ class MyPopUp:
         # closeButton.bind(on_press=self.popup.dismiss)
         
 class MyProgressBarPopUp:
-    def __init__(self):
+    def __init__(self,value=0.00):
         print("opening MyProgressBarPopUp")
         self.popup = Factory.MyProgressBarPopUp()
+        self.popup.value = value
         # self.popup.message.text = "Downloading ..."
         self.popup.title = "Progress bar"
-        self.popup.open() 
+    
+    def open_pb(self):
+        self.popup.open()
+        
+    def update_progress(self,value):
+        print("precent: ",value)
+        self.popup.value = value/100
