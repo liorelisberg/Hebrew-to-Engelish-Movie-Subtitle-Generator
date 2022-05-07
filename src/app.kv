@@ -178,8 +178,6 @@
 <YouTube>:
     url: url
     BoxLayout:
-        # width: self.minimum_width
-        # height: self.minimum_height
 		size: root.width-100, root.height-100
         orientation:'vertical'
             
@@ -220,12 +218,6 @@
                     halign: 'center'
                     font_size:'25sp'
                     size_hint: None, None
-                    # canvas:
-                    #     Color:
-                    #         rgba: 0,0,1,0.5
-                    #     Rectangle:
-                    #         pos: self.pos
-                    #         size: self.size
                     
                 TextInput:
                     id: url
@@ -247,7 +239,6 @@
                 text: 'Back to menu'
                 font_size:'20sp'
                 size: dp(150), dp(50)
-                # pos_hint: {"x":0.4, "top": 0.5}
                 pos_hint: {'y': 0.2, 'center_x': 0.5}
                 size_hint: (None,None)
                 on_press: 
@@ -258,7 +249,6 @@
                 text: 'SUBMIT'
                 font_size:'22sp'
                 size: dp(170), dp(60)
-                # pos_hint: {"x":0.4, "top": 0.5}
                 pos_hint: {'y': 0.6, 'center_x': 0.5}
                 size_hint: (None,None)
                 on_press: root.submit_url()
@@ -340,11 +330,12 @@
     BoxLayout:
         orientation: "vertical"
         size: root.size
+        id: blo
 
         ProgressBar:
             id: my_progress_bar
-            value: value
+            value: 0
             min: 0
-            max: 1
+            max: 100
             pos_hint: {'x':1}
             size_hint_x: .8
