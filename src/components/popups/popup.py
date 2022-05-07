@@ -53,3 +53,4 @@ class MyProgressBarPopUp:
         
     def update_progressbar(self,value):
         self.popup.ids.my_progress_bar.value = value/100
+        print("precent: ",value)
