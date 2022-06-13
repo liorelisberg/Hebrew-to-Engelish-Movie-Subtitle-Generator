@@ -11,8 +11,8 @@ from src.components.popups.popup import MyPopUp,MyProgressBarPopUp
 class YouTube(Screen):
     urlValidator = UrlValidator()
     icv = InternetConnectionValidator()
-    _video_output_path = "/Video_Downloads"
-    _subtitle_output_path = "/Subtitles_Files"
+    _video_output_path = "//Video_Downloads"
+    _subtitle_output_path = "Subtitles_Files"
     invalid_chars = set(['#','%','&','{','}','<','>','*','/','$','!','\'','\"',':','@','+','`','|','='])
     
     def __init__(self, **kw):
@@ -65,7 +65,7 @@ class YouTube(Screen):
         if len(yt.captions) != 0 :
             caption = yt.captions['a.en']
             subtitle = caption.generate_srt_captions()
-            completeName = os.path.join("Subtitles_Files", title + '.srt')
+            completeName = os.path.join(self._subtitle_output_path, title + '.srt')
             completeName = self.remove_invalid_chars(completeName)
             
             try:
@@ -79,11 +79,8 @@ class YouTube(Screen):
         file_size = video.filesize
 
         try:
-            video.download(self._video_output_path)
+            video.download(".\\Video_Downloads")
             self.mpbpp.open_pb()    
         
         except Exception as e:
             print(e)
-            
-            
-   
