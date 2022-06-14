@@ -6,13 +6,18 @@ from  src.components.validators.validate_url import UrlValidator
 from  src.components.validators.validate_internet_connection import InternetConnectionValidator
 from src.components.popups.popup import MyPopUp
 
+from kivy.factory import Factory
+
 class YouTube(Screen):
     urlValidator = UrlValidator()
     internet_coonction_validator = InternetConnectionValidator()
-    YouTube_donwload_manager = YouTubeDownloadManager()
+    
     
     def __init__(self, **kw):
         super().__init__(**kw)
+        # self.progressbar_popup = Factory.MyProgressBarPopUp()
+        self.YouTube_donwload_manager = YouTubeDownloadManager()
+        
         
     def create_popup(self,url):
         if(self.urlValidator.is_empty_url(url)):

@@ -1,16 +1,17 @@
 import os
-from src.components.popups.popup import MyPopUp, MyProgressBarPopUp
+from src.components.popups.popup import MyPopUp
+from src.components.popups.progressbar_popup import MyProgressBarPopUp
 from pytube import YouTube as YT
+
 
 video_output_path = ".\\Video_Downloads"
 subtitle_output_path = "Subtitles_Files"
-invalid_chars = set(['#','%','&','{','}','<','>','*','/','$','!','\'','\"',':','@','+','`','|','='])
+invalid_chars = set(['#','%','&','{','}','<','>','*','/','$','!','\'','\"',':','@','+','`','|','=','?'])
 
 class YouTubeDownloadManager:
-    def __init__(self, **kw):
-        super().__init__(**kw)
-        self.mpbpp = MyProgressBarPopUp()
-        
+    def __init__(self):
+    #     myclass = Factory.classes['MyProgressBarPopUp']
+        self.mpbpp = MyProgressBarPopUp()      
     
     def percent(self, tem, total):
         perc = (float(tem) / float(total)) * float(100)
