@@ -1,4 +1,6 @@
 import os
+import threading
+from tkinter import E
 from src.components.popups.popup import MyPopUp
 from src.components.popups.progressbar_popup import MyProgressBarPopUp
 from pytube import YouTube as YT
@@ -10,26 +12,25 @@ invalid_chars = set(['#','%','&','{','}','<','>','*','/','$','!','\'','\"',':','
 
 class YouTubeDownloadManager:
     def __init__(self):
-    #     myclass = Factory.classes['MyProgressBarPopUp']
-        self.mpbpp = MyProgressBarPopUp()      
+        self.mpbpp = MyProgressBarPopUp()  
     
-    def percent(self, tem, total):
-        perc = (float(tem) / float(total)) * float(100)
-        return perc
+    # Gets the percentage of the file that has been downloaded.
+    def get_download_percent(self,total, left):
+        perc = (float(total - left) / float(total)) * float(100)
+        return round(perc,2)
        
     def remove_invalid_chars(self,string:str):
         return ''.join([c for c in string if c not in invalid_chars])
     
     def download_progress(self,stream = None, chunk = None, remaining = None):
-        # Gets the percentage of the file that has been downloaded.
-        percent = (100*(file_size-remaining))/file_size
-        print("{}".format(round(percent,3)) + "%" +" downloaded")
-        
-        self.mpbpp.update_progressbar(value=percent)    
+        percent = self.get_download_percent(file_size,remaining)
+        print(f"{percent}% downloaded") 
+        threading.Thread(target=self.mpbpp.update_progressbar,args=(percent))
         
     def download_complete(self,stream,file_path:str):
         file_name = os.path.basename(file_path).split('.')[0]
-        MyPopUp("Success","Successfuly Downloaded\n"+file_name)
+        self.mpbpp.dismiss()
+        MyPopUp(title_text="Success",msg_text="Successfuly Downloaded\n"+file_name)
         print("Done !")
         
     def download_video(self, url):
@@ -37,8 +38,8 @@ class YouTubeDownloadManager:
         
         try:
             yt = YT(url,on_progress_callback=self.download_progress,on_complete_callback=self.download_complete)
-        except:
-           print("Connection Error")
+        except e:
+           print("Connection Error - ",e)
            
         title = yt.title
         if len(yt.captions) != 0 :
@@ -58,8 +59,8 @@ class YouTubeDownloadManager:
         file_size = video.filesize
 
         try:
-            video.download(video_output_path)
             self.mpbpp.open_pb()
+            video.download(video_output_path)
         
         except Exception as e:
             print(e)
