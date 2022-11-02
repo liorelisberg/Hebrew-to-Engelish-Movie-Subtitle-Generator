@@ -1,15 +1,16 @@
-import os
 
-from kivy.app import App
-from kivy.uix.screenmanager import ScreenManager,Screen
 from kivy.uix.popup import Popup
 from kivy.core.window import Window
+from kivy.uix.screenmanager import Screen
 from kivy.properties import ObjectProperty
-
-from src.components.validators.mediaFormatsValidator import MediaFormatValidaor
-from src.components.popups.popup import MyPopUp
+from components.popups.popup import MyPopUp
+from components.validators.mediaFormatsValidator import MediaFormatValidaor
 
 class MyPC(Screen):
+    def __init__(self, **kw):
+        super().__init__(**kw)
+        # self.translator = translator
+    
     mfv = MediaFormatValidaor()
     
     def __init__(self, **kw):
@@ -31,7 +32,7 @@ class MyPC(Screen):
         self._popup = Popup(title="Choose your file", content=content, size_hint=(1, 1))
         self._popup.open()
         
-    def load_list(self, path:str, filename:list):
+    def load_list(self, path:str, filename:list=[]):
         if filename != []:
             if self.mfv.is_valid_format(file=filename[0]):
                 print("Valid path recieved: {}\nfull file path: {}".format(path,filename[0]))

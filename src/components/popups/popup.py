@@ -1,13 +1,4 @@
-from threading import Thread
-from kivy.uix.popup import Popup
-from kivy.uix.label import Label
-from kivy.uix.button import Button
-from kivy.uix.boxlayout import BoxLayout
-from kivy.lang import Builder
 from kivy.factory import Factory
-from kivy.clock import Clock
-
-
 class MyPopUp:
     
     def __init__(self,title_text,msg_text,button_text="Ok"):
