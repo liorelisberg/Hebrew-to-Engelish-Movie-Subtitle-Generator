@@ -142,3 +142,10 @@ cython_debug/
 # Ignore all local history of files
 .history
 .ionide
+
+
+### Ignore .csv & .pkl files###
+*.csv
+*.pkl
+
+
