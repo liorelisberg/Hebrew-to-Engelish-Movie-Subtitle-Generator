@@ -148,4 +148,8 @@ cython_debug/
 *.csv
 *.pkl
 
+### Ignoe videos and subtitle files of project ###
 
+*.mp4
+/Video_Downloads
+/Subtitles_Files
