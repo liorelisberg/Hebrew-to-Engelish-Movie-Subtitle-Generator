@@ -26,9 +26,7 @@ class Root(FloatLayout):
             
     def dismiss_popup(self):
         self._popup.dismiss()
-        Window.close()
-        
-        
+        Window.close()  
 
 class LoadDialogApp(App):
     pass

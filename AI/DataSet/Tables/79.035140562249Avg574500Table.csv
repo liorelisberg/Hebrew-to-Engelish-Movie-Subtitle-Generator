@@ -1,0 +1,997 @@
+,hebrewFromSub,englishFromSub,englishTranslation,ratio
+0,-אני לא רוצה ,- I don't want to  ,-I do not want,79
+1,טוני  הי תרזה תישארי כאן ,Tony  Hey Teresa stay here ,Tony Hi Theresa Stay here,92
+2,-בואי קחי משקה ,Have a drink ,- Let's have a drink,80
+3,-אני לא רוצה לשתות ,- I don't want to  ,- I do not want to drink,81
+4,-קרל תן לתרזה לשתות ,- Carl give her a drink ,-Carl let Theresa drink,74
+5,-אני לא רוצה!,- I don't want one!,-I do not want!,83
+6,ממזר מטורף יש על הגג ,Crazy bastard's on the roof ,There's a crazy bastard on the roof,87
+7,ג'וני!,Johnny!,Johnny!,100
+8,זה אני צ'רלי!,It's me Charlie!,It's me Charlie!,100
+9,אני אירה באורות של האמפייר סטייט בילדינג ,I'll shoot the light out in the Empire State Building ,I'll shoot the Empire State Building lights,88
+10,זה אני ,It's me ,This is me,71
+11,הי מה יש לך שם למעלה ,Hey what do ya got up there ,Hi what do you have up there,76
+12,38!,A 38!,38!,67
+13,מה לא בסדר אצלו ,What's wrong with him ,What's wrong with him?,100
+14,אני אעיף את המזדיין הזה מהגג ,I'll throw that fucker off the roof ,I'll blow this fucker off the roof,78
+15,אוי חרא ,Oh shit ,Oh shit,100
+16,גברת אני מצטער ,Hey lady I'm sorry ,Madam I'm sorry,67
+17,גברת לא התכוונתי אני נשבע באלוהים!,Lady I didn't mean it I swear to God!,Madam I did not mean I swear to God!,79
+18,אני נורא מצטער ,I'm very sorry ,I'm so sorry,69
+19,מה התחרפנת ,What are you doin' ,What you freaked out,70
+20,מה אתה עושה ,What are you doin' ,What are you doing,97
+21,הפחדתי אותם מהתחת!,I scared the shit out of 'em!,I scared them out of my ass!,74
+22,מצחיק מאוד ,Very funny ,Very funny,100
+23,תן לי את זה ,Give me that ,give me that,100
+24,דפקתי באישה ההיא ,- What the fuck ,I fucked that woman,62
+25,ניסיתי לפגוע בחבל כביסה שלה ,I tried to get her clothesline ,I tried to hit her clothesline,87
+26,מה לא בסדר אצלך ,What's wrong with you ,What's wrong with you?,100
+27,למה אתה מתכוון לא בסדר אצלי ,What's wrong with you ,What do you mean wrong with me?,78
+28,תרזה חצי משוגעת בגלל כל זה ,You have Teresa half-crazy about this ,Theresa is half crazy because of all this,69
+29,למה ,Why ,Why,100
+30,סתם ככה למעלה באויר ,Just up in the air ,Just up in the air,100
+31,רציתי להעיר את השכונה ,I want to wake up the neighborhood ,I wanted to wake up the neighborhood,97
+32,היא מתה ,It's dead ,she is dead,80
+33,אני שונא את האישה הזאת בלהט הנקמה ,I hate that woman with a vengeance a passion ,I hate this woman in the heat of revenge,64
+34,אתה והקטעים שלך!,You and your numbers!,You and your pieces!,77
+35,עכשיו הם באמת יחזרו לבאטאן ,Now they're gonna get a real back to Bataan ,Now they will really go back to Batan,75
+36,פצצת אטום תעיר את השכונה ,An atom bomb wake up the neighborhood ,An atomic bomb will wake up the neighborhood,91
+37,-מה לעזאזל ,- What the fuck ,-What the hell,69
+38,-הפתעה רוצה לראות ,- Surprise you want to see ,-Surprise wants to see,89
+39,-רוצה לראות ,- Want to see ,-Want to see,100
+40,מה לא בסדר עם הדלת ,What's wrong with the door ,What's wrong with the door?,100
+41,מה אתה בועט טיפש ,- What are you kickin' stupid Get in there ,What are you kicking stupid,79
+42,זוכר שהיינו משחקים כאן פעם מחבואים ,Remember when we played hide-and-seek ,Remember we used to play hide and seek here,80
+43,מה בעניין הברזים של שבוע שעבר ,What's this crap about last week ,What about last week's taps,85
+44,מה ,What ,what,100
+45,יש לך ביצים לא להופיע לעבודה שבוע שעבר ת'יודע את זה ,You got some balls not showin' up for work last week ,You have eggs not showing up for work last week you know that,73
+46,אחרי כל מה שהיינו צריכים לעשות בשביל להשיג לך ת'משאית טיפש!,After all we had to do to get you on that truck stupid!,After all we had to do to get you a stupid truck!,90
+47,מה קורה לך ,What's the matter with you ,What's happening to you,61
+48,צ'רלי בחייך בנאדם ,Charlie come on man ,Charlie in your life man,70
+49,הזרוע שלי כואבת ,My arm was hurtin'  ,My arm hurts,76
+50,הזרוע שלך כואבת ,Your hand was hurtin' ,Your arm hurts,71
+51,הפה שלך יכאב מהבעיטה הזאת!,Your mouth's gonna hurt from this kick!,Your mouth will hurt from this kick!,82
+52,על מה ,What ,What,100
+53,אני נשבע לך על מה אתה מדבר בכלל ,Hey I swear to you what are you talkin' about ,I swear to you what you're talking about in general,82
+54,חוץ מזה אני לא אוהב להעמיס ארגזים ,Besides I don't like loading' crates ,"Besides, I do not like to load crates",90
+55,אתה לא אמור לאהוב את זה ,You're not supposed to like it ,You're not supposed to like it,100
+56,מבאסת אותי הגישה שלך ,What gets me is your attitude ,I suck at your attitude,62
+57,הגישה שלי ,My attitude ,My attitude,100
+58,מה שמבאס אותי זו הגישה שלך ,What gets me is your attitude ,What sucks me is your attitude,81
+59,העמסת פעם ארגזים ,- Did you ever load crates ,Once loading crates,60
+60,אתה לא עובד ,You don't work ,You are not working,67
+61,-הגישה שלי  ומה אתה עושה ,What gets me is your attitude ,-My attitude and what you do,71
+62,אתה אומר לי לעבוד וכל מה שאתה עושה זה דיבורים ,You tell me to go to work and then you do all the talkin' ,You tell me to work and all you do is talk,82
+63,מה אתה עושה ,What do you do ,What are you doing,75
+64,אגיד לך משהו שאני לא עושה:,I'll tell ya somethin' I don't do:,Let me tell you something I do not do:,72
+65,הצלחתי להוריד למייקל ל 2 000 דולר כדי להקל עליך ,I got Michael to make it $2 000 give ya a break on that ,"I was able to lower Michael to $ 2,000 to make it easier for you",71
+66,אה כן ,Oh yeah ,Oh yes,77
+67,לך לעבודה מחר או שאשבור לך את שתי הידיים ,Go to work tomorrow or I'll break both your arms ,Go to work tomorrow or I'll break both your hands,89
+68,אנחנו מבינים אחד את השני ,- We understand each other - Yeah ,We understand each other,91
+69,אני מצטער צ'רלי באמת ,I'm sorry I really am ,I'm sorry Charlie really,84
+70,אני מתכוון  בגלל שאני מעריך באמת את כל מה  שאתה עושה למעני ,I mean 'cause I appreciate everything you're doin' for me ,I mean because I really appreciate everything you do for me,93
+71,-איך ,- How ,-how,100
+72,-איך תשיג ,- How you get ,-How to get,86
+73,-יש לך דרך לצאת מזה ,- You know a way out of this ,- You have a way out of this,85
+74,תדבר עם דודך ,Talk to your uncle ,Talk to your uncle,100
+75,זה יהיה ממש נהדר בשבילך לא ככה ,Oh that'd be just really great for you wouldn't it huh ,It would be really great for you not like that,80
+76,אבל לא בשבילי!,But not for me!,But not for me!,100
+77,ג'וני עוד מילה אחת שיוצאת לך מהפה בעניין דוד שלי  בסדר ,Johnny one more word out of your mouth my uncle hears one word about this  All right ,Johnny one more word that comes out of your mouth about my uncle okay,80
+78,רק שאלתי זה הכל ,I was just askin' that's all ,I just asked that's all,84
+79,זה מה שאני מקבל מתי שאני נהיה מעורב ,That's what I get for gettin' involved ,This is what I get when I get involved,77
+80,ככה לפחות זה לא יראה כאילו אתה מנסה לעשות ממנו נקניק ,This way he won't think you're tryin' to make a jerk off out of him ,That way at least it will not look like you're trying to make a sausage out of it,65
+81,-כן בסדר ,Oh yeah ,-Yes OK,62
+82,אני לא שואל אותך אני אומר לך!,- I'm not askin' ya I'm tellin' ya!,I'm not asking you I'm telling you!,88
+83,ג'וני בוא ,- Johnny come on ,Johnny Come,88
+84,-מה ,- What ,-what,100
+85,בוא ,Come on ,Come on,100
+86,מה אנחנו הולכים עכשיו ,What we are goin' now ,What are we going to do now,85
+87,לך תזדיין צ'רלי איך זה ,- Fuck you Charlie will you ,Go fuck Charlie how it's,65
+88,מה אתה רוצה ממני ,- What do ya want from me ,What do you want from me,94
+89,דבר איתו ,- Talk to him ,talk to him,100
+90,אנחנו נראה את ג'וני בוי פה בלילה נכון ,Gonna see you and Johnny Boy down here tonight right ,We'll see Johnny Boy here tonight right,75
+91,כן נהיה כאן ,We'll be here!,Yes we will be here,75
+92,אני אומר לך צ'רלי אם הילד לא מגיע הלילה אני אמצא אותו ,I'm tellin' ya Charlie that kid doesn't show up tonight I'll find him ,I'm telling you Charlie if the boy does not come tonight I'll find him,80
+93,אגרור אותו לכאן ,I'm gonna drag him down here ,I'll drag him here,70
+94,אני אקשור לו רגל אחת לפגוש של הקדילק ,I'll tie one of his legs to that Cadillac bumper ,I'll tie him one leg to meet the Cadillac,79
+95,ואת הרגל השניה לפורד ,I'll tie the other to the Ford ,And the other leg to Ford,69
+96,ובום!,And boom!,And boom!,100
+97,נהיה פה!,We'll be here!,We'll be here!,100
+98,מוטב שתהיה פה צ'רלי ,Better be here Charlie ,You better have Charlie here,76
+99,מייקל אל תנסה לעזאזל להפחיד אותי ,Michael don't you fuckin' threaten me ,"Michael, don 't try to scare me",62
+100,מה אתה רוצה ,What do you want ,What you want,90
+101,רציתי רק להזכיר לבן דוד שלך לבוא לפגוש את מייקל הלילה ,I just want you to remind your cousin he's gotta see Michael tonight ,I just wanted to remind your cousin to come meet Michael tonight,76
+102,אז תגיד לו בעצמך ,Then tell him yourself ,So tell him yourself,81
+103,איפה הוא ,Where is he ,where is he,100
+104,אני לא יודעת ,I don't know ,I do not know,88
+105,הוא לא פה ,He's not here ,He is not here,81
+106,הוא פה כל הזמן ,He's here all the time ,He's here all the time,100
+107,לך תזדיין!,- Fuck you!,Go fuck yourself!,67
+108,-ללכת להזדיין ,- Fuck you!,-Go to fuck,67
+109,תראה מה עשית חתיכ  הנה ,Look what you did  Here ,Look what you did here,100
+110,מה אני עושה ,What am I doin' ,what am I doing,97
+111,אתה מוכן לתת לי את החציל בבקשה ,Would you just give me my fuckin' eggplant please ,Will you give me the eggplant please,71
+112,תסתלק מכאו!,Get outta here!,Get out of here!,83
+113,את בטוחה שהוא לא אמר שום דבר בנוגע להלילה ,You sure he didn't say anything about tonight ,You're sure he did not say anything about tonight,89
+114,אמרתי לך מקודם כלום ,I told you before nothing ,I told you nothing before,100
+115,צ'רלי אתה מקשיב לי ,Charlie will you listen to me ,Charlie you're listening to me,81
+116,אני לא יכולה להישארכאןהרבהבשעהכזאת ,I can't stay here too long this time of night ,I can not stay here much at a time like this,70
+117,מייקל מחפש אותו ,Now Michael was looking for him ,Michael is looking for him,81
+118,-מה קורה ,- What's happening ,-What's going on,65
+119,-שום דבר ,- Nothin' ,-Nothing,92
+120,אני לא מאמינה לך ,I don't believe you ,I do not believe you,92
+121,בן זונה ,Son of a bitch ,Son of a bitch,100
+122,מה ,What ,what,100
+123,מה אמרת כרגע ,What did you just say ,What did you just say?,100
+124,תרזה תיזהרי על היד!,Teresa watch the hands already!,Theresa watch out for the hand!,63
+125,צ'רלי מה אתה חושב ,Charlie what do you think ,Charlie what do you think,100
+126,אתה מבין מה משמעות הדירה הזאת ,Well don't you realize what this apartment means ,You understand what this apartment means,70
+127,אולי אחרי זמן מה תוכל לעבור לכאן גם אתה ,Maybe after a while you could even move in yourself ,Maybe after a while you can move here too,72
+128,מספיק כבר עם הדירה הזאת!,Enough with that apartment already!,Enough already with this apartment!,94
+129,אני לא רוצה לשמוע עליה יותר!,I don't want to hear anymore!,I do not want to hear about her anymore!,81
+130,יש לי מספיק משלי ועוד עם בן דודך המניאק ,I got enough on me with your bastard cousin ,I have enough of my own and more with your maniac cousin,71
+131,רוצה לעבור תעברי ,You want to move go on ,Want to go through,60
+132,אבל אל תערבי אותי בזה!,But leave me out of it!,But do not involve me in it!,61
+133,תרזה מצטער לא התכוונתי אבל יש סיטואציה בדיוק עכשיו ,Teresa I didn't mean that but we've got a situation right now ,Theresa sorry I did not mean but there is a situation right now,77
+134,כן סיטואציה ,- Yeah a situation ,Yes situation,83
+135,-בחייך ,- Come on ,-Come on,100
+136,לך תשחק את המשחקים המזויינים שלך עם החמור הזה לא אכפת לי ,Look go and play your fuckin' games with that dunkhead I don't care ,Go play your fucking games with this donkey I do not care,81
+137,תרזה זה לא משחק ,Teresa it's no game ,Theresa is not a game,80
+138,היי הלו ,- Hey hello ,Hi Hello,82
+139,-איפה אתה ,- Where were you ,-Where you,78
+140,איפה הייתי ,Where was I ,where was I,100
+141,הייתי בסביבה ,I was around ,I was around,100
+142,תענה לי בן זונה! איפה היית ,Answer me you son of a bitch!,Answer me son of a bitch! Where were you,84
+143,-תשתקי!,Shut up!,- Shut up!,100
+144,תשתקי תרזה ,Shut up Teresa ,Shut up Theresa,97
+145,אנחנו לא רוצים לסבך את צ'רלי בצרות לא ככה ,We don't want to get Charlie in trouble here do we ,We do not want to get Charlie in trouble like that,78
+146,אל תהיה חמוד ,Don't be cute ,Do not be cute,89
+147,השתגעתי כאן!,I've been goin' crazy here!,I went crazy here!,67
+148,מה קורה לך ,Charlie what do you think ,What's happening to you,62
+149,אתה באיחור של שעה וחצי!,You're about an hour and a half late!,You're an hour and a half late!,91
+150,מייקל מחכה לנו ,Michael's waitin' for us ,Michael is waiting for us,88
+151,שכחת או מה ,You forget or what ,Forgot or what,81
+152,בת דודתך נהיתה חולה מדאגה ,Your cousin was gettin' sick worrying' about you ,Your cousin got sick of worry,67
+153,התחלנו להתקשר לכולם!,We'd have started callin' up everybody!,We started calling everyone!,78
+154,חבל מאוד ,That's too bad ,Too bad,67
+155,אה תרזה ,Huh Teresa ,Oh Theresa,80
+156,אז ילדים עשיתם תוכניות כבר או מה ,So kiddies yas make any plans yet or what ,So kids have you made plans already or what,71
+157,מתי אתם מתחתנים ,When are yas gettin' married ,When are you getting married?,91
+158,אתם מאורסים ,- Gonna get engaged ,You're engaged,71
+159,-אל תהיה חכם ,- Don't get smart ,- Do not be smart,67
+160,למה אתה מתכוון ,What do ya mean ,What do you mean,90
+161,אני טיפש זכור לך ,I'm stupid remember ,I'm stupid you remember,90
+162,שמעת אותי ,- You heard me ,Did you hear me,81
+163,אני כל כך טיפש שאתה צריך להשגיח עלי זוכר ,I'm so stupid you gotta look out for me right ,I'm so stupid you have to keep an eye on me remember,60
+164,היי תרזה ,Huh Teresa ,Hi Theresa,80
+165,על מה את מדוכאת כל כך ,Now what are you so upset about ,What are you so depressed about?,71
+166,אתה לא מבין צ'רלי ,You don't understand Charlie ,You do not understand Charlie,95
+167,צ'רלי אוהב את כולם כולם אוהבים את צ'רלי ,Charlie likes everybody everybody likes Charlie ,Charlie loves everyone Everyone loves Charlie,80
+168,-מספיק!,- Enough!,-enough!,100
+169,-פוליטיקאי מזויין יש לנו כאן ,- Fuckin' politician over here ,- We have a fucking politician here,77
+170,-תשמור על הפה שלך!,- Watch your mouth!,-Keep your mouth shut!,67
+171,-אני הולכת הביתה ,- I'm goin' home ,-I am going home,79
+172,לא חכי תרזה!,Hey no Wait Teresa!,Do not wait for Theresa!,73
+173,תרזה בואי תישארי כאן ,Teresa come on stay here ,Theresa let's stay here,72
+174,אני לא רוצה להרוס בית מאושר ,I don't wanna break up a nice happy household here ,I do not want to destroy a happy home,60
+175,-תפסיק להסתלבט ,- Stop foolin' around ,- Stop messing around,76
+176,אני נשבע אם תפתח את הפה בקשר לכל זה  בקשר למה ,I swear to God if you open your mouth about any of this  About what ,I swear if you open your mouth about all this about what,89
+177,אתה יודע על מה אני מדבר ,You know what I'm talkin' about ,you know what I'm talking about,98
+178,שניכם ,You two ,you both,67
+179,למי אכפת ,Who cares ,who cares,100
+180,אני לא אספר אפילו לדוד ודודה שלי ,I won't even say nothin' to my aunt and uncle ,I will not even tell my uncle and aunt,78
+181,הבחורים לא שמים קצוץ מה אכפת להם בכלל ,The guys don't give a shit What do they care ,The guys do not put chopped what they care at all,73
+182,אני אפילו לא אספר כלום לדוד שלך ג'יאובני ,I won't even say nothin' to your uncle Giovanni ,I'll not even tell your uncle Giovanni anything,69
+183,אני רוצה לשאול אותך משהו צ'רלי ,I wanted to ask you somethin' Charlie ,"I want to ask you something, Charlie",96
+184,תמיד תהיתי לגביה ,I always wondered about her ,I always wondered about her,100
+185,תמיד תהיתי לגבי מה שקורה מתי שהיא גומרת ,I always wondered about what happens when she comes ,I always wondered about what happens when she cums,97
+186,מה קורה מתי שהיא גומרת אנ'מתכוון  י'מלוכלך מזדיין בן זונה!,What happens when she comes I mean  You dirty fuckin' bastard! Don't ever hit me again!,What happens when she cums I mean you dirty fucking son of a bitch!,74
+187,אני אספר לדוד שלך!,I'll tell your uncle!,I'll tell your uncle!,100
+188,יאללה לך ספר עכשיו!,Do you know what to do ,Come on you book now!,62
+189,-אל תעשה את זה!,- Don't do it!,-Do not Do It!,87
+190,אני אקרע לך ת'עין המזויינת מהראש!,I'll tear your fuckin' eyes outta your head!,I'll rip your fucking eye out of your head!,86
+191,אני אהרוג אותך ממזר!,- I'm gonna kill you bastard!,I'll kill you bastard!,81
+192,-נו יאללה!,Come on Charlie ,-come on already!,73
+193,מה עשית ,What did you do ,What did you do,100
+194,-אתה יודע משהו על זה ,You know what I'm talkin' about ,- You know something about that,78
+195,מאיפה אני יודע ,Hey how should I know ,how would I know,81
+196,היא החברה המזויינת שלך ,She's your fuckin' girl ,She's your fucking girlfriend,86
+197,אתה!,Hey you!,are you!,71
+198,בוא הנה תסתלק!,Come here get out!,Come here and get away!,67
+199,את יודעת מה לעשות ,Do you know what to do ,You know what to do,93
+200,אני לא יודע ,I don't know ,I do not know,88
+201,היא קיבלה התקפה ,What's the matter ,She was attacked,67
+202,למה אתה מתכוון מה עשית בשבילי ,What do you mean what you did for me ,What do you mean what you did for me,100
+203,לא עשית בשבילי כלום לך תזדיין!,You didn't do nothin' for me you fuck!,"You did nothing for me, fuck you!",90
+204,ממזר מזויין אתה ממזר מזויין!,Fuckin' bastard you're a fuckin' bastard!,Fucking bastard You're fucking bastard!,95
+205,בוא הנה ,Come here get out!,Come here,69
+206,-אתה ממזר מזויין!,- You're a fuckin' bastard!,- You're a fucking bastard!,98
+207,נו בחייאת מה אתה עושה ,Come on what are you doin' ,Come on reviving what you're doing,71
+208,מה אתה עושה בשבילי ,What are you doin' for me ,What are you doing for me?,98
+209,אל תגיע הלילה ,Don't show up tonight ,Do not come tonight,65
+210,נראה מה יקרה לך ,We'll see what happens to you ,We'll see what happens to you,100
+211,כמה כסף השגת בשביל מייקל ,How much money you got for Michael tonight ,How much money did you get for Michael?,82
+212,אין לי כלום ,I got nothin' ,I have nothing,69
+213,אין לך כלום ,You got anything ,You have nothing,69
+214,הנה קח 20 דולר ,Well then here Take $20 ,Here's take $ 20,67
+215,קח 22 ,Take $22 ,Take 22,100
+216,וביחד זה  יש 30 דולר לתת למייקל ,At your rate that'll make $30 we'll give to Michael ,And together it has $ 30 to give to Michael,62
+217,אשמור 11 דולר לסוף שבוע ,I'll keep $11 for the weekend ,I'll save $ 11 for the weekend,82
+218,אולי נאכל סינית יותר מאוחר ,Maybe we'll get some chinks later ,Maybe we'll eat Chinese later,84
+219,קח את זה מטומטם אני עושה את זה בשבילך!,Take it stupid I'm doin' it for you!,Take this idiot I'm doing this for you!,69
+220,נו באמת ,- Come on ,come on,100
+221,באמת צ'רלי ,Come on Charlie ,Really Charlie,62
+222,30 דולר זה כלום ואתה יודע את זה ,$30 ain't nothin' you know that ,$ 30 is nothing and you know it,72
+223,הדרך שהיחידה היא לדבר עם דודך ,The only way you're gonna do is if you talk to your uncle ,The only way is to talk to your uncle,72
+224,-זהו זה ,- That's it ,-that's it,100
+225,-למה לא ,- Why not ,-Why not,100
+226,זה לא יקרה ,Hey cut it out will ya ,It will not happen,65
+227,תשכח מזה ,Forget about that ,Forget it,62
+228,הכאבתי לך ,Did I hurt you ,I hurt you,83
+229,אתה באיחור מעל שעה ,You're over an hour late ,You're over an hour late,100
+230,מייקל אמר שהוא בכל זאת יחזור ,Michael said he'd be back though ,Michael said he would come back anyway,71
+231,קח משקה ,- Have a drink ,Take a drink,83
+232,-אני לא רוצה ,I want to go ,-I do not want,80
+233,היי תפסיק עם זה טוב ,Hey cut it out will ya ,Hey stop it well,63
+234,לאן אתה הולך ,- Where are ya goin' ,Where are you going,89
+235,קח בקלות אל תתרגש ,Take it easy don't get excited ,Take it easy and do not get excited,89
+236,לא!,No!,No!,100
+237,מי הבחורה ,Who's the girl ,Who's the girl,100
+238,יהודיה ,Jewish ,Jewish,100
+239,מאיפה אתה יודע ,Do you know what to do ,from where do you know,73
+240,-תביט בה ,- Look at her ,- Look at her,100
+241,היא לא נראית יהודיה ,She don't look Jewish ,She does not look Jewish,80
+242,היא באה הנה כל ערב עם מישהו אחר ,She's in here every night with a different guy ,She comes here every night with someone else,67
+243,ת'ה יודע איך הן ,You know how they are ,Tha knows how they are,79
+244,אני אוהב אותך ,I love you ,I love you,100
+245,מהיום הראשון שראיתי אותך משחקת כדור-עף עם הנזירות  הייתי חסר אונים ,Ever since that first day when I saw you playing volleyball with the nuns  I couldn't help myself ,From the first day I saw you playing volleyball with the nuns I was helpless,74
+246,-בואי נלך ,- Let's go ,-Let's go,100
+247,-לך תזדיין ,- Fuck off ,- Fuck you,75
+248,-בואי נלך ,- Let's go ,-Let's go,100
+249,-לך אתה ,- You go ,- Go with you,71
+250,אני נשארת ,I'm staying ,I'm staying,100
+251,זה ברור שהבחורה לא רוצה ללכת איתך ,It's obvious the girl doesn't want to go with you ,It's clear the girl does not want to go with you,82
+252,מה אתה חושב ,What do you think ,What do you think,100
+253,תראה בחורצ'יק זה פרטי ,Look fella this is private ,Look at Khurchik it's private,65
+254,שום דבר לא פרטי ,Nothin' is private ,Nothing private,88
+255,אני רוצה ללכת ,I want to go ,I want to go,100
+256,אם היא רוצה ללכת או לא היא לא ,If she wants to go or not she's not ,Whether she wants to go or not she is not,84
+257,איך זה ,How's that ,how is it,74
+258,הרפה ממנה ,Let go of her ,Let go of her,100
+259,-קח אותה ממני ,- Take her away ,- Take her from me,62
+260,-אתה מכאיב לי!,- You're hurting me!,- You're hurting me!,100
+261,נראה אותך לוקח אותה ממני פיזית ,Physically you take her away from me ,We'll see you take it from me physically,74
+262,היי ג'וייס ,Hey Joyce ,Hi Joyce,82
+263,אולי ניפגש פעם באיזה ערב בינגו ,Maybe we'll meet at bingo some night ,Maybe one day we'll meet at a bingo night,88
+264,היי מייק!,Hey Mike!,Hey Mike!,100
+265,מה הסיפור ג'ון ,What's the story John ,What's the story? John,100
+266,הייתי כאן מוקדם יותר הלילה ,I was here earlier tonight ,I was here earlier tonight,100
+267,נתת לי לחכות מעל שעה ,You're over an hour late ,You made me wait over an hour,75
+268,מצטער מייקי אבל ת'יודע  היה לי משהו לעשות  ,Hey I'm sorry Mikey but you know I had somethin' to do ,Sorry Mikey but you know I had something to do,91
+269,אבל יש לי משהו בשבילך ,But I got somethin' for ya ,But I have something for you,79
+270,לא הרבה אבל יש לי משהו בשבילך ,Not much but I got somethin' for ya ,Not much but I have something for you,85
+271,יש לו 30 דולר ,He has about $30 ,He has $ 30,75
+272,זה כל מה שיש עליו מייקל ,That's all he's got on him Michael ,That's all there is to Michael,62
+273,-איפה השאר ,- Where's the rest ,- Where is the rest?,85
+274,-כן איפה השאר ,- Yeah where's the rest ,"- Yes, where's the rest?",93
+275,הזמנתי כמה סיבובי שתיה בזמן שחיכיתי ,I bought a few rounds of drinks while I was waitin' ,I ordered a few rounds of drinks while I waited,76
+276,ת'היודע למה אני מתכוון ,You know what I mean ,Th 'know what I mean,82
+277,טוני אמר שהאשראי שלי לא טוב יותר ,Tony says my credit ain't no good no more ,Tony said my credit is no better,60
+278,ת'היודע 30 דולר לה מספיק בשביל עלבון ,You know $30 is enough of an insult ,The one who knows $ 30 is enough for her insult,71
+279,לקחתי את זה מצ'רלי ,But I'd take it for Charlie here ,I took it from Charlie,67
+280,ג'ון  $10  ,John $10!,John $ 10,100
+281,אתה באמת משהו ת'היודע את זה ,You're really somethin' you know that ,You really are something that knows this,79
+282,אתה טוב מידי בשביל 10 דולר הא ,You too good for this $10 huh ,You're too good for $ 10 ha,83
+283,זה 10 דולר טובים ,It's a good $10 ,That's a good $ 10,73
+284,אתה יודע משהו מייקי ,You know somethin' Mikey ,You know something Mikey,98
+285,אתה מצחיק אותי אתה יודע את זה ,You make me laugh you know that ,You're funny to me you know that,70
+286,אני מלווה כספים מכל השכונה  מימין ומשמאל מכולם ואני לעולם לא מחזיר ,I borrow money all over this neighborhood left and right from everybody and I never paid 'em back ,I lend money from the whole neighborhood to the right and left of everyone and I never give back,72
+287,אז אני כבר לא יכול להלוות כסף מאף אחד יותר נכון ,So I can't borrow no money from nobody no more right ,So I can no longer borrow money from anyone more right,75
+288,אז ממי נשאר לי להלוות כסף מלבדך ,Who does that leave me to borrow money from but you ,So from whom do I have to borrow money other than you,77
+289,אני מלווה כסף ממך בגלל שאתה הפראייר היחידי שנשאר בסביבה  שאפשר להלוות ממנו כסף  בלי להחזיר נכון ,I borrow money from you because you're the only jerk off around that I could borrow money from without payin' back right ,I borrow money from you because you are the only sucker left in the area from whom you can borrow money without repaying properly.,76
+290,בגלל שזה מה שאתה  זה מה שאני חושב עליך פראייר ,'Cause that's what you are that's what I think of you a jerk off ,Because it's what you are it's what I think of you Sucker,75
+291,הוא מחייך בגלל שהוא פראייר ,He's smilin' because you're a jerk off ,He smiles because he's a sucker,68
+292,אגיד לך עוד משהו ,And I'll tell you somethin' else ,Let me tell you something else,79
+293,מייקי אני אזיין אותך מאיפה שאתה נושם  בגלל שאני לא שם קצוץ  עליך או מישהו אחר ,Mikey I fucked you right where you breathe 'cause I don't give two shits about you or nobody else ,Mikey I'll fuck you from where you breathe because I'm not a chopped name on you or anyone else,65
+294,בוא הנה פרצוף מזויין!,Come on fuck-face!,Come here fucking face!,77
+295,בוא הנה ,Come on ,Come here,62
+296,כן חור תחת!,Right asshole!,Yes ass hole!,64
+297,בוא הנה ,Come on ,Come here,62
+298,אתה לא חייב ל  ,You don't have  ,You do not have to,81
+299,-אין לך ביצים להשתמש בזה ,- You don't have the guts to use it ,- You have no eggs to use it,75
+300,-אין לי הא ,You don't have  ,- I do not have ha,67
+301,בוא מזדיין בתחת בוא לכאן ,Come on asshole Come over here ,Let's fuck ass come here,63
+302,אדחוף לך את זה בתחת!,I'll put this up your ass!,I'll push it in your ass!,69
+303,מזדיין בתחת ,Fuckin' asshole ,Fucking ass,80
+304,ממזר טיפש התכוננת להשתמש בזה ,You stupid bastard were you gonna use that ,A stupid bastard got ready to use it,62
+305,אני אזיין לך ת'צורה ג'וני ,I'll fuckin' kill you Johnny ,"I'll fuck you, Johnny",85
+306,עכשיו עשית את זה ,So now you did it ,Now you've done it,74
+307,אין כדורים בזה ,No bullets in this ,There are no bullets in it,73
+308,עכשיו עשית את זה!,So now you did it ,Now you've done it!,74
+309,תוציא אותו מפה לפני שהכל יתפוצץ ,Get him outta here before this blows up ,Get him out of here before everything explodes,64
+310,תחביא ת'אקדח טוני ,Hide the gun Tony ,Hide Tony's gun,88
+311,תזרוק אותו ,Throw it away ,Throw it away,100
+312,תשמע טוני אני צריך להשאיל ממך ת'רכב ,Listen Tony I gotta borrow your car We oughta take a ride ,"Listen Tony, I need to borrow a car from you",72
+313,תלכו לסרט או משהו ,Go to a movie or somethin' ,Go to a movie or something,98
+314,אתה מבין ,- You understand ,Do you understand,90
+315,-אולי ,- Maybe ,-Maybe,100
+316,קיבלת מה שרצית ,You got what you wanted ,You got what you wanted,100
+317,תכנס לאוטו ג'ון!,Get in the car John!,"Get in the car, John!",100
+318,רצח!,Murderer!,murder!,86
+319,רצח!,Murderer!,murder!,86
+320,תרזה את בסדר ,- It's all right Teresa ,Theresa is fine,61
+321,אני מצטער ,I'm sorry ,I'm sorry,100
+322,אמרתי שאני מצטער ,I'm sorry ,I said I'm sorry,72
+323,הוא בצרות ,He's in trouble ,He's in trouble,100
+324,למה אתה מתכוון ,What do you mean ,What do you mean,100
+325,מה קורה ,What's going on ,What's going on,100
+326,אנחנו מוכרחים לעזוב לכמה ימים עד שאדבר עם כמה אנשים ,We gotta leave for a few days till I get a chance to talk to some people ,We have to leave for a few days until I talk to some people,78
+327,אני צריך כמה דולרים להגיע לגרינווד לייק ,I need a couple of bucks to get to Greenwood Lake ,I need a few bucks to get to Greenwood Lake,89
+328,-לאן אתה הולך ,- Where are you goin' ,-Where are you going,97
+329,-לגרינווד לייק ,- To Greenwood Lake ,-Greenwood Lake,90
+330,-אני באה איתך ,- I'm coming with you ,-I am coming with you,87
+331,-לא את לא ,- No you're not ,-No you do not,77
+332,אתה רוצה עוד צרות ,Do you want more trouble ,You want more trouble,93
+333,אני באה איתך ,- I'm coming with you ,I am coming with you,87
+334,תרזה אין לי זמן לזה ,Teresa I got no time for this ,Theresa I have no time for that,70
+335,-אז מה קרה ,- So what happened ,-so what happened,100
+336,-תשכחי מזה ,- Forget it ,-Forget it,100
+337,אני באמת חושב שאתה מוכרח לדבר עם דוד שלך ,I really think we should talk to your uncle ,I really think you need to talk to your uncle,77
+338,זו הדרך היחידה ,That's the only way ,That's the only way,100
+339,לא!,No!,No!,100
+340,-צ'רלי מה קרה ,- What happened ,- Charlie what happened,76
+341,-זה בסדר תרזה ,- It's all right Teresa ,- It's okay Theresa,63
+342,את תשכחי מזה ,Will you forget it ,You'll forget about it,80
+343,מה תעשה תחביא אותי או מה ,What are you gonna do hide me or what ,What will you do hide me or what,78
+344,אני יכול להגיד בביטחה שהדברים לא התנהלו טוב הלילה ,I guess you could safely say that things haven't gone so well tonight ,I can say with confidence that things did not go well tonight,62
+345,אבל אני מנסה אלוהים ,But I'm tryin' Lord ,But I'm trying God,78
+346,אני מנסה ,I'm tryin' ,I try to,71
+347,מה אתה מדבר לעצמך ,What are you talkin' to yourself ,What are you talking to yourself,98
+348,תדליק את הרדיו ג'ון!,Turn on the radio John!,Turn on Radio John!,90
+349,הולכים למסיבה ,We're goin' to a party ,Going to a party,81
+350,מה עם קצת בידור ,How about some fun ,How about some entertainment,70
+351,איפה אתה נוסע ,- Where are you goin' ,Where are you going?,97
+352,ברוקלין ,To Brooklyn ,Brooklyn,84
+353,למה אתה לא מגביה קדימה!,You don't know where you're goin' ,Why do not you raise forward!,60
+354,לאן אנחנו הולכים ,- Where are we goin' ,where are we going,97
+355,ברצינות אתה יודע ,- Seriously do you know ,Seriously you know,92
+356,לאן אנחנו הולכים ,- Where are we goin' ,where are we going,97
+357,אתה לא יודע לאן אתה נוסע ,You don't know where you're goin' ,You do not know where you are going,84
+358,אנחנו לא מכירים את ברוקלין ,Do I know Brooklyn ,We do not know Brooklyn,78
+359,זאת הדרך הנכונה ,Is this the right way ,This is the right way,100
+360,האם אני מכיר את ברוקלין ,Do I know Brooklyn ,Do I know Brooklyn?,100
+361,האם אני מכיר את הג'ונגל ,Do I know the jungle ,Do I know the jungle,100
+362,כן אני מכיר את ברוקלין ,Do I know Brooklyn ,Yes I know Brooklyn,81
+363,-שים לב איפה אתה הולך!,You don't know where you're goin' ,- Pay attention to where you're going!,69
+364,-אני מטורף!,- I'm crazy!,- I'm crazy!,100
+365,יצאת מדעתך ,You're outta your mind ,you lost your mind,65
+366,לא ראית את האור ,Didn't you see that light ,You did not see the light,80
+367,האור היה אדום נכון ,The light was red right ,The light was red right,100
+368,תאט אתה מאט ,- Slow down Will you slow down ,Slow down you slow down,90
+369,מה האדום אומר ,- What does red mean ,What does red mean,100
+370,תרזה הלואי שתאטי קצת את הפה שלך ,I wish you'd slow down your mouth a little ,Theresa I wish you would slow down your mouth a little,83
+371,מה עם הבחור הזה מטורף ,What is that guy crazy ,What about this crazy guy,72
+372,עכשיו זה הזמן!,Now's the time!,Now is the time!,83
+373,ג'וני!,Johnny!,Johnny!,100
+374,ג'וני!,Johnny!,Johnny!,100
+375,בהצלחה ואלוהים יברך אתכם ,Good luck and God bless you ,Good luck and God bless you,100
+376,עכשיו,No!,now,80
+377,אם גילית את משמעות האמת בעולם הזה אז אתה בר מזל  אם ידע כרוך אל צווארך כמו פנינים ולא כמו חבלים  אז אתה בר מזל  ,If knowledge hangs around your neck Like pearls instead of chains You are a lucky man Takers and fakers and talkers Won't tell you,If you have discovered the meaning of truth in this world then you are lucky if knowledge involves your neck like pearls and not like ropes then you are lucky,64
+378,את מבינה שזה קפה ניגרי שארוז ישר לניגריה ,Do you realize this Nigerian coffee is being packed straight back to Nigeria ,You realize it's Nigerian coffee packed straight to Nigeria,83
+379,- מר טרביס  -מספיק המון - מר טראביס!,- Mr Travis - Long enough - Mr Travis!,- Mr. Travis - Enough - Mr. Travis!,91
+380,- כן   ההסלר הזה הוא המכונה האחרונה שלנו ,This Hessler is our latest machine ,"- Yes, this celery is our last machine",84
+381,עכשיו למה זה קורה מר ביילס -הייתי חולה אדוני ,Now why is that Mr Biles ,Now why is this happening Mr Bales - I was sick sir,60
+382,תמיד תזכרו שתהיו כישלון בהסעדה אם לא תדעו מה לעשות עם השאריות שלכם ,Always remember gentlemen that you are a failure in catering if you don't know what to do with your leftovers ,Always remember that you will be a failure in catering if you do not know what to do with your leftovers,88
+383,טוב אני לוקח אותם ממך מר סטון אחריי רבותיי ,You will be our representatives in the frontline ,Well I'll take them from you Mr. Stone after me gentlemen,62
+384,עכשיו אתם למדתם את האמת מספר אחת ,Now gentlemen you have learned the number one truth ,Now you have learned the number one truth,89
+385,אבל בין התחלת הייצור לסיום בלגימה עומד לו בתווך איש המכירות ,Be it in a palace or a prison But between the making and the drinking must stand the salesman ,"But between the start of production and the end of a sip, he stands in the middle of the salesman",66
+386,כאן אתם נכנסים ,This is where you come in ,This is where you come in,100
+387,אתם תהיו הנציגים שלנו בקו החזית כל אחד ואחד ממכם עומד להוכיח את עצמו בשדה הקרב של המכירות ,Each one of you is going to have to prove himself on the battlefield of sales ,You will be our representatives on the front line. Each and every one of you is about to prove yourself on the battlefield of sales.,60
+388,יהיו ימים שלא תצליחו למכור גרעין אבל ביום שאחריו לפתע המזל יכה בכם  מר דאף אוכל לשאול שאלה ,There will be whole days when you won't sell a bean but you will go out the very next day and hit the jackpot ,"There will be days when you will not be able to sell a nucleus, but the day after, luck will suddenly hit you, Mr. Duff. I can ask a question.",67
+389,-בהחלט מר טראברס  -טראביס ,- Certainly Mr Travers - Travis Beg your pardon ,- Definitely Mr. Travers - Travis,65
+390,המשכורת הבסיסית שלך תהיה נמוכה כמובן 11 50 פאונדים לשבוע לפני מיסים אבל לאדם טוב עם עמלה טובה השמיים הם הגבול ,Your basic salary will be low of course 11 50 pounds per week before tax ,Your base salary will be low of course 11 50 pounds per week before taxes but for a good person with a good commission the sky is the limit,66
+391,איש המכירות הכוכב שלנו לרגע זה הוא אדם נפלא ששמו ג'ים אוסוולד  שמצליח להרווח בין 75 פאונדים עד ל150 פאונדים כל שבוע ,Our star salesman at the moment a wonderful man called Jim Oswald takes home anything from 75 pounds to 150 pounds a week ,Our star salesman at the moment is a wonderful man named Jim Oswald who manages to earn from 75 pounds up to 150 pounds every week,78
+392,אני מעולם לא שיקרתי לכם ואין לי כוונה לתת לכם תקוות שווא  אבל אני מאמין בכם ,Now I have never lied to you never given you false hopes but I believe in you ,I have never lied to you and I have no intention of giving you false hopes but I believe in you,81
+393,עם שקית קפה ביד אחת ורשימת המכירות ביד השנייה  אני רוצה שתלכו ותתקרבו לקו ארוך ורחב של הצלחה נוצצת ,With a coffee pack in one hand and your sales list in the other I want you to be one long line of shining success From John O'Groat's to Land's End ,With a coffee bag in one hand and the sales list in the other I want you to go and get closer to a long and wide line of glittering success,71
+394,עכשיו מכירה זאת פסיכולוגיה ,Spicy Now this ,Psychology now knows this,62
+395,ובתחום הזה אני לא חושב שיש מישהי טובה יותר  מאשר מנהלת יחסי הציבור שלנו גברת גלוריה רואו ,And in that particular field I can think of no better authority than our chief of public relations Mrs Gloria Rowe ,And in this area I do not think there is anyone better than our PR director Mrs Gloria Rowe,62
+396,בוא לכאן מר ספולדינג ,Mr Spalding please ,Come here Mr. Spolding,62
+397,תחייך ,Smile ,smile,100
+398,תחייך מר ספולדינג ,Mr Spalding please ,Smile Mr. Spolding,74
+399,אבל אנשים לא קונים דברים רק בגלל שהם טובים ,But people don't buy things just because they're good ,But people do not buy things just because they are good,87
+400,זכרו את מילותיו של ויליאם בלייק:,Remember the words of William Blake ,Remember the words of William Blake:,100
+401,תודה מר ספולדינג - תודה ,Mr MacIntyre Mr Travis Mr Greasy - Thank you Mr Spalding - Thank you ,Thank you Mr Spolding - thank you,63
+402,שלום מר מקלינטייר ,Hello Mr MacIntyre ,Hello Mr. McClintier,81
+403,תרגיע את שרירי הלחיים ,Don't think of yourself Relax those cheek muscles ,Relax your cheek muscles,66
+404,תחייך מר מקלינטייר ,Smile Mr MacIntyre ,Smile Mr. McClintier,81
+405,מר טראוויס בוקר טוב גברת רואו ,Morning Mrs Rowe ,Mr. Travis Good morning Mrs. Rowe,68
+406,זה חיוך כנה לגמרי ,That is a completely sincere smile ,It's a completely honest smile,69
+407,אם הייתי קונה ומולי היו שני אלו אז הייתי בהחלט קונה ממנו ,If I was a buyer and these were two travellers I'd definitely buy from the guy I like ,If I had bought and Molly had these two then I would definitely buy from him,67
+408,בהחלט שהייתי קונה מבחור כנה ,I'd definitely buy from the sincere personality ,Definitely I would buy from an honest guy,61
+409,אני בהחלט הולכת לקנות ממך מר טראוויס ,I'm definitely going to buy from you Mr Travis Lecture hall here ,I'm definitely going to buy from you Mr. Travis,84
+410,עכשיו מר טראביס אני רוצה שתחייך אל מר גריזי מר גריזי תחייך ותיתן למר טראביס לחיצת יד בהחלט ,Mr Greasy smile back and give Mr Travis a firm handshake Certainly Right away sir ,Now Mr. Travis I want you to smile at Mr. Greasey Mr. Greasey smile and give Mr. Travis definitely a handshake,63
+411,מר גריזי אל תחשוב שאני נעשית אישית  אבל כשאנחנו מתעסקים עם מוצרי מזון הגיינה חייבת להיות המוטו שלנו ,Mr Greasy don't think I'm being personal but we're when dealing with food products hygiene must be our motto ,Mr. Grizzly do not think I'm becoming personal but when we deal with food products hygiene must be our motto,89
+412,תוודא שיש לך ציפורניים נקיות -גברת רואו - כן ,Make sure you've got clean fingernails ,Make sure you have clean nails - Mrs. Rowe - Yes,67
+413,- היושב ראש רוצה לראות אותנו מייד קחו הפסקה גבירותיי ,- Mrs Rowe - Yes The chairman wants to see us immediately ,- The chairman wants to see us right away Take a break ladies,62
+414,אוסוולד נעלם בדרום מזרח ,Vanished Disappeared No notice ,Oswald disappeared in the southeast,68
+415,פשוט חור ענקי אדמדם על המפה ,Just one ruddy great hole on the map And that's not all ,Just a huge reddish hole on the map,62
+416,אוסוולד חשוד בסחר של סחורות גנובות תחת שם החברה שלנו ,Oswald is suspected of trafficking in stolen goods under imperial's name ,Oswald is suspected of trading in stolen goods under the name of our company,77
+417,אלוהים אדירים  אנחנו נצטרך מחליף במיידי ,Well I need an immediate replacement Mr Duff how are your trainees ,My God we will need a replacement immediately,68
+418,הם טובים מאוד אדוני אבל הם צריכים עוד שבועיים ,They're very good sir But they need another two weeks No no I can't wait ,They are very good sir but they need another two weeks,79
+419,מה האינסטינקט שלך אומר ,Now what's your instinct say ,What your instinct says,86
+420,מי האיש שלי ,Who's my man ,Who's my man?,100
+421,טראוויס ,Travis ,Travis,100
+422,זה האיש שלך ,That's your man ,This is your man,71
+423,אבל לך יש אומץ  ויש לך אמביציה וזה נותן לך התחלה טובה ,But you've got guts and you've got ambition and that gives you a head start ,But you have courage and you have ambition and it gives you a good start,73
+424,המפה שלך  המצפן והמפתחות לאוטו ,Your map your compass and your car keys ,"Your map, the compass and the car keys",82
+425,רק טראביס  תודה רבה אדוני ,Thank you very much sir Come here Mr Travis ,Just Travis thank you very much sir,79
+426,בוא הנה מר טראביס ,Mr Travis ,Come here Mr. Travis,64
+427,אנשים עניים פשוט עניים והם לא מבינים  אדם חייב לעשות מה שהוא רוצה ולקחת את זה במו ידיו ,A man's got to make whatever he wants And take it with his own hands Poor people stay poor people,Poor people are just poor and they do not understand a person must do what he wants and take it with his own hands,72
+428,"ומספיק עם ""אנגליה סאותרן סנטרל"" למרות שלא יגיע  לאיסט מידלנדס עד אחרי חצות ",And nobody's gonna know Commenting on the  - and much of Central Southern England though it probably won't reach the East Midlands till after midnight ,"And enough with ""England Southern Central"" even though he won't be coming to the East Midlands until after midnight",69
+429,התחלה ערפילית ברוב המקומות וצפוי לרוב יום מעורפל עם גשמים וטפטופים ,Now for Eastern England Central Northern England and Northeast England A foggy start in most places and a mostly dull misty day with rain and drizzle at times ,A foggy start in most places and a foggy day with rains and drizzle is expected for the most part,68
+430,התשקיף למחר ויום חמישי: יבש אבל קר בלילות עם קור אימים ערפילי וזה סיום תחזית מזג האוויר ,The outlook for tomorrow and Thursday dry but cold at night with frost in places and fairly widespread fog ,The prospect for tomorrow and Thursday: dry but cold at nights with foggy horrendous cold and that's the end of the weather forecast,69
+431,-אתה העד היחיד ,We'll be witnesses Save you the trouble ,- You're the only witness,61
+432,אני יכול לתת הצהרה ,I can give you a statement ,I can give a statement,92
+433,אין צורך לעכב את האדון תאמר לאמא שלי ,No need to detain the gentleman ,No need to delay the lord tell my mother,62
+434,הוא מת ,Oh and Travis  ,he is dead,61
+435,-זאת היתה אשמתו ,It was his fault ,- It was his fault,100
+436,אנחנו נהיה העדים תחסוך מעצמך את זה אין לי שום בעיה ,We'll be witnesses Save you the trouble ,We will be witnesses save yourself it I have no problem,66
+437,אני יכול לתת הצהרה ככל שלנו נראה זו תאונה פרטית ,As far as we're concerned it's a private accident ,I can give a statement as far as ours looks like this is a private accident,60
+438,אף אחד לא מעורב ,No one else involved ,No one is involved,79
+439,-אז צא לדרכך חביבי ,So on your way chummy ,-So go your way darling,65
+440,"שני אקדוחנים ירו 7 יריות לכיוון שומרים בתפקיד  בבית חולים מקומי השמור ע""י חיילים ואנשי אבטחה עם כלבים ",Two gunmen fired seven shots aimed it seems at the sentries on duty in the grounds of the general's house which is heavily guarded by soldiers and security staff with dogs ,Two gunmen fired 7 shots at guards on duty at a local hospital guarded by soldiers and security personnel with dogs,64
+441,החיילים השיבו אש ואז עקבו אחרי הדם  שהוביל אותם להאמין שהם פגעו באקדוחנים ,Soldiers fired back and later found traces of blood which lead them to believe they hit one of the gunmen The Egyptian War Minister General Sadek has resigned ,The soldiers returned fire and then followed the blood that led them to believe they had hit the gunmen,63
+442,התגלה שאחת מתוך 6 נשים ואחד מתוך 9 גברים  נכנסים לבית חולים לפחות פעם אחת בגלל בעיות בריאות מנטליות ,It's estimated that one in six women and one in nine men will enter a hospital at least once in their lives because of mental illness ,It was found that one in 6 women and one in 9 men enter a hospital at least once because of mental health problems,74
+443,-מר טראביס  -שלום ,Mr Travis ,- Mr. Travis - Hello,75
+444,ערב טוב  -תיכנס ,- Good evening ,Good evening - get in,77
+445,דאגתי לך ,I was getting quite worried about you ,I was worried about you,77
+446,תוכל לחתום כאן בספר בבקשה ,Would you sign the book please ,You can sign the book here please,76
+447,החמצת את ארוחת הערב אבל אכין משהו מיוחד בשבילך ,You've missed supper but I'll do you something special ,You missed dinner but I'll make something special for you,79
+448,ביל תואיל להראות למר טראביס את החדר ,Bill would you show Mr Travis to his room ,Bill will show Mr. Travis the room,78
+449,תודה רבה ,Thank you very much ,Thank you,64
+450,-מי אתה ,There you are ,-Who are you,75
+451,-אוסוולד ,- Oswald - Oswald ,-Oswald,63
+452,אמרתי לו את זה ,I told him ,I told him that,80
+453,צריך שיהיה לך את זה בהתאפשר שיש לך את הלדעת איך הטכני ,Providing of course you've got the technical know-how ,You should have it possible to have the knowledge of how technical,64
+454,עוד משהו שצריכים ,Nothing else you need ,Something else you need,91
+455,טוב צריך שיהיה לך שאפתנות ,Well you've got to have ambition ,Well you should have ambition,79
+456,תמכור תמכור תמכור תמכור כל דבר שאתה תומך בו  תאמר תאמר תאמר תאמר לכל האנשים מה חשוב לך  רץ לפה רץ לשם תמשיך לרוץ בחור אל תתייאש  בגלל שהבא בתור הוא יהיה זה שיהיה  ההבא שיבוא יהיה הטוב ביותר של השנה  ,Tell tell tell Tell all the people that you care for Running here running there Keep it moving sonny don't despair,Sell ​​Sell Sell Sell anything you support Say Say Say Tell All The People What's Important To You Run Here Run Run Keep Running Boy Do not despair,66
+457,אל תרפה את חיוך עם חיוך אתה מבורך בכל מקום  בגלל שהבא בתור הוא יהיה זה שיהיה  ההבא שיבוא יהיה הטוב ביותר של השנה  אוכל לעניין אותך במאמר שלי ,The next one will be The best one of the year Can I interest you in this article of mine Can I interest you To spare some of your time ,Do not let go of a smile with a smile you are blessed everywhere because the next in line he will be the one who will be the next to come will be the best of the year I can interest you in my article,65
+458,אז לא תמכור תמכור תמכור תמכור כל דבר שאתה תומך בו  ספר ספר ספר ספר לכל האנשים מה חשוב לך  רץ לפה רץ לשם תמשיך לרוץ בחור אל תתייאש  קנטינה מספר אחת,Tell tell tell Tell all the people that you care for Running here running there Keep it moving sonny don't despair,So do not sell sell sell sell everything you support book book book book for all people what is important to you run here run there keep running guy do not despair canteen number one,61
+459,- זה דחוף ,It's urgent ,- it's urgent,100
+460,-אין שום דבר דחוף כאן בסביבה ,There's nothing urgent around here ,-There is nothing urgent here in the area,78
+461,ערב טוב ,- Good evening ,good evening,100
+462,-ואתה אדון   -טראביס ,- And it's Mr   - Travis ,-And you're Mr. -Trabis,68
+463,אבדוק אם הוא עדיין כאן ,I'll see if he's still on duty ,I'll see if he's still here,81
+464,תשב ,You can sit down ,Sit down,67
+465,-סיגר  -תודה רבה ,Thank you very much ,-Cigar -Thank you very much,86
+466,-מר פוקנר לא נמצא ,Is Mr Faulkner off ,- Mr. Faulkner was not found,65
+467,-לא לא אני פשוט המנהל כאן ,No no but I'm the manager here ,-No no I'm just the manager here,85
+468,זה עסק רע ,Sad business that ,This is bad business,70
+469,כן מר ג'ונסון ,Yes Mr Johnson Yes ,"Yes, Mr. Johnson",88
+470,כן אני המושל ג'ונסון למען הדיוק עדיין יש לי שלושה חודשים בתפקיד ,It's Mayor Johnson to be precise I've still got three months in office Good ,Yes I'm the Governor Johnson to be exact I still have three months in office,72
+471,טוב אז אני אתן לך את כל העזרה שאוכל לתת לך ,Well I'll give you all the help I can ,Well then I'll give you all the help I can give you,84
+472,לא רק פה אלא גם בלידס דונקסטר וייקפילד וערים נוספות חשובות מסביב ,Not only here but in Leeds Doncaster Wakefield and other cities of major importance surrounding ,Not only here but also in Leeds Doncaster Wakefield and other important cities around,80
+473,תוכל לוודא עם פוקנר שאנחנו נמשיך את הסדר העיקרי בעסק ,You can confirm with Faulkner that we'll be continuing our standing bulk order ,You can make sure with Faulkner that we will continue the main order in the business,64
+474,מוצא חן בעיניך  ,You can sit down ,do you like it,60
+475,-מה מושל ג'ונסון - המסיבה ,- What Mayor Johnson - A party ,- What's Governor Johnson - the party,64
+476,-ערב טוב מושל ,- Good evening mayor ,"- Good evening, Governor",77
+477,-ערב טוב ,- Good evening ,-good evening,100
+478,-הם עושים את זה עכשיו ,- They're doing it now ,- They're doing it now,100
+479,אם תרצה טלוויזיה ,If ever you want a telly ,If you want a TV,75
+480,יש לך מזל גדול שבאת ביום שלישי ,Very fortunate your coming on a Tuesday ,You're very lucky you came on Tuesday,66
+481,ערב טוב אדון מושל ,- Good evening mayor ,"Good evening, Governor",77
+482,-זה טראביס לינדה ,- And it's Mr   - Travis ,- This is Travis Linda,63
+483,-שלום מר ג'ונסון ,Who Hello ,- Hello Mr. Johnson,64
+484,-שמח שבאת לכאן ,- Great pleasure - Come here ,- Glad you came here,62
+485,- עונג גדול לפגוש אותך ,- Pleased to meet you ,Great pleasure to meet you,80
+486,כל בעיה שצצה לך תיידע אותי ,Any little business problems you run up against let me know ,Any problem that arises for you will let me know,62
+487,-אטנבורו ,- Attenborough ,- Attenborough,100
+488,אני עורך את העיתון המקומי ,I edit the local rag ,I edit the local newspaper,78
+489,- נעים לפגוש אותך -זה ג'קי ,- Very pleased to meet you - This is Jackie ,- Nice to meet you - this is Jackie,80
+490,- וייקדל אקו ,- Wakedale Echo ,Weikdel Echo,72
+491,יקר ערך לגבר במעמדך ,I'm asking you not to give any trouble ,Valuable to a man in your class,61
+492,-פגשת את מורין  ,Have you met Maureen ,- You met Maureen,86
+493,מורין תאמרי שלום למר טראביס ,- Say hello to Mr Travis ,Maureen Say hello to Mr. Travis,85
+494,נעים לפגוש אותך מר טראביס ,Pleased to meet you Mr Travis ,Nice to meet you Mr. Travis,84
+495,-תענוג לפגוש אותך ,- Pleased to meet you ,- A pleasure to meet you,88
+496,עכשיו תהיי נחמדה לטראביס מייביס ,Now you be nice to Mr Travis Mavis ,Now be nice to Travis Mavis,89
+497,-אבל לא יותר מדי - שמחה להכיר אותך - תענוג גדול ,- Great pleasure to meet you - Chief inspector ,-But not too much - glad to meet you - a great pleasure,61
+498,- בואי בואי ,Come here ,- Come Come,67
+499,גבירותיי ורבותיי הגענו לחלק בהופעה שחיכיתם לו יש לנו את המבחר המשובח עבורכם ,Ladies and gentlemen we've come to the part of the show you've all been waiting for ,"Ladies and gentlemen, we have come to share in the show you have been waiting for. We have the best selection for you",71
+500,כל האהובים עליכם וכמה חידושים ,All your favourites and one or two novelties ,All your favorites and some innovations,77
+501,כרגיל נתחיל עם בקשת הקהל ,And as usual we will be starting with our request spot ,As usual we will start with the audience request,73
+502,אז אם תרצו לציין את העדפתכם במנהג הרגיל ,So if you'd like to signify your preference in the usual manner  ,So if you want to indicate your preference in the usual custom,74
+503,- נרות רומאים ,Roman Candles!,Roman candles,100
+504,-'נרות רומאים!,Roman Candles!,- 'Roman candles!,100
+505,- עוד אחד ,- Roman Candles Another one ,- Another one,61
+506,- סנדביץ 'שוקולד ,- Chocolate Sandwich ,- Chocolate sandwich,100
+507,- סנדביץ' שוקולד ,- Chocolate Sandwich ,- Chocolate sandwich,100
+508,סנדביץ ,- Chocolate Sandwich ,Sandwich,62
+509,'שוקולד סנדביץ!,- Chocolate Sandwich ,'Chocolate Sandwich!,100
+510,'שוקולד סנדביץ!,- Chocolate Sandwich ,'Chocolate Sandwich!,100
+511,בסדר בסדר גבירותיי ורבותיי ,All right All right ladies and gentlemen You have it ,All right All right ladies and gentlemen,87
+512,תקבלו את זה  גבירותיי ורבותיי לפי הדרישה הנלהבת נתחיל עם חביבנו סנדביץ' שוקולד ,Ladies and gentlemen by overwhelming demand we start with everybody's favourite Chocolate Sandwich ,Get it ladies and gentlemen according to the enthusiastic demand we will start with our favorite chocolate sandwich,69
+513,הלו גלוריה ,Hello Gloria Hello ,Hello Gloria,80
+514,אין לי בגדים חמים ,I haven't any warm clothing ,I have no warm clothes,73
+515,כן אבל אני מסתדר פה טוב ,Yes but I'm doing well here ,"Yes, but I'm doing well here",100
+516,אני לא רוצה לזרוק את זה ,I don't wanna throw it away ,I do not want to throw it away,84
+517,כן אני רואה את זה בתור אתגר ,Yes I see it's a challenge Tomorrow ,Yes I see it as a challenge,77
+518,אבל איפה ,But where ,But where,100
+519,"אבל זה 300 ק""מ מכאן ",Yes but I'm doing well here ,But it's 300 miles from here,62
+520,בשעה 10 ,By 10 a ,At 10 p.m.,62
+521,הברכה ,Sign this please ,The blessing,64
+522,מערכת הבלמים הסובייטית בכדי להיכנס אל אטמוספירת הארץ כובתה ,Soyuz 11 's braking system for re-entry into the Earth's atmosphere was switched off ,The Soviet brake system to enter the atmosphere of the country was turned off,61
+523,מכונה על אדמה רכה ירתה לפי התכנון וביצעה נחיתה רכה על האיזור  קרוב לוודאי באיזור קזחסטן ,A soft-landing engine fired according to plan and a smooth landing was made in the arranged area Presumably somewhere in Kazakhstan ,A machine on soft ground fired as planned and made a soft landing on the area most likely in the Kazakhstan area,65
+524,עכשיו תאמר לי איך מתרגלים את המודעות לכך שהלב הוא זן אמיתי ,Now tell me how we come by this illumination this awareness that is at the heart of the practice called zazen ,Now tell me how to practice the awareness that the heart is a true strain,69
+525,בהמון דרכים ,Not as orphans,In a lot of ways,60
+526,אחד יכול לסדר פרחים בארגטל  אני מבקש שלא תעשה צרות ,I'm asking you not to give any trouble ,One can arrange flowers in Argatal I ask you not to make trouble,63
+527,עכשיו מר טראביס  ,- M A Travis ,Now Mr. Travis,70
+528,-עבור מי אתה עובד ,Who are you working for ,- For whom you work,80
+529,עבור מי אתה עובד ,Who are you working for ,For whom you work,80
+530,חברת הקפה המלכותי ,The Imperial Coffee Company ,The Royal Coffee Company,86
+531,-מי אתה מכיר כאן ,- How do you do ,- Who do you know here?,67
+532,יש לו 3 ילדים משחק ביליארד ,Has three children Plays billiards ,He has 3 children playing billiards,78
+533,תחתום על זה בבקשה ,Sign this please ,Sign it please,73
+534,תודה ,Thank you ,Thanks,67
+535,-תה באסט  -לא תודה אדוני ,Not as orphans,"- Tea Bast - No thanks, sir",61
+536,מתי הצטרפת למפלגה ,You know the kind of thing ,When did you join the party,60
+537,-כמה הם משלמים לך ,- How much are they paying you ,-How much do they pay you,85
+538,רובלים ,Rubles ,Rubles,100
+539,- המנהל שלך גירש אותך מבית הספר ,Was your headmaster correct to expel you from school ,- Your principal expelled you from school,62
+540,כן ,Yes ,Yes,100
+541,- אתה מאמין שילדים הם תקוות העתיד ,Do you believe children are the hope of the future ,- You believe that children are the hopes of the future,91
+542,-אבינו הגדול והרחום  ,Almighty and most merciful Father ,- Our great and merciful Father,68
+543,-אבינו הגדול והרחום  ,Almighty and most merciful Father ,- Our great and merciful Father,68
+544,-עבור כל הטוב והאהבה לנו ולגברים  ,For all thy goodness and loving kindness to us and to all men ,- For all the good and love for us and men,67
+545,זה אוכל האלוהים זה עבור האלוהים ,It's good It really is good ,It's God's food it's for God's,60
+546,לך דרומה קיט ,Remember go south ,Go south Kit,62
+547,מאי ,Mary ,May,86
+548,הדרום לונדון,Do sit down ,South London,61
+549,-לאן אתה רוצה לנסוע ,You're only a boy ,-Where do you want to go,60
+550,מחקר מדעי ,Scientific research Medical ,scientific research,83
+551,אתה מכיר את הדברים האלה ,You know the kind of thing ,You know these things,77
+552,-אנחנו צריכים מתנדבים  -כמה זה ,We need volunteers ,- We need volunteers - how much of it,71
+553,-תודה ,Thank you ,-Thanks,67
+554,-שמך המלא בבקשה ,Your full name please sir Michael Arnold Travis ,- Your full name please,62
+555,-מייקל ארנולד טראביס ,- M A Travis ,-Michael Arnold Travis,65
+556,-ושמך גברת ,- And yours madam ,- And your name is Madam,76
+557,סטיוארט מ א טראביס ,- M A Travis ,Stuart M. A. Travis,74
+558,-כמה משלמים לך - 1050 פאונדים ,- How much are they paying you ,-How much do you pay - 1050 pounds,61
+559,-אני מקבלת 75 והאוכל חינם בשבילי ,I'm getting 75 and all the food I can eat ,- I get 75 and the food is free for me,65
+560,-פרופסור מילאר יהיה אתכם תוך דקה ,Professor Millar will be with you in a minute ,- Professor Miller will be with you in a minute,98
+561,"-אתה חייב לשאוף לפחות 3 מ""ג של נובוקיין (סם הרדמה) ",You must have inhaled at least 3 milligrams of Novocain ,-You must inhale at least 3 mg of Novocaine (anesthetic),80
+562,- אדוני ,- Mind the board ,- The lord,64
+563,-אדוני כן פרופסור ,Yes professor ,-Mr. Yes Professor,90
+564,- כמה זמן זה עכשיו -3057ימים ,- How long is it now ,- How long is it now -3057 days,78
+565,- פרנקל בבוסטון הצליח לשרוד 14 חודשים ,- Frenkel in Boston kept one surviving for 14 months ,- Frenkel in Boston managed to survive 14 months,75
+566,ארצה להביס אותו -אתה תביס אדוני - פרופסור מילאר  ,- Delighted to have you here - Very well - I'm Professor Millar ,I want to defeat him - you will defeat me - Professor Miller,69
+567,-שניה יוסטון - הפתח החדש מוכן פרופסור ,The new intake is ready professor ,-Second Houston - The new opening is ready Professor,68
+568,פרופסור מילאר אוכל לקחת לב מבנק האיברים ל3 ימים ,Oh Professor Millar can I borrow a heart from the organ bank for three days ,Professor Miller can take note from the organ bank for 3 days,79
+569,אצטרך לחזור אליך בנוגע לזה יותר מאוחר יוסטון ,I'll have to come back to you on that one Houston ,I'll have to get back to you about this later in Houston,72
+570,כנראה שנצטרך כל מה שיש לנו למשך כל השבוע ,We may need everything we've got this week ,We'll probably need everything we have for the whole week,69
+571,תשב ,Do sit down ,Sit down,84
+572,מעניין טוב ,Interesting ,Interesting good,81
+573,אחות הולט חדר 9 למר טראביס ,Sister Hallett Room 9 for Mr Travis and 36 for Mrs Stewart ,Sister Holt Room 9 for Mr. Travis,69
+574,-כן מצויין תודה ,- Yes - Think carefully ,-Yes excellent thanks,67
+575,-אל תדאג תמצא אותו במלתחה ,Don't worry you'll find it in your wardrobe ,- Do not worry you will find him in the wardrobe,74
+576,-רק תגמש את עורקיך  ,- Just flex your wrist ,- Just flex your arteries,65
+577,- חש שחרקים זוחלים על הקירות ,- Ever seen insects crawling up the walls ,- Feels like insects crawling on the walls,81
+578,- מוכן כשאתה מוכן סטנלי ,- Ready when you are Stanley ,- Ready when you're ready Stanley,88
+579,-אין אצלך טיפואיד כולרה אפילפסיה ,- No typhoid cholera epilepsy ,- You do not have typhoid cholera epilepsy,81
+580,-שלום אי איקס ב82 אחוז  -אתה בטוח ,Hello E X At 82 percent ,- Hello X by 82 percent - You're sure,68
+581,מייקל אין לי מושג אם מישהו סיפר לך  אבל במקרה אתה משתייך לקבוצה נדירה של אנשים שיש להם אנספלואידס ,Michael I don't know if anyone's ever told you this but you happen to belong to a very rare group of encephaloids ,Michael I have no idea if anyone told you but by chance you belong to a rare group of people who have encephaloids,72
+582,-הנמלה - הדינוזאור ,The ant The dinosaur ,-The ant - the dinosaur,100
+583,ידוע לך שהדינוזאורים תרמו לגלובוס במשך 140 מיליון שנים  לפני שהם הוכחדו ,Do you realize that the dinosaurs dominated this globe for 140 millions years before they became extinct ,You know that dinosaurs contributed to the globe for 140 million years before they became extinct,79
+584,אדם היה על כדור הארץ רק בשביל חלקיק במשך 40 000 שנים  ועדיין הוא עומד מול הכחדה ,Man has been on this planet for only a fraction over 40 000 years and yet already he faces extinction ,"Man has only been on Earth for a particle for 40,000 years and is still facing extinction",73
+585,למעשה המינים שיהיו ברי מזל לשרוד מעבר לשנת 2010 ,In fact the species will be lucky to survive beyond the year 2010 ,In fact the species that will be lucky to survive beyond 2010,94
+586,התקווה היחידה לאנושות: מדע ,Mankind has only one hope Science ,The only hope for humanity: science,69
+587,טכנולוגיה זה ערכת ההישרדות של המירוץ האנושי אפילו פוליטיקאים רואים את זה ,Technology is the survival kit of the human race Even the politicians realize this ,Technology is the survival kit of the human race and even politicians consider it,80
+588,אוכלוסייה שלמה של הודו תוכל להתיישב מחדש על הירח תוך 10 שנים -הכל זה עניין של ללמוד בדרך חדשה  -בהחלט ככה ,The entire population of India could be rehoused on the moon within 10 years ,An entire population of India will be able to resettle on the moon within 10 years -It's all a matter of learning in a new way -definitely like this,61
+589,כמעט כבשנו את הקונספט של המחלה עם הצגת טכניקת ההשתלות אין שום סיבה למה שכולם לא יחיו בגיל 250 או 300  במקום לחיות עד גיל 70 או 80 ,With present transplant techniques there is no reason why everyone shouldn't live to be 250 or 300 years old instead of our present miserable 70 or 80 years ,We almost conquered the concept of the disease with the introduction of the transplant technique there is no reason why not everyone should live at the age of 250 or 300 instead of living until the age of 70 or 80,60
+590,אנחנו על הקצב בסדרת גילויים שתהפוך את התפיסה של החיים האנושיים ,We're on the verge of a series of discoveries that will transform our conception of human life ,We are on the pace in a series of revelations that will transform the perception of human life,67
+591,מייקל ברגע זה במעבדות בכל העולם חיים מתחילים להיווצר ,Michael at this very moment in laboratories throughout the world life is being created ,Michael At this moment in laboratories all over the world life begins to form,77
+592,זה רק עניין של שנים אולי חודשים  לפני שנוכל ליצור דור שלם של יצורים מעובדים חדשים ומושלמים ,It's only a matter of years perhaps even months before we can produce a whole generation of new and far more fully adapted creatures ,It's just a matter of years maybe months before we can create an entire generation of new and perfect processed creatures,72
+593,יש לי בן כלאיים באגף הנסיוני כאן אשר יכול לקצור את בעצמו את שרוכי נעליו ,I have a mongrel in the experimental wing here who can't tie his own shoelaces ,I have a hybrid son in the experimental wing here who can harvest his own shoelaces,82
+594,בסוף הקיץ הזה הוא יהיה אלוף גישור הסכמים מתאהב מתעלס ,By the end of the summer he'll be a contract bridge champion Falling in love making love ,At the end of this summer he will be the champion of mediation agreements falling in love with love,70
+595,לא יהיה לנו צורך להסתמך על דרך לא יעילה של חיבור גנים אקראיים ,We'll no longer need to depend on this inefficient way of distributing random genes ,We will not have to rely on an inefficient way of connecting random genes,65
+596,מחשב מתוכנת יבחר לתאם בדיוק  שיבחרו עבור DNAאת מולקולות ה זן אנושי חדש ,Computers programmed to select the correctly matched DNA molecules will be able to produce an entirely satisfactory human breed ,A programmed computer will choose to coordinate exactly the way they choose for DNA the new human strain molecules,64
+597,זה העתיד מייקל -זאת העבודה שלמענה אנו זקוקים לך ,This is the future Michael ,This is the future Michael - this is the job we need for you,62
+598,-כן אבל מה הולך לקרות לי  אני אצא בדיוק כפי שנכנסתי ,This is the work for which I need your help Yes but what's gonna happen to me Will I come out the same as I went in ,-Yes but what's going to happen to me I'll come out just as I came in,60
+599,לא בדיוק אותו הדבר  עכשיו אני בדיוק אלך כמוך לחתום על טופס השחרור הזה ,Now I would just like you to sign this release form ,Not exactly the same now I will just go like you to sign this release form,77
+600,"""אני מסכים כאן להשתכר במראפת קליניק כל זכויותיי המלאות על גופי  ישתייכו למרפאה במשך שבוע אחד בעבור סכום של 100 פאונדים"" ","""I hereby consent to lease the Millar Research Clinic all physical experimental rights in my body for one week for the sum of 100 pounds ""","""I agree here to get drunk at Clinique Clinic. All my full rights to my body will belong to the clinic for one week for a sum of 100 pounds.""",62
+601,-הכל שקט - כן פרופסור ,- Doctor Bee - Sir Yes professor ,-Everything is quiet - yes Professor,62
+602,4או 5 שעות ,Four or five hours ,4 or 5 hours,67
+603,-אתה חושב שזה יצליח פרופסור ,Do you think it'll take professor ,"- You think it's going to work, Professor",70
+604,-יש אפילו סיכוי ,There's an even chance ,- There's even a chance,98
+605,למה אתה לא מסתכל לאיפה שאתה הולך ,Hey where are you going ,Why do not you look where you are going,65
+606,- אתה בסדר -היי תעצור את הוועידה !,Hey cut the conference!,"- You're fine - Hey, stop the conference!",67
+607,-תסתכל על החליפה שלי !,Look at my bloody suit!,- Look at my suit!,81
+608,-תוכל לתת לי טרמפ ,- Yeah we were Can you give us a lift ,- You can give me a ride,67
+609,בסדר  -כן קדימה תיכנס ,On and on And on and on we go,Okay - yes go ahead and get in,60
+610,זהירות על הלוח ,- Mind the board ,Caution on the board,71
+611,- זה פלא הזהב ,- It's the Golden Wonder ,- This is the golden wonder,85
+612,תודה ,Thank you ,Thanks,67
+613,-מה את ,What are you ,-What are you,100
+614,-בערך שעה ,- About an hour ,-About an hour,100
+615,עוד ועוד ועוד ועוד אנחנו ממשיכים,On and on And on and on we go,More and more and more and more we continue,67
+616,מסביב לעולם מטיילים מרווחים מה שאנו יכולים בזמן שהאחרים מרקידים את הסיכוי להאיר לך את הימים,Round the world in circles turning Earning what we can While others dance away,Around the world spacious travelers what we can while others dance the chance to illuminate your days,64
+617,-פטרישה ,- Patricia ,- Patricia,100
+618,- היא למעלה ,- She's upstairs ,- She's upstairs,100
+619,ילד אם אתה חושב שיש לך חבר שעליו אתה יכול לסמוך אתה בר מזל,Boy and if you have a friend On whom you think you can rely,Boy if you think you have a friend you can count on you are lucky,79
+620,אם מצאת את הסיבה לחיות ולא למות אז אתה בר מזל  אתה יודע שכמרים ומשוררים ומלומדים לא יודעים את זה ומקדשים  ואם יש לך סוד נסה לא ללחוש אותו  וכך תישאר בר מזל  ,If you've found the reason To live on and not to die You are a lucky man You know the preachers and the poets,If you found the reason to live and not die then you are lucky you know that priests and poets and scholars do not know it and temples and if you have a secret try not to whisper it and so you will remain lucky,63
+621,-איך אתה מרגיש ,- How do you feel ,-How do you feel,100
+622,- רעב ,- Hungry ,- Hungry,100
+623,משמעותו אינסוף או אלוהות ,Om It means infinity or godhead ,It means infinity or divinity,73
+624,בעיניי כל הדתות נכונות ,Are you a Buddhist All religions are equally true ,In my eyes all religions are right,60
+625,ארוחת בוקר ,Breakfast ,Breakfast,100
+626,מיליארד פאונדים מתגלגלים ,Fifty million pounds profit ,A billion pounds are rolling,65
+627,מילארדים מתגלגלים ביום ויש מילארד דרכים לעשות אותם רק צריך לבחור בדרך הנכונה ,Ten thousand millions a day and there's a thousand ways of making it you know It's just a question of picking the right one ,Billions roll in a day and there are a billion ways to do them just have to choose the right path,60
+628,-ארמונות זכוכית ,Glass palaces ,-Glass palaces,100
+629,רק תביטי בהם ,Just look at them ,Just look at them,100
+630,יום אחד יהיו בבעלותי אחד מאלו ,One day I'll own one of those ,One day I will own one of these,83
+631,אם אתה רוצה משהו פשוט קח אותו כמו שאני תמיד עושה ,If you want something just take it ,If you want something just take it as I always do,82
+632,מאיפה השגת את זה ,Where did you get this from ,Where did you get it from?,92
+633,-את הולכת לשם ,Hey where are you going ,- You're going there,78
+634,-לפעמים ,Sometimes ,-sometimes,100
+635,כשמשעמם לי ,- Mind the board ,When I'm bored,64
+636,-ומאיפה שאר הדברים מגיעים  -גם הם מהבית ,And where does all this other stuff come from ,-And where the other things come from -they are also from home,70
+637,לאבא יש כל כך הרבה שהוא לא מחמיץ דבר ,Daddy's got so much he never misses anything ,Dad has so much he misses nothing,62
+638,את ברת מזל ,You're lucky ,You're lucky,100
+639,-לאן לרדוף ,- Get where ,-Where to chase,70
+640,-ישר לפסגה ,The chance to light your day,- Straight to the top,60
+641,כמה בניין כזה שווה ,- Right to the top How much is a building like that worth ,How much such a building is worth,68
+642,השכרת הקרקע שווה ל800 000פאונדים בשנה ,The ground rent is 800 000 pounds a year ,"Renting the land is worth £ 800,000 a year",72
+643,פי 10 ממה ששווה הבניין עצמו ,It cost 10 times that to build ,10 times what the building itself is worth,69
+644,באמת הוא יפה ,It's beautiful ,He really is beautiful,67
+645,אני רוצה לפגוש את אבא שלך ,I'd like to meet your father ,I want to meet your father,78
+646,-אתה כל כך חמדן  -ספרי לי עוד על אביך ,Tell me more about your father He owns half the copper mines in the world ,-You're so greedy -Tell me more about your father,62
+647,- בבעלותו חצי ממכרות נחושת בעולם כולו ,Tell me more about your father He owns half the copper mines in the world ,- owns half of the copper mines worldwide,61
+648,על 5 מיליון פאונדים שהוא משקיע הוא יוצר חצי מיליון רווח ,For every 5 million pounds he invests he makes half a million pounds profit ,For the 5 million pounds he invests he makes half a million profit,88
+649,בבוליביה הוא העיף חצי מיליון איכרים מאדמתם הם נותרו רעבים עד מוות ,In Bolivia he drove half a million peasants off their land ,In Bolivia he ousted half a million peasants from their land and they were left starving to death,70
+650,-וקיבל חמישים מיליון רווח ,Fifty million pounds profit ,- and received fifty million profit,67
+651,- הוא האדם הרשע ביותר שהיית מקווה לפגוש ,He's the most evil man you could ever hope to meet ,- He's the most evil person you're hoping to meet,72
+652,את באה או נשארת באה ,Are you coming or staying ,You come or stay,73
+653,-היי לאן את הולכת אל תלכי ,Hey where are you going ,"- Hey, where are you going?",100
+654,תזכור שכל הנצנוצים אינם מזהב ,Have a good day Remember all that glisters is not gold ,Remember that all glitter is not gold,79
+655,שלום אוכל לדבר עם מר ברג'ס בבקשה כן כן כמובן ,Hello can I speak to Mr Burgess please ,Hello can I talk to Mr. Burgess please yes yes of course,75
+656,סר ג'ימס כן ,Hello Sir James ,Sir James Yes,64
+657,אני רוצה לדבר בנוגע לבת שלו ,Sir James yes Well it's about his daughter ,I want to talk about his daughter,67
+658,זה בנוגע לפטרישה ,Hello I'm Michael Travis It's about Patricia ,It's about Patricia,60
+659,אני בטוח שאתה מבין ,I'm sure you understand ,I'm sure you understand,100
+660,טוב האחר הצהריים שלי תפוס אבל אוכל לפגוש אותך נניח תוך 45 דקות ,Well I do have rather a full afternoon but I could see you in say 45 minutes ,Well my afternoon is busy but I can meet you let's in 45 minutes,66
+661,לא סיר ג'יימס אני לא פסיכיאטר ,No Sir James I'm not a psychiatrist ,No Sir James I'm not a psychiatrist,100
+662,טוב דרך אגב מהי התחנה הקרובה אליכם ,Good Oh by the way Sir James which is your nearest tube station ,Well by the way what is the station closest to you,64
+663,סיר ג'ימס עדיין בישיבה ,- Sir James is still in conference ,Sir James is still sitting,62
+664,- תודה ,Thank you ,- Thanks,67
+665,זה רק עניין של זמן ,It's only a question of time ,It's only a matter of time,70
+666,לא לא לא!,No no no!,no no no!,100
+667,-ממזר רקוב!,- You rotten bastard!,- Rotten bastard!,88
+668,- אתה צריך להירגע ,You're so greedy ,- You need to relax,73
+669,- אתה לא רואה את המהפכנות ,Do you go there often ,- You do not see the revolutions,63
+670,25שנים מהחיים שלי בוזבזו ,Twenty five years of my life ,25 years of my life have been wasted,69
+671,25שנים ירדו להם לטימיון ,Twenty five years down the drain - Oh God! All wasted!,25 years have gone down the drain for them,67
+672,-אלוהים הכל מבוזבז ,- Good evening Sir James ,-God everything is wasted,61
+673,- פרופסור  תרסן את עצמך ,- Professor  - Professor you must restrain yourself ,- Professor restrain yourself,74
+674,פרופסור תעזור לי ,- Professor please ,Professor help me,73
+675,מיס הנטר שני כדורי ווליום ויין לפרופסור סטיוארט ,Miss Hunter two Valium and a barley wine for Professor Stewart ,Miss Hunter two volume and wine balls for Professor Stewart,91
+676,ויליאם כיסא לפרופסור ,William a chair for Professor Stewart ,William chaired the professor,79
+677,מר טראביס ,Mr Travis ,Mr. Travis,100
+678,זמנו של סיר ג'ימס שווה ל500 פאונדים לדקה ,Sir James' time is worth 500 pounds per minute ,Sir James' time is equal to 500 pounds per minute,88
+679,תשתדל שזה יהיה קצר ,- Sorry to keep you ,Try to keep it short,70
+680,מר מייקל טראביס סיר ג'ימס ,Mr Michael Travis Sir James ,Mr. Michael Travis Sir James,100
+681,היא בצרות צרורות ,The trouble is I'm so frightfully busy ,She's in big trouble,66
+682,אני חושב שהיא תחזור לקרקע המשפחתחת שלה  אתה יודע איפה היא בכלל ,I think we can save her sir I think she should come back to her family a family background Do you even know where she is sir ,I think she's going back to her family ground you know where she's at all,61
+683,זה בטח שובר לך את הלב סיר ג'ימס ,It must be heart-breaking for you Sir James ,It must break your heart Sir James,86
+684,היא זקוקה לך סיר ג'ימס ,She needs you Sir James ,She needs you Sir James,100
+685,כמה מוזר ,How strange ,How strange,100
+686,- פרופסור  פרופסור בבקשה ,- Professor - Professor please ,Professor Professor Professor please,84
+687,בסדר גמור אם זה מה שאתה רוצה ,- I'm going back in there All right if that's what you want ,Fine if that's what you want,61
+688,הנה אעשה את זה מול העיניים שלך -עכשיו! - ויליאם ,But here now in front of your very eyes Sir James ,Here I will do it in front of your eyes - now! - William,70
+689,ויליאם  תעצור אותו בכל מחיר ,William stop him at all costs ,William will stop him at any cost,84
+690,-פרופסור בבקשה ,- Professor please ,-Professor please,100
+691,-עכשיו עכשיו ,No no no!,-Now now,67
+692,-פרופסור למען השם  -תניחו לי !,- Professor for God's sake ,-Professor for God's sake -Leave me!,84
+693,תניחו לי!,- Let me go!,Leave me alone!,61
+694,- כן סיר ג'יימס ,Do sit down Sir James ,"- Yes, Sir James",65
+695,-תבקשי מראש הסגל לבוא למשרד שלי ,- Yes Sir James Ask the senior staff to come to my office ,-Ask the head of the faculty to come to my office,64
+696,פרופסור סטוארט מת ,Professor Stewart is dead ,Professor Stuart is dead,94
+697,פרופסור סטוארט נולד לפני 55 שנה להורים צנועים ,Professor Stewart started life 55 years ago of humble parentage ,Professor Stuart was born 55 years ago to humble parents,77
+698,אביו היה שען בגלזגו ,His father was a watchmaker in Glasgow ,His father was a watchmaker in Glasgow,100
+699,בגיל 16 'הוא קיבל מלגה לקמבריג ,At the age of 16 he gained a scholarship to Cambridge ,At the age of 16 he received a scholarship to Cambridge,85
+700,בזמן המלחמה המחקר החיוני על יישום צבאי אלקטרוני העלה את דרגתו לסרן ,During the war his vital research into the military application of electronics led to his rapid promotion to the rank of major ,During the war the vital research on electronic military application raised his rank to major,80
+701,אחרי המלחמה הוא נתן לחברה הזו אותה נאמנות שהוא נתן לצבא הוד מלכותה ,After the war he gave to this company the same loyalty that he had before given to the nation ,After the war he gave this society the same loyalty he had given to Her Majesty's army,76
+702,פרופסור סטוארט לא היה רק ממציא גאוני אלא גם שכל אדם שהכירו אהב אותו -סיר ג'יימס השעה 5:,Now Professor Stewart was not only an inventor of genius but all who came in contact with him felt it a privilege to have known and loved him ,Professor Stuart was not only an ingenious inventor but also that everyone he knew loved him - Sir James Hour 5:,62
+703,פרופסור סטיוארט הקדים מאוד זמנו  אבל שמו ייזכר לנצח ,Professor Stewart was too far in advance of his time but his name will live long ,Professor Stewart was very ahead of his time but his name will be remembered forever,72
+704,ניתן לכבודו 15 שניות של דומיה ,We will stand in silence in grateful memory for 15 seconds ,15 seconds of silence are given in his honor,61
+705,מיס האנטר תשלחי תזכיר לרואה חשבון הראשי שיביא פיצויים 740 פאונד לאלמנתו ,Miss Hunter send a memo to the chief accountant A gratuity of 740 pound per annum to his widow ,Miss Hunter will send a memorandum to the Chief Accountant bringing £ 740 compensation to his widow,74
+706,סדרי את ההלוויה ליום רביעי בגולדרס גרין ,Fix the funeral for Wednesday Golders Green ,Arrange the funeral for Wednesday at Golders Green,86
+707,ותשיגי לי את וונקובר ,And get me Vancouver ,Get me Vancouver,89
+708,איש מבריק כמובן אבל אקדמאי ,Brilliant man of course but an academic ,A brilliant man of course but an academic,98
+709,בעסקים יש חיה שמצליחה ויש חיה שמפסידה ,Couldn't run a toffee shop In business there's an animal who succeeds and an animal who doesn't ,In business there is an animal that succeeds and there is an animal that loses,74
+710,אולי זאת תהיה השיחה שלי מוונקובר ,That may be my call to Vancouver ,Maybe this will be my call from Vancouver,74
+711,-וונקובר קנדה סיר ג'ימס - צ'רלס ,Vancouver Canada Sir James ,-Vancouver Canada Sir James - Charles,87
+712,ג'יימס ,James ,James,100
+713,2 מיליון דולר פיצויים זה המקסימום ,Two million dollars compensation is our maximum ,$ 2 million in compensation is the maximum,78
+714,אבל אם לא תחליט הדברים יכולים להיות מצערים למדיי עבור קיטי ,Well it's your decision of course But if you don't things could be pretty upsetting for Kitty ,But if you do not decide things can be quite unfortunate for Kitty,63
+715,ביי  ,Yes ,Bye,67
+716,-ערב טוב סיר ג'ימס  -ערב טוב ,- Good evening Sir James ,Good evening Sir James - Good evening,77
+717,-ערב טוב סיר ג'ימס - סליחה שהחזקנו אתכם ,- Good evening Sir James ,- Good evening Sir James - Sorry we held you,71
+718,-העוזר שלי מייקל  ,- My assistant Michael  ,-My assistant is Michael,93
+719,- טראביס  -טראביס ,Mr Travis ,- Travis - Travis,73
+720,- מוריסון ,- Travis - Morrison ,Morrison,70
+721,-סיר ג'יימס כמה טוב שבאת ,Sir James how good of you to come ,"- Sir James, how good you are",81
+722,- אדוני הנשיא ,Mr President ,- Mr. President,100
+723,- שר האוצר שלי מר טימותי סוזה -נעים מאוד ,My minister of finance Mr Timothy Souza ,- My Minister of Finance Mr. Timothy Sousa - very pleasant,83
+724,המזכירה הביתי שלי גברת נאידו -נעים מאוד ,My home secretary Mrs Naidu ,My Home Secretary Mrs. Naido - very pleasant,76
+725,-קולונל שטייגר ,- Colonel Steiger ,- Colonel Steiger,100
+726,-קולונל ,- Colonel ,-colonel,100
+727,- מר אוסוולד ,- Mr Oswald ,- Mr. Oswald,100
+728,-סיר ג'יימס ,James ,-Pot James,71
+729,והמכובד האחרון באזיל קייז שנדמה לי שאתם מכירים ,- Sir James And the Right Honourable Basil Keyes I think you know ,And the last respected Basil Key I think you know,68
+730,- ג'יימס ,James ,- James,100
+731,תשב סיר ג'יימס ,Do sit down Sir James ,Sit down James,80
+732,עמיתיי ואני בטוחים שאנו יכולים להציע לך סיוע עם המדינה שלנו  אשר יהיה רווחי לך ולמדינה שלנו סרט בבקשה ברוסטר ,My colleagues and I are confident that we can offer you an association with our country that will be as profitable to you as to ourselves ,My colleagues and I are confident that we can offer you assistance with our country which will be profitable for you and our country Movie Please Rooster,79
+733,קו החוף של זינגרה שילוב פריך של חול זהב מושלם לשחייה משחקי מים  וכל יכולות הפנאי הנדרשים עבור התעשיינים באירופה ואמריקה ,The coastline of Zingara an uninterrupted stretch of golden sand perfect for swimming water sports and all the leisure facilities demanded by holiday makers from the industrial centres in Europe and the Americas ,Zingra Coastline A crisp combination of golden sand perfect for swimming water games and all the leisure capabilities required for manufacturers in Europe and America,63
+734,האי כבר מתגאה במלון אחד גדול ,The island already boasts one large hotel ,The island already boasts one large hotel,100
+735,-כן אדוני ,Yes ,-Yes sir,60
+736,"בידור ציורי מתאפשר ע""י תושבי זינגרן המבצעים את מנהגיהם העתיקים  לפטרונים של דירות החופש שלנו במחוז הגבעה ",Picturesque entertainment is provided by Zingaran natives performing their age-old rituals for patrons of our holiday lodges in the hill district ,Picturesque entertainment is made possible by the residents of Zingren who perform their ancient customs for patrons of our holiday apartments in the Hill district,77
+737,פה ששלווה ורוגע מסביב  צוותים אומנו במיוחד בכדי לספק דרישות שירות ברמות אירופאיות גבוהות ,Here in surroundings of peace and calm staffs are being specially trained satisfy European demands for courtesy and service ,Here peace and quiet around teams have been specially trained to provide service requirements at high European levels,62
+738,תוכנית מסיבית של בניית מלון כבר בתהליכים ,A massive program of hotel construction is already underway ,A massive plan of building a hotel is already in the process,66
+739,מהנדסים אירופאים מנוסים מפקחים על כח העבודה היליד בבניית המלון האיזורי הברנדי שלך אדוני ,Experienced European engineers are supervising the native labour force in the construction of the Zingara Continental Hotel ,Experienced European engineers oversee the native workforce in building your brandy regional hotel Sir,61
+740,המלון שהושלם עם המתקנים הציבוריים המופלאים שלו מאפשרים 500 חדרים ,Your brandy sir The completed hotel with its splendid public facilities provides 500 rooms ,The hotel completed with its marvelous public facilities allows for 500 rooms,75
+741,כל חדר עם טלוויזיה צבעונית ומקלחת פרטית תודה ברוסטר ,Each with colour television and private bathroom ,Each room with color TV and private shower thanks to a rooster,60
+742,איזור הייצוא החופשי שלנו מציע יתרונות נדיבים למודאגים שבמימון הון זר ,But your plans for industry Our free export zone will offer generous advantages to all concerns financed by foreign capital ,Our free export zone offers generous benefits to those concerned with foreign capital financing,72
+743,מר סוזה ,Mr Souza ,Mr. Sousa,88
+744,מובטח לכל מדינה אשר תהיה מועמדת:,Guaranteed to any country you care to nominate ,Guaranteed for any country that will be a candidate:,62
+745,'ונצואלה הוותיקן ליכטנשטיין וכו -תודה רבה ,Venezuela the Vatican Liechtenstein et cetera ,'Venezuela Vatican Lichtenstein etc. - Thank you very much,73
+746,מזכירתי גברת נאידו תסביר לכם את הסידורים המעודדים שאנו מתכננים לאיזור ,Labour costs My home secretary Mrs Naidu will explain the favourable arrangements we are planning for this area ,My Secretary Mrs. Naido will explain to you the encouraging arrangements we are planning for the area,78
+747,תנאי עובדים בזינגרה מציעים הזדמנויות מצויינות למשקיע זר ,Labour conditions in Zingara offer excellent opportunities for the foreign investor ,Terms and conditions at Singer offer excellent opportunities for a foreign investor,80
+748,"שיעור התשלום ותנאי התעסוקה מוסדרים ע""י הממשלה ",Rates of pay and working conditions are regulated by the government ,The rate of payment and terms of employment are regulated by the government,73
+749,עקב כך שביתות והאטות אלו דברים לא ידועים ,Consequently strikes and slowdowns are a thing unknown ,Due to this strikes and slowdowns are unknown things,79
+750,סרט ברוסטר בבקשה ,- Pleased to meet you ,Rooster movie please,62
+751,היעילות והמגוון של התקני התעשייה הקלים שלנו הם אושר לקיום ,The efficiency and variety of our light industrial installations are a joy to behold ,The efficiency and variety of our lightweight industrial devices are a joy to sustain,77
+752,מפעל נקניקיות הבומנג'י יש תפוקה יומית של יותר מ2000 פאונדים של נקניקיות בדרגה עליונה ,The Bumangi sausage factory has a daily output of over 2000 pounds prime first-quality sausages ,The Bomanji sausage factory has a daily output of more than 2000 pounds of top-class sausages,72
+753,75אחוז של בשר טהור ,All 75 percent genuine meat ,75 percent of pure meat,60
+754,צריך תשומת לב מיוחדת לניקוי ,Special attention is paid to cleanliness ,Need special attention to cleaning,81
+755,ניסיון מראה שרמות ייצור מועילות באופן שקול כשהמינים מובדלים ,Experience has shown that production levels benefit considerably when the sexes are segregated ,Experience shows that production levels are equally beneficial when species are differentiated,68
+756,"נשותיהם מוחזקים במחנה דומה במרחק של 55 ק""מ ",Their women are housed in a similar camp some 35 miles distant ,Their wives are being held in a similar camp at a distance of 55 km,70
+757,טכנאים זרים מתקבלים בברכה בזינגרה ,Foreign technicians are welcome in Zingara ,Foreign technicians are welcome at the Singer,78
+758,"חיים למבקרים הזרים שלנו יהיו מלאי יחס עם הסטנדרטים שלנו לחיים ונוחיות  בהנאה רבה ע""י עמיתים מהשוק האמריקאי או האירופאי המזדמנים ",Life for our foreign visitors will be fully commensurate with the standards of living and convenience enjoyed by their colleagues in America or the European Common Market ,Life for our foreign visitors will be full of attitude with our standards of living and comfort with great enjoyment by colleagues from the occasional American or European market,75
+759,הם גם יהיו פטורים מכל מס הכנסה תודה ,They will also be exempted from all personal income tax ,They will also be exempt from any income tax thanks,77
+760,תודה סיר ג'ימס ,Thank you Sir James ,Thanks Sir James,86
+761,אני מקווה ששכנענו אותך שזינגרה מציעה היום הזדמנות ייחודית  ,I hope we have convinced you that Zingara today presents a unique opportunity for secure investment and a high rate of return ,I hope we have convinced you that Singer offers a unique opportunity today,68
+762,-להשקעה בטוחה והחזר רווח מובטח ,- Please What guarantees can you provide for the safe-guarding of investment ,- For a safe investment and a guaranteed return on profit,64
+763,- יש רק שיקול אחד המטריד אותי - בבקשה ,There is just one consideration that troubles me Mr President ,- There's only one consideration that bothers me - please,63
+764,איזה ערבות תוכל לתת לאבטחה של ההשקעה ,- Please What guarantees can you provide for the safe-guarding of investment ,What guarantee can you give to the security of the investment,71
+765,כוונתי כמובן לאיומי ההתקוממות ,I refer of course to the threat of insurrection ,"I mean, of course, the threat of an uprising",65
+766,סיר ג'יימס  אהיה כנה לחלוטין ,Sir James I will be completely honest ,Sir James I will be completely honest,100
+767,יש לנו המזל שקולונל שטייגר אשר הישגיו בקונגו ניגריה ולאחרונה בבנגלדש  מוכרים לך ,This problem we have firmly in hand We're fortunate to have the services of Colonel Steiger whose achievements in the Congo Nigeria and more recently Bangladesh must be well-known to you ,We are fortunate that Colonel Steiger whose achievements in Congo Nigeria and most recently in Bangladesh are familiar to you,71
+768,ביקשתי מהקולונל עצמו לדווח על המצב ,I have asked Colonel Steiger himself to report on the situation ,I asked the colonel himself to report the situation,88
+769,המורדים הם בערך 2000 גברים ונשים מקרן ,The rebels number roughly 2000 men and women ,"The rebels are about 2,000 men and women from Keren",65
+770,הם פעילים באיזורים הדרומים בשתי קבוצות עיקריות ,They are operating in the northern territories in two main groups ,They are active in the southern regions in two main groups,70
+771,חיילי מקוצענים מנוסים בלוחמת גרילה ,My men are professionals experienced in guerrilla warfare ,Professional soldiers are experienced in guerrilla warfare,87
+772,המורדים חובבנים לא מנוסים וחלשים בהגנה ,The rebels are amateurs inexperienced and weak in defence ,The rebel amateurs are inexperienced and weak in defense,97
+773,לראייתך הנטולת ספק קולונל שטייגר תוכל לספר לנו למה ההתקוממות לא דועכת השטח עויין ,In view of your undoubted superiority Colonel Steiger can you tell us why this insurrection still persists ,In your undoubted vision Colonel Steiger can tell us why the uprising is not fading and the area is hostile,63
+774,ג'ונגל וביצות אהובים לילידים ,Jungle and swamp favour the native ,Jungle and swamps favorite for kids,70
+775,"או בטרמינולוגיה של המקצוע שלי ""דבש"" ","Or in the terminology of my profession ""honey ""","Or in the terminology of my profession ""honey""",100
+776,תן לי להראות לך קצת דוגמאות שקופית בבקשה ,Let me show you some examples ,Let me show you some slide samples please,69
+777,"האיש הזה שקיבל חשיפה קלה ל""דבש"" החסר ערך הזה ",This is a man who has received a light exposure to this invaluable weapon ,"This man who received a slight exposure to this worthless ""honey.""",68
+778,תודה ,Thank you ,Thanks,67
+779,זה כל מה שאני צריך בכדי לסיים את העבודה ,This is all I need to finish the job ,That's all I need to get the job done,71
+780,"אבל זה מובן לך קולונל שטייגר הסיוע המובטח של כמויות מספקות של ""דבש""  שאתה מכין בכדי להבטיח את היציבות הפנימית של האיזור שלך ",But you understand Colonel Steiger that granted supplies of adequate quantities of honey you are prepared to guarantee the internal stability of your territory ,"But it is clear to you Colonel Steiger the guaranteed assistance of sufficient quantities of ""honey"" that you prepare to ensure the internal stability of your area",78
+781,יש לך את המילה שלי ,You have my word ,You have my word,100
+782,באזיל רגע אחד ,Basil a moment ,Basil one moment,80
+783,שמפניה אדוני -תודה רבה גברת ,- Thank you very much ma'am ,Champagne sir - thank you very much madam,78
+784,-בבקשה ,- There you are ,-you are welcome,71
+785,תודה ,Thank you ,Thanks,67
+786,רצת למקום טוב ,You'll run a good wicket ,You ran to a good place,72
+787,-כן ,- Yes,-Yes,100
+788,- כן ,- Yes,- Yes,100
+789,תסלחו לי ,Excuse me ,excuse me,100
+790,לא נראה לי שפגשת את העוזר החדש שלי טראביס ,I don't think you've met my new assistant Travis ,I do not seem to have met my new assistant Travis,74
+791,טראביס זה באזיל קייס ,Travis this is Basil Keyes ,Travis is Basil Case,78
+792,-אוכל לשלוח את טראוויס מחר ,I could send Travis along sometime tomorrow ,- I can send Travis tomorrow,72
+793,- יש לנו ישיבת לילה שיכולה להסתיים לפני הארוחה ,We've got a night sitting that should finish before lunch ,- We have a night session that can end before the meal,62
+794,-הנשיא אקח את המסמכים אתי הביתה  אם יורשה לי ,Mr President I'll take these documents home with me if I may ,- The president will take the documents home with me if I am allowed to,73
+795,-זה חייב להיות כל ה40 שנה - שלושים ותשע ,- Well it must be all of 40 years ,-It must be all 40 years - thirty-nine,76
+796,-חלקתי חפירות עם האח של הנשיא ,- I shared digs with the president's brother ,- I shared excavations with the president's brother,88
+797,לעולם לא אשכח את בוקר האביב הנפלא בחדרך בבליול ,- How nice I shall never forget that wonderful spring morning in your room at Balliol ,I will never forget the wonderful spring morning in your room in Biliol,81
+798,אתה ופיטר השתכרתם בספרייה ,You and Peter drunk on the bookshelves ,You and Peter got drunk at the library,68
+799,-קרל מרקס קינייס על הרצפה ,Karl Marx and Keynes on the floor ,-Carl Marx Kines on the floor,79
+800,-מה שלום פיטר ,- How is Peter ,- How is Peter?,100
+801,דחפו אותי לתלות אותו אבל הפעם הייתי חלש ,I was urged to hang him but for once I was weak ,I was pushed to hang it but this time I was weak,69
+802,"""כח יוצר את האדם"" טקיטוס - ","""Power creates the man "" Tacitus ","""Power creates man"" Tacitus -",93
+803,תודה רבה וורנר ,Thank you Warner ,Thank you very much Warner,76
+804,לפגישה של בערך חצי שעה ,About half an hour ,For a meeting of about half an hour,68
+805,-היא לעולם לא יוצאת מהמיטה  -מזל דפוק ,- She never gets out of bed ,- She never gets out of bed,100
+806,-תודה ,Thank you ,-Thanks,67
+807,- אחר הצהריים טובים אדוני ,- Hello Frank - Good afternoon sir ,Good afternoon sir,75
+808,-מר טראביס ייקח  - מרטיני יבש מאוד ,- Mr Travis will have a  ,- Mr. Travis will take - a very dry martini,61
+809,אני לא חושב שתהיה בצרות הם בתדרוך שלהם ,I don't think you'll run into any trouble ,I do not think you will be in trouble are in their briefing,66
+810,-הם כולם גברים גברים ,They're all good chaps ,- They're all men men,63
+811,-הכל תחת שליטה,Everything's under control ,-Everything is under control,98
+812,ואל תשאיר טביעת אבצעות ,And don't leave any fingerprints ,And do not leave a fingerprint,87
+813,כשיש ציפור ששרה לך על יד חלונך והשמש זורחת כל היום  אל תשכח להביט מעבר לעורפך בגלל שיש תמיד משהו רודף אחריך  ,When there's a bluebird Singing by your windowpane And the sun shines bright all day through Don't forget boy Look over your shoulder,When there is a bird singing to you by your window and the sun is shining all day do not forget to look beyond your neck because there is always something chasing you,66
+814,-רוצה ברנדי וורנר - לא בשבילי ,- Like a brandy Warner ,- Want Brandy Warner - Not for me,61
+815,- כמובן כמובן ,Of course not ,- Of course of course,69
+816,כשהכל בחיים נראה כמו שצריך להיות סוף סוף הצלחה נראית על סף הדלת  אל תשכח להביט מעבר לכתפיך בגלל שדברים לא יישארו כמו שהם לנצח  ,When everything in life Seems just as it should be At last success Seems just around the door Don't forget boy Look over your shoulder,When everything in life looks like it should be finally success seems on the doorstep Do not forget to look over your shoulders because things will not stay as they are forever,67
+817,תקווה משחררת נצח בחזה של צעיר והוא חולם על חיים טובים קדימה  בלי החלום הזה אתה כלום  ,Hope springs eternal In a young man's breast And he dreams of a better life ahead Without that dream You are nothing nothing nothing,Hope releases eternity in the chest of a young man and he dreams of a good life ahead without this dream you are nothing,78
+818,"תצטרך לגלות בעצמך שהחלום מת  חא""מ (חיל האוויר המלכותי) שמור מרחק",You have to find out for yourself That dream is dead Dead Dead,You will have to find out for yourself that the dream is dead HAM (Royal Air Force) keep a distance,72
+819,- מה שלומך ,- There you are ,- How are you,75
+820,-נעים לפגוש אותך ,- Pleased to meet you ,-nice to meet you,74
+821,טראוויס - ווליס ,Travis ,Travis - Wallis,63
+822,תודה ,Thank you ,Thanks,67
+823,השגת את הפצצה נכון ,Fine Got the bumf have you ,You got the bomb right,67
+824,טוב ,Good ,are good,67
+825,קרוב לשם ,- There you are ,Close to there,67
+826,תעשו את ההכרחי בסדר - כן ,Do the necessary will you ,Do the necessary fine - yes,72
+827,אדוני ,Hello there ,The lord,63
+828,-מרכז הבקרה לטייס / נווט ,Ground control to pilot/navigator ,Pilot / Navigator Control Center,73
+829,"יעד ""דבש "" ",Destination Honey ,"""Honey"" destination",100
+830,בנמל התעופה זינגרה AT-060 טיסת ,Flight AT-060 is Zingara International Airport ,At Zingera Airport AT-060 Flight,72
+831,תוכל לגמור איתו חצי ממזרח אפריקה טראביס ,You could do half East Africa with that Mr Travis ,You can end up with him half from East Africa Travis,71
+832,וכמובן זה הדגל שלך שעלה ושלנו שיורד ,And of course it was your flag that went up and ours that came down ,And of course it's your flag that goes up and ours that goes down,80
+833,והדבר המופלא היה שהודכסים לא שמו לב ,And the extraordinary thing was that the duchess never even noticed ,And the wonderful thing was that the printers did not notice,60
+834,- במזומן ,In cash ,In cash,100
+835,טראוויס ,Travis ,Travis,100
+836,-זה הקוד לחדר המחקר שלי ,This is the combination to the safe in my study ,- This is the code for my study room,62
+837,תראה שמה תיק תביא אותו ,You will find a case there ,You'll see where a bag will bring it,68
+838,- אדוני ,Hello there ,- The lord,63
+839,-בבקשה יקירי בבקשה דיקי ,- Please darling ,-Please darling please Dickie,67
+840,-אבל את חייבת ,- But you must ,-But you must,100
+841,-מעולם לא הייתי כל כך בטוח ,- She never gets out of bed ,- I've never been so sure,62
+842,עד שמצאתי אותך ,Not until I found you ,Until I found you,89
+843,- שתית יותר מדי -אני יודע ,You drink too much ,- You drank too much - I know,79
+844,מייקל ,Michael ,Michael,100
+845,פטרישה ,Patricia ,Patricia,100
+846,מה את עושה פה ,What are you doing here ,what are you doing here,100
+847,זה הבית שלי ,This is my home ,This is my house,90
+848,הוא הדוכס מבלמינסטר ,- Dickey The Duke of Belminster ,He is the Duke of Belminster,81
+849,חבר ותיק שלי ,He's an old friend of mine ,My old friend,62
+850,-מה הוא רוצה ,What does he want ,-what does he want,100
+851,-את לא יכולה ,Well you can't ,-you cant,73
+852,-אני יכולה ,In cash ,-I can,67
+853,לא החלטתי עדיין ,I haven't decided yet ,I havn't decided yet,98
+854,- אבל אני אוהב אותך ואני הולך להתחתן אתך ,But I love you and I'm going to marry you ,- But I love you and I'm going to marry you,100
+855,תראי ,Look ,Look,100
+856,מייקל  ,Michael ,Michael,100
+857,אמרתי לך שאני הולך להיות הצלחה ,I told you I was gonna be a success ,I told you I was going to be a success,90
+858,-והנה אני הצלחה ,You will find a case there ,-And here I am success,60
+859,- אני הזהרתי אותך ,I did warn you ,- I warned you,77
+860,- חכי לי כאן ,Wait here for me ,- Wait for me here,100
+861,תודה מייקל ,Thank you Michael ,Thanks Michael,84
+862,-טראוויס ,Travis ,-Travis,100
+863,כמובן שלא ,Of course not ,of course not,100
+864,תכניס אותם ,That is the man ,Put them in,62
+865,יחידת הונאה ,The fraud squad ,Fraud unit,64
+866,בבקשה כולם להירגע הפקח קרדינג אדם הגון ,Inspector Carding is a very decent fellow ,Please everyone relax Inspector Carding is a decent person,71
+867,מר סוזה תואיל בטובך ,That will be all thank you Jenkins ,Mr. Sousa will be kind to you,61
+868,טראוויס ,Travis ,Travis,100
+869,תכניס אותם לכיס שלך ,Put those in your pocket ,Put them in your pocket,94
+870,התיק בבקשה תשב ,The case please ,The bag please crossword,67
+871,תחזיק את זה ,Hold this ,Hold it,75
+872,פקח קרדינג (סרק) ,Inspector Carding ,Card inspector (idle),83
+873,ערב טוב פקח ,Good evening inspector ,Good evening monitor,81
+874,ערב טוב סיר ג'ימס ,Good evening Sir James ,Good evening Sir James,100
+875,-סליחה שהפרעתי לך סיר ג'יימס  -בכלל לא ,- I'm sorry to disturb you Sir James ,-Sorry I disturbed you Sir James -Not at all,79
+876,זה את מר טראוויס אני רוצה לראיין ,It is Mr Travis I wish to interview ,This is Mr. Travis I want to interview,81
+877,עם רשותך כמובן ,With your permission of course ,With your permission of course,100
+878,-יש כאן מישהו שאתה מזהה ,Now is there anyone here you recognize ,- There's someone here you recognize,67
+879,-כן ,Yes ,-Yes,100
+880,זה האיש ,That is the man ,This is the man,80
+881,תודה רבה ביוורס ,Thank you Beevers ,Thank you so much Beavers,76
+882,רק רגע ,Just a minute ,just a minute,100
+883,חתמת על זה אדוני כן ,Did you sign this sir ,"You signed it, sir. Yes",76
+884,זאת החתימה שלך ,Is this your signature sir ,This is your signature,92
+885,כן ,Yes ,Yes,100
+886,זאת החתימה שלך ,Is this your signature sir ,This is your signature,92
+887,-לא ,No ,-No,100
+888,- זאת החתימה שלך ,Is this your signature sir ,- This is your signature,92
+889,לא שווה את הנייר שנכתב עליו ,Complete forgery Not worth the paper it's written on ,Not worth the paper written on it,78
+890,- תיק בבקשה ,- Please Dickey ,File please,75
+891,-אתה מבין שזאת פגיעה לייצא טיל מבריטניה בלי רשות של בנק אנגליה - כן ,Do you realize it's an offence to export bullion from the U K Without the permission of the Bank of England ,- You understand that it is a violation to export a missile from the UK without the permission of the Bank of England - yes,69
+892,כשבאת לחדר הזה התיק הזה היה שלך ,- Yes When I came into this room that bag was in your possession ,When you came to this room this bag was yours,69
+893,כן ,Yes ,Yes,100
+894,איכפת לך אדוני ,- There you are ,You care sir,72
+895,אקח את זה קרדינג ,I'll take that Carding ,I'll take that carding,100
+896,סליחה שהפרעתי לכם סיר ג'יימס ,- I'm sorry to disturb you Sir James ,Sorry I disturbed you Sir James,89
+897,"ד""ר מונדה ",Dr Munda ,Dr. Munda,100
+898,הקו המחלק בין בית הנבחרים לכלא פנטוביל הוא דק מאוד מאוד ,The dividing line between the House of Lords and Pentonville jail is very very thin ,"The dividing line between the House of Representatives and Pentobil Prison is very, very thin",79
+899,כולנו רוצים צדק אבל צריך כסף לקנות אותו תצטרך להיות טיפש בכדי להכחיש זאת יש המון עניים שהולכים ברחובות עירי עיוורים לראות שהצדק מפיל אותם ,We all want justice But you got to have the money to buy it You'd have to be a fool To close your eyes and deny it There's a lot of poor people Who are walking the streets of my town,We all want justice but need money to buy it you will have to be stupid to deny it There are a lot of poor people who walk the streets of blind cities to see that justice overthrows them,73
+900,לאורך כל חיי מהסוף להתחלה אשלם את התשלומים החודשיים אחרי הבריאות זה רווחה ורק רווחה תביא לך צדק וכסף וצדק  כסף צדק  ,Too blind to see that justice Is used to do them right down All through life from beginning to end You pay your monthly instalments Next to health is wealth And only wealth will buy you justice,Throughout my life from the end to the beginning I will pay the monthly payments after health it is welfare and only welfare will bring you justice and money and justice money justice,66
+901,השקעת חשבון של חף מפשע ,- deposit account of innocence ,Investing in an innocent account,60
+902,ובחזרה הוא חיפש רווח אישי על חשבון 10מיליון פאונדים מכספו של מעסיקו  זוהי פעולה של אדם חף מפשע ,He repaid that trust by seeking to export for his own gain 10 million pounds of his employer's money Was this the action of an innocent ,And back he was looking for a personal profit at the expense of 10 million pounds from his employer's money This is the act of an innocent man,70
+903,אם כזו בגידה יכולה להיעשות מבלי פחד של עונש אז החוק פטריוטיזם שירות  הבסיס הגדול מאוד של החברה שלנו מקווים לשרוד ,If such perfidy can be committed without fear of retribution then how can the rule of law patriotism duty the very basis of our society hope to survive ,If such a betrayal can be done without fear of punishment then the Patriotism Law Our very large base service of our society hopes to survive,75
+904,לכו ותשקלו היטב את פסק דינכם ,Well go and consider your verdict carefully ,Go and carefully consider your verdict,94
+905,וקחו את הזמן שלכם ,And take your time ,And take your time,100
+906,חבר המושבעים הגעתם לפסק דין אשר הוסכם על כולכם ,Members of the jury have you arrived at a verdict on which you are all agreed ,Jury You have reached a verdict which has been agreed upon by all of you,74
+907,-כן כבוד השופט ,- On your own then ,"- Yes, Your Honor",67
+908,- האם מצאתם את האסיר אשם או לא אשם - אשם כבודו ,- Do you find the prisoner guilty or not guilty ,- Did you find the prisoner guilty or not guilty - his honor is guilty,79
+909,-אומר שאני מסכים עם פסק הדין ,May I say how entirely I agree with that verdict ,-Says I agree with the verdict,70
+910,-האסיר יעמוד לקבל גזר דין ,The prisoner will stand to receive sentence ,- The prisoner will stand to receive a sentence,98
+911,זאת חמדנות משולהבת כמו שלך מייקל טראוויס שמובילה לנפילה של חברתינו ,It is the inflamed greed of people like you Michael Travis that has led to the present breakdown of our society ,It's a fiery greed like yours Michael Travis that leads to the fall of our society,69
+912,לפני מתן גזר הדין יש לך משהו לומר ,Before I pass sentence have you anything to say ,Before sentencing you have something to say,69
+913,-כבודו עשיתי את חובתי ,My Lord I did my duty ,- In his honor I did my duty,72
+914,אני רק רציתי להצליח ,I only wanted to be successful ,I just wanted to succeed,67
+915,עשיתי את מיטבי ,I did my best ,I did my best,100
+916,- ונכשלת בכך ,And you failed ,- and you fail at it,75
+917,אני חף מפשע כבודו ,I am innocent My Lord ,I'm innocent Your Honor,64
+918,הנה זה בא ,- Bring it here ,here it comes,62
+919,כן קדימה ,- Yes - Anywhere to go ,"Yes, go ahead",67
+920,כן קדימה ,- Yes - Anywhere to go ,"Yes, go ahead",67
+921,נסתכל עליך ,Let's have a look at you ,We'll look at you,68
+922,הנה זה מגיע ,Wait here for me ,Here it comes,62
+923,תהיי עדינה עדינה ,There we are Be gentle be gentle ,Be gentle and gentle,69
+924,בוא נסתכל ,Let's have a look ,Let's take a look,71
+925,כן  ,Yes ,Yes,100
+926,בסדר גמור טראוויס עשית את שלך ,All right Travis you've done your stretch ,"All right, Travis, you've done yours",88
+927,עכשיו תצטחצח למושל ,Now smarten up for the governor ,Now brush up on the governor,78
+928,כל הכבוד בחור ,Well done lad ,Well done guy,77
+929,טראוויס אתה חופשי ,Well Travis you're free ,Travis you are free,76
+930,חופשי להצטרף מחדש לעולם הגון של אנשים ונשים פשוטים הנאבקים להתפרנס בזיעת אפם ,Free to rejoin the world of decent ordinary men and women who are content to earn their daily bread by the sweat of their brows ,Free to rejoin a decent world of simple men and women struggling to make a living by sweating their noses,60
+931,-אחוות גברים טראביס ,The brotherhood of man Travis ,-Travis Brotherhood,77
+932,- אני יודע איפה שגיתי אדוני ,I know where I went wrong sir I've been thinking ,- I know where I went wrong sir,75
+933,- בחור טוב ,And good luck ,- A good guy,70
+934,קראתי וספרים ועכשיו אני רואה הכל אחרת אדוני ,I've read books and I see things differently now sir ,I have read and books and now I see everything differently sir,74
+935,-אז עכשיו תאמר לי יש לך  ,Well now tell me ,-So now tell me you have,62
+936,אני רק רוצה לצאת וללמוד כיצד להיות בן אדם אדוני ,I just want to get out there and learn to be a proper human being sir ,I just want to go out and learn how to be human sir,78
+937,אני רוצה  ,- What is it ,I want,62
+938,להקריא לך משהו ,I'd like to read you something ,Read you something,75
+939,"""אחד לשעולם לא מפנה את גבו אלא מפנה את חזהו קדימה  לעולם לא יטיל ספק שהשמיים יתנפצו  תמיד יחלום שהטועה ינצח ניפול בכדי לזרוח לישון בכדי להתעורר "" ","""One that never turned his back but marched breast forward never doubted clouds would break never dreamed that wrong would triumph held we fall to rise sleep to wake ""","""One who never turns his back but turns his chest forward will never doubt that the sky will shatter will always dream that the wrong one will win a fall in order to shine to sleep in order to wake up""",65
+940,ארצה שיהיה לך את זה ,I did warn you ,I wish you had it,65
+941,זה היה שייך לסבתי אבל תגלה שזה יעזור לך בקשיים הצפויים לך ,It belonged to my grandmother but you may find it will help you through the difficult days that lie ahead ,It belonged to my grandmother but you will find that it will help you in the difficulties that await you,80
+942,תודה רבה אדוני ,Thank you very much sir ,thank you very much sir,100
+943,הרגשתי בניצוץ של אידיאליזם ממך שיכול להזיז הרים שמת לב ,I've sensed the spark of idealism in you and that can move mountains you know that ,I felt a spark of idealism from you that could move mountains you noticed,67
+944,לגברים כמוך טראוויס ,Oh for a man like you Travis  ,For men like you Travis,86
+945,מייקל לילד כמוך אתה עדיין צעיר ,Michael for a boy like you you're still young ,Michael for a boy like you you are still young,92
+946,הכל עוד אפשרי ,Everything is possible ,Everything else is possible,90
+947,העולם הוא צדפה ,The world is your oyster ,The world is an oyster,83
+948,אני יכול לראות אותך מתערטל בונה מכונות ,I can see you stripped building motorways ,I can see you undressing building machines,70
+949,יש לך עיניים כמו של סטיב מקווין ,You have eyes like Steve McQueen ,You have eyes like Steve McQueen's,97
+950,מישהו אמר לך את זה ,The world is your oyster ,Someone told you that,62
+951,להתראות טראוויס ,Goodbye Travis ,Goodbye Travis,100
+952,ובהצלחה ,And good luck ,And good luck,100
+953,מקלינטייר ,MacIntyre ,McClintier,63
+954,בילס ,Biles ,Bills,80
+955,אקלס ,Eccles ,Eccles,100
+956,טראוויס ,Travis ,Travis,100
+957,להתראות ,Here you ,See you,80
+958,להתראות פרנק ,Goodbye ,Goodbye Frank,70
+959,להתראות חביבי הוותיק ,Goodbye old chap ,Goodbye my dear old,74
+960,אשלח לך גלויה ,I'll send you a postcard ,I'll send you a postcard,100
+961,להתראות ,Here you ,See you,80
+962,-לורנס ! -אמא !,- Lawrence!,- Lawrence! -Mom!,80
+963,-תודה מייקל על הכל ,Thank you Michael for everything ,-Thank you Michael for everything,100
+964,להתראות ,Here you ,See you,80
+965,- תודה ,Thank you ,- Thanks,67
+966,-אז אתה לבדך - כן ,- Well can't you stop her ,-So you're alone - yes,62
+967,- יש לך לאן ללכת ,Let's have a look at you ,- You have a place to go,70
+968,- רק רגע ,Just a minute ,- just a minute,100
+969,-רוצה טרמפ  -לא תודה ,- Do you want a lift ,-Want a ride -Not thank you,70
+970,אני הולך לכיוון השני ,- No thanks I'm going the other way ,I'm going the other way,82
+971,-מה זה ,- What is it ,-What is,82
+972,תתחיל שם ,There we are ,Start there,70
+973,-אני לא אראה אותך שוב ,I'll send you a postcard ,- I'll not see you again,70
+974,זה לא יהיה קל כמו שאתה חושב ,It may not be as easy as you think ,It will not be as easy as you think,87
+975,זה מרגיע את צערו מרפא את פצעיו ומרחיק את פחדיו ,It soothes his sorrows Heals his wounds And drives away his fear,It soothes his grief and heals his wounds and removes his fears,76
+976,זה גורם לרוח הפצועה להיות שלמה ומרגיע את החזה שנפל לצרות  תודה רבה ,It makes the wounded spirit whole And calms the troubled breast Thank you very much ,It makes the wounded spirit whole and soothes the chest that has fallen into trouble thank you very much,82
+977,המאנה הזאת לנשמה הרעבה ולמנוחה הייגעה,'Tis manna to the hungry soul And to the weary rest,This mana for the hungry soul and the weary rest,88
+978,-התביא עזרה - בטח ,- Bring it up here ,-Bring help - Sure,65
+979,- בטוח שאתה יכול לתת את זה ,People are good if you give them the chance ,- Sure you can give it a go,65
+980,-הללויה ! -מייג'ור!,Glory hallelujah!,- Hallelujah! - Major!,62
+981,מייג'ור !,Major! Major!,Major!,62
+982,אחים היום נמצא אתנו איש צעיר  שנהפך לעלה חדש לגמרי ,Brothers today we have with us a young man who has turned over a completely new leaf ,Brothers Today we are with a young man who has become a whole new leaf,71
+983,שרק עזב את הכלא וכבר נתן בנדיבות מהמלאי הדל שלו ,He has only just left prison yet he has given generously of his meagre store ,Who has just left prison and has already given generously from his meager inventory,67
+984,הללויה!,Glory hallelujah!,hallelujah!,77
+985,-ידיד תעלה לצידי ותישא עד ,Friend will you step up beside me and bear witness ,- A friend will come up beside me and carry a witness,71
+986,-עד למה ,- What is it ,- Until what,60
+987,לחטאיך ,On your own ,For your sins,67
+988,-אני לא מאמין בחטא  -כולם חוטאים ,I don't believe in sin ,-I do not believe in sin -Everyone sins,71
+989,-אחי תירתע אתה עומד מול סכנה גדולה ,We know Brother be warned you stand in great danger ,- My brother will be deterred. You are facing great danger,60
+990,-פעם חשבתי כמוך אדוני אבל התחשלתי ,I thought like you once sir but now I've learned better ,- I once thought like you sir but I got stronger,67
+991,-אנשים טובים רק אם תיתן להם הזדמנות ,People are good if you give them the chance ,-Good people only if you give them a chance,87
+992,- סליחה -סליחה ,- Oh sorry ,- Sorry sorry,74
+993,אתה בסדר ,Have you  ,Are you okay,60
+994,-סליחה סליחה ,- Oh sorry ,-Sorry sorry,74
+995,צריך להתחיל עם אנושיות ,We've got to start with humanity ,One has to start with humanity,74

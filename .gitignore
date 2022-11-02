@@ -142,14 +142,3 @@ cython_debug/
 # Ignore all local history of files
 .history
 .ionide
-
-
-### Ignore .csv & .pkl files###
-*.csv
-*.pkl
-
-### Ignoe videos and subtitle files of project ###
-
-*.mp4
-/Video_Downloads
-/Subtitles_Files

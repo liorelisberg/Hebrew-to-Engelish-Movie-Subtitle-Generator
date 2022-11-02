@@ -1,0 +1,932 @@
+,hebrewFromSub,englishFromSub,englishTranslation,ratio
+0,-דבר אני מקשיב ,-Yeah go ahead I'm listening ,- I'm listening,65
+1,-ניתן לשיפור ,-It could be improved ,- Can be improved,74
+2,-דעה של מומחה מר גאנט ,Huh -Your expert opinion Mr Gant ,- Opinion of expert Mr. Gantt,77
+3,-אתה לא מאיים עליי ,-Aren't you gonna threaten me ,- You're not threatening me,68
+4,-אעשה זאת אם זהו רצונך ,-I'll do so if that is what you wish ,- I'll do it if that's your wish,86
+5,אבל קודם אבקש ממך להחזיר מה שלא שייך לך ,But first I'll merely ask you to return what does not belong to you ,But first I will ask you to return what does not belong to you,88
+6,אני לא חושב שתאמין לזה מר גאנט ,I do not think that you would believe that Mr Gant ,"I do not think you will believe it, Mr. Gantt",80
+7,לא נזדקק ליותר מ-4 דקות טיסה כדי להחזיר אותך לביליארסק ,It is calculated that no more than four minutes would be required before we could sight you back over Bilyarsk ,We will not need more than 4 minutes flight to get you back to Biliarsk,61
+8,-לא נאפשר לך  למסור את המיג 31 לשירותי הביטחון של ארצך ,-You will not be allowed to hand over the MiG-31 to the security services of your country ,- We will not allow you to hand over the MiG 31 to your country's security services,90
+9,לא ארשה שזה יקרה ,I will not allow that to happen ,I will not let that happen,77
+10,שלום לך מר גאנט ,Goodbye Mr Gant ,Hello Mr. Gantt,62
+11,הם בלעו את הפיתיון עכשיו צפונה לעבר הרי אורל ,Okay the bait's been swallowed Let's head north to the Urals ,They swallowed the bait now north towards the Ural Mountains,68
+12,בשעה שמטוס בודד מנסה לברוח דרומה ,While this single aircraft escapes to the south ,As a lone plane tries to escape south,60
+13,לא לא הם פשוט משלמים את המחיר על שנים רבות של רכרוכיות ,No they're simply paying the price for too many years of softness ,No no they just pay the price for many years of softness,79
+14,משלמים במעשה ייאוש ,Paying with an act of desperation such as this one ,Paying in an act of despair,62
+15,אילו המצב היה הפוך היינו פועלים בצורה דומה ,I would imagine if the roles had been reversed that we would have acted similarly ,If the situation had been reversed we would have acted in a similar way,79
+16,הם ארגנו בוודאי נקודת תדלוק אי-שם ,They will have arranged a refueling point for this madman somewhere ,They must have arranged a refueling point somewhere,81
+17,לאחר שנשמידה ונמצא את המיג  יבוא הסוף לסיפור הזה ,Once we have destroyed it and recovered the MiG we will hear no more of this ,"After we destroy and find the MiG, the end of this story will come",61
+18,גנרל ולדימירוב ,General Vladimirov ,General Vladimirov,100
+19,נצטרך לחכות עד שהמטוס ייראה שוב ,We merely have to wait until the plane is sighted again ,We'll have to wait until the plane shows up again,81
+20,מה טווח הטיסה שלו ,What is the range of the aircraft ,What is his flight range,60
+21,נקודת התדלוק שלו תחכה לו  כנראה במדבריות תורכיה או ביוון ,His refueling point will be waiting for him presumably either in the deserts of Turkey here or Greece ,His refueling point will probably be waiting for him in the deserts of Turkey or Greece,90
+22,מה עלינו לעשות כשנראה את המטוס ,What do you wish done when the plane is sighted ,What should we do when we see the plane,60
+23,לחלוטין ,Completely ,completely,100
+24,"מה התחזית למסלול ""אמא 1"" ",What's the track of Mother 1 ,"What is the forecast for the ""Mother 1"" track",68
+25,-טמפרטורה מינוס 31 מעלות ,-Temperature minus 31 and holding ,- Temperature minus 31 degrees,77
+26,בוא נראה מה הדבר הזה יודע לעשות ,Let's see what this thing can do ,Let's see what this thing knows how to do,77
+27,-הוא לא היה עושה שגיאה כזו ,-He would not have made such an error ,- He would not have made such a mistake,79
+28,-ולדימירוב יש לך מה להוסיף ,-General you have something to add ,-Oldimirov you have something to add,74
+29,מצטער רק חשבתי בקול רם ,I'm sorry I was just thinking out loud ,Sorry I just thought out loud,75
+30,גיליתי  נקודת תורפה בטקטיקה שלנו ,Sir I've discovered what I believe may be a flaw in our tactics ,I discovered a weakness in our tactics,63
+31,"אם הדו""ח עליו נכון הוא טייס מעולה אולי הכי טוב שלהם ",If the record is accurate then he's a fine pilot perhaps even their best ,If the report on him is true he is an excellent pilot and perhaps their best,73
+32,האם לא זו היתה תוכניתך לטמון לו רשת בדרום ,But wasn't it your plan general to order this net to the south ,Wasn't it your plan to bury him in the South?,72
+33,הוא טייס הרבה יותר טוב מאשר הנחנו בתחילה ,I believe now that he is a better pilot than we first assumed ,He is a much better pilot than we initially assumed,70
+34,לאן הוא פונה אם לא דרומה ,Then where is he heading if not south ,Where does it turn if not south,74
+35,אינני יודע עדיין ,Yes I know that!,I do not know yet,69
+36,"דו""ח הנזק שנגרם למיג השני ",It is the damage report on the second MiG ,Damage report for the second MiG,79
+37,אולי שעה ואולי קודם לכן ,Perhaps an hour perhaps earlier ,Maybe an hour and maybe earlier,61
+38,צריך לנקות אותו מקצף ולחמשו ,It must be cleaned preflighted and armed ,It needs to be cleaned of foam and armored,68
+39,מה עם הטייס ,What about the pilot ,What about the pilot,100
+40,מה אמרת ,Yes What did you say ,what did you say,89
+41,תן לי תמונה של הרי אורל ושל הצפון עד כמה שניתן ,Give me a projection of the Urals and as much of the north as you can ,Give me a picture of the Ural Mountains and the north as much as possible,72
+42,הגילוי אושר ,Trace confirmed sir ,The discovery was confirmed,65
+43,מטוס שסירב להזדהות טס בכיוון צפון-מזרח לעבר ההרים ,Aircraft which refused a demand for identification heading northeast into the mountains ,A plane that refused to identify itself flew in a northeasterly direction toward the mountains,64
+44,עקבותיו אבדו תוך 30 שניות אך הכיוון והמהירות אושרו ,They lost the trace in 30 seconds but they confirm heading and speed ,Its traces were lost within 30 seconds but the direction and speed were confirmed,74
+45,נו ולדימירוב ,Well Vladimirov ,Well Vladimirov,100
+46,אם תביט במפה אסביר את הנחותיי ,If you look at the map I'll explain my deductions ,If you look at the map I will explain my assumptions,79
+47,"ושם נוכל למצוא אותו למרות חסימת המכ""ם שלו ",There we can track him sir despite his radar immunity ,And there we can find him despite blocking his radar,65
+48,-איך ,-How ,-how,100
+49,"-ע""י מקור חום צינור הפליטה שלו ",-By heat source his exhaust Yes ,- By the heat source of its exhaust pipe,79
+50,הורה לכוון את המשגרים לעבר הנתיב המשוער של הטייס האמריקני ולהמתין לפקודות נוספות ,Instruct them to train their weapons' aiming systems ahead of the expected path and await further orders ,Ordered the launchers to be aimed at the estimated route of the American pilot and to wait for further orders,64
+51,מערכת ההנחיה באינפרא-אדום אינה המדויקת ביותר ,The infrared guidance system is not the most accurate means of aiming ,The infrared guidance system is not the most accurate,87
+52,אולי נזדקק למטוס סובייטי שישמש כמטרה לטילים ,It may be necessary for a Soviet aircraft to act as a target for the missiles ,We may need a Soviet plane to be used as a target for missiles,71
+53,תיתן פקודה ,Will you give that order ,Will give an order,71
+54,כמובן ,Of course ,of course,100
+55,אם כך האמריקני ייכנס למלכודת ,Very well then the American is about to enter the trap ,Then the American will fall into the trap,69
+56,הראות גרועה ,Visibility's pretty bad ,Poor visibility,68
+57,הפעלתי אתכם ,Just turned you guys on ,I turned you on,74
+58,"כפי הנראה מדגם ""בדג'ר"" מטוס סיור ",Probably a Badger reconnaissance class ,"Apparently a ""Badger"" model reconnaissance aircraft",62
+59,3טילי קרקע עוקבים אחריי הם מתבייתים על צינור הפליטה ,I've got three ground missiles homing in on my exhaust ,3 ground missiles following me are localized on the exhaust pipe,61
+60,"עליי לדאוג שה""בדג'ר"" יהיה יותר חם ",The way to go is to make the Badger hotter than me ,"I have to make sure the ""badger"" gets hotter",67
+61,זמן פגיעה - 9 שניות ,Contact time: nine seconds ,Injury time - 9 seconds,70
+62,5 שניות לפגיעה ,Two seconds ,5 seconds to hit,74
+63,4שניות ,Four seconds ,4 seconds,76
+64,שתי שניות ,Two seconds ,two seconds,100
+65,גמרנו ,-We don't know ,We're done,61
+66,איננו בטוחים שהוא מת ,We don't know he's lost!,We'm not sure he's dead,61
+67,באמת מה פירוש השדרים המוצפנים בין ביליארסק ותחנות-קו-האש שלהם ,What was all that coded stuff we intercepted between Bilyarsk and the Firechain stations ,Really what does the encrypted messages between Billiersk and their fire-line stations mean,61
+68,הם עלו עליו ופוצצו אותו ,They got him They blew his ass right out of the sky!,They got on him and blew him up,61
+69,אולי זה מורה שלא עלו עליו ,That could mean they didn't get him ,Maybe it's a teacher they did not get on,61
+70,"עלינו להורות ל""אמא 1"" להחל לשדר את האות ",I think that we should notify Mother 1 to begin transmitting the signal ,"We need to instruct ""Mother 1"" to start transmitting the signal",76
+71,הגיע הזמן ,Well that's it ,It's time,61
+72,עברתי כרגע מעל ספינת ריגול ,Great I just hit a spy trawler Passed right over its head ,I've just passed over a spy ship,63
+73,כן ראו אותי ,Yeah they spotted me ,Yes they saw me,69
+74,אוריד אותו כדי להימנע מגילוי אינפרא-אדום ,I'm gonna take her low to avoid an infrared fix ,I will lower it to avoid infrared detection,62
+75,אתה האחראי גנרל ולדימירוב ,It is you who's responsible General Vladimirov!,You're in charge of General Vladimirov,67
+76,תן להם את הנתיב ,Give them that course ,Give them the path,67
+77,-מה אתה חושב גנרל ,-What are your thoughts general ,"- What do you think, General?",73
+78,-אני חושב  שאין לו מספיק דלק להגיע לקרחון ,-I am thinking first secretary that he has not enough fuel to reach the polar pack ,- I think he does not have enough fuel to reach the glacier,62
+79,הוא ייאלץ לטוס נמוך מאוד במהירות מוקטנת כדי לחסוך בדלק ,He'll have to fly very low and at a greatly reduced speed to conserve fuel ,It will have to fly very low at reduced speed to save fuel,70
+80,אני על מכלי הדלק הרזרבי ,I'm on reserve tanks now ,I'm on spare fuel tanks,68
+81,עברתי אליהם לפני מספר דקות ,Switched in a few minutes ago ,I moved in with them a few minutes ago,75
+82,לא יודע כמה זמן נשאר לי לא הרבה אני משער ,Don't know how much time I've got left Not much I suppose ,Do not know how much time I have left not much I guess,79
+83,-הוא ינסה ,-He will ,- He will try,78
+84,נראה מה הוא יודע לעשות ,We don't know he's lost!,See what he knows how to do,68
+85,עכשיו אתם מגיעים ,Now you come ,Now you're coming,76
+86,מתקן הביות הופעל זה עתה ,Homing device just activated ,The home facility has just been activated,61
+87,אני יורד ל-20 רגל ,I'm coming in at 20 feet ,I go down to 20 feet,64
+88,מערכת חימוש מוכנה ,Rear defense system engaged ,Ready-made armament system,60
+89,הנה היא ,There she is ,there she is,100
+90,אני קולט מסוקים ,Picking up choppers now ,I pick up helicopters,68
+91,אפיל להם אחד ,I'll take one out ,I'll drop them one,63
+92,ארבעה טילים שוגרו ,Four missiles launched ,Four missiles were launched,90
+93,מחיר הכישלון קולונל ווסקוב לך ולרבים כאן יהיה גדול ,The price of failure Colonel Voskov for you for many in this room would be great ,The price of Colonel Vaskov's failure for you and many here will be great,80
+94,העבר את ההוראה למגדל ,Pass the order to the tower ,Move the instruction to the tower,63
+95,אינך מסכים שיש לשלוח את הדגם השני ,You do not seem to agree with the sending of the second prototype ,You do not agree that the second model should be shipped,61
+96,אתה כנראה בטוח שהיא תוכל להשמיד את המיג ,Perhaps you're so confident that it can destroy the MiG ,You're probably sure she can destroy the MiG,67
+97,-לא אני לא בטוח ,I'm on reserve tanks now ,-No I'm not sure,62
+98,חייב להיות משהו שאתה נוטה לעשות ,There must be something you are used to do ,There must be something you tend to do,82
+99,נקלט מטוס לא מזוהה ,Contact made with unidentified aircraft ,An unidentified aircraft was intercepted,73
+100,ירינו טילים ,Missiles fired ,We fired missiles,90
+101,נראה שהמטוס נשא סוג של מטוס דמה אשר התנתק והתלקח ,-The aircraft was carrying some kind of drone tail unit which detached and ignited ,The plane appears to be carrying a type of dummy plane which detached and ignited,65
+102,מה בכוונתך לעשות עכשיו ,-What are you confident of ,What are you going to do now?,68
+103,העדיפות הראשונה היא להורות למיג להמריא ,First priority is to order takeoff of the MiG ,The first priority is to order Mig to take off,92
+104,הדבר נעשה ,Yes that is done general ,This is done,61
+105,מה הלאה ,And what else ,What next,64
+106,"להורות ל""ריגה"" לפנות צפונה בעקבות המיג בכל המהירות ",Order the Riga to head north in the wake of the MiG at all possible speed ,Order Riga to turn north following the MiG at full speed,62
+107,ומה עוד ,And what else ,and what else,100
+108,פרישת חירום מיידית של טייסות הסריקה ,Scramble the Polar Search squadrons immediately ,Immediate emergency retirement of the scanning squadrons,62
+109,שיחפשו אחר כל מקום נחיתה אפשרי או מצבורי דלק ,Order them to begin searching for any possible loading sites ,Look for any possible landing site or fuel storage,62
+110,הקרחון התמידי גנרל ולדימירוב ,The permanent ice pack General Vladimirov ,The Perpetual Glacier General Vladimirov,77
+111,אין כל ספינת-אם ,There is no mother vessel ,There is no mother ship,75
+112,המפקד המיג מתקרב להמראה ,Sir the MiG is approaching takeoff ,Commander Mig is approaching takeoff,74
+113,הבה נקווה שנצליח יותר הפעם ,Let us hope that we are more successful this time ,Let's hope we succeed more this time,75
+114,נקודת הקשר 90 מייל מכאן ,Contact point 90 miles ,The contact point is 90 miles from here,72
+115,אני טס על ריק ,I'm flying on air ,I'm flying over empty,68
+116,טווח משוער עד לריסוק: 60 מייל ,Estimated 1-4-0 miles out ,Estimated range to crush: 60 miles,69
+117,אין לי מספיק דלק אבל אנסה לדאות עד לשם ,Don't know if I have the fuel for it but I'm taking her up Gonna try to glide her in ,I do not have enough fuel but I will try to get there,60
+118,-נו ,-Well ,-Well,100
+119,-נו ,-Well ,-Well,100
+120,אתה אופטימי מטבעך לא ,You're a bit of an optimist aren't you ,You are inherently optimistic no,63
+121,"אנו משגרים פיתיונות לקוטב הצפוני עכשיו שמענו מ""אמא 1"" ",We're releasing decoys into the North Cape area We just heard from Mother 1 ,"We're launching baits to the North Pole now we've heard from ""Mother 1""",64
+122,הוא אותר לפני 5 דקות ,He was spotted five minutes ago ,He was located 5 minutes ago,64
+123,-איפה הוא עכשיו ,-Where is he now ,-where is he now,100
+124,-4מייל גובה מעט מעל 000 13 רגל ,-Four miles Slightly over 13 000 feet ,-4 miles altitude just over 000 13 feet,65
+125,-עדיין באותו נתיב ,-Still on the same bearing ,- Still on the same path,72
+126,-כן ,-Yes sir ,-Yes,60
+127,הוא רואה את הקרחון ,Can he see the floe ,He sees the glacier,68
+128,הוא יראה אותו בעוד שנייה ,He will in a second ,He will see it in a second,84
+129,בסיס העננים בגובה 500 13 ,Cloud base is 13 500 ,The cloud base at an altitude of 500 13,61
+130,בואו נפתיע אותו ,Let's surprise him gentlemen ,Let's surprise him,78
+131,מרחק משוער למטרה 3 מייל ,Estimated ditch point 60 miles maximum ,Estimated distance to goal 3 miles,69
+132,בחיי שאני לא מאמין ,I don't believe it ,In my life I do not believe,71
+133,-הוא יודע מה שהוא עושה ,-He must know what he's doing ,- He knows what he's doing,92
+134,בסדר רבותיי ,Okay gentlemen ,"All right, gentlemen",61
+135,אי אפשר להשתמש בבלמים ,I can't use the brakes ,Brakes cannot be used,70
+136,בדוק את הגלגלים והשמשה הקדמית ,Check the tires and the windshield will you ,Check the wheels and windshield,78
+137,מתי בדיוק ראו אותם ,When were they sighted exactly ,When exactly did they see them,70
+138,הצוללות הופיעו לפני 7 דקות דרומית לספיצברגן ,The submarines appeared seven minutes ago south of Spitsbergen ,The submarines appeared 7 minutes ago south of Spitsbergen,93
+139,הם הראו לנו מה המהלך שלהם ,They have shown us their hand ,They showed us what their move was,67
+140,מה הדיווח האחרון מטייסות הסריקה ,What is the latest from the Polar squadrons ,What is the latest report from the scan squadrons,89
+141,עדיין שלילי ,Still negative ,Still negative,100
+142,אין מסלול נחיתה בקרח או חיה אגדית שתציל את האמריקני ,There is no runway carved out of the ice There is no mystical beast waiting to save the American ,There is no runway on ice or a legendary animal that will save the American,67
+143,הם כאן ,They are here!,They're here,80
+144,קפטן!,Captain!,Captain!,100
+145,"מכ""ם-השטח מצא משהו דרומה לנו 60מייל מכאן כיוון קבוע בנתיב התנגשות ישר לקראתנו ",We have a surface radar contact to the south of us -What -Sixty miles out constant bearing decreasing range a collision course straight for us ,The terrain radar found something south of us 60 miles from here a fixed direction in a collision path straight toward us,61
+146,-זה רחוק מכדי לקבל תמונת מחשב ,-Range is too far for a computer image ,-It's too far to get a computer image,79
+147,לא היא אמורה לשוט לשטח הפיתיון ,It's supposed to be headed for the decoy area ,She's not supposed to sail into the bait area,69
+148,אולי זה מה שהיא אמורה לעשות אבל מישהו עוקב אחריי מההתחלה ,That's what they're supposed to be doing but somebody's been on my back ,Maybe that's what she's supposed to do but someone's been following me from the beginning,71
+149,להערכתך ,In your estimation ,In your estimation,100
+150,עכשיו אני מבין איך הם מתכוונים לתדלק את המיג בלב ים ,I believe I understand how they intend to refuel the MiG at sea ,Now I understand how they intend to refuel the MiG in the middle of the sea,75
+151,הקרחון שימש לנחיתה ספינת-התדלוק היא ללא ספק צוללת ,They have used- - Are using a large ice floe as a runway The refueling ship is undoubtedly a submarine ,The glacier was used for landing The refueling ship is undoubtedly a submarine,76
+152,מה המטוס נחת ולדימירוב ,What the aircraft has landed Vladimirov ,What plane landed Vladimirov,72
+153,כן המטוס נחת ,Yes the aircraft has landed ,Yes the plane landed,60
+154,איך תבחר לחקור את אות הסונאר הזה ,And how would you choose to investigate this sonar contact ,How do you choose to explore this sonar signal,67
+155,"בהחזרת המסוקים של ""ריגה"" ושליחתם אל מקור האות ",Recall the Riga's helicopters at once and send them to the contact source point ,By returning the Riga helicopters and sending them to the signal source,71
+156,זה ייקח 20 דקות ,It would take 20 minutes ,It will take 20 minutes,89
+157,לוטננט-קולונל ווסקוב מדווח ,Lieutenant Colonel Voskov reporting ,Lieutenant-Colonel Vaskov reports,91
+158,-הוא יכול להגיע לשם בתוך 2 דקות ,-He could be there in two minutes ,- He can get there in 2 minutes,72
+159,-לא ,-No!,-No,100
+160,שלח מסוקים לאות המפוקפק הזה שגילה הסונאר אבל לא את המיג ,You may send the helicopters after this dubious sonar contact But not the MiG!,Send helicopters to this dubious signal discovered by the sonar but not the MiG,77
+161,הוא חייב להמשיך מיד לקוטב הצפוני ,He must proceed to the North Cape at once!,It must proceed immediately to the North Pole,77
+162,ולדימירוב לווסקוב ,Vladimirov to Voskov ,Vladimirov to Vaskov,65
+163,ולדימירוב לווסקוב ,Vladimirov to Voskov ,Vladimirov to Vaskov,65
+164,ווסקוב עבור ,Voskov over ,Vaskov for,76
+165,המשך לקוטב הצפוני כשהתדלוק יושלם ,Proceed to the North Cape area as soon as refueling is completed ,Continue to the North Pole when refueling is complete,65
+166,-חזור על השדר בבקשה ,-Repeat your message please ,- Repeat the broadcast please,60
+167,הבוסים שלך הכינו חלקי-חילוף ממיג 25 ששאלו מסוריה ,They thought you'd need replacements Your bosses got these from a MiG-25 they borrowed from Syria ,Your bosses made spare parts from MiG 25 that they borrowed from Syria,69
+168,-יש בעיות ,They are here!,-there are problems,65
+169,מסוקים מהספינה ,Helicopters from that cruiser ,Helicopters from the ship,70
+170,יש לך כישרון לעשות לי צרות גאנט ,You know how to make trouble for me Gant You really do ,You have a talent for making me a Gantt trouble,67
+171,-בעוד 8 דקות ,-Eight minutes ,- In 8 minutes,72
+172,יש לנו 8 דקות אולי פחות ,We've got eight minutes maybe less ,We have 8 minutes maybe less,74
+173,-אות הסונאר אושר ,-Contact is confirmed ,-Sonar signal confirmed,67
+174,-הירגע ולדימירוב ,Vladimirov to Voskov ,- Relax Vladimirov,61
+175,-כן תירגע ,-Yes sir ,"- Yes, relax",62
+176,איך אירגע אם בגלל טיפשותך האמריקנים חוטפים לנו את המטוס ,How can I be calm when your stupidity- - Stupidity! --is losing that aircraft to the Americans ,How will I calm down if because of your stupidity the Americans hijack our plane?,63
+177,הוא מסוגל לנחות על קרחון ולהמריא שוב ,He could land on an ice floe and take off again ,It is able to land on a glacier and take off again,66
+178,עליך לפעול אדוני מזכיר המפלגה ,You must act first secretary!,"You must act, Mr. Secretary of the Party",73
+179,החזרה מיידית של המיג השני מהקוטב הצפוני ,The immediate recall of the second MiG from the North Cape rendezvous ,Immediate return of the second MiG from the North Pole,78
+180,"מבצע ""תמים"" ",Operation Harmless ,"Operation ""Innocent""",61
+181,פליישר  ,Fleischer ,Fleischer,100
+182,-הגעה משוערת תוך 5 דק' ו-40 שנ' ,ETA: 5 minutes 40 seconds ,Estimated arrival within 5 minutes and 40 seconds,66
+183,אני רוצה שתדווח לי מהירות ומרחק מדויקים כל 30 שניות ,I want you to call out exact speed and distance every 30 seconds Yes sir ,I want you to report to me accurate speed and distance every 30 seconds,73
+184,-תוכל לעשות זאת ב-3 דקות ,-He could be there in two minutes ,- You can do this in 3 minutes,63
+185,השלג מאמץ את כן-הנחיתה ,Surface snow is too hard on the landing gear ,The snow adopts the landing gear,61
+186,-כן המפקד ,-Yes sir ,-Yes sir,100
+187,המפקד הם מבקשים זיהוי מיידי ,Sir they want identification immediately ,The commander they ask for immediate identification,66
+188,-הם רוצים לדבר איתך המפקד ,They want to speak to you sir ,"- They want to talk to you, sir",91
+189,אנחנו מבקשים שיתוף-פעולה ,We're asking for your cooperation ,We ask for cooperation,80
+190,אנו רוצים זיהוי מהמפקד עצמו ,We want identification from the superior officer ,We want identification from the commander himself,64
+191,מצטער המפקד עסוק כעת בניסוי חשוב בקצה השני של הקרחון ,Sorry but as I said the captain is involved in an important experiment at the other end of the floe ,Sorry the commander is now busy with an important experiment at the other end of the glacier,75
+192,-עליך ללכת ,-You've gotta go now ,- You have to go,61
+193,-הם יעקבו אחר שובל החום שלי  ,-They'll be watching my heat trail ,- They'll follow my trail of heat,69
+194,"-אל תדאג אנחנו במים בינ""ל ",-We're in international waters ,- Do not worry we are in international water,73
+195,-אני מקווה שאתה צודק ,-You better be right ,- I hope you'm right,65
+196,הם רוצים אותך ,They want to speak to you sir ,They want you,62
+197,הם לא משוכנעים ,They want convincing ,They are not convinced,62
+198,תודה ,- Great thanks ,Thanks,67
+199,-30שניות ,-ETA: 30 seconds ,-30 seconds,83
+200,-אנחנו ידידותיים ,-We're friendly ,- We'm friendly,89
+201,נופף סטיוארט ,Wave Stewart -Wave ,Waved Stuart,69
+202,הקואורדינטות הוכנסו למחשב ,Come on we're the greeting party Here they come ,The coordinates were entered into the computer,60
+203,שום דבר לא יכול לפגוע בנו עכשיו ,Nothing can touch us now ,Nothing can hurt us now,77
+204,תכינו לי בירה קרה ,Better ice up a cold one ,Make me a cold beer,70
+205,"""שועל האש"" השני ",The second Firefox ,"The second ""fox of fire""",90
+206,עליך לחשוב ברוסית ,You must think in Russian ,You have to think in Russian,75
+207,מכניס למחשב קואורדינטות חדשות אני בא הביתה ,New coordinates punched in ,Putting new coordinates into the computer I come home,61
+208,סלחי לי תוכלי לומר לי אם כאן גר דלמאר ברי ,Excuse me can you tell me this where Delmare Berry lives ,"Excuse me, can you tell me if Delmar Berry lives here?",81
+209,תיכנסי פנימה מותק,Go on inside baby ,"Come on in, baby",75
+210,הוא חבר שלי למעשה הוא רשם לי את הכתובת כאן הנה  הנה  ,He's a friend of mine  Well in fact he wrote his address down  right here Here ,Is my friend in fact he wrote me the address here here here,77
+211,את יכולה לראות שזה כתב היד של דלמאר היה קשה למצוא את המקום הזה זה הכתב שלו,You can see that's Delmare's writing I sure had a hard time finding this place! - That's his writing' ,You can see it's Delmar's manuscript it was hard to find this place it's his manuscript,60
+212,כמו שאמרתי הוא חבר שלי קוראים לי ג'ון רמבו שירתנו יחד באותו צוות בוויטנאם,- Like I said he's a friend My name is John Rambo We served on the same team together in Nam ,Like I said he's a friend of mine my name is John Rambo and we served together on the same team in Vietnam,89
+213,לא יודע אם הוא אי פעם דיבר עלי,I don't know if he ever talked about me  ,Don't know if he ever talked about me,97
+214,יש לי תמונה שלנו ביחד,I've got a picture of us together ,I have a picture of us together,84
+215,הנה זה זה אני זה דנפורת' ווסטמור ברונסון אורטגה והנה דלמאר שם מאחורה היו חייבים להשים אותו מאחורה כי אם לא הוא היה תופס את כל התמונה,That's me that's Danforth Westmore Bronson Ortega and there's Delmare right in the back We had to put him in the back because he's so big if we didn't he'd take up the whole picture!,Here it's I I it's Danforth Westmore Bronson Ortega and here's Delmar back there had to put him in the back because otherwise he would have taken the whole picture,76
+216,באיזה שעה הוא יחזור ,- What time will he be back ,At what time he will return,77
+217,הוא מת מה ,- He died What ,He died what,100
+218,הוא מת בקיץ שעבר,Died last summer ,He died last summer,91
+219,כל החומר הכתום ההוא שפיזרו בכל מקום,All that orange stuff they spread it around ,All that orange stuff they scattered everywhere,73
+220,יכלתי להרים אותו מהסדין,I couldn't lift him off the sheet ,I could pick it up from the sheet,70
+221,אני מאד מצטער,I'm very sorry ,I'm very sorry,100
+222,אנדי היי ויל,- Hi Will ,Andy Hi Will,74
+223,בוקר טוב דייב היי שריף אתה מתכוון להתקלח השבוע,- Good morning Dave! - Hi Sheriff! Gonna take a bath this week ,Good morning Dave Hi Sheriff you are going to shower this week,78
+224,בוקר טוב,Morning!,Good Morning,74
+225,אתה מבקר מישהו פה בסביבה ,You  you visiting someone around here ,You're visiting someone around here,90
+226,לא,No ,No,100
+227,עם הדגל הזה על הג'קט ואיך שאתה נראה  נראה שאתה מחפש צרות פה חבר,You know wearing that flag on that jacket looking the way you do  you're askin' for trouble around here friend!,With this flag on the jacket and the way you look you seem to be looking for trouble here mate,71
+228,אתה פונה צפונה או דרומה צפונה,- Headed North or South ,You turn north or south north,64
+229,קפוץ פנימה אני ידאג שאתה פונה לכיוון הנכון,Jump in I'll make sure you head in the right direction huh!,Jump in. I'll make sure you're heading in the right direction,92
+230,לאן אתה צריך ,What do you got ,Where do you need to go,68
+231,פורטלנד פורטלנד זה בדרום אמרת שאתה פונה צפונה,- Portland Portland is South you said you were headed North ,Portland Portland It's in the south you said you're heading north,84
+232,יש פה איזה מקום שאני יכול לאכול בו,You got some place I can eat around here ,There's some place I can eat here,71
+233,יש פונדק 30 מי'ל מהכביש הראשי,There's a diner about 30 miles up the highway ,There is an inn 30 miles from the main road,66
+234,יש איזה חוק שאוסר עלי לאכול משהו כאן ,Is there a law against me getting something to eat here ,There's some law forbidding me to eat anything here,70
+235,כן אני,Yeah me ,Yes me,77
+236,למה אתה מציק לי ,Why are you pushin' me ,Why are you harassing me?,67
+237,מה אמרת ,What did you say ,what did you say,100
+238,לא עשיתי לך כלום דבר ראשון אתה לא שואל פה את השאלות אלה אני שואל אתה מבין ,First of all you don't ask the questions around here I do ,I did not do anything to you first thing you do not ask here these questions I ask you understand,62
+239,דבר שני,The second Firefox ,Second thing,60
+240,אנחנו לא רוצים אנשים כמוך בעיירה הזאת,Secondly  we don't want guys like you in this town ,We do not want people like you in this town,78
+241,חוץ מזה אתה לא תאהב להיות כאן  ,Besides you wouldn't like it here  ,"Besides, you will not like being here",75
+242,זו עיירה קטנה ושקטה,It's a quiet little town ,It is a small and quiet town,73
+243,למעשה הייתי אומר שהיא משעממת,In fact you might say it's boring!,I would actually say it's boring,62
+244,אבל ככה אנחנו אוהבים אותה,But that's the way we like it ,But that's how we love her,62
+245,משעממת,Boring  ,Boring,100
+246,הנה עצה טובה,He ain't here ,Here's a good tip,60
+247,לאן אתה חושב שאתה הולך ,Where the hell do you think you're going ,Where do you think you're going,87
+248,הי אני מדבר אליך לעזאזל,Hey I'm talkin' to you goddammit!,Hi I'm talking to you damn,81
+249,תן לי לראות תעודת זהות,Let's see some I D !,Let me see ID,65
+250,אתה שומע ,You hear me ,you hear,84
+251,עכשיו תניח את הידיים על האוטו תניח את הידיים על האוטו ותפסק אותם,You put your hands on the car Now you put your hands on the car and you spread'em ,Now put your hands on the car Put your hands on the car and stop them,84
+252,אתה תניח את הידיים שלך על האוטו הזה איך אתה רוצה את זה ,Are you gonna put your hands on that car How you do it you decide right now!,You will put your hands on this car how you want it,67
+253,תזיז את הרגלים אחורה,Put your legs back ,Move your legs back,81
+254,אתה מנסה להיות נחמד למישהו  מה יש לנו כאן,You try to be nice to some people! Well what do we have here huh ,You're trying to be nice to someone what we have here,79
+255,בשביל מה אתה נושא כזו סכין ,What would you be carrying a knife like this ,What are you carrying such a knife for?,71
+256,לציד,Hunting ,For hunting,78
+257,אל תהיה חכמולוג מה אתה צד עם סכין ,Don't be a wise guy! What do you hunt with a knife ,Do not be a sage what you side with a knife,67
+258,כל דבר,Hunting ,Anything,67
+259,מה יש לך שם ,What do you got ,What do you have there?,70
+260,תעצור את האדון הזה בעוון שוטטות התנגדות למעצר והסתרת נשק,I want you to book this gentleman for vagrancy resisting arrest carrying a concealed weapon ,Arrest this gentleman for wandering in opposition to arrest and concealment of weapons,70
+261,הוא אומר שהוא משתמש בזה לציד ציד,He says he uses it for hunting ,He says he uses it for poaching,79
+262,מה אתה צד ,What did you say ,What are you party to?,65
+263,תראה אם אתה יכול לנקות אותו קצת הוא מסריח כמו חיה,See if you can clean him up a little ,See if you can clean it up a bit it stinks like an animal,67
+264,הי מיץ' מיץ',Hey Mitch  Mitch!,Hi Mitch Mitch,90
+265,קח את הבחור הזה למטה כן אדוני,Yo! Escort this young man downstairs Yes sir ,Take this guy downstairs yes sir,64
+266,אוקיי הנה,OK here we go ,Okay here,64
+267,כנראה שייקח ללירוי הזקן 10 שנים כדי לצבוע את האולם למה אתה לא צובע בעצמך ,You know it looks like it'll take old Leroy about 10 years to paint this hall! Why don't you paint it your damned self ,It will probably take old Leroy 10 years to paint the hall why you are not painting yourself,66
+268,קדימה לירוי תצבע מהר מר וורד,Come on Leroy sling that paint boy!,Come on Leroy will quickly paint Mr. Ward,62
+269,קח את זה ממני בבקשה,Would you take this for me please ,Take it from me please,62
+270,שם  השם שלך  מה השם שלך ,Name Your name Your name!,Name your name What is your name,86
+271,שם  אם אתה מחפש צרות אז הגעת למקום הנכון חבר,Name! Hey  you're lookin' to trouble You came at the right place buddy!,There if you are looking for trouble then you have come to the right place mate,73
+272,חכה שנייה,Oh wait a second ,wait a second,90
+273,יש לך שלוש שניות לפני שאני שובר לך את הפרצוף,You got three seconds before I break your face in!,You have three seconds before I break your face,90
+274,הוא מתכוון לזה כן  ,He means it Yeah I do ,He means it yes,78
+275,מה תגידו על זה הבחור שלנו הוא חייל,Don't be a wise guy! What do you hunt with a knife ,What do you say about it our guy is a soldier,60
+276,אתה עוד תדבר איתי,You're gonna talk to me ,You'll talk to me again,74
+277,אני מבטיח לך שאתה עוד תדבר איתי חייל,I promise you're gonna talk to me soldier ,"I promise you you'll talk to me again, soldier",81
+278,אני מתחיל לא לחבב אותך,I'm starting to dislike you ,I'm starting to dislike you,100
+279,הכנס את שמו לטלפרינטר,Put his name in the Teletype ,Enter his name in the teleprinter,72
+280,תראה חתיכת בן זונה אם לא תניח את היד על הנייר אני שובר לך אותה,Look you son of a bitch if you don't put your goddamned hand down there I'm gonna break it off!,You'll see a piece of son of a bitch if you do not put your hand on the paper I will break it for you,67
+281,נו תניח אותה לעזאזל מה לעזאזל קורה פה ,- Put it down goddammit! - Art what the hell's going on down here ,Well let's damn it what the hell's going on here,69
+282,לא משהו שאני לא יכול לטפל בו,Nothing I can't handle ,Not something I can not handle,77
+283,תשאיר את הדיו על היד,Leave the ink on your hand!,Leave the ink on hand,89
+284,תגיד מה הבעיה שלך ,Just what is your problem huh ,Say what your problem is,75
+285,עכשיו תקשיב טוב כמו שהדברים עומדים עכשיו אתה עומד לקבל 90 יום עבודות שירות וקנס של 250 דולר מה שלא נראה לי שאתה יכול לשלם,Listen hardass! As things stand right now you're facing the ass end of a 90 day incarceration! Plus a 250 dollars fine which you don't look to me like you can pay!,Now listen well as things stand now you're about to get 90 days of service work and a $ 250 fine which does not seem to me you can pay,65
+286,מחר ב10 בבוקר אתה עומד בפני השופט ואתה חושב שאנחנו קשוחים,At 10 o'clock tomorrow morning you're going up in front of that judge And you think we're tough!,Tomorrow at 10 a.m. you stand before the judge and you think we're tough,71
+287,עד אז אתה יכול להרשים אותי בכך שתעשה בדיוק מה שאומרים לך,Between now and then you can just impress the hell outta me by doing exactly as you're told ,Until then you can impress me by doing exactly what you are told,67
+288,תנקו אותו,Clean him up ,Clean it,70
+289,אוקיי פרסטון אני רוצה שתלך תביא את הזרנוק שם טוב ,All right Preston I want you to go over there and get that hose ready alright ,Okay Preston I want you to go get the hose good name,62
+290,אלוהים ישמור תראו את זה,Would you take this for me please ,God forbid you see this,61
+291,מה עבר עליו לעזאזל ,What the hell's he been into ,What the hell happened to him,67
+292,מי שם זין אוקיי שים את הידיים מעל הראש ותסתובב,Who gives a shit All right put your hands on top of your head and turn around ,Who puts cock Okay put your hands over your head and turn around,74
+293,צריך לדווח על זה לטיזל גאלט! תסתכל על זה,We should report this to Teasle Gault!,This should be reported to Thistle Galette! look at it,64
+294,אתה רק תעשה מה שאני יגיד לך,Look at that! You just do what I tell you ,You'll just do what I'll tell you,79
+295,גאלט מה זה היה לעזאזל ,Gault what the fuck was that ,Galette what the hell was that,76
+296,הבנאדם אמר לנקות אותו,"Well the Man said ""clean him up"" ",The man said clean it up,85
+297,אז ננקה אותו,"Well the Man said ""clean him up"" ",So we'll clean it up,64
+298,הי פרסטון אל תשכח לנקות לו מאחורי האוזניים,Hey Preston don't forget to get him behind the ears!,Hi Preston Do not forget to clean behind his ears,74
+299,מה אתה אומר על זה אהה מה קרה מיץ' ,What do you know about that ,What do you say about it ahh what happened Mitch,64
+300,אתה לא אוהב משחקי מים,What do you got ,You do not like water games,67
+301,זה בסדר אל תדאג לגבי הסבון הוא קשוח רק תגלח אותו על יבש,That's OK Ward don't worry about the soap he's tough Just shave him ,It's ok do not worry about the soap is tough just shave it on dry,74
+302,הנה ככה יותר טוב,What's the matter Mitch ,Here's better that way,62
+303,קח את זה,Name it ,take it,71
+304,אל תזוז אני לא רוצה שתיחתך,What do you know about that ,Do not move I do not want you to be cut,61
+305,בן זונה בוא הנה,You son of a bitch! Come on!,Son of a bitch come here,76
+306,מה לעזאזל  ארט  ארט  ,What the hell is  Art! Art!,What the hell art art,93
+307,הי אתה לא יכול  הי חכה רגע חכה  ,Can't you see I don't give a shit ,Hi you can not hi wait wait a minute,61
+308,אני יהרוג את הבן זונה לא ארט אל תירה ארט לעזאזל יש שם אנשים,I'm gonna kill this asshole! Art don't shoot! Don't shoot there's people down there!,I'll kill the son of a bitch no art to shoot art damn there are people there,62
+309,בן-זונה,Son of a bitch!,Son of a bitch,100
+310,לסטר כאן ויל אני בעקבותיו הוא נמצא מזרחה מהחווה של סמית לכיוון מפרצון צ'פמן,Lester this is Will I'm right on his tail He's just east of Smith's farm headed towards Chapman Creek ,Lester here Will I follow him he is east of Smith's farm towards Chapman Bay,71
+311,אני יודע שאתה שומע אותי,I know you can hear me!,I know you hear me,90
+312,אתה מחוסל,What are you doing ,You are eliminated,67
+313,לא תוכל להתרחק יותר,Hey you can't  ,You can not go further,69
+314,אתה שומע אותי ,D'you hear me ,do you hear me,96
+315,הוא שם למעלה,There he is!,He's up there,83
+316,תזעיק את אורביל בקשר תגיד לו להגיע לכאן עם הכלבים שלו מיד,Mitch get Orval on the radio Tell him to get out here with his damned dogs right away ,Call Orbil on the radio and tell him to come here with his dogs right away,78
+317,שיביא את הדוברמנים עומד לרדת גשם נזדקק לכלבים שיכולים לצוד בעזרת הראייה שלהם -בסדר ,And tell him to bring the Dobermen! It's gonna rain we'll need dogs that can hunt on sight ,Bringing the Dobermans is about to rain we will need dogs that can hunt with the help of their eyesight - okay,67
+318,אנחנו נתפוס אותו,We'll get him!,We'll catch him,79
+319,אין שום בעיה,No problem ,no problem,100
+320,-בשנה שעברה צדנו כאן איילים לא כן בשנה שעברה ,Didn't we go hunting here up last year ,-Last year we hunted elk here not so last year,63
+321,תרחיק ממני את הכלבים אני לא סומך על הממזרים האלה תמשיך לזוז כי הכלבים שלי מסוגלים לאכול ולרוץ ביחד,Get those hounds away from me Orval! I don't trust those bastards! Keep moving my dogs can eat and run at the same time!,Keep the dogs away from me I do not trust these bastards Keep moving because my dogs are able to eat and run together,74
+322,הוא בחור מסוכן ,Jesus he's got a gun ,He's a dangerous guy,60
+323,הוא סתם מטומטם,He's just dumb!,He's just an idiot,62
+324,אתה הורס את העקבות תן לחמודים שלי לעשות את שלהם,Hey you're spoiling the scent Let my babies do their job!,You're destroying the trail Let my sweethearts do their thing,60
+325,זה לא טוב למה ,- This is no good ,It's not good why,69
+326,קדימה סגרנו עליו הוא לכוד אין לו לאן ללכת ארט כאן טיזל הוא פנה לעבר ערוץ הצ'פמן,We've got him go ahead he's trapped! Art Art! This is Teasle he's heading for Chapman's gorge ,Kadima we closed on him he's trapped he has nowhere to go art here thistle he turned towards the chapman channel,60
+327,תפנה לשם,There he is!,Go there,63
+328,בן-זונה,Son of a bitch!,Son of a bitch,100
+329,מה קורה לעזאזל ,What the hell's going on ,What the hell is going on,90
+330,מה אתה עושה ,What are you doing ,What are you doing,100
+331,אנחנו רק אמורים לאתר אותו תייצב את המסוק אני לא יכול אנחנו במשב רוח חם בחייך גאלט הוא תקוע שם הוא לא יכול לשום מקום,We're just supposed to spot him! - Hold it steady - I can't!,We're just supposed to locate him. He's stabilizing the helicopter. I can not. We'm in a hot breeze.,60
+332,אם לא תטיס את הדבר הזה כראוי אני נשבע להרוג אותך,If you don't ride this thing right I swear to God I'll kill you!,If you do not fly this thing properly I swear to kill you,77
+333,תתקרב ותתיצב גאלט דבר אליי מה קורה שם ,Get closer and hold it steady! Galt talk to me damn it!,Get closer and stand up galette talk to me what's going on there,65
+334,היי חייל,Hey soldier boy!,Hi soldier,72
+335,גאלט תענה לי מה קורה שם למעלה ,What the hell's going on ,Galet will answer me what's going on up there,61
+336,אני לא רוצה אותו מת אני רוצה אותו בחיים שמעת ,I don't want him dead Galt I want him alive!,I do not want him dead I want him alive You have heard,80
+337,אלוהים ישמור תן לי את המשקפת אוי לא לא לא לעזאזל,Jesus Christ gimme the binoculars! Oh no no no!,God forbid give me the binoculars oh no no no damn,74
+338,זה משנה ,Does it matter ,it matters,75
+339,נראה כאילו שהוא רוצה להסגיר את עצמו,Looks like he wants to turn himself in!,Looks like he wants to turn himself in,100
+340,זו לא אשמתי אני לא רוצה שעוד אנשים ייפגעו אל תזוז,It's not my fault I don't want any more hurt Freeze!,It's not my fault I do not want more people to be hurt do not move,68
+341,תישאר בדיוק איפה שאתה תיכנע אבל לא עשיתי כלום,Stay right where you are and give yourself up! But I didn't do anything!,Stay exactly where you will give up but I did nothing,60
+342,וורד לעזאזל חדל אש,Shingleton where the hell are you !,Word the hell stopped fire,61
+343,אני חושב שפגענו בו בואו נרד למטה ,I think we hit him Let us get down there ,"I think we hit him, let's go downstairs",77
+344,שריף לבסיס עבור,Sheriff to base come in ,Sheriff to Base for,81
+345,דבר ויל לסטר אנחנו נמצאים בערוץ,Go ahead Will Lester we're down in the gorge ,Will Lester thing we're in the channel,71
+346,אני לא רוצה שהגופה של גאלט תישאר כאן כל הלילה אעשה כמיטב יכולתי שמע ויל בחרת להתעסק עם טיפוס רציני,I don't want Gault's body out here all night Listen Will You sure picked one hell of a guy to mess around with!,I do not want Galette's body to stay here all night. I will do my best to hear.,64
+347,המידע הבא הגיע בטלפרינטר לפני כמה דקות ג'ון רמבו הוא מוותיקי וייטנאם מהכומתות הירוקות,Just came over the Teletype a few minutes ago John Rambo is a Vietnam vet ,The following information arrived on the teleprinter a few minutes ago John Rambo is a veteran of Vietnam from the Green Berets,61
+348,ידעתי שיש משהו בבחור הזה בדקתי את זה שוב ויל מה אתה רוצה שאני יעשה ,! I knew there was something about that guy! I double checked it Will ,I knew there was something in this guy I checked it out again Will what do you want me to do,67
+349,תעשה מה שאמרתי לך לעשות לעזאזל תחזיר לכאן את המסוק מיד!,I want you to do what I told you to do goddamn it! Get that chopper back here now!,"Do what I told you to do to hell, get the helicopter back here right away!",64
+350,הוא אדם אחד והוא פצוע,He's one man  wounded!,He is one person and he is wounded,63
+351,הכומתות הירוקות האלה הם ממש קשוחים למה שלא ניתן למשטרת הגבולות לטפל בזה ,Those Green Berets  they're real bad asses Why don't you let the State Police handle this ,These green berets are really tough for what the border police can't handle,66
+352,הוא ואני היינו חברים כשאימך עוד ניגבה לך את האף עכשיו הוא מת,He and I were friends when your momma was still wiping your nose! Now he's dead ,He and I were friends when your mother still wiped your nose now he's dead,89
+353,ואני יעשה את זה איתך או בלעדיך,And I'm gonna do it with you or without you!,And I will do it with you or without you,84
+354,אנחנו מתקרבים הריח מתחזק בסדר תהיו עירניים,We're closin' in the scent's getting stronger All right keep your eyes open!,We are approaching the smell is getting stronger in order be vigilant,60
+355,ויל קדימה בוא נסתלק מכאן לפני שיהיה חשוך מדי מה קרה אתה מפחד מהשד ,Will c'mon let's get out of here before it gets too dark What's the matter you afraid of the boogie man ,Will go ahead let's get out of here before it's too dark what happened you're afraid of the demon,73
+356,וורד תניח את הרובה שלך אני יראה לך מי פחדן,Put your gun down I'll show you who the pansy is!,Ward put down your rifle I'll show you who's a coward,63
+357,בואו נמצא את הבחור הזה תפקחו את העיניים נתראה אחר-כך וורד שתוק מיץ',Go find this guy for Chrissakes! Keep your eyes open! - I'll see you later Ward!,Let's find this guy. Open your eyes. See you later.,72
+358,תתפסו אותו חמודים הנה הארוחה שלכם,You hear me Art come in!,Catch it cute here is your meal,67
+359,זה לא הוא זה דחליל מזויין דחליל לא ירה באורביל הוא נמצא קרוב קרוב מאוד,It's not him it's a goddamned scarecrow! No scarecrow that shot Orville he's close ,It's not him. It's a fucking scarecrow. A scarecrow did not shoot Orbil. He's very close,82
+360,תהרגי אותו!,Kill him!,Kill him!,100
+361,תהרגי אותו!,Kill him!,Kill him!,100
+362,לכי תתפסי אותו לכי תתפסי אותו מגי,Go get him Maggie!,Go catch him Go catch him Maggie,61
+363,מיץ' מיץ' וורד בואו הנה בלפורד שינגלטון תחפו עלינו תסתכל על הרגל שלו,Mitch Ward come here! Shingleton you cover us ,Mitch Mitch Ward Come here Belford Shingleton Cover us Look at his leg,70
+364,תהדק את החגורה איפה ערכת העזרה ראשונה ,Where's the first-aid kit I left it in the car Shit!,Tighten the belt where the first aid kit is,70
+365,השארתי אותה במכונית לעזאזל מאיפה הוא השיג רובה ,Where's the first-aid kit I left it in the car Shit!,I left her in the car to hell where he got a rifle from,64
+366,הוא לקח את של גאלט נגמרה לו התחמושת איך אתה יודע ,- It's gotta be Art Gault's gun - He's outta ammo  - How do you know that ,He took Galet's run out of ammunition how do you know,62
+367,כי מה שהרג את הכלב האחרון לא היה כדור זה למה תזדרז אורביל תקשיב לי תקשיב,Because whatever killed Orval's dog was no bullet that's how! Hurry up! Orval listen to me now listen!,Because what killed the last dog was not a bullet is why hurry up Orbil listen me listen,75
+368,אתה חייב להישאר ער טוב ,You have to stay awake all right ,You must stay well awake,61
+369,לא הייתה לו הזכות לירות בתינוקות שלי תתפסו את הבן זונה הזה!,He had no right to shoot my babies Get the son of a bitch! - Let's go!,He did not have the right to shoot my babies catch this son of a bitch!,81
+370,במרחק של 15 מטר זה מזה ותמשיכו לנוע אין לו דרך לצאת מזה אלא דרכנו,We're gonna form a skirmish line 50 feet apart Keep moving there's no way outta here except through us ,At a distance of 15 meters from each other and keep moving he has no way out of it but through us,61
+371,קדימה נצא לציד ציד ,OK let's do some huntin'  Huntin' ,"Come on, let's go hunting",63
+372,תתפרסו תתפרסו לעזאזל אמרתי 15 מטר,Spread out Spread out dammit! I said 50 feet!,Spread out spread out heck I said 15 feet,83
+373,אני שונא את זה,I hate this!,I hate this,100
+374,ויל זה מיץ',Will it's Mitch!,Will is Mitch,86
+375,מי זה ,Who is it ,Who is,80
+376,לעזאזל מה קורה ,- What's goin' on ,What the hell is going on,67
+377,מי יורה ,Who is it ,Who shoots,63
+378,מי לעזאזל יורה ,Shingleton where the hell are you !,Who the hell is shooting,63
+379,פגעתי בו!,I made him ,I hit him!,63
+380,שינגלטון בוא אחריי,Shingleton follow me!,Shingleton come after me,73
+381,תעזור לי ויל,Will help me!,Will help me Will,83
+382,בלפורד איפה אתה לעזאזל,Who the hell are you ,Belford where the hell are you,76
+383,שינגלטון הוא כאן,Shingleton over here!,Shingleton is here,84
+384,שינגלטון איפה אתה לעזאזל ,Shingleton where the hell are you !,Shingleton Where the hell are you?,100
+385,יכולתי להרוג את כולם יכולתי להרוג אותך,I could have killed'em all I could have killed you ,I could kill them all I could kill you,77
+386,בעיר אתה הוא החוק אבל כאן בחוץ זה אני אל תלחץ,In town you're the law out here it's me! Don't push it!,In the city you are the law but out here it's I do not stress,68
+387,תניח לזה,Let it go ,Let it go,100
+388,תניח לזה,Let it go ,Let it go,100
+389,זוזו לאחור חברה זוזו לאחור,Move back you guys move back!,Move back Girlfriend Move back,72
+390,עד כמה המצב גרוע ,How bad is the situation ,How bad the situation is,100
+391,הדבר הטוב היחיד שיצא מזה הוא שהעסקים בעיר משגשגים הכתבים שותים כהוגן,That's the only good thing about this is the business you're doing in town! Reporters are drinking the place dry ,The only good thing that came out of it is that the businesses in the city are thriving and the reporters are drinking fairly,71
+392,אל תבלבל לי את המוח על תחום שיפוט במקרה הזה הבנת ,Your problem Listen Dave don't give me any of your horseshit about jurisdiction in this one you understand ,Do not confuse my mind about jurisdiction in this case understanding,63
+393,רק תסיים את מה שאתה עושה,- Just finish up what you're doing ,Just finish what you do,84
+394,במקום כלשהו בהרים האלה אולי מעבר לקו השלג אפוף בערפל מתחבא ג'ון רמבו הנמלט מפני החוק,Somewhere in this rugged mountain countryside possibly above the snow line shrouded in mist the fugitive John Rambo is hiding ,Somewhere in these mountains perhaps beyond the fog-covered snow line hides John Rambo fleeing from the law,63
+395,כעת אומרים שהנמלט יהיה נתון במעצר בתוך כמה שעות,And word now is that the fugitive will be in custody in a matter of hours ,It is now said that the fugitive will be detained within a few hours,68
+396,הנה המפות שלך ויל,Who the hell are you ,Here are your maps Will,60
+397,ויל יש משהו שאני חושב שכדאי שתדע,Will there's something I think you oughta know ,Will there's something I think you should know,87
+398,נדבר אחר-כך טוב ,I'll talk to you later OK ,We'll talk well later,65
+399,מה העניין ,What is it Lester ,what is the deal,61
+400,זה בכלל לא משנה דייב ואתה יודע את זה,It doesn't make one goddammed bit of difference Dave and you know it!,It does not matter at all Dave and you know it,65
+401,אם אחד מסגניי חרג בהתנהגות כלפי אסיר האסיר בא אלי ואם אני מגלה שהא דובר אמת אני מכסח את הסגן ,If one of my deputies  gets outta line with a prisoner then the prisoner comes to me with it! And if I find out it's like he says I kick the deputy's ass! Me the law!,If one of my deputies deviates in behavior towards the prisoner the prisoner comes to me and if I find out that he is telling the truth I mow the lieutenant,72
+402,בחיי מה גרם לאלוהים ליצור אדם כמו רמבו ,Whatever possessed God in heaven to make a man like Rambo ,In my life what made God create a man like Rambo,65
+403,אלוהים לא יצר את רמבו,God didn't make Rambo ,God did not create Rambo,62
+404,אני יצרתי אותו ,I hate this!,I created it,61
+405,מי אתה לעזאזל ,Who the hell are you ,who the hell are you,100
+406,סאם טראוטמן קולונל סמואל טראוטמן אנחנו קצת עסוקים הבוקר מה אני יכול לעשות בשבילך ,Sam Trautman Colonel Samuel Trautman We're a little busy this morning Colonel what can I do for ya ,Sam Trautman Colonel Samuel Trautman We're a little busy this morning what I can do for you,94
+407,אני גייסתי אותו אימנתי אותו ופיקדתי עליו בוייטנאם במשך 3 שנים ,I recruited him I trained him I commanded him in Vietnam for 3 years ,I recruited him I coached him and commanded him in Vietnam for 3 years,84
+408,הייתי אומר שזה עושה אותו שלי מעניין למה שולח הפנטגון קולונל לטפל בעסק הזה,I'd say that makes him mine I wonder why the Pentagon would send a full bird Colonel to handle this ,I would say that makes it my own interesting why the Pentagon sends Colonel to take care of this business,71
+409,הצבא חשב שאולי אני אוכל לעזור אני לא יודע כיצד רמבו הוא אזרח כעת והוא הבעיה שלי,The army thought I might be able to help I don't know in what way Rambo's a civilian now he's my problem ,The military thought maybe I could help I do not know how Rambo is a citizen now and he's my problem,68
+410,אני חושב שאתה לא מבין לא באתי לכאן כדי להציל את רמבו מפניך,I don't think you understand I didn't come here to rescue Rambo from you ,I think you do not understand I did not come here to save Rambo from you,86
+411,באתי להציל אותך מפניו,I came here to rescue you from him ,I came to save you from him,82
+412,כולנו מודים לך על דאגתך קולונל ונשתדל להיות זהירים במיוחד,Well we all appreciate your concern Colonel We'll try to be extra careful!,We all thank you for your concern Colonel and we will try to be especially careful,76
+413,אני פשוט מתפלא שהוא איפשר לחבורה שלך להישאר בחיים באמת ,I'm just amazed he allowed any of your posse to live Is that right ,I'm just amazed that he allowed your gang to really stay alive,72
+414,האמת היא שהוא פישל יש לך מזל שאתה נושם נהדר,Strictly speaking he slipped up You're lucky to be breathing! That's just great!,The truth is he screwed up you are lucky you are breathing great,66
+415,באת לכאן כדי לברר למה אחת המכונות שלך משתוללות אינך מוכן להשלים עם העובדה שיש לך עסק עם מומחה בלוחמה,Colonel you came out here to find out why one of your machines blew a gasket! You don't seem to want to accept the fact that you're dealing with an expert in guerilla warfare ,You came here to find out why one of your machines is raging You are not ready to put up with the fact that you have a business with a war specialist,68
+416,עם אדם שמצטיין בשימוש ברובים בסכינים ובידיו אדם שאומן להתעלם מכאב להתעלם ממזג האוויר ,With a man who's the best With guns with knives with his bare hands A man who's been trained to ignore pain ignore weather ,With a person who excels at using guns with knives and in his hands A person who has been trained to ignore pain Ignore the weather,78
+417,לחיות מפרי האדמה לאכול דברים שהיו גורמים לעז להקיא,To live off the land  To eat things that would make a billy goat puke ,Live from the fruits of the earth and eat things that would make a goat vomit,68
+418,בוויטנאם תפקידו היה להיפטר מהאויב להרוג!,In Vietnam his job was to dispose of enemy personnel to kill  period!,In Vietnam his job was to get rid of the enemy and kill!,77
+419,טוב קולונל הפחדת את כולנו עד מוות ,OK Colonel now you've got us all scared to death ,"Good Colonel, you scared us all to death",87
+420,אז מה אתה והכוחות המיוחדים חושבים שעלי לעשות בקשר למשוגע הזה ,What do you and the Special Forces think I oughta do about your psycho out there ,So what do you and the special forces think I should do about this lunatic,79
+421,תניח לו ללכת מה ,Let him go - Do what ,Let him go what,91
+422,לעת עתה תרגיע את כל המצב תרגיע אותו ,- For now Defuse the whole situation defuse him ,"For now, calm down the whole situation, calm him down",73
+423,תספק לו פרצה קלה שדרכה הוא יברח ואז תפיץ צו מעצר ארצי בעוד כמה שבועות תמצא אותו בסיאטל או במקום כלשהו שוטף מכוניות ,Provide a little gap and let him slip through it Then put out a nation wide APB In a couple of weeks you'll pick him up in Seattle or someplace working in a car wash ,Provide him with a slight loophole through which he will escape and then issue a national arrest warrant in a few weeks you will find him in Seattle or somewhere car wash,67
+424,לא יהיה קרב ואף אחד לא ייפגע אני עושה את עבודתי,There'll be no fight and nobody else will get hurt I do my own work ,There will be no battle and no one will be hurt I do my job,68
+425,ואני לא חושב שהדרך היא לעצום את העיניים ולקוות שייעצר בסיאטל אם תשלח את אנשיך בעקבותיו הם ייהרגו,I don't figure the best way to do that is to close my eyes and then hope he gets picked up in Seattle! If you send your people in there after him they'll get killed!,"And I do not think the way is to close your eyes and hope he is arrested in Seattle. If you send your men after him, they will be killed.",70
+426,בעיירה שלנו יש משרד שריף קטן אך מצפים מאיתנו שנעשה את חובתנו בדיוק כמו הגיבורים מהכוחות המיוחדים,You know we're just a small hick town Sheriff's department Colonel but we're expected to do our duty just like our heroes in the Special Forces ,Our town has a small sheriff's office but we are expected to do our duty just like the heroes from the special forces,72
+427,בכוחות המיוחדים אנו מלמדים את אנשינו להישאר בחיים במסגרת התפקיד מה אתה אומר ,In Special Forces we teach our people to stay alive in the line of duty ,In special forces we teach our people to stay alive in the role of what you say,81
+428,אתה רוצה מלחמה שלא תוכל לנצח בה ,You want a war you can't win ,You want a war you can not win,97
+429,אתה רוצה להגיד לי ש-200 איש נגד הבחור שלך זה מצב שלא נוכל לנצח בו ,Are you tellin' me that 200 men against your boy is a no win situation for us ,You want to tell me that 200 people against your guy is a situation we can not beat,75
+430,אם אתה שולח הרבה אנשים אל תשכח דבר אחד מה ,You send that many don't forget one thing What ,If you send a lot of people do not forget one thing what,69
+431,לאספקה טובה של שקיות לגופות  טראוטמן,A good supply of body-bags! Trautman!,For a good supply of bags for Troutman bodies,82
+432,אני לא יודע לצד מי אתה טראוטמן אני עדיין חושב שבאת לכאן כדי לחפות על עצמך,I don't know which side you're on Trautman  I still think you came out here just to cover your ass ,I do not know next to whom you are Trautman I still think you came here to cover yourself,80
+433,אך אם אתה רציני בקשר להוצאת רמבו בצורה נקייה בוא איתי,But if you're serious about taking Rambo out clean follow me  ,But if you're serious about getting Rambo out clean come with me,81
+434,משטרת הגבולות לג'ון רמבו תענה בבקשה עבור,State police calling John Rambo Come in please Acknowledge!,Border Police John Rambo will answer please for,65
+435,אם אתה מאזין רמבו הנה תיאור מצבך אתה מוקף,If you're listening Rambo here's your situation: you are surrounded ,If you are listening to Rambo here is a description of your situation you are surrounded,79
+436,ותזכה ליחס הוגן רק תענה ונפתור הכל עבור יש משהו ,And you'll receive fair treatment Just respond we can work everything out  over Anything ,And you will get fair treatment just answer and we will solve everything for there is something,66
+437,הוא לקח מכשיר קשר מאחד הסגנים שלי והוא ודאי מאזין במקומו הייתי מנסה ללקט מידע,- He took a radio off one of my deputies - Then he has to be listening If I was in his position I'd try to pick up some information ,He took a walkie-talkie from one of my deputies and he must be listening in his place I would try to gather information,69
+438,אבל אולי הוא יעשה את זה למענך קולונל הוא הילד שלך לא ,No not for us but he might do it for you Colonel He's your boy isn't he ,But maybe he will do it for you Colonel is your child not,67
+439,אולי תוכל לשכנע אותו לחוס על חיינו בכך שיסגיר את עצמו,Maybe you can talk him into sparing all our lives by giving himself up ,Maybe you can convince him to spare our lives by betraying himself,75
+440,אני יכול לנסות לפחות כך נדע את המיקום שלו אם לא אכפת לך לטמון לו פח,I can try At least we'd get a radio fix on his position if you don't mind setting him up for us  ,I can at least try so we know his location if you do not mind burying him tin,63
+441,זה כמו להביא את היונים לחתול  תודה שהבאת את אנשיך תמיד לשירותך ויל,It's like bringing the pigeons to the cat! Thanks for bringing your people out Any time Will ,"It's like bringing the pigeons to a cat. Thank you for always bringing your people to your service, Will",81
+442,קדימה בובי תניח את העיתון שים לב!,C'mon Bobby put the magazine away will ya Pay attention ,"Come on, Bobby, put down the paper, pay attention!",67
+443,"עבור ""עורב"" ",Come on Raven ,"For ""raven""",64
+444,דבר אליי ג'וני ,Talk to me Johnny ,"Talk to me, Johnny",100
+445,"מפקד פלוגה יזהה את ""צוות בייקר""  רמבו מסנר אורטגה קולטה יורגנסון דנפורת' ברי קראקאוור ",Company leader to identify Baker Team: Rambo Messner Ortega Coletta ,"Company Commander will identify ""Baker Team"" Rambo Messner Ortega Colette Jorgenson Danforth Berry Crackower",69
+446,כאן קולונל טראוטמן,This is Colonel Trautman ,This is Colonel Trautman,100
+447,דבר אליי ג'וני,Talk to me Johnny ,"Talk to me, Johnny",100
+448,רמבו אתה בסדר ,Rambo! Are you still reading me ,Rambo you're fine,60
+449,צוות בייקר הם כולם מתו המפקד ,Over Baker team they're all dead Sir ,The Baker team are all dead commander,68
+450,לא דלמאר ברי הוא נותר בחיים ,Not Delmare Berry he made it ,Not Delmar Berry is he alive,75
+451,איך ,How ,how,100
+452,הוא בעצם נהרג בוויטנאם רק לא ידע זאת הסרטן אכל אותו עד העצם,Got himself killed in Nam  Didn't even know it Cancer ate him down to the bone ,He was actually killed in Vietnam just did not know it the cancer ate him to the bone,67
+453,אני מצטער לא ידעתי,I'm sorry I didn't know ,I'm sorry I did not know,85
+454,אני האחרון שנותר המפקד טוב לשמוע את קולך ג'וני עבר זמן רב,I'm the last one Sir It's good to hear your voice Johnny It's been a long time!,I're the last remaining commander good to hear your voice Johnny has been a long time,76
+455,תראה ג'ון גרמת לקצת נזקים כאן זהו זה! הם לא רוצים יותר בעיות ,Look John you've done some damage here but they don't want any more trouble ,Look John did some damage here this is it! They do not want more problems,65
+456,הוא בצפון-מערב לכן באתי אני מתכוון להיכנס ולהוציא אותך משם בטיסה,He's north-west! That's why I've come I'm gonna come in and fly you the hell out ,He's in the northwest so I came I plan to get in and get you out of there by flight,67
+457,רק אתה ואני נפתור את זה יחד זה מספיק הוגן ,Just you and me We'll work this out together Is that fair enough ,Just you and me solving it together is fair enough,74
+458,מאיפה באת המפקד ,Where'd you come from Sir ,"Where did you come from, sir?",96
+459,מבראג ,Bragg ,From Bragg,67
+460,ניסיתי ליצור איתך קשר אבל בבראג לא ידעו איפה למצוא אותך לאחרונה לא ביליתי שם זמן רב הועברתי לוושינגטון ,I tried to get in touch with you but the guys at Bragg never knew where to find you Well I haven't been spending much time there lately they've got me down in DC ,I tried to contact you but in Bragg did not know where to find you recently I did not spend much time there I was transferred to Washington,60
+461,אני מבריק את הכיסא עם הישבן הלוואי והייתי חזרה בבראג,I'm shining a seat with my ass I wish I was back in Bragg now ,I polish the chair with the butt I wish I was back in Bragg,65
+462,נדבר על זה כשתסגיר את עצמך אני לא יכול לעשות את זה המפקד,We'll talk about that when you come in I can't do that Sir ,"We'll talk about it when you turn yourself in. I can not do that, sir",77
+463,ג'ון לא ייתכן שתתרוצץ ותחסל אזרחים ידידותיים אין אזרחים ידידותיים אני חבר שלך ג'וני ,Well look John we can't have you running around out there wasting friendly civilians - There are no friendly civilians - I'm your friend Johnny ,John You can not run and kill friendly citizens No friendly citizens I'm your friend Johnny,70
+464,הייתי איתך כשהיינו שקועים עמוק בדם ומעיים חיפיתי עליך יותר מפעם אחת,I was there with you knee deep in blood and guts I covered your ass more than once!,I was with you when we were deep in blood and guts I covered you more than once,84
+465,עושה רושם שלחלץ אותך מצרות הפך לתפקיד לכל חיי לא היו שום צרות לולא השוטר המחורבן ההוא,Seems like bailing you out of trouble is becoming a lifetime job for me! There wouldn't be no trouble except for that king shit cop!,It seems that rescuing you from trouble has become a job for the rest of my life there would have been no trouble if not for that damn cop,67
+466,רציתי רק משהו לאכול ,All I wanted was something to eat ,I just wanted something to eat,79
+467,תאפשר לי להכנס ולהוציא אותך משם,Let me come in and get you the hell outta there ,Allow me to get in and get you out of there,64
+468,הם היו הראשונים שהקיזו דם,- Where the hell are they ,They were the first to shed blood,64
+469,רמבו אתה עדיין שומע אותי ,Rambo! Are you still reading me ,Rambo you can still hear me,74
+470,רמבו תאשר ,Will come on  ,Rambo will confirm,67
+471,לעזאזל!,Goddammit ,damn it!,62
+472,לעזאזל!,Goddammit ,damn it!,62
+473,היי לבחור הזה יש רובה ,Earl this creep is a killer!,Hi this guy has a rifle,60
+474,הנה הבחור שהשוטרים ירו עליו איפה ,There's the guy the cops are shootin' at!,Here's the guy the cops shot at where,82
+475,שם אני רואה אותו שם!,There he is!,There I see him there!,62
+476,בואו!,Come on!,Come!,73
+477,הנה הוא!,There he is!,here he is!,67
+478,עכשיו תפסנו אותו,Now we got him!,Now we caught him,84
+479,כן אני יודע בדיוק איפה זה ,Yes I know exactly where it is ,Yes I know exactly where it is,100
+480,אני לא רוצה אותו מת ,I don't want him dead I want him alive!,I do not want him dead,70
+481,תמשיכו לירות!,And no shooting!,Keep shooting!,64
+482,קדימה חבר'ה תירו!,Come on guys shoot!,Come on guys shoot!,100
+483,אתם נהדרים ,You guys are great!,You are great,84
+484,סטיב אני רוצה שאתה וברוס תגשו לפתח המכרה ,- All right Steve - Yo! I want you and Bruce head around these trees go to the front of that mine ,Steve I want you and Bruce to go develop the mine,61
+485,אין שום סיכוי קלינטון  אני לא עולה לשם ,Screw that Clint but I ain't goin' up there! No way!,There's no chance Clinton I'm not going up there,66
+486,ברנדון ,- Brandon - What ,Brandon,74
+487,אני רוצה שתיכנס למכרה ,- I want you to go into that mine ,I want you to go on sale,76
+488,לא אני ,- No not me!,not me,80
+489,"מה זאת אומרת ""לא אני"" ",What do you mean not me !,"What do you mean ""not me""",100
+490,שמע זו רק עבודה חלקית שלי לא באתי לכאן כדי ליהרג ,Look I do this part time I didn't come here to get killed ,Hear this is only my partial job I did not come here to be killed,69
+491,הוא בטח מחכה לנו שם בפנים ,He's probably just waitin' for us!,He's probably waiting for us in there,81
+492,מה קרה לך קלינטון ,- I want you to go into that mine ,"What happened to you, Clinton?",64
+493,רמבו כאן סגן קלינטון מורגן מנהיג המשמר הלאומי ,Rambo! This is Lieutenant Clinton Morgan National Guard leader ,Rambo here is Deputy Clinton Morgan National Guard leader,76
+494,אני נותן לך 30 שניות כדי לצאת משם ,And I'm giving you just 3 0 seconds to come on out ,I'll give you 30 seconds to get out of there,66
+495,אצל מי המשגר טילים ,Who's got the rocket launcher ,For those who launch missiles,66
+496,אצלי בוא הנה ארל ,Where'd you come from Sir ,"For me, come here, Earl",65
+497,רמבו זו ההזדמנות האחרונה שלך לצאת משם ,Rambo! This is your last chance to come out ,Rambo is your last chance to get out of there,85
+498,אולי כדאי שנחכה ,Maybe we should wait ,Maybe we should wait,100
+499,ארל החלאה הזה הוא רוצח ,Earl this creep is a killer!,This scumbag earl is a killer,75
+500,חוץ מזה אני המפקד כאן ואני אומר שנפוצץ את המקום ,Besides I'm in charge and I say we blow it up! Now fire that thing!,"Besides, I'm the commander here and I say we'll blow up the place",73
+501,עכשיו תירה בזה! רק תן לי לצאת מהדרך קודם ,Just let me get outta the way first ,Now shoot it! Just let me get out of the way first,81
+502,תנו לו סיגר!,Give that man a cigar!,Give him a cigar!,76
+503,בול פגיעה!,Bull's eye!,Bull's Eye!,100
+504,איפה הם לעזאזל ,- Where the hell are they ,Where the hell are they?,100
+505,אני לא מאמין!,I don't believe it!,I do not believe!,82
+506,אדיוטים!,Idiots!,Idiots!,100
+507,לעזאזל! מה אתם חושבים שזה קרקס פה ,Dammit what the hell do you think this is some kind of a circus ,damn it! What do you think it's a circus here,73
+508,תסתלקו מכאן!,Get the hell outta here!,Get out of here!,63
+509,לא הודיעו לך קלינטון ,Didn't you get the word Clinton ,You were not notified by Clinton,63
+510,אמרתי לכם לחכות עד שאני יגיע ,I told you people to wait until I got up here!,I told you to wait until I arrived,73
+511,הוא ירה עלינו ויל ,A shot of wild turkey ,Will shot at us,67
+512,איזה בלאגן!,What a mess!,What a mess!,100
+513,נצטרך להוציא את הגופה שלו משם מיד ,We have to dig his body out of there right away ,We'll have to get his body out of there right away,93
+514,אי-אפשר להעלות לכאן דחפור תצטרך למצוא מישהו שיחפור ,You can't get a dozer up here you're gonna have to find somebody to dig him out!,It's impossible to bring a bulldozer here. You'll have to find someone to dig,63
+515,זה הבלאגן שלך קלינטון ,What's wrong with you Clinton ,"This is your rush, Clinton",67
+516,אז מוטב שתתחיל מיד קלינטון ,You'd better get started right away Clinton!,So you better start Clinton right away,86
+517,לעזאזל!,Goddammit ,damn it!,62
+518,"נקבר בבור על-ידי קבוצה של ""לוחמים לסופי שבוע"" ",Buried in a hole by a bunch of goddamned weekend warriors!,"Buried in a pit by a group of ""weekend warriors""",76
+519,חשבתי שאמרת שהוא הטוב ביותר שאי-פעם אימנת ,Thought you said he was the best you ever trained!,I thought you said he was the best you've ever coached,83
+520,לא משנה מה היה סופו הייתה תקופה שהוא היה מיוחד למדי ,However he may have ended up there was a time when he was very special ,No matter what the end was there was a time when he was quite special,66
+521,מיוחד בתחת שלי!,'Special' my ass!,Special in my ass!,90
+522,סתם עוד נווד שעבר על החוק ,He was just another drifter that broke the law ,Just another hobo who broke the law,74
+523,זה יראה נהדר על המצבה שלו בארלינגטון ,That's gonna look real good on his gravestone in Arlington:,It would look great on his tombstone in Arlington,60
+524,כאן שוכב ג'ון רמבו בעל אות הגבורה ,"""Here lies John Rambo winner of the Congressional Medal of Honor ",Here lies John Rambo with the Medal of Heroism,72
+525,ניצול מאין-ספור חדירות אל מעבר לקווי האויב ,Survivor of countless incursions behind enemy lines ,Utilizing countless intrusions beyond enemy lines,76
+526,אתה חושב שרמבו הוא היחיד שהיה לו קשה בוויטנאם ,You think Rambo was the only guy who had a tough time in Vietnam ,You think Rambo is the only one who had a hard time in Vietnam,81
+527,הוא הרג שוטר לעזאזל ,Earl this creep is a killer!,He killed a cop to hell,60
+528,יש לכם מזל שהוא לא הרג את כולכם ,You're goddamned lucky he didn't kill all of you  ,You're lucky he did not kill you all,81
+529,האיש הטוב יותר הפסיד וזה לא מוצא חן בעיניו ,The best man lost! And he doesn't like it!,The better man lost and he did not like it,85
+530,קולונל,Colonel ,colonel,100
+531,שב ,Shit!,Sit,86
+532,עוד אחד כזה היי שריף ואחד לחבר שלי,Oh miss can you do this again please - Oh sure! - And for my friend  ,Another one like this Hi Sheriff and one for my friend,62
+533,אם דבריי לא היו במקום קודם אני רוצה להתנצל ,If I was out of line before I just want to apologize ,If my words were not in place before I would like to apologize,67
+534,אני מניח ש  לא יודע אני פשוט מרגיש  כאילו גזלו לך את ההזדמנות שלך ,I suppose  I just feel  Like you were  cheated outta your chance ,I guess I do not know I just feel like you were robbed of your opportunity,62
+535,רציתי להרוג את הבחור הזה ,I wanted to kill that kid ,I wanted to kill this guy,80
+536,כל-כך רציתי להרוג אותו שממש יכולתי לחוש בטעם ,I wanted to kill him so bad I could taste it ,I so wanted to kill him that I could really taste,80
+537,זה לא מתיישב טוב עם התג שלך נכון ,Doesn't sit well with that badge ,It does not fit well with your badge right,78
+538,לפעמים המצב קצת מבלבל ,It can get confusing sometimes  ,Sometimes the situation is a bit confusing,69
+539,בוויטנאם רמבו ואני די התבלבלנו ,In Vietnam you can bet that Rambo and I got pretty confused ,In Vietnam Rambo and I were quite confused,67
+540,כשיש ספק תהרגו ,When in doubt  kill!,When in doubt you will be killed,72
+541,אבל בחייך אתה אזרח אתה יכול לחזור הביתה לאישה לבית ולערוגת הפרחים ,But what the hell you're a civilian You can go home to your wife and your house and your little flower garden ,But in your life you are a citizen you can return home to a woman to the house and the flower bed,69
+542,אתה לא חייב להבין מה קרה ,This mission is over Rambo Do you understand me ,You do not have to understand what happened,60
+543,ומה איתך קולונל ,Think about what you're doin' ,"And what about you, Colonel?",70
+544,מה אתה היית עושה איתו אם הוא היה מסגיר את עצמו ,I mean what would you have done with him if he came in ,What would you do with him if he betrayed himself,72
+545,לא אוכל לענות על זה עד שאפגוש אותו פנים אל פנים ,I couldn't answer that until I met him face to face ,I will not be able to answer this until I meet him face to face,77
+546,ובכן זהו זה ,Well there it is ,Well that's it,67
+547,תנהג!,Drive!,Drive!,100
+548,אל תסתכל עלי תסתכל על הכביש ,Don't look at me look at the road ,Do not look at me look at the road,90
+549,כך קורות תאונות ,That's how accidents happen!,This is how accidents happen,91
+550,מה שמך ,- What's your name ,What is your name,85
+551,קת'קארט רוברט איי' ,- Cathcart Robert A ,Catharte Robert A.,94
+552,טוב עכשיו צא מהמשאית ,- OK Robert A  get out of the truck ,Well now get out of the truck,69
+553,בבקשה אין לי ריב איתך  קדימה זוז!,Oh miss can you do this again please - Oh sure! - And for my friend  ,Please I have no quarrel with you go ahead and move!,64
+554,בא לך להגביר את זה ,Want to turn that up ,You want to step it up,62
+555,"מה הסיפור שלך ""ספינת קיטור"" ",What's your story Steamboat ,"What is your story ""Steamer""",87
+556,היי ויל זה רמבו!,Hey Will it's Rambo!,Hi Will this is Rambo!,80
+557,זוזו!,Move!,Move!,100
+558,מה לעזאזל קורה שם ,What the hell is going on !,What the hell is going on there,89
+559,כל האזרחים נא לשים לב!,Attention all civilians!,All citizens please pay attention!,71
+560,לא מעניין אותי מי הוא  לעזאזל!,What the hell is going on !,I do not care who the hell he is!,63
+561,הישארו בבתיכם עד שתקבלו הנחיות נוספות ,Remain indoors until you receive further instructions ,Stay in your home until you receive further instructions,79
+562,אני חוזר זהו מצב חירום משטרתי אנא פנו את הרחובות מיד!,I repeat: this is a police emergency Please evacuate the streets immediately ,I repeat this is a police emergency please clear the streets immediately!,90
+563,מצאו את הגופה של רמבו ,They found Rambo's body  ,Find Rambo's body,80
+564,למעשה היא גנבה משאית צבאית ופוצצה תחנת דלק בקצה העיר ,As a matter of fact he stole an army truck and blew up a gas station on the other side of town ,"In fact, she stole a military truck and blew up a gas station on the edge of town",77
+565,הבחור מתאושש מהר  אולי תשכח ממה שאתה חושב ותסתלק כל עוד אתה יכול ,The kid is resilient Why don't you forget what you're thinking and clear out while you can ,The guy is recovering fast maybe you will forget what you are thinking and walk away for as long as you can,65
+566,תסתלק מכאן טראוטמן ,Get the fuck outta here Trautman!,Get out of here Trautman,75
+567,וקח איתך את העצות שלך ,You take your advice with you ,And take with you your advice,86
+568,"כשדיברתי איתך אחה""צ ידעת שהוא עדיין בחיים נכון ",When I talked to you earlier this afternoon you knew he was still alive didn't you ,"When I spoke to you this afternoon, you knew he was still alive",78
+569,אתה לימדת אותו איך להיחלץ ממקומות כמו המערה ההיא ,You taught him how to get out of places like that cave ,You taught him how to get out of places like that cave,100
+570,אבל הוא לא יצליח להיחלץ מהמקום הזה ,But he's not gonna get out of this place!,But he will not be able to get out of this place,73
+571,טיזל אתה וכל אנשיך לא הצלחתם להתמודד איתו קודם מה גורם לך לחשוב שתוכל להתמודד איתו עכשיו ,Teasle you and all your men couldn't handle him before what makes you think you can handle him now ,Thistle you and all your people you have not been able to deal with before what makes you think you can deal with him now,68
+572,רק אלוהים יודע איזה נזק הוא מוכן לעשות ,Because God knows what damage he's prepared to do ,Only God knows what damage he is willing to do,65
+573,אתה תמות טיזל ,You're gonna die Teasle ,You'll die thistle,63
+574,יש רק אדם אחד בחדר הזה שאולי יש לו סיכוי וזה לא בגלל שאני יותר טוב ממנו ,There's only one man in this room that has half a chance That's not because I'm better than he is ,There's only one person in this room who might have a chance and it's not because I'm better than him,78
+575,זה בגלל שהוא בוטח בי ,But it's because he trusts me ,It's because he trusts me,93
+576,אני הדבר הקרוב ביותר למשפחה שיש לו וייתכן שזה היתרון היחיד שאזדקק לו ,See I'm the closest thing to family that he has left and that may be all the edge I need ,I'm the closest thing to a family he has and that may be the only benefit I'll need,82
+577,אלוהים! מאיפה לעזאזל באתם ,Jesus Christ where do you people come from ,God! Where the hell did you come from?,67
+578,זה התפקיד שלי טראוטמן ,This is my job Trautman this is my town!,"That's my job, Trautman",69
+579,זו העיירה שלי ולא אתן אותה בידיך או בידי רמבו או כל אחד אחר ,And I'm not giving it up to you or to Rambo or anybody else!,This is my town and I will not give it to you or Rambo or anyone else,81
+580,שמע ויל יש לנו בעיות רציניות ,Listen Will we've got some serious problems ,Hear Will we have serious problems,70
+581,הכביש המהיר מנותק המשאית כאן אבל לא מצאנו גופה ,The truck's out here but we couldn't find the body ,The highway is off the truck here but we did not find a body,76
+582,אני חוזר אין גופה ,♪ That I know could never be ♪,I repeat no body,62
+583,פרסטון סלק את האנשים האלה משם ,Preston get those people outta here!,Preston drove these people away,70
+584,תעביר אותם לצד הדרומי ,Move them back to the south side ,Move them to the south side,92
+585,קדימה! קדימה בן-זונה מטורף שכמוך תגמור עם זה ,Go ahead you crazy son of a bitch finish me!,"forward! Come on, son of a bitch, fuck you",61
+586,רמבו!,Rambo!,Rambo!,100
+587,רמבו אל תעשה את זה!,Rambo don't do it!,Rambo Do not do that!,81
+588,תקשיב לי רמבו ,Listen to me Rambo! You have no chance ,Listen to me Rambo,65
+589,תניח את הנשק שלך ,Drop your weapon ,Lay down your weapon,78
+590,אודיע למסוק להגיע ואטיס אותך בחזרה לבראג ,We're gonna order a chopper in and fly you back to Bragg ,I will let the helicopter come and take you back to Bragg,65
+591,חשוב על מה שאתה עושה!,Think about what you're doin' ,Think about what you do!,90
+592,הבנין מכוסה מכל כיוון ,The building's perimeter's covered ,The building is covered from every direction,74
+593,אין דרך החוצה ,Just was not there ,There is no way out,76
+594,נמצאים שם כ-200 איש והרבה רובי אם-16 ,There's nearly 200 men out there and a lot of M16s!,There are about 200 people there and a lot of M-16 rifles,64
+595,עשית הכל כדי שהמלחמה הפרטית הזו תפרוץ ,You did everything to make this private war happen ,You did everything to make this private war break out,83
+596,כבר עשית מספיק נזק ,You've done enough damage!,You've already done enough damage,86
+597,המשימה הזו הסתיימה רמבו ,This mission is over!,This mission ended Rambo,68
+598,המשימה הזו הסתיימה!,This mission is over!,This mission is over!,100
+599,תסתכל עליהם שם בחוץ ,Look at 'em out there ,Look at them out there,81
+600,תסתכל עליהם!,Look at 'em out there ,Look at them!,69
+601,אם לא תגמור את זה עכשיו הם יהרגו אותך ,If you won't end this happen they'll kill you!,If you do not finish it now they will kill you,62
+602,זה מה שאתה רוצה ,Is that what you want ,This is what you want,90
+603,זה נגמר ג'וני זה נגמר ,It's over Johnny It's OVER!,It's over Johnny it's over,100
+604,שום דבר לא נגמר ,Nothing is over!,Nothing is over,100
+605,שום דבר!,Nothing!,Nothing!,100
+606,זו לא הייתה המלחמה שלי ,It wasn't my war ,This was not my war,69
+607,אתה פנית אליי לא אני אליך ועשיתי מה שהייתי צריך כדי לנצח אבל לא נתנו לנו לנצח,You asked me I didn't ask you! And I did what I had to do to win but someone wouldn't let us win ,You turned to me no I to you and I did what I needed to win but they did not let us win,73
+608,ואז אני חוזר לעולם ואני רואה את כל החלאות האלה בשדה התעופה מפגינים נגדי יורקים עלי,And I come back to the world and I see all those maggots at the airport protesting' me spittin' ,Then I go back to the world and I see all these scum at the airport demonstrating against me spitting on me,71
+609,מכנים אותי רוצח תינוקות וכל החרא הזה ,Callin' me baby killer and all kinds of vile crap!,I'm called a baby killer and all that shit,64
+610,מי הם ,Who are they ,who are they,100
+611,בשבילך בשבילי החיים האזרחיים הם כלום ,FOR YOU! For me civilian life is nothing ,For you for me civilian life is nothing,100
+612,כאן אין כלום ,Back here there's nothing!,There is nothing here,78
+613,אתה האחרון מחבורה נבחרת אל תסיים את זה בצורה כזו ,You're the last of an elite group  don't end it like this ,You're the last of a select bunch. Do not end it that way,64
+614,שם יכולתי להטיס מטוס-קרב לנהוג בטנק הייתי אחראי על ציוד ששווה מיליונים ,Back there I could fly a gunship I could drive a tank I was in charge of a million dollar equipment!,There I could fly a fighter jet to drive a tank I was in charge of equipment worth millions,74
+615,איפה כולם ,Where is everybody ,Where is everybody,100
+616,היה לי חבר דנפורת'  היו כל אותם חבר'ה בנאדם ,I had a friend who was in the Air Force There were all these guys man ,I had a friend Danforth had all those guys man,64
+617,שם תמיד הייתי עם החבר'ה ,♪ Into the world they've been ♪,I've always been there with the guys,60
+618,שהיו חברים שלי ,Who were my friends!,Who were my friends,100
+619,כאן אין שום דבר ,Back here there's nothing!,There is nothing here,78
+620,זוכר את דנפורת' ,Remember Dan Forest ,Remember Danforth,89
+621,"כשהיינו שם לקחתי עיפרון-קסם ורשמתי ""מצאתי"" ושלחתי את זה ללאס-וגאס כי תמיד דיברנו על וגאס","Wore this black headband I took one of his magic markers and I said: ""If found you mail this to Las Vegas"" 'cause we were always talkin' about Vegas and this fuckin' car ","When we were there I took a magic pencil and wrote ""I found"" and sent it to Las Vegas because we always talked about Vegas",68
+622,הוא דיבר על המכונית הזאת הוא אמר שניסע בה עד שיפלו ממנה הצמיגים ,He was talkin' about his car he said we'd get cruised till the tires fell off!,"He talked about this car, he said we would drive it until the tires fell off",75
+623,"כשהיינו בבר בסייגון ניגש אלינו ילד אחד ולילד הייתה קופסא להברקת נעליים והוא אמר ""להבריק"" ""להבריק"" ","We were in this bar in Saigon and this kid comes up this kid carrying a shoe shine box And there he says: ""Shine please shine!""","When we were at the bar in Saigon one boy approached us and the boy had a box for polishing shoes and he said ""shine"" ""shine""",62
+624,ואני אמרתי לא והוא המשיך עד שג'ואי הסכים,I said no and he kept askin' yeah and Joe would say 'yeah' ,And I said no and he kept going until Joey agreed,67
+625,והלכתי להביא כמה בירות והקופסא הייתה ממולכדת והוא פתח אותה ,I went to get a couple of beers And the box was wired He opened up the box  ,And I went to get some beers and the box was trapped and he opened it,73
+626,והוא שוכב שם וצורח וחתיכות של הגוף שלו עפו עלי ,He's laying there and he's fucking screaming there's pieces of him all over me!,And he was lying there screaming and pieces of his body flew over me,75
+627,ואני מנסה לנער אותו מעליי וזה החבר שלי!,And I'm trying to pull them off you know  my friend!,And I'm trying to shake it off me and this is my boyfriend!,67
+628,הוא כולו מרוח עלי  היה דם וכל השאר ואני מנסה להחזיק אותו בחתיכה אחת  ולחבר אותו שוב וכל הזמן המעיים המזויינות שלו נשפכו,It's all over me! I got blood and everything and  I'm trying to hold him together I put him together the fucking entrails keep coming out!,He was all smeared on me there was blood and everything else and I try to hold him in one piece and connect him again and all the time his fucking guts spilled,63
+629,ואף אחד לא עזר ,And nobody would help!,And no one helped,68
+630,"""אני רוצה הביתה ג'וני לנהוג בשברולט שלי"" ואני לא הצלחתי למצוא את הרגליים המזוינות שלו!","""I wanna go home Johnny I wanna drive my Chevy!""","""I want home Johnny to drive my Chevrolet"" and I could not find his fucking legs!",60
+631,לא הצלחתי למצוא את הרגליים שלו  אני לא יכול להוציא את זה מהראש ,"""I can't find your legs!"" I can't get it out of my head ",I could not find his legs I can not get it out of his head,73
+632,יש לי את זה כל יום לפעמים אני מתעורר ואני לא יודע איפה אני ,Every day it hurts Sometimes I wake up and don't know where I am ,I have it every day sometimes I wake up and I do not know where I am,86
+633,אני לא מדבר עם אף אחד ,I don't talk to anybody ,I'm not talking to anyone,71
+634,לפעמים במשך יום ,Sometimes a day ,Sometimes for a day,88
+635,לפעמים במשך שבוע ,Sometimes a week ,Sometimes for a week,89
+636,אני לא יכול להוציא את זה מהראש ,"""I can't find your legs!"" I can't get it out of my head ",I can not get it out of my head,65
+637,בוא!,Come!,Come on!,73
+638,ה‏יו זמנים בין העידן השוקע של הקסם והעידן העולה של ההגיון כא‏שר דרקונים עפו בשמיים ,There was time between the waning age of enchantment and the dawning age of logic when dragons flew the skies ,The times between the sinking age of magic and the rising age of reason as dragons flew in the sky,67
+639,הסתכל מטה גורבש ידידי ,Look down there Gorbash my friend!,Looked down and ruined my friend,68
+640,בארץ הטרודה תחתינו בלבול וכאוס שולטים ,On that troubled earth below us confusion and chaos reign ,In the troubled land beneath us confusion and chaos reign,81
+641,כל האנושות עומדת בפני בחירה אפית ,All mankind is facing an epic choice ,All of humanity is faced with an epic choice,70
+642,עולם של קסם או עולם של מדע ,A world of magic or a world of science ,A world of magic or a world of science,100
+643,איזה מהם יהיה ,Which will it be ,Which one will be,85
+644,Flight of Dragons soar in the purple light,♪ Flight of dragons ♪ ♪ soar in the purple light ♪,Flight of Dragons soar in the purple light,100
+645,In the sky or in my mind,♪ In the sky ♪ ♪ or in my mind ♪,In the sky or in my mind,100
+646,Flight of dragons sail past reality,♪ Flight of dragons ♪ ♪ sail past reality ♪,Flight of dragons sail past reality,100
+647,Leave illusion behind,♪ Leave illusion ♪ ♪ behind ♪,Leave illusion behind,100
+648,Is it the past I see,♪ Is it the past ♪ ♪ I see ♪,Is it the past I see,100
+649,When I look up to the heavens,♪ When I look up to the heavens ♪,When I look up to the heavens,100
+650,Believing in the magic,♪ Believing in the magic ♪,Believing in the magic,100
+651,That I know could never be,♪ That I know could never be ♪,That I know could never be,100
+652,I want to go where they are going,♪ I want to go where they are going ♪,I want to go where they are going,100
+653,Into the world they've been,♪ Into the world they've been ♪,Into the world they've been,100
+654,Can I open up my mind enough to see,♪ Can I open up my mind ♪ ♪ enough to see ♪,Can I open up my mind enough to see,100
+655,Flight of dragons heavenly argosies,♪ Flight of dragons ♪ ♪ heavenly argosies ♪,Flight of dragons heavenly argosies,100
+656,Catch the wind rise out of sight,♪ Catch the wind ♪ ♪ rise out of sight ♪,Catch the wind rise out of sight,100
+657,Flight of dragons pilots of fantasy,♪ Flight of dragons ♪ ♪ pilots of fantasy ♪,Flight of dragons pilots of fantasy,100
+658,In the sky or in my mind,♪ In the sky ♪ ♪ or in my mind ♪,In the sky or in my mind,100
+659,Flight of dragons,♪ Flight of dragons ♪,Flight of dragons,100
+660,Flight of dragons,♪ Flight of dragons ♪,Flight of dragons,100
+661,עולמות הקסם וההגיון חייבים להתקיים זה לצד זה ,The worlds of magic and logic must exist side by side ,The worlds of magic and logic must coexist,84
+662,לא להרוס זה את זה ,Not destroy each other ,Do not destroy each other,94
+663,היזהרו!,- But why ,Watch out!,62
+664,היזהרו עם המכונות שלכם אמרתי!,Be careful with your machines I say ,Be careful with your machines I said!,96
+665,מי עושה את כל המהומה ,Who is making all that rumpus ,Who makes all the fuss,67
+666,זה הזקן המטורלל הזה שגר במעלה הנהר ,It's that balmy old gent what lives upstream ,It's this crazy old man who lives upstream,74
+667,אל למכונות שלכם לדחוק את כל הקסם או שהעולם יאבד!,Your motors must not crowd out all magic For the world is lost ,Do not push all the magic into your machines or the world will be lost!,67
+668,סוג של קוסם שמעתי ,How sort of magician I hear ,Kind of a magician I heard,72
+669,אני קרוליינוס הקוסם הירוק ,I am Carolinus! The Green Wizard ,I'm Caroline the Green Wizard,87
+670,חזור לאן שאתה שייך ,Get back to where you belong ,Go back to where you belong,95
+671,אני שייך לכל מקום שכן ממלכתי היא העולם הירוק ,I belong everywhere for my domain is the green world ,I belong everywhere since my state is the green world,78
+672,הטבע עצמו וכל יושביו ,Nature itself and all its inhabitants!,Nature itself and all its inhabitants,100
+673,הלאה גלגל מים כדור כחול של קסם אותך יעלים ,Away with your mill wheel A ball of blue magic to make it disappear ,Next a blue water ball of magic will make you goats,66
+674,העלם אמרתי ,Disappear say I!,The disappearance I said,72
+675,קסם הוא קורא לזה ,Magic he calls it ,Magic he calls it,100
+676,אבא עליך לנוח ,- Father you need rest ,Dad you need to rest,75
+677,אין זמן ,- No time ,No time,100
+678,זה פשוט לא היה שם ,Just was not there ,It just was not there,92
+679,קראתי לקסם והוא לא היה ,I called upon magic and there was none ,I called for magic and he was not,73
+680,הכאב שוב ,- The pain again ,The pain again,100
+681,אני לא יכול לתת לזה להטריד אותי ,- I can't let it bother me ,I can not let that bother me,81
+682,כתבת את ההודעות כפי שביקשתי ,Have you written the messages as I asked ,You wrote the messages as I requested,68
+683,כן אבא אבל  אז זמני את ינשופי הכסף של הירח המלא ,Yes father but  Then summoned The Silver Owls Of The Full Moon ,Yes Dad but then temporary the silver owls of the full moon,83
+684,-אבל  ,- But  ,-but,100
+685,זה נכון ,Is it true ,This is true,82
+686,הם סקלו אותך ,Did they stone you ,They stoned you,85
+687,ובכן אני וגורבש הצעיר נטפל בהם ,Well me and young Gorbash will fix um'  ,Well me and the young Gorbash will take care of them,74
+688,נשרוף את התחנה ונטרוף כל אחד מהם ,We'll burn down that mill and devour every living one of them ,We will burn the station and devour each of them,62
+689,זה לא יועיל ,Which will it be ,It will not help,62
+690,אז רק נפחיד אותם קצת אה ,Just a little scared then  uh ,So we'll just scare them a little ah,75
+691,יריית אש קצרה שתלבין את שערותיהם אה ,A short fiery blast to turn their hair white  uh ,A short shot of fire that will whiten their hair ah,63
+692,סמירגול בבקשה!,Smrgol please!,Smirgol please!,96
+693,אבא! הינשופים ,Father the owls ,father! The owls,100
+694,סמירגול אני מזמן את אחיי לפגישה ,Smrgol I'm summoning my brothers to a meeting ,Smirgol I invite my brother to a meeting,78
+695,הראשונה שלנו אחרי ארבע מאות שנה ,Our first in four centuries ,Our first after four hundred years,62
+696,החוקים הקדומים קובעים שעליו להיכלל ,The ancient laws command he be included ,The ancient laws stipulate that it must be included,62
+697,הכן את גורבש למסע למקדש כל העתיקות ,Make Gorbash ready for the journey to the Temple Of All Antiquity ,Prepare Gorbachev for a journey to the Temple of All Antiquities,81
+698,הלוואי שיכולתי לשאת אותך חברי ,I wish I could carry you old friend ,I wish I could carry you my friends,91
+699,שירתת אותי נאמנה בעבר ,No you serve me well as the past ,You have served me faithfully in the past,66
+700,תן לגורבש הצעיר לשאת את משאך עכשיו ,Let young Gorbash bear your burdens now ,Let the young Gurbash carry your burden now,78
+701,אבא מיהם האחים שלך ,Father who are these brothers ,Dad who are your brothers,67
+702,מעולם לא דיברת איתי עליהם ,You never spoken to me of them ,You never talked to me about them,73
+703,אני יודעת שאתה הקוסם הירוק של ממלכת הטבע ,I know you are Green Wizard Of Nature Realm ,I know you're the green magician of the realm of nature,67
+704,אבל האחרים ,But the others ,But the others,100
+705,אחי סולאריוס הוא הקוסם הכחול ,My brother Solarius is the Blue Wizard ,My brother Solarius is the blue magician,79
+706,אדון העמקים והגבהים ,Lord of the depths and the heights ,Lord of the valleys and heights,77
+707,ממלכתו היא החלל החיצון האוקיינוסים העמוקים ביותר ההרים הגבוהים ביותר ,He's realm is outer space deepest ocean highest mountain ,Its kingdom is outer space and the deepest oceans and the highest mountains,69
+708,אחי מזמן פגישה אך מדוע ,My brother calls council but why ,My brother has a long appointment but why,66
+709,לונאריין לונאריין ,Lunarian! Lunarian!,Lunarine Lunarine,88
+710,ואחי לו טז'אל הקוסם הזהוב ,And my brother Lo Tae Zhao The Golden Wizard ,And my brother to him Tejel the golden magician,68
+711,ממלכתו היא האור והאוויר ,His realm is light and air ,His kingdom is light and air,74
+712,הוא האדון של הנשגב ריפוי התעמקות ,Lord of the depths and the heights ,He is the master of the sublime healing and deepening,62
+713,ציפיתי לזה זה היה בלתי נמנע ,I was expecting this it was inevitable ,I expected it it was inevitable,81
+714,שן-סו שן-סו ,Shen Zu Shen Zu!,Shen-soo Shen-soo,69
+715,ולבסוף במרומי מגדל התיעוב אחי האחרון ,And finally high in Loathly Tower My last brother Ommadon ,And finally at the top of the abomination tower my last brother,62
+716,הקוסם האדום ,The Red Wizard ,The Red Wizard,100
+717,"אדון ממלכת השטן המפתה בחשיכה אדון הקסם חסר הלב שהעולם קורא ""שחור"" ",Lord of the devils domain seducer of darkness master of that heartless magic the world calls black ,"The Lord of the Tempting Kingdom of Satan in the Dark Lord of the Heartless Magic Lord that the world calls ""Black""",66
+718,אחי השוטה הבין סוף סוף את הבלתי נמנע ,My fool brother has just realized the inevitable ,My foolish brother finally understood the inevitable,62
+719,ובכן אלך ,Well I'll go ,Well I'll go,100
+720,בריאג אמרתי!,Bryagh I say!,Brieg I said!,67
+721,רכוב על גבו של בריאג האיום הוא שליטו הבלעדי של גיהנום הזוהמה שהוא ממלכתו ,Astride the terrible Bryagh he is absolute ruler of that infernal like mass of primordial filth which is his domain ,Riding on the back of the terrible Brieg is the sole ruler of the filthy hell that is his kingdom,62
+722,אבל למה אל העתיקות מכריח אותך לכלול משהו כה נתעב ,But why does Antiquity force you to include something so abominable ,But why does the antiquities force you to include something so despicable,79
+723,כשם שרשע הוא חלק מכל הדברים  רשע הוא חלק מעולם הקסם ,As evil is a part of all things evil is a part of our world of magic ,Just as evil is part of all things evil is part of the world of magic,88
+724,שכן האירוניה של כל הקיום היא שטוב יהיה לגמרי עקר ללא הרשע שינגוד אותו ,For the irony of all existence is that good would be totally impotent without the contrast of evil ,For the irony of all existence is that good would be utterly barren without the evil that would oppose it,76
+725,אז אני יוצא לדרכי ,- Then I am on my way ,So I'm off my way,61
+726,לאן הנך מצווה עליי אדוני ,Get back to where you belong ,Where are you commanding me sir,61
+727,אני אוהב לעשות דברים לפי הספר ,Well I ah   Like to do things by the book ,I like to do things according to the book,78
+728,למקדש כל העתיקות ,To the Temple Of All Antiquity ,To the Temple of All Antiquities,94
+729,אני אנחה אותך ,Whom will you send ,I will guide you,65
+730,אחיי היקרים אנו נפגשים היום במקדש כל העתיקות,Dear brothers we meet today in the Temple Of All Antiquity ,"My dear brothers, we meet today at the Temple of All Antiquities",89
+731,למה זימנת אותנו ,Why did you summon us ,Why did you summon us?,100
+732,כפי שבוודאי הבחנתם כוחות הקסם שלנו מתעמעמים ,As you must have noticed our magic powers have been growing dim ,As you must have noticed our magic powers are fading,80
+733,שמתי לב לכך ,I have so noticed ,I noticed that,65
+734,זה מפני שהאדם בוחר בהגיון במקום בקסם ,It is because man is choosing logic over magic ,This is because man chooses logic instead of magic,77
+735,אבל מדוע ,- But why ,But why,100
+736,כי ההגיון הוא כה  ,- Because logic is so   Logical ,Because the logic is so,76
+737,לשבת כמו חבורת זקנות ולתת לזה לקרות ,Sit around like a bunch of old nanny's and let it happen ,Sit like a bunch of old women and let it happen,80
+738,אנא שימעו אותי עד הסוף ,Please hear me out ,Please hear me through,70
+739,אני מציע שניצור את ממלכת הקסם האחרונה ,I propose we create the last realm of magic ,I suggest we create the last magic kingdom,68
+740,ממלכת הקסם היכן שכל היצורים הקסומים יבואו לפני שעידנם יסתיים ,The Magic Realm where all enchanted things might retreat before their age ends ,The Magic Kingdom where all the magical creatures will come before their era ends,64
+741,אם נאחד את כוחותינו יהיה מספיק קסם ליצור מקום כזה ,If we consolidate our powers there will be enough magic left to create such a place ,If we unite our forces there will be enough magic to create such a place,77
+742,נחבא מעיני שאר העולם על ידי ענן הבלתי נראה ,Sealed off from the rest of the world by the Midst Of Invisibility ,Hidden from the eyes of the rest of the world by the invisible cloud,70
+743,אתה רוצה להביס את המדע וההגיון עם  כפר נופש לשוטים ,You would defeat science and logic with   a foolish retirement village ,You want to defeat science and logic with a holiday village for fools,73
+744,לא להביס אחי להעצים ,Not defeat my brother enhance ,Do not defeat my brother to empower,75
+745,העולם למרות שאינו מודע אינו יכול להתקיים ללא קסם ,The world though it does not realize it cannot do without magic ,The world though unconscious cannot exist without magic,69
+746,למשל: אדם שומע על שריונו הבלתי חדיר של הדרקון הוא מייצר שריון ספינות מלחמה טנקים ,For example man hears of the dragons invulnerable skin and lo he makes armor battleships tanks ,For example: a man hears about the impenetrable armor of the dragon he produces armor of warships and tanks,67
+747,פיה עפה ובקנאתו הרבה האדם בעצמו יתגבר על כוח המשיכה עם מכונות שיקרא להם מטוסים ,A fairy flies and furiously jealous man himself defies gravity with machines he will call airplanes ,Her mouth flies and in his much jealousy man himself will overcome gravity with machines he will call planes,62
+748,קוסם מביט אל כדור הבדולח שלו ורואה ושומע למרחק חצי העולם ,A magician looks into this crystal and sees and hears halfway across the world ,A magician looks at his crystal ball and sees and hears half a world away,77
+749,ובעוד כמה מאות שנים הוא יחולל נסים ויקרא להם רדיו וטלויזיה ,And centuries from now he conjures up miracles but calls them radio and television ,And in a few hundred years he will work miracles and call them radio and television,64
+750,העולם זקוק לקסם ,The world needs magic ,The world needs magic,100
+751,קסם לא יכול למות ,Magic cannot die ,Magic can not die,79
+752,אני אביא לך כוכבים רחוקים נפלאות מהימים ,I will bring you distant stars wonders from the sea ,I will bring you wonderful stars far from the days,83
+753,ואני אביא לך שלום ואחוה כדי שכל היצורים הקסומים יחיו יחדיו וישתפו מהקסום שנותר ,And I will bring you peace and harmony so that every magic thing might live together and share what enchantment remains No!,And I will bring you peace and brotherhood so that all the magical creatures will live together and share the remaining magic,73
+754,לא לעולם לא!,Never!,Not never!,71
+755,אני לא אסכים לתבוסה על ידי העולם המודרני הזה ,I will not concede defeat by this modern world!,I will not agree to defeat by this modern world,82
+756,אני לא אפרוש לגן עדן לשוטים הזה ,"I will not retire to this ""Fool's Paradise """,I will not retire to this paradise for fools,92
+757,אבל אין לנו ברירה ,But we have no choice!,But we have no choice,100
+758,הבלתי נמנע הוא הקסם החזק מכל ,The inevitability is the strongest magic of all ,The inevitable is the most powerful magic of all,76
+759,לי יש נשק שאתם לא תעזו להשתמש בו ,I have weapons you would not dare use ,I have a weapon you would not dare use,96
+760,פחד שולט באדם ,Fear rules men ,Fear rules a person,79
+761,כדי שהוא ישתמש במדע וההגיון שלו להרוס את עצמו ,I will infest the spirit of man so that he uses his science and logic to destroy himself ,For him to use his science and reason to destroy himself,65
+762,חמדנות ותאוות בצע ינצחו ,Greed and averous shall prevail ,Greed and greed will prevail,75
+763,ואלו שלא ישמעו את דבריי ישלמו את המחיר ,And those who not hear my words shall pay the price ,And those who will not hear my words will pay the price,85
+764,אני אלמד את האדם להשתמש במכונות שלו ,I'll teach man to use his machines ,I will teach the person to use his machines,75
+765,אני אראה לו מה יכול המדע ליצור ,I'll show him what distorted science can give birth to ,I'll show him what science can create,75
+766,אני אלמד אותו לעוף כמו פיה ,I'll teach him to fly like a fairy ,I'll teach him to fly like a fairy,100
+767,ואני אתן את התשובה האולטימטיבית לכל בקשות המדע ,And I'll give the ultimate answer to all his science can ask ,And I will give the ultimate answer to all science requests,77
+768,והעולם יהיה חופשי לקסם שלי שוב!,And the world will be free for my magic again ,And the world will be free to my magic again!,92
+769,הפסק! אסור שכך יהיה!,This must not be!,stop! That must not be the case!,61
+770,אנו לא רוצים את הקסם השחור שלך ,We want none of your dark magic ,We do not want your black magic,77
+771,בעוד כוחותיכם גוועים שלי ישגשגו ,While your powers die mine will flourish ,While your dying powers mine will prosper,74
+772,האדם לעולם לא יירש את ממלכתי ,Man will never inherent my domain ,Man will never inherit my kingdom,73
+773,שכן אני הופך את האדם לשלי ,For I am making man mine ,For I make man my own,71
+774,הוא יבין וילמד לרצות את הקסם שלי ,He will understand and come to desire my magic ,He will understand and learn to please my magic,77
+775,את שבועתי החשוכה הזו אני נשבע ,This dark determination I swear ,I swear this dark oath,72
+776,בשם כתרי האדום ,It is from the Temple Of The Muses ,In the name of the red crowns,67
+777,מקור כל כוחי השחור ,The source of all my dark power ,The source of all my black power,92
+778,כן יהי ,It shall be ,Yes it will be,64
+779,אינכם מרגישים שהעולם כבר פונה לכיווני ,Can you not feel the world turning in my direction already ,You do not feel that the world is already turning in my direction,88
+780,אפשר לעצור את קסמו השחור ,Can his dark magic be stopped ,You can stop his black magic,70
+781,"רק ע""י פלישה לממלכתו וחטיפת כתרו הארור מעל ראשו ",Only by invading his realm and capturing that cursed red crown from his head ,Only by invading his kingdom and snatching his damned crown over his head,64
+782,אתה יכול לכלול אותי ,You may include me ,You can include me,78
+783,אני אביא את אש המטאורים את זעם שבעת הימים!,I will bring the fire of the meteors the rage of the seven seas ,I will bring the meteor fire and the wrath of the seven days!,73
+784,מה זה היה ,What was that all about ,what was that,72
+785,אל העתיקות לא יאפשר לנו להיות מעורבים ,Antiquity will not allow us to become involved ,To antiquities will not allow us to be involved,88
+786,חוקי הנצח של הקסם אוסרים בפירוש על ארבעת אחי הקסם מללחום זה בזה ,The eternal laws of enchantment expressly forbid the four magic brothers from waring on one another ,The eternal laws of magic explicitly forbid the four magic brothers from fighting each other,71
+787,אך מה נוכל לעשות ,- But what can we do ,But what can we do?,100
+788,עלינו ליזום מסע שמטרתו הקדושה לגנוב את הכתר האדום של אומאדון ,With its sacred mission to steal the Red Crown Of Ommadon ,We must initiate a journey whose sacred purpose is to steal the red crown of Umadon,64
+789,נגייס לעזרתנו את אלו ששותפים להשקפתנו ,We will enlist the aid of allies who share our beliefs ,We will enlist the help of those who share our view,69
+790,כל היצורים האלה בממלכתי אוהבי שלום בקושי מתאימים ,All such creatures in my dominion are peaceful Hardly suitable ,All these creatures in my kingdom who love peace hardly fit,63
+791,אני יכול לצרף את נפטון בעצמו ולוויתנים גדולים ונחשי הים ,I can inspire Neptune himself to join and great whales and serpent of the sea ,I can attach Neptune himself and large whales and sea snakes,69
+792,למרבה הצער המסע ייערך באדמה ,Unfortunately the quest will be waged on land ,Unfortunately the journey will take place in the ground,62
+793,לא אחיי הטובים נראה שאני ואני בלבד אוכל ליזום מסע כזה ,No good brothers it seems I and I alone can inspire such a mission ,Not my good brothers it seems that only I and I can initiate such a journey,74
+794,את מי תשלח ,Whom will you send ,Who will you send,97
+795,ובכן תחילה את סר אורין נוויל סמית' ידידי האביר ,Well first my old friend Sir Orin Neville-Smythe The Gallant Knight And True - And ,Well first Sir Orin Neville Smith the Knight's Friends,75
+796,הוא צעיר ואימפולסיבי אך חזק ואמיץ לב ,He's young and impetuous but incredibly strong and brave And  ,He is young and impulsive but strong and brave,81
+797,ו   חייבים להיות שלושה להתחיל מסע קסם ,There must be three to begin a magic quest ,And there must be three to begin a magic journey,80
+798,יהיה עוד אחד ,There will be another A leader ,There will be another one,84
+799,מי אין לי מושג ,I have so noticed ,Who I have no idea,63
+800,חכמתו תכריע ,Its wisdom shall prevail ,His wisdom will prevail,85
+801,ובכן מי שאל העתיקות יבחר לעבודתו של מנהיגך תהיה עזרה ,Well whoever Antiquity choose Your leader will have his job cut out for him ,Well whoever asked the antiquities will choose the work of your leader will be helpful,63
+802,אני משאיר לו את זה:,Bring me to him I insist!,I leave it to him:,63
+803,לי יש רק כלים של שלום אך אולי חליל שינת הריפוי יהיה מועיל ,I have only implements of peace but perhaps he will find the Flute of Healing Sleep useful ,I only have tools of peace but maybe the healing sleep flute will be helpful,70
+804,הוא ממקדש המוזות ,It is from the Temple Of The Muses ,Is from the Temple of the Muses,95
+805,תודה אחיי הטובים ,Thank you good brothers ,Thank you my good brothers,94
+806,אומאדון לא ינצח וכתרו ייתפס ,Ommadon will not prevail and his crown shall be captured - So be it!,Umadon will not win and his crown will be captured,77
+807,יהי כן מי ייתן והניצחון יהיה שלנו ,We will enlist the aid of allies who share our beliefs ,Let there be who will give and the victory will be ours,61
+808,היי זמן מלחמה ,Not a war ,Hi war time,60
+809,סוף סוף אראה קרבות ,Hay a war at last Finally I'll will see battle ,I'll finally see battles,66
+810,לא מלחמה מסע ,Not a war ,Not a war journey,69
+811,ובכן איך שתקרא לזה אני מוכן!,Well what ever you call it I'm ready for it ,Well whatever you call it I'm ready!,79
+812,למרבה הצער גם אומאדון ,Unfortunately so is Ommadon ,Unfortunately also Umadon,81
+813,שמע אותי עכשיו אל העתיקות ,Hear me now Antiquity ,Hear me now to the antiquities,78
+814,מי יוביל את המסע ללכידת כתרו של אומאדון ,Who shall lead the quest to capture The Crown Of Ommadon ,Who will lead the journey to capture the crown of Umadon,64
+815,חפש בעתיד ,Search the future ,Search in the future,92
+816,הוא יהיה צאצאו המרוחק של פיטר הגדול מאלף הדרקונים ,He will be the distant descended of Great Peter The Dragon Master ,He will be the distant descendant of Peter the Great from the thousand dragons,78
+817,אהה שמעתי אגדות על פיטר הגדול ,Ah I have heard legends of Great Peter ,Ahh I heard legends about Peter the Great,76
+818,לפני מאות שנים הוא אילף את הדרקונים ולימדם לדבר ,Centuries ago he tamed the dragons and taught them to speak ,Hundreds of years ago he tamed the dragons and taught them to speak,78
+819,שבע מאות שבעים ושבע דורות מפרידים בין פיטר הגדול מזה שאתה מחפש ,Seven hundred and seventy seven generations separate Great Peter from he whom you seek ,Seven hundred and seventy-seven generations separate Peter the Great from what you are looking for,83
+820,אך מדוע כל כך הרבה דורות מהמקור ,But why so many generations away from the original ,But why so many generations from the original,95
+821,הוא הראשון מהצאצאים שהוא אדם של מדע ,He is the first of the descendants who is a man of science ,He is the first of the descendants to be a man of science,92
+822,מדוע שזה יהיה חשוב ,Why should that be important ,Why it would be important,68
+823,אני סומך!,Trust Antiquity ,I trust!,64
+824,אני סומך!,Trust Antiquity ,I trust!,64
+825,בלי סייג אמור לי באיזו מאה אמצא את האלוף הזה ,Tell me in which century will I find this champion ,Without reservation tell me in what century I will find this champion,79
+826,בלוט כסף ,A silver acorn ,Silver acorn,92
+827,! זרוק אותו אל בריכת הזמן הצלולה ותמצא אותו ,Drop it into the Limpid Pool of Time and you will find him ,! Throw it into the clear pool of time and you will find it,80
+828,ועכשיו שלום ,And now farewell ,And now hello,76
+829,אתה בטוח שזו בריכת הזמן הצלולה ,Are you certain this is The Limpid Pool of Time ,You're sure it's the clear pool of time,63
+830,ידידי הצעיר אני אחד מארבעת אחי הקסם ,My dear young fellow I am one of the four magic brothers ,My young friend I am one of the four magic brothers,84
+831,אני מזהה בריכת זמן צלולה כשאני רואה אותה ,I should know a limpid pool of time when I see one ,I recognize a clear pool of time when I see it,62
+832,דרקונים וקוסמים ומרתפים ונסיכות  דרקונים וקוסמים ונסיכות ומרתפים וטירות!,Dragons and wizards and dungeons and princesses Dragons and wizards and princesses and dungeons and castles ,Dragons and Wizards and Basements and Princesses Dragons and Wizards and Princesses and Basements and Castles!,82
+833,מר דיקנסון זה כל מה שאתה חושב עליו ,Mr Dickenson is this all you think about ,Mr. Dickenson is all you think about,93
+834,"לא משנה מה אני חושב מה אתה חושב על משחק ""מעוף הדרקונים"" החדש שהמצאתי ",Never mind what I think what do you think of this new Flight Of Dragons game I invented It's fun ,"No matter what I think what you think of the new ""Dragon Flight"" game I invented",82
+835,הוא מהנה מה אוכל לאמר ,What can I say ,He's fun what can I say,76
+836,רק בכמה אלפי דולרים נוכל לייצר אותו וכולנו נוכל לחיות כמו מלכים ,Just a couple of thousand dollars we can manufacture this and we'll all be living like kings ,For only a few thousand dollars we can produce it and we can all live like kings,71
+837,"""רק כמה אלפי דולרים"" הוא אומר כאילו הם היו בוטנים ","""Just a couple of thousand "" he says Like it was peanuts This is an heirloom ","""Just a few thousand dollars"" he says as if they were peanuts",68
+838,אם אני אתן לך 50 תמורתו יפטרו אותי ,If I give you fifty I'd be fired ,If I give you 50 in return I will be fired,65
+839,"""מעוף הדרקונים"" - אתה לא כותב ספר בשם זה ",Flight Of Dragons aren't you writing a book by the same name ,"""Flight of the Dragons"" - You are not writing a book with this name",85
+840,אין לי זמן לעבוד עליו כעת לא כשאני מחזיק בשתי עבודות ,Was I don't have time to work on it now ,I do not have time to work on it now not when I hold two jobs,68
+841,אבל אם המשחק הזה יצליח  אתה יודע משהו מר דיקנסון ,You know something Mr Dickenson ,But if this game succeeds you know something Mr. Dickenson,70
+842,זה לא אישי אבל אתה משוגע לדרקונים ,Nothing personal but you're a real dragons nut ,It's not personal but you're crazy about dragons,74
+843,הם מרתקים אותי תמיד ריתקו ,They fascinate me Always have ,They have always fascinated me and fascinated me,75
+844,אני בטוח שהם באמת היו קיימים פעם ,I'm sure they really existed at one time ,I'm sure they really did exist once,83
+845,אני מנסה לברר איך הם נשפו אש איך הם עפו איך הם  אני חוזר בי מה,See I'm trying to dope out how they breathed fire how they flew how they  I take back the nut part ,I'm trying to find out how they blew fire how they flew how they I come back at me what,74
+846,"-""משוגע"" אתה פנאטי לדרקונים ",Your a dragon fanatic ,"- ""Crazy"" you are a fanatic for dragons",71
+847,נכון אני אוכל נושם וישן אותם ,Right I eat breathe and sleep em' ,True I eat breathing and sleep them,66
+848,אני מקווה להיות חבר באגודת הדרקונים באנגליה ואני גר כאן בבוסטון ,I hope to become a member of England's Dragon Society and I live here in Boston!,I hope to be a member of the Dragon Association in England and I live here in Boston,83
+849,תורך ,- Turn your head!,Your turn,78
+850,קוסם רשע למה אני תמיד הבחור הרע ,Why am I always the bad guy ,Evil Wizard Why am I always the bad guy,82
+851,9! חסמתי אותך במעבר הקרח הקסום כפור מוות ,I got you blocked in The Enchanted Ice Passage frozen stiff ,9! I blocked you in the magical ice frost frost death,70
+852,"כן אבל ""11"" יעניק לי אש דרקון להמיס אותו ",Yeah but an 11 we'll give me dragon fire to melt it  ,"Yes but ""11"" will give me dragon fire to melt it",87
+853,זה יהיה מנהיגנו ,That's going to be our leader ,It will be our leader,64
+854,סמוך על אל העתיקות ,Good old Antiquity ,Rely on the god of antiquities,62
+855,איך הוא הולך להתייצב מול אומאדון כשהוא משחק בדרקוני צעצוע ,How's he going to stand up to Ommadon Playing with toy dragons Look!,How is he going to face Umadon when he plays with toy dragons,64
+856,ואחיי הכלי של דיקנסון הוא אתה ,Mr Dickenson is this all you think about ,And my brother Dickenson's tool is you,67
+857,ומאחור הנסיכה מליסנדה ,And in the background Princess Melisande!,And behind the Princess Melisanda,79
+858,איכשהו דיקנסון יודע איך אנו נראים ,Somehow Dickenson knows what we look like Somehow  ,Somehow Dickenson knows what we look like,91
+859,איכשהו  אל העתיקות הטוב ,TRUST THE JUDGMENT OF ANTIQUITY!,Somehow to the good antiquities,61
+860,ידעתי שאוכל לסמוך עליו ,I knew I could trust it ,I knew I could trust him,94
+861,גורבש טוס לסילבנאר וחכה לי ,Gorbash fly to Silvenair and wait for me ,Gorbsh fly to Silvnar and wait for me,96
+862,אמור למליסנדה לזמן את 'סר אורין נוויל סמית ,Did you summon Sir Orin Neville-Smythe as I requested ,Melisanda is scheduled to summon Sir Orin Neville Smith,74
+863,הבא אותי אליו ,Bring me to him I insist!,Bring me to him,77
+864,מה קרה לכל הרוחות ,What the heck happened ,What the hell happened,91
+865,אתה חירש או משהו כזה ,Hey are you deaf or something ,You're deaf or something,79
+866,משחק נהדר בוא למטה ותצטרף אליו ,Come down and joint it What ,Great game come down and join it,71
+867,מה !,What ,What!,100
+868,בוא למטה אני אומר ,Come down and joint it What ,Come down I say,62
+869,-מה קרה  -אסביר בזמן המסע שלנו ,- I'll explain during the journey ,-What happened -I will explain during our journey,69
+870,זה מה שאמרת לפני כן מאז נשרפו הקוביות נראה כאילו אנו נופלים שעות ,Since those diced burned out it seems like we've been falling for hours ,This is what you said before since the dice were burned it looks like we're falling for hours,74
+871,ברוך שובך הביתה קרוליינוס ,- Welcome home Carolinus!,Welcome home Carolynus,95
+872,דרקון! אני רואה דרקון!,I'm actually seeing a dragon!,dragon! I see a dragon!,65
+873,דרקון אמיתי!,A real dragon ,A real dragon!,100
+874,לא יאומן! דרקון!,A real dragon ,Unbelievable! dragon!,62
+875,אני מדבר עם דרקון אמיתי!,I'm talking to a dragon!,I'm talking to a real dragon!,90
+876,דרקון! אני רוכב על דרקון מחורבן!,A dragon I'm riding a blooming dragon!,dragon! I'm riding a crappy dragon!,80
+877,איך קראת לי ,What you call me Ow!,What did you call me?,82
+878,אוה! סובב את ראשך ,- Turn your head!,Oh! Turn your head,90
+879,אני מצטער הרגע נחרכתי מאש דרקונים ,I've just been singed by dragging fire ,I'm sorry I just got burned by dragon fire,62
+880,ובכן אם אינכם זקוקים לי עוד  אני שומע את קול חבריי קוראים לי ,Well if you don't need me any longer I hear the call of my comrades ,Well if you do not need me anymore I hear the voice of my friends calling me,73
+881,באמת סמירגול בגילך ,Really Smrgol At your age ,Truly an emerald at your age,68
+882,רצית דרקונים בני ודרקונים אכן יהיו לך ,You wanted dragons my son dragons you shall have I'll never understand ,You wanted sons and dragons and sons will indeed have you,68
+883,לעולם לא אבין כל כלי המשחק שגילפתי הדרקונים והקוסמים ,All those toy chessman I carved Those dragons and wizards ,I will never understand all the game tools I have carved the dragons and wizards,63
+884,האם אני על לוח המשחק או במציאות ,Am I on that game board or in reality ,Am I on the game board or in reality,96
+885,הדימיון הוא שיקוי הקסם החזק מכולם ,Imagination is the most potent of all magic Look!,The imagination is the most powerful magic potion of all,81
+886,הבט עוד יצירה שלך קמה לחיים ,Another of your creations come to life - Father!,Watch another of your creations come to life,85
+887,-אבא!,Father!,-father!,100
+888,אבא ! -הנסיכה מליסנדה !,- The Princess Melisande ,Dad! - The Princess Melisanda!,88
+889,נסיכה יפה שלי ,My fairy princess ,my Beautiful princess,74
+890,התכוונתי להגיד ש  אמרת מה שהתכוונת ,Well what I mean to say What you mean to say is just what you said - Will I meet her ,I meant to say that you said what you meant,66
+891,אפגוש אותה ,Help me!,I'll meet her,60
+892,כן אבל לא לבוש כך ,Oh but not dressed like that ,Yes but not dressed like that,88
+893,מחלקת בגדי סירס חרוכה בעשן דרקונים ,Department store Seersucker all charred by dragon exhaust Convento  ,Sears clothing department is scorched by dragon smoke,61
+894,קאנבנטו סירקולם קאלא!,Circulum  Kala ,Convento Circulam Kala!,69
+895,אני מקווה שהמידות מתאימות ,I hope the fit is correct ,I hope the measurements fit,62
+896,כפי שהסברתי בזמן הנפילה הקסם שלי מוגבל לאחרונה ,As I explained during the drop my magic is quite limited these days ,As I explained at the time of the fall my magic has been limited lately,67
+897,את סר פיטר סר פיטר זאת הנסיכה מליסנדה ,- Sir Peter this is the Princess Melisande ,Sir Peter Sir Peter is the Princess of Lysanda,74
+898,הוד מעלתך! אתה הוא זה שנבחר בידי השומר עלי להיות מושיע עולמנו ,Oh you must be he whom my guardian has sought to save our world ,your Highness! You are the one chosen by the Guardian to be the Savior of our world,61
+899,אני מניח שכן ,Ahh I  suppose I am ,I suppose so,67
+900,האם אני ,- Am I ,am I,100
+901,בטח בעתיקות האם זימנת את סר אורין נוויל סמית' כפי שבקשתי ,Did you summon Sir Orin Neville-Smythe as I requested ,Probably in antiquities the mother summoned Sir Orin Neville Smith as I requested,69
+902,עוד אחד היי תראו מה שמרתי!,Hey look at what I've been saving ,Another one hi look what I saved!,68
+903,זה זהב זהב זהב!,Its gold Gold GOLD! Oh!,It's gold gold gold!,90
+904,ממש מראה מדהים אבל סר פיטר זהו רק גורבש דרקון הבית ,But Sir Peter it is only Gorbash our house dragon ,Really amazing look but Sir Peter this is just a house dragon hatched,63
+905,-דרקון הבית ,The other dragons ,- The house dragon,79
+906,-עכשיו פגשת את כל המשפחה  גורבש זהו סר פיטר ,Now you've met the entire family ,-Now you have met the whole family and this is Sir Peter,60
+907,אה כן מה שלומך ,Oh yes how-d'ye-do ,Oh yeah how are you,65
+908,באמת גורבש אם האוסף שלך יתרחב לא יהיה מקום לרהיטים בבית ,If you're hoard grows much larger there will be no room for furniture in the house ,Really expanded if your collection expands there will be no room for furniture in the house,67
+909,-צבאותיי ,- My army's ,- My armies,67
+910,-סר פיטר לא הביא כל צבא ,- Sir Peter has brought no army's ,Sir Peter did not bring any army,70
+911,-מה אין צבאות ,What a great way to travel ,-What there are no armies,60
+912,-בבקשה ממך   מה הוא שווה ,Will you please What good is he ,-Please ask you what it is worth,68
+913,שחרר קצת גז בחור צעיר ברגע זה!,- Ah I suppose you're right ,Release some gas young guy right now!,62
+914,וסובב את ראשך ,And turn your head ,And turn your head,100
+915,-אבל מה ,What ,-but what,67
+916,עזרה ! עזרו לי!,Help me!,Help! help me!,74
+917,-הוא איבד את האש שלו ,- He's lost his fire!,- He lost his fire,94
+918,-מה קרה חבר וותיק ,- What happened old friend - My  My comrades  ,-What happened to an old friend,75
+919,-כולם יצאו נגדי  -הדרקונים האחרים ,The other dragons have gone over to Ommadon Aye ,-Everyone came out against me -The other dragons,60
+920,-כי לא דחיתי אותך   וסרבתי להצטרף לאומאדון ,Because I-I wouldn't denounced you and  ,-Because I did not reject you and refused to join Umadon,62
+921,הדרקונים האחרים עברו לצד אומאדון ,The other dragons ,The other dragons passed by Umadon,67
+922,מעוף דרקונים בכדי להגן על הכתר שלו ,A flight of dragons to protect his crown ,Flying dragons to protect his crown,88
+923,-איזה שימוש מוזר לזהב ,What a strange use for gold ,-What a strange use for gold,100
+924,-דרקונים נוטים להבעיר מצע רגיל והם זקוקים למתכת רכה לישון עליה והזהב הכי נוח להם ,Because dragons tend to ignite ordinary bedding they must find a soft metal to sleep on and gold proves most comfortable for them ,-Dragons tend to burn a regular substrate and they need a soft metal to sleep on and the gold is most comfortable for them,74
+925,לכן הצורך של הדרקונים למצבור ,Ah   hence the dragons need for a hoard Ahem ,Hence the need of the dragons for accumulation,66
+926,שב בני יש לי הרבה להסביר ,Sit down my son I've got lots to explain ,Sit my son I have a lot to explain,78
+927,אז זהו פיטר דיקנסון ,So that is Peter Dickenson!,So this is Peter Dickenson,92
+928,זה הטיפש העלוב שקרוליינוס הביא בכדי לגנוב את הכתר שלי ,That is the pathetic fool Carolinus has enlisted to steal my crown ,This is the wretched fool Carolynus brought in to steal my crown,63
+929,עדיין  לאל העתיקות ודאי הייתה סיבה ,Still Antiquity must have had a reason ,Still the god of antiquities must have had a reason,83
+930,וכך אתה היחיד מכל המאות שאל העתיקות בחר ,And so you were the one person from all the centuries whom Antiquity has chosen ,And so you are the only one of all the centuries asked for antiquities to choose,75

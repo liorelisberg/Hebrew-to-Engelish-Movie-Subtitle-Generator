@@ -1,0 +1,918 @@
+,hebrewFromSub,englishFromSub,englishTranslation,ratio
+0,הלו הוא לא נוסע לרופא השיניים,Hello He's not going to the dentist ,"Hello, he's not going to the dentist",100
+1,הוא לא נוסע לרופא השיניים,He's not going to the dentist ,He does not go to the dentist,83
+2,הלו אדוני הוא לא נוסע לרופא השיניים למה לא ,He's not going to the dentist - Why not ,Hello sir he is not going to the dentist why not,87
+3,מדוע הוא לא נוסע לרופא השיניים ,He's not going to the dentist - Why not ,Why he does not go to the dentist,80
+4,הוא הולך לפארק סלח לי אדוני ,Why not - He's going to the park ,"He's going to the park. Forgive me, sir",69
+5,הוא הולך לפארק הוא הולך לפארק,Excuse me sir what - He's going to the park He's going to the park  ,He's going to the park He's going to the park,83
+6,הוא הולך לאגם,He's going on the lake ,He goes to the lake,68
+7,הוא שוכר סירה מה הוא עושה באגם ,He's renting a boat - What's he doing on the lake ,He rents a boat and what he does in the lake,77
+8,מה הוא עושה באגם כנראה שם לב אלינו ,What's he doing on the lake ,What he is doing in the lake is probably noticing us,66
+9,אין בעיה אנו נחכה לו אצל רופא השיניים ,- He must have noticed us No problem We'll wait for him at the dentist's ,No problem we'll wait for him at the dentist,77
+10,מה הוא עושה באגם ,What's he doing on the lake ,What is he doing in the lake,80
+11,כן ,Ah yes ,Yes,67
+12,לא כל כך קרוב ,Not too close ,Not so close,88
+13,תגיע לאי חם לי,Go to the island ,Come to a hot island for me,60
+14,הוא על האי במסעדה,He's on the island ,He's on the island in a restaurant,69
+15,הוא זורק לחם לברווזים לעזאזל!,He's throwing bread at the ducks ,He's throwing duck bread!,86
+16,אתה שומע אותי הלו ,Hello can you hear me ,You hear me hello,89
+17,אתה שומע אותי ,Hello can you hear me ,do you hear me,69
+18,5 4 3 2 1 0 ,5 4 3 2 1 0 ,5 4 3 2 1 0,100
+19,אני שומע אותך טוב מהר ,Hello can you hear me ,I hear you well fast,68
+20,הם גרמו לו לעזוב את המקום והם שותלים מיקרופון בדירה הם חייבים לסיים ,They made him leave his place and they're bugging the apartment ,They made him leave the place and they plant a microphone in the apartment they must finish,71
+21,התכנית הקטנה שלנו הראתה מי בצוות הסודי של מילן זה טוב ,He brought all his men - Our little plan has already shown us who are in Milan's secret team ,Our little show showed who's in Milan's secret team it's good,61
+22,יש יותר מדי אנשים שאני לא מכיר בשירות שלי בסדר ,There are too many people I don't know in my own service ,There are too many people I do not know in my service fine,91
+23,אתה יכול לאכול צהריים היה בחור שחור באורלי  בחור שחור גדול לובש מעיל צמר ,Alright You can go have lunch - There was a black guy at Orly  ,You can have lunch there was a black guy in Orly a big black guy wearing a wool coat,74
+24,בחרתי בחור בלונדיני גבוה עם נעל שחורה עם מעיל ארוך ,I picked a tall blond guy with a black shoe over a tall black guy with a green woollen coat ,I chose a tall blond guy with a black shoe with a long coat,67
+25,בחור שחור עם מעיל צמר ירוק,A big black guy wearing a woollen coat ,A black guy with a green wool coat,72
+26,איש זקן אם אתה רוצה לכתוב ספרים חכה עד שתצא לפנסיה,Listen old man if you want to produce literature wait until after you're retired ,Old man If you want to write books wait until you retire,66
+27,לא תסיימי לואיז לא ,Won't you finish your leaks Louis ,You'll not finish Louise no,73
+28,תודה אמא ,No thanks mother ,Thanks Mom,69
+29,אתמול היה יום ההולדת של ברנרד מילן אני מקווה שאת זוכרת ,Yesterday was Bernard Milan's birthday I hope you remembered ,Yesterday was Bernard Milne's birthday I hope you remember,97
+30,כן אמא אני זוכרת,- Yes mother I remembered ,Yes mom I remember,83
+31,בן יחיד נולד מאוחר האמא שלו מארי באגאיא בת 45 ,Only son late arrival  His mother Marie Bugeaud ,An only child was born to his late mother Marie Bagaya 45 years old,62
+32,אביו ג'רארד פרין בן 55 מורה וכנר חובב,His father Gérard Perrin 55 years old teacher and amateur violinist ,"His father, Gerard Perrin, 55, is an amateur teacher and violinist",88
+33,שתי מורות פנסיונריות באו מהר,Two teachers retirement came quickly ,Two retired teachers came quickly,93
+34,ילדות נטול ארועים ,Uneventful childhood ,Childhood devoid of events,70
+35,אביו ייעד אותו להיות מוסיקאי,His father introduced him to music ,His father designated him to be a musician,61
+36,קתולי  הומוסקסואל ,Practising catholic ,Gay Catholics,62
+37,איך אתה יודע ,- How do you know ,how do you know,100
+38,מכתב,A letter ,Letter,86
+39,"""הרגע לחמניה שלי אני לא בהריון""",Relax muffin I'm not pregnant ,"""Right now my bun I'm not pregnant""",65
+40,נרפא ועבר לקונסרבטוריון של פריס מחיר ראשון 28חודשי שירות בצבא ,Cured he goes to the conservatory of Paris First price  28 months of military service ,Healed and moved to Paris Conservatory first price 28 months of military service,83
+41,לא השתתף בשום מלחמה העביר את זמנו בלהקה צבאית כנור ראשון בתזמורת במשך 5 שנים,Participates in none of the colonial wars Serves his time in army bands First violin in a string orchestra for 5 years now ,Did not participate in any war and spent his time in a military band first violinist in the orchestra for 5 years,78
+42,"נוסע בעולם לעתים קרובות גם לארה""ב אה ",Often travels abroad Also to the USA ,Travel the world often to the US too ah,64
+43,"הוא עובד בארה""ב ",He worked in the USA ,He works in the United States,65
+44,אבל אך אחד מאנשינו לא מכיר אותו כמובן  הוא סוכן,I knew it But none of our people know him - But of course ,But but one of our people does not know him of course he is an agent,73
+45,- על שעובד בנפרד צילמנו אותו במגירה מתחת לערימת חולצות יש הודעה כתובה על הגב פענח זאת עבורי מהר ככל האפשר,He's a super agent working on his own - We took this picture from his place In a drawer under a pile of shirts ,- about working separately we photographed him in a drawer under a pile of shirts there is a written message on the back decipher it for me as soon as possible,60
+46,המומחים שלנו יושבים על זה כבר שעה -טוב,Our specialists have been on it for an hour ,Our experts have been sitting on it for an hour - well,74
+47,אז להרוג אותו ,So do we kill him ,So kill him,79
+48,-לא אני רוצה לדעת מה הוא יודע,- No I want to know what he's up to His eyes give him away ,-No I want to know what he knows,64
+49,מה הוא עושה ,What's he doing ,What is he doing,97
+50,איזה סוג של ליצן הוא פרנסואה פרין,What kind of a clown is he ,What kind of clown is François Perrin,71
+51,כן מיקרופון המים חזק מדי תנמיך אותו ,- Yes the water mike is too loud ,Yes the water microphone is too loud to lower it,74
+52,מה האידיוט הזה עושה מאוד משונה,What's that idiot doing ,What this idiot is doing is very strange,70
+53,למה אתה מתכוון הוא רוקן ,He flushed What do you mean he flushed ,What do you mean he's emptied,69
+54,אני לא מבין צריכה להיות סיבה,No I don't understand ,I do not understand there should be a reason,62
+55,זה שבור,It's broken ,it's broken,100
+56,אתה עצבני ברנארד היקר לא ראיתי אותך ,You're nervous dear Bernard ,"You're nervous. Dear Bernard, I have not seen you",73
+57,וההבדל הוא שאני כל הזמן רואה אותך,- I didn't see you And the difference is that I always see you ,And the difference is that I see you all the time,73
+58,יש לי עוד מתנה קטנה עבורך זה קונצ'רטו לכינור ותזמורת שמנוגן על ידי איש מאוד צעיר ומוכשר,I have another little present for you It's a concerto for violin and orchestra played by a very talented young man ,I have another little gift for you this is a violin and orchestra concerto played by a very young and talented man,89
+59,הקשב לזה הלילה להרגע,Listen to it tonight to relax ,Listen to it tonight and relax,88
+60,הכנר באמת מאוד מוכשר,The violinist's really very talented ,The violinist is really very talented,93
+61,מה זה מה זה ,What is it ,What is what is it,71
+62,הלו אהובתי הלו פולט,Hello my love ,Hello my love Hello Emitter,65
+63,חשבתי הרבה במינכן אנו לא יכולים להמשיך ככה,We can't continue the secrecy the lies Are you recording this ,I thought a lot in Munich we can not continue like this,60
+64,אנו לא יכולים להמשיך בסודיות ובשקרים אתה מקליט את זה ,We can't continue the secrecy the lies Are you recording this ,We can not continue in secrecy and lies you record it,72
+65,חלמתי עליך בלילה שעבר,- I dreamt of you last night ,I dreamed of you last night,94
+66,פולט בבקשה אני מספר לך ,- I dreamt of you last night ,Emits please I tell you,61
+67,חלמתי שקרעת מעלי את הבגדים היו לך ידיים חמות אש וקרעת ממני את הבגדים שלי פולט בבקשה ,He gets what he deserves I dreamt you were tearing off my clothes You had big burning hands and you tore off my clothes ,I dreamed you tore off my clothes you had hot hands fire and tore off my clothes please emit,72
+68,האם אתה שמח עכשיו ,Are you happy now ,Are you happy now,100
+69,את מפילה אותי,You've torn it ,You bring me down,65
+70,פרנסואה פולט ,Paulette! François!,François Pollet,80
+71,איך עושה סוס ,- Paulette How does a horse sound ,How to make a horse,64
+72,איך עושה סוס לא,Yes how does a horse sound ,How does a horse not,78
+73,חרא חרא חרא חרא,Shit shit shit shit shit ,Shit Shit Shit Shit,88
+74,אני באמת לוּזר,- I'm really a loser ,I'm really a loser,100
+75,הייתי צריך ללכת לרופא השיניים אבל פחדתי למה ,Yes I should have gone to the dentist but I got scared Why ,I had to go to the dentist but I was afraid of why,63
+76,הלכתי לאכול ארוחת צהריים ליד האגם חיכו לי אצל רופא השיניים ואני הלכתי לאגם ,- Afraid I went to have lunch at the lake They expect me at the dentist and I go to the lake ,I went to have lunch by the lake waiting for me at the dentist and I went to the lake,79
+77,אני לא יודע מפחד  דרך אגב ,Does it hurt I don't know  Scared  ,I do not know scared by the way,60
+78,את יודעת מי יגיע ב-4 ,By the way do you know who's coming at 4 ,You know who's coming in on the 4th,77
+79,אני משחק איתך בסוסים בשעה 2 ופוגש את בעלך בשעה 4 הוא רוצה לשמור אותי במצב טוב ,That's funny I play horses with you at 2 and I see your husband at 4 ,I play with you on the horses at 2 and meet your husband at 4 he wants to keep me in good shape,74
+80,שלי של מי העין הזו ,- Mine Whose little eye is this ,Mine of whom is this eye,75
+81,שלי של מי הסיגריות האלה ,- Mine Whose cigarettes are these ,Mine of who these cigarettes are,92
+82,טנדר של סוחר פרחים נוסע סביב הבנין,A florist's van's driving around the building constantly ,A florist's van travels around the building,71
+83,מילן לא רמז כי הוא מקים את המלכודת בעצמו אנו רק שמים את הגבינה במרתף ומילן בונה את המלכודת סביב זה,Milan won't have a clue because he set up the trap himself We just put the cheese in the cellar and Milan built the trap around it ,Milne did not hint that he is setting up the trap himself we are just putting the cheese in the cellar and Milne is building the trap around it,76
+84,ומה עומד לקרות לגבינה הקטנה סליחה ,And what's going to happen to the little cheese ,And what's going to happen to the little cheese sorry,94
+85,ומה אם מילן ייפטר מהבחור הבלונדיני הגבוה ,Excuse me - What if Milan gets rid of the tall blond guy ,And what if Milne gets rid of the tall blond guy,84
+86,זה יהיה טפשי לא מפריע לך לשלוח את הליצן הזה לבית המטבחיים ,That would be very stupid Doesn't it bother you to send this clown to the slaughterhouse ,It would be silly not to bother sending this clown to the abattoir,62
+87,האם זה מפריע לך ,Does it bother you ,Does it bother you,100
+88,הבחור הבלונדיני הגבוה עם הנעל השחורה אתה בחרת אותו ,The tall blond guy with the black shoe  ,The tall blond guy with the black shoe you chose,88
+89,זה מפריע לך עכשיו ,Does it bother you ,It's bothering you now,65
+90,לא אדוני,- No sir ,Not sir,92
+91,אוקיי מהר ממזר עצלן,Ok hurry up lazy bastard!,Okay fast lazy bastard,70
+92,קניתי סיגרים רוצה אחד ,I bought cigars ,I bought cigars wanting one,71
+93,כן תעשן אותו מאוחר יותר ותחשוב עלי אוקיי לעבודה,- That's nice yes You'll smoke it later and think of me Ok go!,Yes you will smoke it later and think of me okay for work,74
+94,הוא עוזב על אופניים עם בחור כן אופניים,He's leaving on bike with a guy ,He's leaving on a bike with a guy who does bike,79
+95,אני רוצה תמונה,I want a photo ,I want a picture,73
+96,הוא אמור ללכת לפארק אלא אם כן הוא יחליט לגשת לרופא השיניים עכשיו,He's supposed to go to the park unless he decides to go to the dentist now ,He's supposed to go to the park unless he decides to go to the dentist now,100
+97,אל תהיה טפש מוריס,Don't be stupid Maurice!,Do not be stupid Morris,70
+98,אל תהיה טפש מוריס,Don't be stupid Maurice!,Do not be stupid Morris,70
+99,או שהוא לא שם את השסתום נכון אתה חושב כך ,It's punctured - Or he didn't put the valve on right Do you think ,Or he did not put the valve right you think so,79
+100,או שהצמיגים שלו שחוקים,Or his tires are porous ,Or his tires are worn,73
+101,חרא!,Shit!,Shit!,100
+102,הבט על האופניים הקטנים השטוחים האלה,Look at those little bikes ,Look at these little flat bikes,88
+103,זה עומד לקחת זמן מה ,This is going to take a while ,It's going to take a while,87
+104,האופניים שלו לגמרי דפוקים,- His bike's completely messed up ,His bike is completely screwed,79
+105,הבלונדיני הגבוה עצר והוא מדבר עם מישהו,They put their bikes away He stopped The tall blond guy stopped and is talking to someone ,The tall blond stopped and he was talking to someone,68
+106,מיקרו קאנון נו באמת אתה לא יכול לעצור כל 500 מטר ממזר עצלן,Micro canon Come on you can't stop every 500 meters lazy bastard ,Micro Cannon Oh really you can not stop every 500 meters lazy bastard,84
+107,נו באמת בקושי התחלנו מוריס אני צריך לדבר איתך אין מצב ,Come on we've hardly started - Maurice I have to talk to you ,Oh really we barely started Morris I need to talk to you no way,66
+108,אתה לא פורש ,You're not quitting ,You are not retiring,62
+109,נגן לי את ההקלטה השלמה של האשה שוב פולט הלו פולט ,Play me the complete recording of the woman again Paulette!,Play me the complete recording of the woman again emitting Hello Emitting,76
+110,מקלחת אחת ואתה תרגיש מעולה מה זה ,A good shower and you'll feel great ,One shower and you will feel great what it is,65
+111,שמע מוריס ניפגש הלילה איזה אידיוט איזה אידיוט ,- Listen Maurice  See you tonight - What an idiot ,Hear Morris meet tonight some idiot some idiot,60
+112,מוריס הוא לוזר הוא מקבל מה שמגיע לו חלמתי שאתה קורע מעלי את הבגדים שלי,Maurice's a loser He gets what he deserves I dreamt you were tearing off my clothes ,Morris is a loser he gets what he deserves I dreamed you were ripping off my clothes,87
+113,יש לך ידיים חמות ואתה קורע מעלי את הבגדים די!,You had big burning hands and you tore off my clothes Hey stop!,You have warm hands and you rip my clothes off pretty much!,67
+114,הבחור על האופניים אחורנו ,The guy on the bike's behind us ,The guy on the bike is behind us,92
+115,איך עושה סוס לא ,- How does a horse sound ,How does a horse not,86
+116,איך עושה סוס ,- How does a horse sound ,How to make a horse,63
+117,לא  לפולט יש רומן עם סוחר פרחים מה ,Paulette has an affair with a florist ,Not to emit has an affair with a florist what,76
+118,לפולט יש רומן עם סוחר פרחים ,Paulette has an affair with a florist ,The emitter has an affair with a florist,81
+119,בדיוק תפסתי אותם ברכב משלוחים ,I just caught them in a delivery van ,I just caught them in a delivery car,89
+120,הם עשו את זה על השתילים והם אמרו דברים נוראיים בוא שב,They were going for it on the plants and they said terrible things - Come in and sit down ,They did it on the seedlings and they said terrible things come back,74
+121,מה לא בסדר איתך כלום ,What's wrong with you ,What's wrong with you?,100
+122,קצף גילוח ,Having a flat ,shaving foam,72
+123,במברשת השיניים שלי עצרתי ליד הטנדר הזה ואני שומע את הקול של פולט ,- I stopped next to this van and I hear Paulette' voice ,In my toothbrush I stopped by this van and I hear Pollet's voice,78
+124,נפלתי מהאופניים בפעם הראשונה אי פעם פולט וסוחר פרחים ,I fell off my bike for the first time ever - Paulette and a florist ,I fell off the bike for the first time ever emitting and trading flowers,76
+125,זה אבסורד,That's absurd ,This is absurd,81
+126,זה מרגיז אמרתי לך שיש לי קצף גילוח במשחת השיניים שלי בהתחלה חשבתי שאני חולם ואחרי זה היא דיברה עלי היא אמרה:,It's irritating - I told you I had shaving cream in my toothpaste - First I thought I was dreaming ,It's annoying I told you I have shaving foam in my toothpaste at first I thought I was dreaming and after that she talked about me she said:,69
+127,מוריס הוא לוזר ואחרי זה היא אמרה דברים נוראיים פרנסואה ,"She said: ""Maurice is a loser "" And then she said terrible things ",Morris is a loser and after that she said terrible things to François,73
+128,אשתי היא הסטרית לך שטוף את הפה שלך,François my wife's hysterical Go wash your mouth ,My wife is hysterical to you and rinse your mouth,73
+129,הבחור נשמע מעט כמוך איזה בחור ,The guy sounded a bit like you ,The guy sounds a bit like you some guy,82
+130,סוחר הפרחים,The florist ,The florist,100
+131,אבל זה מטורף ,But that's crazy ,But it's crazy,73
+132,פולט עם סוחר פרחים בטנדר ,Paulette with a florist in a van ,Emits with a florist in a van,75
+133,היא שאלה אותו איך עושה סוס אבל  ,- Yes how does a horse sound ,She asked him how a mourning horse does,68
+134,מה ,- But  what ,what,67
+135,היא ביקשה ממנו לעשות כמו סוס הוא עשה ואני נפלתי מהאופניים שלי מה אתה עושה ,She asked him to sound like a horse He did and I fell off my bike What are you doing ,She asked him to do like a horse he did and I fell off my bike what are you doing,95
+136,אני מתקשר אליה אבל אני אומר לך שזו היתה היא בטנדר עם סוס הלו פולט,I'm calling her - But I'm telling you it was her in a van with a horse  - Hello Paulette ,I call her but I'm telling you it was her in a van with a Hello Emitter,83
+137,פרנסואה מדבר ,Hello François speaking ,Francois speaks,70
+138,אני פה עם בעלך,I'm here with your husband ,I'm here with your husband,100
+139,אני בסדר ,No I'm fine ,I'm fine,84
+140,אני אתן לך אותו,I'll give him to you ,I'll give it to you,92
+141,טוב לא כן כן  כן אוה לא לא לא כן בסדר אני כבר מגיע לשם,Good no yes yes  Yes oh no no no yes alright I'll be there right away ,Well no yes yes yes oh no no no yes okay I'm already getting there,73
+142,אנו הולכים לרוץ,This is going to take a while ,We're going to run,60
+143,היא בבית כבר שעה עם אמא שלי חלמת,She's been home for an hour with my mother Well see You were dreaming ,She's been home for an hour with my mom you dreamed of,80
+144,אבל  ,But  ,but,100
+145,זה מוזר פרנסואה,- It's strange François ,It's weird Francois,72
+146,הם מצאו את המיקרופון בפרחים לעזאזל!,They found the mike in the flowers ,They found the microphone in flowers to hell!,77
+147,אנו לא מגיעים לשום מקום אנו מסתובבים במעגלים אנו מסתובבים במעגלים אנו מסתובבים במעגלים,- Damn! We're not getting anywhere this way - We're going in circles ,We're not getting anywhere. We're spinning in circles. We're spinning in circles. We're spinning in circles,62
+148,אנו ננסה משהו אחר  הלו כן ,We're going to try something else and  ,We'll try something else Hello,72
+149,כלים מוסיקליים ,Musical instruments ,Musical instruments,100
+150,כלים מוסיקליים ישנים ,Musical instruments ,Old musical instruments,90
+151,לך לחנות עתיקות ו  שכור כמה רשמקולים סיטארים כנורות  לא משנה מה ,Old ones Go to some antique shops and rent some recorders sitars violas d'amore violas da gamba  I don't care ,Go to an antique store and rent some sitar voice recorders as bulbs no matter what,64
+152,שלח הכל לרח' דה וין מס' 85 אנו הולכים לעשות קצת כייף,Send it all to 85 Rue des Vignes We're going to have some fun ,Send everything to 85 De Vin's St. We'm going to have some fun,74
+153,אדון פֶּרִין ,Mr Perrin ,Mr. Perrin,100
+154,ראיתי בחנות התקליטים פרסום לשעורי כנור שלך,I saw your little ad for violin lessons at the record shop ,I saw in the record store advertising for your violin lessons,79
+155,אני יכולה להיכנס ,Can I come in ,I can go in,83
+156,השעורים לא עבורי אלא עבור הבן שלי יש לי ילד בן 6 והוא אוהב מוסיקה,The lessons are not for me but for my son I have a six year old and he loves music ,The lessons are not for me but for my son I have a 6 year old child and he loves music,93
+157,גיל 6 זה גיל טוב  אני חושב אני מעדיפה שעורים בבית,Six years is the right age I think I'd prefer lessons at home ,Age 6 is a good age I think I prefer homework,60
+158,הוא צעיר כל כך גם אבא שלי אסף מכשירים ישנים,He's so young My father also collected old instruments ,He's so young my dad also collected old appliances,71
+159,הוא מת בשנה שעברה הוא השאיר לי הכל,He died last year He left it all to me - I see ,He died last year he left me everything,67
+160,הילד הקטן בחופשה כרגע הוא לא יחזור עד שבוע הבא אני לא מתכוונת לשמור את האוסף,The little one's on holiday at the moment He won't be back until next week I don't intend to keep the collection ,The little boy on vacation right now he will not be back until next week I do not intend to keep the collection,74
+161,יותר מדי זכרונות,Too many memories ,Too many memories,100
+162,אתה יכול לפחות להעיף מבט אבל עשה זאת במהרה,You could at least have a look But you'd have to be quick ,You can at least take a look but do it quickly,70
+163,מתי ,When ,When,100
+164,בוא נראה  מחר בלתי אפשרי כך גם ביום רביעי מה אתה עושה הערב ,- Let's see  Tomorrow is impossible So is Wednesday ,Let's look impossible tomorrow so also on Wednesday what are you doing tonight,62
+165,הזמנתי כמה חברים אתה מעוניין לבוא ,I invited a few friends Would you like to come over ,I invited some friends you are interested in coming,63
+166,זו הכתובת שלי: רח' דה וין מס' 85,This is my address: 85 Rue des Vignes ,This is my address: 85 De Wayne St.,81
+167,נראה אותך הערב,See you tonight ,See you tonight,100
+168,הערב אני לא יכול ,No not right now ,Tonight I can not,67
+169,יש לי קונצרט בגאבאו בשעה 9 אתה יכול לבוא אחרי חצות אני הולכת לישון מאוחר ,I have a concert in Gaveau at nine You can come over after midnight I go to bed very late ,I have a concert in Gabao at 9 you can come after midnight I go to bed late,87
+170,ניפגש היא עוזבת את הבנין לא ,She's leaving the building No we don't know her ,We meet she leaves the building no,67
+171,יפה גבוהה בלונדינית עור של נמר,Tall beautiful blonde leopard-skin Distinguished you know ,Beautiful tall blonde leopard skin,75
+172,בוא,Come ,Come on,73
+173,לילה טוב לילה טוב,Goodnight - Goodnight ,Good night Good night,75
+174,איך היה הקונצרט ,Did the concert go well ,How was the concert?,71
+175,חבריי בדיוק עזבו כן ,My friends just left ,My friends just left yes,91
+176,שמפניה  ויסקי קוניאק ,What would you like Champagne whisky cognac ,Champagne and cognac whiskey,65
+177,קבל בבקשה כן יש כמה פריטים נחמדים פסנתר ג'יראף,It's great  here Yes there are some nice items - A giraffe piano ,Get please yes there are some nice giraffe piano items,78
+178,השאר נמצאים במרתף ,The rest is in the cellar ,The rest are in the basement,72
+179,לא שם ,Not there ,not there,100
+180,על הספה יותר נוח,On the couch is more comfortable ,On the couch more comfortable,95
+181,כל כך טוב לנוח אני שמחה שהאחרים כבר הלכו נחמד קצת אינטימיות מפעם לפעם,It's so good to relax I'm glad the others are gone So nice ,So good to rest I'm glad the others have already gone nice and a little intimacy from time to time,65
+182,זה נכון אתה נראה מתוח ,That's true  - You seem tense ,It's true you look tense,68
+183,האם אני מפחידה אותך לא לא ,Do I intimidate you ,Do I scare you no no,62
+184,קשה להאמין מה זה ,It's hard to believe ,It's hard to believe what it is,78
+185,כל זה  אבל זה לא משהו מיוחד כן כן ,All that  But it's nothing special - Yes yes ,All this but it's not something special yes yes,84
+186,בשבילי זה מיוחד האשה הכי יפה שאי פעם צלצלה בפעמון דלתי ובאותו לילה שתיתי שמפניה בדירה שלה,For me it's very special The most beautiful woman who ever rang my doorbell and that same evening I'm drinking champagne in her apartment ,For me it is special the most beautiful woman who ever rang a doorbell and that night I drank champagne in her apartment,85
+187,זה מספיק קר כן ,Is it cold enough ,It's cold enough yes,81
+188,אתה רעב ,- Are you hungry ,you are hungry,100
+189,לא לא עכשיו ,No not right now ,No not now,77
+190,אכפת לך אם אני אוריד את זה ,Do I intimidate you ,Do you mind if I download it?,60
+191,היה לי יום קשה אני רוצה להרגיש נוח בכל המובנים,I've had a hard day I'd like to get comfortable - By all means ,I had a hard day I want to feel comfortable in every way,67
+192,אני כבר חוזרת קח לך משקה אם אתה רוצה,I'll be right back Serve yourself a drink if you want ,I'm coming back. Take a drink if you want,67
+193,מה זה  מה זה  זה טוב מאוד,What is this  What is this  He's very good ,What is what is it is very good,85
+194,אני רואה,I see ,I see,100
+195,איבדתי את הסיגריות שלי יותר טוב ככה,I lost my cigarette  It's better like this ,I lost my cigarettes better that way,75
+196,תוריד את הז'אקט שלך תרגיש יותר טוב,Take of your jacket You'll feel better ,Take off your jacket and you will feel better,84
+197,מדוע אתה לא מוריד את הבגדים ,Why don't you take off your clothes ,Why do not you take off your clothes,93
+198,מה ,What ,what,100
+199,הורד את בגדיך,Take off your clothes ,Take off your clothes,100
+200,לא אכפת לי עוד קצת שמפניה,I wouldn't mind a bit of champagne ,I do not mind some more champagne,66
+201,אתה מושך את השיער שלי לא ,You're pulling my hair ,You're pulling my hair no,94
+202,זה תקוע ,- No it's stuck ,it's stuck,87
+203,מה קורה ,What's happening ,What's going on,65
+204,הריצ'רץ' נתקע אתה מכאיב לי סלחי לי ,- The zipper's stuck You're hurting me ,The richer gets stuck you hurt me forgive me,60
+205,אני מצטער זו הפעם הראשונה שזה נתקע,- Excuse me I'm so sorry It's the first time it got stuck ,I'm sorry this is the first time it's stuck,76
+206,לעזאזל !,Damn!,damn it !,73
+207,לעזאזל!,Damn!,damn it!,73
+208,לעזאזל!,Damn!,damn it!,73
+209,זה מטורף אי אפשר להשאר כך כל הלילה לא ,Well - I don't know  it's crazy I can't stay here all night ,It's crazy you can not stay so all night no,65
+210,אנו צריכים מספריים לגזור את מה שתקוע בחדר האמבטיה אני אביא את זה אוח  אוה ,- No We need a pair of scissors to cut the bit that's stuck - In the bathroom ,We need scissors to cut out what's stuck in the bathroom I'll bring it oh oh,74
+211,מצטער אני צריך לבוא איתך כן ,- I have to go with you ,Sorry I have to come with you yes,74
+212,זה יותר טוב ,Yes that's better ,it's better,71
+213,חכה אל תקום ,Don't get up ,Wait do not get up,73
+214,עכשיו לכי לאט לחדר האמבטיה אני אעקוב אחריך,Stay on your knees Right Now slowly go to the bathroom ,Now go slowly to the bathroom I will follow you,67
+215,אני מצטער ,I'm sorry ,I'm sorry,100
+216,זהו זה ,That's it ,that's it,100
+217,זו דירה קטנה יפה ונחמדה אחריך בבקשה,It's a nice little apartment After you ,This is a nice and nice little apartment after you please,78
+218,איזה מין ליצן זה ,What kind of a clown is this ,What a kind of clown it is,85
+219,האם פגעת בעצמך ,Did you hurt yourself ,Did you hurt yourself,100
+220,אני מצטער ,I'm sorry ,I'm sorry,100
+221,זה מטורף,It's crazy ,It's crazy,100
+222,חתיכת עוף יהיה נחמד,- A bit of chicken would be nice ,A piece of chicken would be nice,84
+223,אוה לא!,Oh no!,Oh no!,100
+224,תהיה לנו ארוחת ערב במיטה,We'll have dinner on the bed ,We'll have dinner in bed,81
+225,האף שלי מדמם אני חושב שזה נפסק ,I think it stopped The bagpipes hit me ,My nose is bleeding I think it stopped,68
+226,אכול מצטער ,Eat - I'm sorry ,Eat sorry,82
+227,אני לא רעב יותר,I'm not hungry anymore ,I'm not hungry anymore,100
+228,אני אכבה את האורות ,I'll turn off the lights ,I will turn off the lights,84
+229,התפשט והיכנס למיטה היו לך מספיק צרות ללילה אחד,You get undressed and get into bed You've had enough problems for tonight ,Undress and get into bed you had enough trouble for one night,73
+230,כמה סוכר ,How many sugars ,how much sugar,76
+231,שתיים הוא לוקח את זמנו להתפשט את פרודה מבעלך ,- Two He's taking his time to get undressed Are you separated from your husband ,Two he takes his time to undress the estranged from your husband,74
+232,והילד הקטן נמצא בכפר ,- Yes And the little boy's in the countryside ,And the little boy is in the village,71
+233,עם סבא וסבתא שלו ,- Yes With his grandparents ,With his grandparents,91
+234,מה האידיוט הזה דואג ,What does that idiot care ,What does this idiot worry about,70
+235,קפה ,Some coffee ,coffee,71
+236,קפה לא ,Some coffee ,Coffee no,80
+237,לא לא,Oh no!,no no,80
+238,הרגליים שלי קפואות,My feet are frozen ,My legs are frozen,72
+239,- - זה בסדר,- No it's stuck ,- - It's OK,60
+240,איזה יום מוזר למה ,What a strange day ,What a strange day why,90
+241,הפרטנרים שלי מיסמרו את הנעליים שלי לפני הדלת של חדרי במלון במינכן אני רואה!,It started this morning My mates nailed down my shoes in front of the door of my room in a hotel in Munich - I see ,My partners nailed my shoes in front of the door of my hotel room in Munich I see!,75
+242,הם תמיד עושים לי תעלולים השארתי את הנעליים שלי בחוץ כדי שיצחצחו אותם והם מיסמרו אותם,They're always playing pranks on me I left my shoes outside so they would be polished and they nailed them down ,They always do tricks to me. I left my shoes outside to be brushed and they nailed them down,70
+243,נאלצתי לצאת כשאני נועל נעל אחת חומה ונעל אחת שחורה,I had to go home wearing one brown shoe and one black shoe ,I had to go out wearing one brown shoe and one black shoe,92
+244,ואחר כך מצאתי משחת שיניים בקצף הגילוח שלי וקצף גילוח במשחת השיניים שלי,And then there was toothpaste in my shaving cream And shaving cream in my toothpaste ,And then I found toothpaste in my shaving foam and shaving foam in my toothpaste,83
+245,ואף אחד לא חשב שזה מוזר ואחר כך רצתי בפארק עם חבר והיו לו הזיות,And nobody finds that strange And then I went running in the park with a friend and he had visions ,And no one thought it was weird and then I ran in the park with a friend and he had hallucinations,66
+246,בדרך כלל בחור נורמטיבי אוהב ספורט חזק ,Otherwise a very normal guy Sports-loving strong ,Usually a normative guy loves strong sports,75
+247,לא אחד שיש לו הזיות לפתע הוא החל לשמוע קולות ואחר כך הקונצרט הלילה קרעתי מיתר,Not the type for hallucinations And suddenly he hears voices And then at the concert tonight I snapped a string ,Not one who has hallucinations suddenly he started hearing voices and then tonight's concert I tore a string,79
+248,ועכשיו אני במיטה איתך ואת נישקת אותי,And now I'm in bed with you And then you kiss me ,And now I'm in bed with you and you kissed me,92
+249,והרגליים שלי קפואות,And my feet are frozen ,And my legs are frozen,77
+250,אוקיי הם עושים סקס,Ok they're having sex ,Okay they're having sex,95
+251,הם עושים סקס ברח' דה וין מס' 85 כפי שאתה יכול לראות הוא נהנה מיחס מיוחד,They're making love at 85 Rue des Vignes As you can see your protégé enjoys certain perks ,They're having sex at 85 de Vin's Street as you can see he's enjoying special treatment,60
+252,אתה מרגיש טוב - כן גם אני,Do you feel good ,You feel good - yes I do too,76
+253,אני עומד לומר לך משהו שאני מעולם לא אמרתי לאף אחד,I'm going to tell you something I never told anybody ,I'm about to tell you something I never told anyone,87
+254,כן ,- Yes ,Yes,100
+255,זה סוד אני רואה,It's a secret - I see ,It's a secret I see,100
+256,אני לא כָּנָר אני עושה עוד משהו,I'm not only a violinist I also do something else ,I'm not a violinist I'm doing something else,84
+257,אני מלחין - ,I'm a composer ,I'm a composer -,100
+258,מה,- What ,what,100
+259,אני גם מלחין אבל אף אחד לא יודע על זה,I'm also a composer but nobody knows that ,I'm also a composer but no one knows about it,77
+260,כתבתי אופרה ,I wrote an opera ,I wrote opera,90
+261,זה לקח לי 3 שנים ,It took me three years ,It took me 3 years,80
+262,ואני עדיין עובד על זה אניאפרסם את זה כשאסיים,And I'm still working on it I'll publish it when it's finished ,And I'm still working on it I'll post it when I'm done,83
+263,מה ,- What ,what,100
+264,אני מקדיש את זה לך,- I feel like dedicating it to you ,I dedicate it to you,77
+265,מה אתה עושה אני אנגן לך את זה מה ,What are you doing ,What are you doing? I'll play it for you,63
+266,רק את הנושא העיקרי אתה לא הולך לנגן בכינור עכשיו!,- Only the main theme You're not going to play the violin now ,Just the main theme you are not going to play the violin right now!,85
+267,את הראשונה לשמוע את זה אני מזהיר אותך ,- You're the first one to hear it ,The first to hear it I warn you,77
+268,זה מאוד מודרני בוא ,I'm warning you It's very modern ,It's very modern come on,61
+269,פראנסואה,- Come on François!,François,64
+270,מה זה ,- What is it ,What is,82
+271,מה זה ,- What is it ,What is,82
+272,הנמך את הווליום,Turn down the volume ,Turn down the volume,100
+273,מספיק,Enough ,enough,100
+274,את לא אוהבת את זה ,Don't you like it ,You do not like it,91
+275,זה יפה אבל לא עכשיו ,- It's very beautiful but not now ,It's beautiful but not now,91
+276,זה מאוד יפה אבל מי רוצה לשמוע אופרה ב - 3 לפנות בוקר ,It's very beautiful but who wants an opera at 3 AM ,It's very beautiful but who wants to hear an opera at 3 in the morning,78
+277,את כועסת ,Are you angry ,You're mad,70
+278,בכלל לא,- Not at all ,Not at all,100
+279,אם כך בואי הנה,Come here ,So come here,86
+280,כן את כועסת -,Yes you're angry ,"- Yes, you're angry.",100
+281,- בכלל לא,- Not at all ,- Not at all,100
+282,בואי הנה,Come here ,come here,100
+283,ונתחיל שוב אנו לא נגיע לשום מקום הלילה,And there we go again We won't get anywhere tonight ,And let's start again we will not get anywhere tonight,78
+284,קח אותו לרכוש כן אדוני,Take him to the property - Yes sir ,Take him to buy yes sir,69
+285,גרמת לי להפסיד לילה היית צריכה להתעמת איתו טולוז משלם לו ואני אשלם לו יותר את לא יכולה להשתמש בראש שלך לפעמים ,You made me lose a night idiot! You should have confronted him Toulouse's paying him and I'll pay him more ,You made me lose a night. You had to confront him. Toulouse pays him and I'll pay him more. You can not use your head sometimes.,77
+286,מתי ,When ,When,100
+287,כאשר הוא מכה את עצמו עם חמות חלילים כותב אופרה עושה אתי אהבה ,When he hits himself with bagpipes writes an opera makes love to me very well by the way ,When he beats himself up with hot flutes a opera writer makes love to me,75
+288,אנו מסתובבים במעגלים אדוני  מה ,We're going in circles ,We go around in circles sir sir,72
+289,אני לא חושבת שהוא מקצוען טוב לא איכפת לי מה את חושבת התלבשי ולכי לחנות,What - I don't think he's a pro Well I don't care what you think ,"I do not think he is a good professional I do not care what you think, get dressed and go to the store",63
+290,אוה קריסטין שלי,Oh my Christine!,Oh my Christine,100
+291,אוה קריסטין שלי,Oh my Christine!,Oh my Christine,100
+292,קריסטין ,Christine ,Christine,100
+293,מי זו קריסטין ,Oh my Christine!,Who is Christine?,77
+294,"אל תבואי אלי היום אחה""צ הכרתי בחורה נפלאה אתמול בערב ואני חושב שאני אוהב אותה אתה עובד עלי ",I met a wonderful girl last night and I think I love her Are you pulling my leg ,Do not come to me this afternoon I met a wonderful girl last night and I think I love her you are working on me,71
+295,אני לא צוחק ,- No I'm not joking ,I am not kidding,61
+296,פושה וצ'פרון הם הבעיה אילו היינו יכולים להיפטר מהם ,Poucet and Chaperon are the problem If we could get rid of them there'd be no problem ,Posha and Chapron are the problem if we could get rid of them,79
+297,זה קל קל לאמר  אני רוצה את הכנר פה תוך שעה פראש הגיע לטולוז לא אלבש מעיל הבוקר לא קר ,- Easily said  I want the violinist here in one hour - Perrache just arrived at Toulouse's ,It's easy easy to say I want the violinist here within an hour Fresh arrived in Toulouse I will not wear a morning coat Not cold,65
+298,אדוני אני אמתין זמן מסוים במשרד יש לי פגישה אצל השר בשעה 11 אני מבין כן ,- It's not cold sir I'll stay in the office for a bit I have a meeting at the ministry at 11 ,Sir I will wait some time in the office I have a meeting with the Minister at 11 I understand yes,62
+299,הכנר סיים את תפקידו הוא עומד לדווח לנו בשעה 11 יש כמה אנשים בפנים לצורך הפתעה מלוכלכת פראש,- Yes the violinist finished his job He's going to report to us at 11 Some people are in for a nasty surprise Perrache!,The violinist has finished his job he is going to report to us at 11 there are some people inside for a dirty surprise Prash,83
+300,מצא את הכנר מיד והרוג אותו יש לך שעה,Find me the violinist right away and kill him You have one hour ,Find the violinist right away and kill him you have an hour,92
+301,הלו ,Hello ,Hello,100
+302,פרנסואה פרנסואה ,- François François ,Francois Francois,94
+303,אני מתקשרת אליך כי אני עצובה אני לא יכולה להפסיק לבכות ,I'm calling you because I'm sad I can't stop crying It's crazy ,I'm calling you because I'm sad I can not stop crying,87
+304,כן כן ,- Yes ,Yes Yes,60
+305,אני אוהב אותך אני אבודה כשאני לא בזרועותיך אני לא אבקש ממך לעשות כמו סוס פרנסואה אני מבטיחה פרנסואה,I'm lost when I'm not in your arms I won't ask you to sound like a horse I promise François ,I love you I'm lost when I'm not in your arms I'll not ask you to do like a Francois horse I promise Francois,80
+306,אבל אל תעזוב אותי יקירי,But don't leave me darling ,But do not leave me dear,84
+307,עליך להשיג מה שאתה רוצה ,You must have achieved what you wanted ,You have to get what you want,78
+308,מילן משתגע והכנר הוא אדם מת ,Milan has gone mad and the violinist is a dead man ,Milne goes crazy and the violinist is a dead man,84
+309,הפסק את ההשגחה ואז הבחור הבלונדיני ייהרג תפסיק לשאול על ההוראות שלי והבט בדרך,Stop surveillance  but then the tall blond guy will be killed Stop questioning my orders and look at the road ,Stop watching and then the blond guy will be killed. Stop asking about my instructions and look at the road.,64
+310,אמור לפושה ולצ'פרון ללכת הביתה עשה זאת,Tell Poucet and Chaperon to go home ,Tell Posha and Chapron to go home and do it,77
+311,צ'פרון ,Chaperon ,Chapron,93
+312,מדבר פראש הבוס רוצה שתגביר את ההשגחה,Perrache speaking The boss wants you to tighten surveillance ,Speaking Prash the boss wants you to increase supervision,72
+313,הם הולכים לנסות משהו הבוקר ,They're going to try something this morning ,They're going to try something this morning,100
+314,הם עוברים דרך הגינה,They're going through the garden ,They pass through the garden,80
+315,אנו מבוגרים מדי בשביל זה שקט ,We're too old for this - Hush!,We're too old for that quiet,73
+316,לא לזוז,Don't move ,Do not move,86
+317,איפה העניבה שלי ,Where's my tie ,Where's my tie,100
+318,אולי בחדר המגורים,I think it's in the living room ,Maybe in the living room,65
+319,הלו ,Hello ,Hello,100
+320,הלו פרנסואה ,Hello François ,Hello Francois,96
+321,קריסטין מדברת,Christine speaking ,Christine speaks,88
+322,אני צריכה לדבר אתך ,I have to talk to you ,I need to talk to you,76
+323,אני בבית קפה בפינה כן בוא מיד ,I'm in the café on the corner ,I'm in a corner cafe yes come right away,62
+324,זה מאוד דחוף הלו ,It's very urgent Hello Christine ,This is very urgent Hello,74
+325,קריסטין ,Christine ,Christine,100
+326,קריסטין ,Christine ,Christine,100
+327,קריסטין  מה את עושה פה ,Talk to me Christine Hello Christine  What are you doing here ,"Christine, what are you doing here?",71
+328,אדון מילן לא רוצה שתסתובבי פה הבנת ,Go home Mr Milan doesn't want you hanging around here Understood ,Mr. Milne does not want you to go around here you understand,76
+329,-כן,- Yes ,-Yes,100
+330,לא לזוז!,Don't move ,Do not move!,86
+331,אנו לא הולכים לירות אחד על השני נכון ,Come on we're not going to shoot each other are we ,We're not going to shoot each other right,77
+332,אנו קולגות ,We're colleagues ,We are colleagues,79
+333,אנו לא הולכים להרוג אחד את השני,We're not going to kill each other are we ,We're not going to kill each other,91
+334,בלונדינית יפה ,A blonde Beautiful ,Beautiful blonde,94
+335,היא היתה פה לפני 3 דקות היא עשתה שיחת טלפון כן ,She was here 3 minutes ago ,She was here 3 minutes ago she made a phone call yes,67
+336,היא עזבה ,Well she just left ,She left,62
+337,לְמה אתה מתכוון היא עזבה ,Yes she left - What do you mean she left ,What do you mean she left,79
+338,היא פשוט עזבה,Well she just left ,She just left,84
+339,לצערי אני לא יכול לראות אותך עכשיו ,Sorry I can't see you now ,Unfortunately I can not see you now,70
+340,אני בפגישה יש 3 גופות בבית שלך מה ,I'm meeting somebody There are 3 corpses at your place What ,I'm in a meeting there are 3 bodies in your house what,67
+341,3גופות בבית שלך באתי להרוג אותך יש 3 גופות בבית שלך מה לא בסדר אתך עכשיו ,- 3 corpses at your place I came to kill you There are 3 corpses at your place ,3 bodies in your house I came to kill you there are 3 bodies in your house what's wrong with you now,61
+342,הבט אבל  אבל מוריס למה רצית להרוג אותי ,But Maurice why did you want to kill me ,Look but Morris why you wanted to kill me,72
+343,שניכם סובבתם אותי שניכם ,- You two jerked me around Both of you ,You both turned me around,69
+344,תפסתי את פולט בטלפון צבועה צבוע ,I caught Paulette on the phone hypocrite!,I grabbed the emitter on a painted phone,62
+345,אני לא מבין  ,I don't understand  ,I do not understand,92
+346,בוא שב,- Come sit down ,Come on,70
+347,יש 3 גופות בחדר - - כן ,There were 3 corpses in this room ,There are 3 bodies in the room,73
+348,אני לא משוגע פרנסואה בודאי שלא שמעתי את פולט בטלפון כן ,I'm not crazy François - Of course not I heard Paulette on the phone ,I'm not crazy Francois I certainly did not hear the emitter on the phone yes,68
+349,ושמעת אותה עושה סקס בטנדר אתמול והיום יש אצלי 3 גופות לא סימן מספיק טוב ,And you heard her have sex in a van yesterday and today you saw 3 corpses at my place Not a good sign ,And you heard her having sex in a van yesterday and today I have 3 bodies not a good enough sign,78
+350,אני לא רופא,- I'm not a doctor you know ,I'm not a doctor,78
+351,שתה כוס מים כוס מים ,Drink a glass of water - A glass of water ,Drink a glass of water a glass of water,100
+352,כן זה יעשה לך טוב כוס גדולה של מים,Yes it'll do you good ,Yes it will do you good a big glass of water,65
+353,אני לא צמא הבט על הפנים שלך אני אביא לך כוס מים אבל אני לא צמא בכלל,I'm not thirsty - Look at your face I'll get you a glass of water ,I'm not thirsty look at your face I'll bring you a glass of water but I'm not thirsty at all,76
+354,כאן,Here ,Here,100
+355,אני לא מרגיש טוב פרנסואה בכלל לא טוב,I'm not doing well François Not well at all ,I do not feel good Francois is not good at all,64
+356,יש 3 קרבנות אדוני שניים מאנשיו של מילן וצ'פרון ,There are 3 victims sir: Two of Milan's men and Chaperon - Excuse me ,There are 3 victims sir two of Milne and Chapron's men,89
+357,הם הרגו אחד את השני אבל אני מבטיח לך הבחור הבלונדיני הגבוה בסדר חשבתי שאמרתי לך לספר,They had it out with each other but I assure you the tall blond guy is fine ,They killed each other but I promise you the tall blond guy okay I thought I told you to tell,64
+358,פושה וצ'פרון הלכו הביתה באמת ,Tell Poucet and Chaperon to go home ,Posha and Chapron really went home,72
+359,לא הבנתי אמרתי להם להדק אבטחה,I told them to tighten surveillance ,I did not understand I told them to tighten security,62
+360,לא התכוונתי לצאת נגדך רציתי רק להגן על אדם חף מפשע,I didn't mean to go against you I only wanted to protect an innocent person ,I did not mean to go against you I just wanted to protect an innocent person,91
+361,בוא אתי אוה ,Come with me ,Come with me oh,89
+362,בחייך בבקשה בוא אתי,- Oh come on Please come with me ,Please come with me,78
+363,- עזוב אותי לבד,- Leave me alone ,- Leave me alone,100
+364,קריסטין!,Christine ,Christine!,100
+365,קריסטין!,Christine ,Christine!,100
+366,אמרו לך לא לבוא,You were told not to come back here ,You were told not to come,83
+367,קריסטין!,Christine ,Christine!,100
+368,קריסטין!,Christine ,Christine!,100
+369,קריסטין!,Christine ,Christine!,100
+370,אדוני המשקפיים שלך,- Sir your glasses ,"Sir, your glasses",100
+371,לוסיאן!,Lucien!,Lucian!,83
+372,אלוהים,- My God!,God,67
+373,פרנסואה ,François ,Francois,93
+374,פרנסואה!,François ,Francois!,93
+375,קום בוא הנה,Get up Come here ,Get up and come here,89
+376,הסתובב ככה ,Turn around - Like this ,Turned around like that,86
+377,טוב מאוד,Very good ,Very Good,100
+378,תודה,Thanks ,Thanks,100
+379,הבחור הבלונדיני הגבוה עם הנעל השחורה,The tall blond guy with the black shoe ,The tall blond guy with the black shoe,100
+380,מי זה ,Who is it ,Who is,80
+381,זו מלכודת אדוני,It's an asshole trap sir ,"This is a trap, sir",62
+382,מה קורה לך כלום ,Why won't you eat ,What's wrong with you?,68
+383,אני בסדר ,- Nothing I'm fine ,I'm fine,67
+384,אבל מוריס  ,But Maurice  ,But Morris,67
+385,הכל בסדר,Everything's fine ,Everything is fine,97
+386,הכל הולך בקלות,Everything's fine ,Everything goes easily,67
+387,אתה תראה שהכל בסדר,You'll see everything's fine ,You will see that everything is fine,78
+388,- יש לי ביטוח של מוסיקאי ביטוח לאומי  ,- I have a musician's insurance ,- I have insurance from a Social Security musician,75
+389,שלום גברת קריסטין ,Christine!,Hello Mrs. Christine,64
+390,חפשתי אחרייך בכל מקום,Where were you I looked for you everywhere ,I've been looking for you everywhere,69
+391,אני אספר לך סיפור שלא ייאמן המוות המסתורי של קולונל מילן,I'll tell you an incredible story Mysterious death of colonel Milan ,I'll tell you an incredible story about the mysterious death of Colonel Milne,92
+392,טולוז יאמר:,Toulouse says:,Toulouse will say:,80
+393,"""מילן היה אדם בלתי רגיל""","""Milan was a remarkable man ""","""Milan was an unusual person""",64
+394,יקירתי ביי ביי פולט,Darling - Bye bye Paulette ,My dear bye bye emitter,68
+395,שלום פרנסואה הרופאים מקטינים את הכמויות שלו ,Goodbye François The doctors are reducing his tranquillizers He's getting better ,Hello François The doctors are reducing his amounts,60
+396,הוא מרגיש יותר טוב אין לו יותר סיוטים,He has no more nightmares ,He feels better he has no more nightmares,76
+397,נראה אותך מחר ,See you tomorrow ,See you tomorrow,100
+398,אני אהיה שם בשעה 2 הכל יחזור לקדמותו יקירי,I'll be there at 2 - See you tomorrow Everything will be back to the way it was darling ,I will be there at 2 everything will return to normal my dear,63
+399,כדאי ללכת הביתה הוא יתקרר בוא,Better go home He'll catch a cold Come ,You better go home he's going to cool down,62
+400,נסיעה טובה למינכן ביי ביי,Have a good trip Be good in Munich - Bye bye ,Good trip to Munich bye bye,70
+401,למינכן לא ,Going to Munich ,Munich does not,67
+402,לריו לברזיל אה ,Ah to Rio ,Rio to Brazil ah,72
+403,קריסטין ,Christine!,Christine,100
+404,הייתי רוצה להיות בזרועותייך אתה אוהב אותי ,Do you love me - Yes I love you ,I would like to be in your arms you love me,61
+405,אני אוהב אותך ,You're  ,I love you,62
+406,מתי הוא יחזור מ-ריו  ,When he'll be back from Rio  ,When will he return from Rio?,62
+407,כן אדוני כדאי ליצור איתו קשר כשהוא יחזור,- Yes sir   and come back he will you must contact him ,Yes sir you should contact him when he returns,65
+408,אחרי ככלות הכל הבחור בעל כשרון,After all the guy has a talent ,"After all, the guy with talent",81
+409,לכל אחד יש הזכות לפרטיות סעיף 9 לחוק,Everybody has the right to a private life Article 9 of the Penal Code ,Everyone has the right to privacy under section 9 of the Act,64
+410,"הבלונדיני עם הנעל השחורה oscars תורגם ע""י",The tall blond guy with the black shoe ,The Blonde With The Black Shoe Oscars,80
+411,איחרתי ,I'm late ,I'm late,100
+412,אם כך בוא נלך ,Get some rest ,So let's go,67
+413,מורה! מורה!,Teacher!,teacher! teacher!,64
+414,המורה לא שומע דבר עתה ,Teacher's beyond hearing ,The teacher hears nothing now,60
+415,-מורה!,Teacher!,-teacher!,100
+416,מה קרה לך צ'ן ז'ה ,What's happened to your courage ,What happened to you Chen Zha?,77
+417,עליך לאכול עתה ,Why won't you eat ,You must eat now,67
+418,אנא תאכל משהו קטן ,Please eat something ,Please eat something small,87
+419,-לא דבר איתו אתה ,What's going on with you ,- Nothing to do with you,65
+420,-אני מוכרח לגלות את האמת!,I must find out the truth ,- I have to find out the truth!,75
+421,אנשים רבים יבואו לכאן לחלוק כבוד אחרון אתה תצטרך לפגוש אותם ,Many will come to pay their respects tomorrow You must stay calm ,Many people will come here to pay their last respects you will need to meet them,65
+422,פגשתי אותו לפני 30 שנה ,I've known him for 30 years ,I met him 30 years ago,73
+423,מטרתו הייתה לחזק את רוחכם ואת גופכם הצעירים למען סין מולדתנו ,He founded Ching Wu School to strengthen body and mind not to win over others ,Its purpose was to strengthen your spirit and young body for the sake of our native China,60
+424,ועתה כולנו כל אחד מאתנו צריך לחיות לפי כללים אלו ,He hoped all of us would be of one heart to be strong and love the country ,And now we all each of us have to live by these rules,65
+425,-אני רואה שהגענו בזמן ,We're just in time ,- I see we arrived on time,62
+426,מי אתה ,You're  ,Who are you,71
+427,-אני וו אני המתורגמן של מר סוזוקי ,I'm Hu the interpreter ,- I Wu I'm Mr. Suzuki's interpreter,63
+428,"""אסייתי חולה"" ",Sick Man of East Asia!,"""Asian sick""",65
+429,מה פירוש הדבר ,What do you mean by that ,What does this mean,70
+430,אתה לא סיני ,Are you Chinese ,You're not Chinese,67
+431,כמובן אבל אני שונה מכם ,Yes but I'm different from you ,Of course but I'm different from you,82
+432,ידעתי שכולכם תהיו כאן אבל אני לא נראה מפוחד נכון ,Calm down I wouldn't be here if I were scared ,I knew you were all going to be here but I did not look scared right,62
+433,צ'יי ג'י ,Chia Chi,Chi Ji,71
+434,אנו רוצים לשמור על שלום בית הספר שלנו לא יילחם בכם ,Our school won't fight you ,We want to keep our school safe and not fight you,67
+435,תקשיב אם הם ינצחו אותי אוכל את המלים האלו בסדר ,If anyone can defeat me I'll eat those words,Listen if they beat me I'll eat those words fine,67
+436,אין לכם מה לומר ,I have something to return to him,You have nothing to say,61
+437,מה בנוגע אליך ,What do you want ,What about you,73
+438,מה עוצר אותך ,You want to  ,What is stopping you,65
+439,אתה פחדן או משהו אסייתי חולה ,You're all useless sick men of Asia,Are you a coward or something sick Asian,61
+440,ולמה למה לא נתת לנו להילחם ,Why won't you let us fight ,And why why did not you let us fight,77
+441,-אני יודע רציתי להילחם אבל המורה שלנו אסר עלינו ,I wanted to fight too but Teacher told us not to get in trouble ,-I know I wanted to fight but our teacher forbade us,68
+442,היי מה אתה רוצה ,What do you want ,Hey what do you want,89
+443,מר סוזוקי האם הוא לא המנהיג שלכם ,Your chief Hiroshi Suzuki,Mr. Suzuki Is not your leader,64
+444,הוא לא כאן למה אתה רוצה אותו ,He's not here ,He's not here why you want him,60
+445,נילחם לבד או כולם יחד ,One on one Or all together ,We will fight alone or all together,66
+446,תאכל!,Eat,Eat!,100
+447,הפעם אתם אוכלים נייר בפעם הבאה זו תהיה זכוכית ,You eat paper this time Next it'll be glass ,This time you eat paper next time it will be glass,86
+448,מה לעזאזל אתה עושה ,What do you mean by that ,what the hell are you doing,67
+449,מה זה ,What is it ,What is,82
+450,עצור כאן ,It is here!,Stop here,74
+451,אתם יודעים מה שמו של הבחור ,What do you mean by that ,You know what the guy's name is,65
+452,אני יודע כבר נפגשתי אתו ,I know him Master,I know I've already met him,64
+453,אנו לוחמי הבושידו היפניים הטובים בעולם ,Right No! Bushido is the world's best ,We are the best Japanese Bushido fighters in the world,64
+454,ואל תחזרו אם תיכשלו צאו לדרך ,Don't come back if you fail ,And do not come back if you fail and get going,71
+455,-המפקד ,Come here!,-the commander,64
+456,-בואו ,Come here!,-Come,62
+457,מה אתה רוצה אני רוצה לעבור ,Don't you want to get in ,What do you want I want to go through,66
+458,היי אתה בוא הנה ,Come here!,Hey you come here,69
+459,רצית להיכנס ,You want to  ,You wanted to enter,73
+460,מה אתם רוצים ,What do you want ,what do you want,100
+461,מה זה ,What is it ,What is,82
+462,-מה קורה כאן ,What's his name ,-what's happening here,61
+463,תפסיקו תפסיקו!,Stop!,Stop stop!,62
+464,עזוב את המורה שלנו!,Don't insult our teacher ,Leave our teacher!,63
+465,תעצרו!,Stop!,Stop!,100
+466,קדימה בואו נלך בסדר קדימה ,Right let's go!,Come on let's go right ahead,67
+467,אלוהים ,Go  ,God,80
+468,הם רוצים שנמסור להם את צ'ן ,He wants us to hand over Chen ,They want us to give them Chen,71
+469,אתם חושבים שהוא זה שהתחיל ,You're on the first train ,You think he's the one who started it,65
+470,הנה הוא ,He's not here ,here he is,78
+471,והיכן היית כל היום ,You got us into trouble Where have you been all day ,And where have you been all day?,66
+472,היית בבית הספר הונגקו וגרמת לבעיות ,You got us into trouble Where have you been all day ,You were in Hongko school and you caused problems,62
+473,תראה מה עשית התנהגת כגיבור וזה מה שעשו לנו ,You wanted to be a hero but look what's happened to us,Look what you did and act like a hero and that's what they did to us,66
+474,היה עליך לומר לנו מה בכוונתך לעשות ,You got us into trouble Where have you been all day ,You had to tell us what you were going to do,63
+475,-מה איך אתה מדבר ,What do you want ,-What how do you talk,78
+476,יש רק דרך אחת לך ,There's only one way ,There is only one way for you,73
+477,עזוב את שנחאי ,Leave Shanghai ,Leave Shanghai,100
+478,אתה צודק עזוב את שנחאי ,Right You must leave Shanghai ,You're right leave Shanghai,89
+479,למה לא ,Why not ,Why not,100
+480,חשוב על עצמך עכשיו זה הפתרון היחיד האפשרי ,Think of the school if not yourself ,Think for yourself now this is the only possible solution,63
+481,-לא אלך ,I'm not going ,- I will not go,62
+482,עליך ללכת ,You go to sleep first ,You have to go,63
+483,ואל תחשוב שאתה בורח לנו ,Do you think staying is a brave thing ,And do not think that you are running away from us,60
+484,איש לא יאשים אותך ,Go we won't blame you ,No one will blame you,71
+485,"""חשוב על בית הספר ולא על עצמך """,Think of the school if not yourself ,"""Think about school and not yourself""",74
+486,מותו של המורה ועכשיו זה רק מעצים את הנטל על כולנו ,You know the principle of our school His death increases our burden ,The teacher's death and now it only intensifies the burden on all of us,61
+487,למעננו עליך ללכת מחר בבוקר ,You're returning home tomorrow ,For us you must go tomorrow morning,65
+488,אתה קנה לו כרטיס לרכבת למחר ,Buy him a train ticket for tomorrow ,You bought him a train ticket for tomorrow,88
+489,הכול חזר למקומו ,Is everything packed ,Everything was back in place,71
+490,-כן ,Yes ,-Yes,100
+491,-אסור לך לומר זאת על עצמך ,We all understand You must think of yourself too ,- You must not say this about yourself,62
+492,-מה פתאום איש לא מאשים אותך ,Go we won't blame you ,-Why suddenly no one blames you,63
+493,קדימה תנסה לישון ,Go to sleep ,Come on try to sleep,65
+494,-אני לא יכול עליי להישאר ער עליי להישאר עם המורה ,I must stay with Teacher tonight ,- I can not stay awake I have to stay with the teacher,62
+495,לכי את לישון ,Go to sleep ,Go to sleep,100
+496,עלינו ללכת עכשיו ,You don't want to leave now,We have to go now,64
+497,למה מר וו רוצה שנתפטר ,Why does Mr Wu want us to leave ,Why does Mr Wu want us to resign?,79
+498,נלך יחד ,I'll resign and we'll go together ,We'll go together,68
+499,אז אתם יפנים ,You're Japanese ,So you are Japanese,76
+500,אז מה נכון הרגנו את המורה שלך ,Have you forgotten what Teacher always said ,So what's right we killed your teacher,62
+501,מה אתה מנסה לעשות ,What are you going to do then ,What are you trying to do,74
+502,למה הרגת את המורה שלי ,Why did you kill Teacher ,Why did you kill my teacher?,94
+503,למה הרגת את המורה שלי ,Why did you kill Teacher ,Why did you kill my teacher?,94
+504,למה הרגת את המורה שלי ,Why did you kill Teacher ,Why did you kill my teacher?,94
+505,"""המורה הורעל בידי המטומטמים האלו ","""Teacher was killed by poison in the biscuit""","""The teacher was poisoned by these idiots",67
+506,"""אמצא את הרוצח האמיתי ואנקום את מותו ","""I'm going to find the killer and take revenge ""","""I will find the real killer and avenge his death",60
+507,קפטן! קפטן!,Captain!,Captain! Captain!,64
+508,ראיתי בעצמי ,I saw it myself ,I saw for myself,84
+509,-מה קרה ,I haven't changed ,-What happened,60
+510,הם תלויים שם ,They're out there ,They hang there,69
+511,מר פנג והטבח טיאן ,They are Feng and cook Tien ,Mr. Feng and the cook Tian,81
+512,אני יודע אין כאן טעות ,There's absolutely no mistake ,I know there is no mistake here,63
+513,קדימה תראה לי ,Feng come out here ,Come on show me,61
+514,הם מתים ,They're out there ,They are dead,60
+515,מי יכול היה לעשות זאת ,I wonder where he could have gone ,Who could have done that,70
+516,-אתה בטוח ,Are you sure ,-Are you sure,100
+517,הוא השאיר לי פתק ובו כתוב שהמורה הורעל בידי פנג וטיאן ,- Who else He left a note for me saying Teacher died of poisoning ,He left me a note saying that the teacher had been poisoned by Feng and Tian,69
+518,אני מניח שהוא מסתתר בסביבה ,Hiding doesn't help ,I guess he's hiding around,62
+519,היכן נמצא אותו ,We must find him ,Where to find him,79
+520,הוא לא מכיר את שנחאי היטב ,He does not know Shanghai well ,He does not know Shanghai well,100
+521,בואו נארגן חיפוש ,Organize a search!,Let's organize a search,85
+522,זו אני ,It's me!,it's me,100
+523,מה זה יעזור אם תסתתר כאן ,I thought you'd be here ,What good would it do if you hid here?,60
+524,אני לא רוצה שתהיי מעורבת ,I don't want you involved ,I do not want you to be involved,84
+525,-אז מה תעשה ,What do you mean ,-So what will you do?,69
+526,אני לא מסתתר יש לי תכניות ,I'm not hiding ,I'm not hiding I have plans,68
+527,השתנית כל-כך ,Why have you changed ,You have changed so much,82
+528,אם כך אתה ודאי יודע שאני אוהבת אותך ,No one knows your role in this yet ,If so you probably know I love you,62
+529,אבל כדי לעזור עליי לדעת מה אתה עושה ,What are you going to do then ,But to help me know what you're doing,67
+530,כן אני אוהב אותך כמו שתמיד אהבתי ,I love you as much as ever ,Yes I love you as I have always loved,63
+531,אני מאמינה לך ,I believe you ,I believe you,100
+532,אתה זוכר את התכניות שתכננו ,Remember the many plans we had ,You remember the plans you made,72
+533,-כן ,Yes ,-Yes,100
+534,אעשה את עבודות הבית ואז אבוא לאסוף אותך ונלך להביא את הילדים הביתה מבית הספר ,I'd come and fetch you and bring the kids home from school ,I'll do the housework and then I'll come pick you up and go get the kids home from school,64
+535,ומה יקרה עכשיו האם משהו מזה יתגשם ,A place where our dreams will come true ,And what happens now will any of that come true,60
+536,אם תמשיך כך אתה יודע זה עלול לא לקרות ,If you haven't changed this may happen ,If you continue like this you know it may not happen,64
+537,אתה באמת אוהב אותי ,Do you really love me so much ,You really love me,77
+538,באמת ,Really ,really,100
+539,למה אינך מדבר ,What are you going to do then ,Why are you not talking,62
+540,אני לוקח אותך אתי ,What do you mean ,I'm taking you with me,63
+541,-לאן ,Where to ,-where,77
+542,הוא האיש ,Where is Chen ,He's the man,64
+543,מאסטר משהו נורא קרה ,Something terrible has happened!,Master something terrible happened,92
+544,מה קרה ,I haven't changed ,What happened,60
+545,-תסתכל בעיתון ,Look at the papers ,-Look at the newspaper,87
+546,אחיו של מר יושידה ומר פנג הם נהרגו אדוני ,Mr Yoshida's brother and Feng are dead they've been strung up,Mr. Yoshida's brother and Mr. Feng are killed sir,67
+547,אני יודע ,I know ,I know,100
+548,מאסטר אחי עבד שם כטבח רק כדי לגלות את תכניותיהם ,My brother became Ching Wu School's cook to find about the Fist of Fury ,My brother Master worked there as a cook just to find out their plans,63
+549,אדוני אם נעשה זאת כך נהיה מעורבים מדי ,We don't want to be involved ,Sir if we do so we will be too involved,69
+550,-אם כך מה אתה מציע ,What are you going to do then ,-Then what do you suggest,72
+551,יש לי רעיון אחר ,I have an idea ,I have another idea,85
+552,אז ככה: נאלץ אותם למסור את צ'ן ,to force them to hand over Chen ,So like this: forced them to hand over Chen,82
+553,צ'ן מוסרי מכדי לעשות זאת ,to force them to hand over Chen ,Chen is too moral to do so,60
+554,אתה אולי אחד מידידיה הטובים של יפן ,You're Japan's best friend ,You may be one of Japan's best friends,78
+555,-כן ,Yes ,-Yes,100
+556,למה פשטתם על בית הספר ,Why did you raid Hung Kiu School ,Why you raided the school,67
+557,אין לי מושג ,I have an idea ,I have no idea,79
+558,-ודאי שאתם יודעים ,Of course They killed him ,- Of course you know,60
+559,לא אנו לא יודעים ,We don't know ,No we do not know,80
+560,יש לכם מושג היכן הוא ,Stop where are you going ,You have no idea where he is,65
+561,-לא גם אנו מחפשים אותו ,No We're looking for him too ,- Nor are we looking for him,81
+562,אמרתי לך אנו לא יודעים ,I know what you want ,I told you we do not know,67
+563,הקונסול היפני דרש פעולה והוא לא מתבדח ,The Japanese Consulate has demanded action ,The Japanese consul demanded action and he is not joking,78
+564,מה זה מה הוא אמר ,What is it ,What is that he said,67
+565,שלוש כוסיות ,Three cups ,Three glasses,61
+566,-שלוש כוסיות ,Three cups ,-Three glasses,61
+567,רגע חזור הנה ,Wait come back ,Just come back here,67
+568,-אתה רוצה שאזחל ,What can you do ,- You want me to crawl,69
+569,לאן ,Where to ,where,77
+570,חכה לאן אתה הולך ,Stop where are you going ,Wait where you're going,72
+571,זה רחוב ללא מוצא ,This is a dead end ,It's a dead end,85
+572,אני רוצה לשאול אותך משהו ,I want to ask you something ,I want to ask you something,100
+573,מה אתה רוצה שאומר ,I know what you want ,What do you want me to say,70
+574,אני לא עשיתי זאת ,I didn't do it ,I did not do that,77
+575,תלו אדם נוסף ,Look another man hanged!,Hang another person,71
+576,תקשיב ראשית צ'ן פלש לבית הספר שלנו עכשיו המתורגמן שלנו מת ,Chen first invaded our school and now killed our interpreter ,Listen First Chen invaded our school now our interpreter is dead,85
+577,איזה מין חוק יש כאן ,Know where he is ,What kind of law is there here,61
+578,אתה לא מגזים קצת ,But you are causing trouble ,You're not exaggerating a bit,61
+579,נתתי להם יומיים למסור את צ'ן ,I give them two days to deliver Chen ,I gave them two days to hand over Chen,76
+580,אם הם לא יעשו זאת עד אז אסגור את בית הספר שלהם ,They may well close down the school ,If they do not do so by then I will close their school,65
+581,אנו זקוקים להוכחה ובלעדיה לא נוכל לעצור את צ'ן ,Hu was murdered but there's no proof We can't say Chen did it ,We need proof and without it we can not stop Chen,62
+582,או שתעצור את צ'ן או שנסגור את בית הספר ,Forget it We'll go to Ching Wu School ,Either you stop Chen or we'll close the school,65
+583,בסדר אעשה כמיטב יכולתי לעזור לכם ,All right I'll do my best,Okay I'll do my best to help you,60
+584,במקומך לא הייתי סומך עליו ,What would you do in my place ,In your place I would not trust him,69
+585,אתם רואים מה הם עושים ,What took you so long ,You see what they're doing,68
+586,עדיין לא מצאנו אותו ,We don't know where he's hiding ,We have not found him yet,61
+587,אין לנו מושג היכן הוא עכשיו ,I know where he is at night ,We have no idea where he is now,69
+588,"תמצאו את צ'ן או שאיאלץ לסגור את ביה""ס ",If they close down your school and arrest you you'll find it really tough ,You'll find Chen or I'll have to close the school,64
+589,אדוני גם אם תסגור את בית הספר ותעצור את כולנו לא נוכל לעזור לך ,Even if you arrest us now we still can't tell you what we don't know ,"Sir, even if you close the school and stop us all, we can not help you",62
+590,אתן לכם עוד יום אחד ,We wouldn't dare lie to you ,I will give you one more day,62
+591,מה נעשה ,What are we to do ,what should we do,71
+592,-תקשיבו נפסיק לחפש ,Let's stop looking for Chen ,"- Listen, we'll stop looking",65
+593,אם נמצא אותו נצטרך להסגירו למשטרה ,If we find him we're sending him to his death They won't dare touch us ,If we find him we will have to turn him over to the police,62
+594,-קפטן ,Captain!,-Captain,100
+595,בוא לכאן אני מוכרחה לדבר אתך ,I want to talk to you ,Come here I have to talk to you,62
+596,מה קרה ,What happened ,What happened,100
+597,"פשוט  אם הם לא ימצאו את צ'ן ביה ""ס יהיה בבעיה ",If they really can't find Chen will it cause the school much trouble ,Just if they do not find Chen School will be in trouble,72
+598,-אני  מה ,What is it ,-I am what,74
+599,אם נמצא אותו נוכל לעזור לו לברוח ,We must find him and tell him to escape ,If we find him we can help him escape,74
+600,את יודעת היכן הוא ,You know where he is ,You know where he is,100
+601,זה באמת עניין של חיים או מוות ,It is a matter of life or death ,It's really a matter of life or death,82
+602,אם את יודעת עלייך לומר לי ,If you know tell me ,If you know you need to tell me,76
+603,אני יודעת היכן הוא שוהה בלילות ,I know where he is at night ,I know where he stays at night,84
+604,-אימרי לי איפה ,Come here ,- Tell me where,64
+605,אחר הצהריים טובים אני מחברת הטלפון ,I'm from the telephone company ,Good afternoon I'm from the phone book,62
+606,בוא מכאן ,Come here ,Come from here,78
+607,שם -בסדר ,Come and look!,Name - OK,60
+608,יש עוד אחד שם בוא ,There's another one inside ,There's another one there,75
+609,תמתין כאן ,Wait here ,Wait here,100
+610,האיש בא לתקן את הטלפון ,The telephone man is here ,The man came to fix the phone,63
+611,אדוני טכנאי הטלפון ,Chief it's the telephone man ,Mr. Telephone Technician,63
+612,-בוא בוא ,Come with me!,-come come,67
+613,"שמעתי שמכנים אותו: ""אגרוף הזעם"" ",It's not only his Fist of Fury ,"I heard it was called: ""The Fist of Fury""",62
+614,מה אתה מציע ,What do you suggest ,What do you suggest,100
+615,הוא לא כאן ,Why isn't he here ,he is not here,77
+616,לאן יכול היה ללכת ,Where could he be ,Where could he go,82
+617,היכן הוא ,Where is he now ,where is he,85
+618,אתם רשאים לעזוב החוצה ,You'll have to hand over Chen ,You are allowed to leave,60
+619,מי אתה ,Who are you ,Who are you,100
+620,שמי צ'ן ,I'm Chen ,My name is Chen,70
+621,אני רוצה את המאסטר שלך ,I want your master ,I want your master,100
+622,-אתה צ'ן ,Who are you ,- You are Chen,78
+623,תן לי לטפל בו ,Let me take care of him ,Let me take care of him,100
+624,אלוהים  תעזרו לי ,Go home ,God help me,67
+625,מה קרה ,What happened ,What happened,100
+626,מי עשה זאת ,Who did it ,Who did it,100
+627,מה לגבי האחרים ,What about the others ,What about the others,100
+628,נו צ'אנג ,Yao Chang!,Nu Chang,71
+629,אמור לי מה נעשה עכשיו ,Tell him to come in ,Tell me what to do now,63
+630,אני אומר לך עליי לעבור ,I'll hand over the man to you ,I'm telling you I have to move,71
+631,-אם לא תצעק עליי זה יעזור ,I don't know where he is You call the shots ,-If you do not shout at me it will help,62
+632,אם הוא שם בפנים אוציא אותו בשבילך ,I don't know where he is You call the shots ,If he's in there I'll take him out for you,61
+633,תישארו כאן אני אקרא לכם ,You're taking us all in ,Stay here I'll call you,61
+634,מה כל זה ,What is it ,What is all this,69
+635,מה -תיזהר בדבריך ,That all you want ,What - be careful what you say,62
+636,איזו הוכחה יש לכם ,What proof do you have ,What proof do you have,100
+637,על מה אתה מדבר ,You're taking us all in ,What are you talking about,65
+638,-מה ,What ,-what,100
+639,האם תעצור את צ'ן ותוותר להם ,Now you want us to hand him over ,Will you stop Chen and give them up,60
+640,זה הרעיון ,-The desert ,That's the idea,64
+641,"באמת אתה קורא לזה ""צדק"" ",All right just you ,"You really call it ""justice""",64
+642,אני לא יודע היכן הוא הוא עדיין לא חזר ,I don't know where he is You call the shots ,I do not know where he is he has not yet returned,67
+643,אם כך למה שלא תעצור את כולם ,I don't know where he is You call the shots ,If so why not stop them all,60
+644,אתה באמת לא יודע היכן הוא ,You really don't know where he is ,You really do not know where he is,90
+645,אמרתי לך אנו לא יודעים לא ראינו אותו מאז שעזב ,Now you know I don't like any slant-eyes in a white man's saloon ,I told you we do not know we have not seen him since he left,60
+646,אתה עוצר אותנו סתם כך ,You're taking us all in ,You're just stopping us,65
+647,אתם היפנים מאמינים בצדק ,All right just you ,You Japanese believe rightly,61
+648,אני השליט בשנחאי אתה יודע ,I'm the law in Shanghai ,I're the ruler of Shanghai you know,62
+649,חוץ מזה אל תאשים אותי תאשים את צ'ן לולא היה פחדן כזה היה נכנע למענכם ,Blame it on Chen Who asked him to go into hiding He should surrender for your sake ,"Besides, do not blame me, blame Chen, if he were not such a coward, he would surrender for you",63
+650,צ'ן כאן!,Chen is here!,Chen here!,86
+651,תגיד לי את האמת בלי שקרים ,Tell the truth ,Tell me the truth without lies,64
+652,את האמת ,Tell the truth ,The truth,78
+653,שמע אקבל עונש על החיים שלקחתי ואתה תניח לבית הספר!,I shall pay for the lives I took Leave Ching Wu School alone ,Hear I will be punished for the life I took and you will leave for school!,65
+654,‫לך הביתה ,Go home ,Go home,100
+655,‫אתה מחכה שבוע אחד ,You have waited one week ,You're waiting one week,72
+656,‫אנא לחכות עוד קצת ,Please wait a little longer ,Please wait a little longer,100
+657,‫תודה ,Thank you ,Thanks,67
+658,אנא לך הביתה ,Please go home ,Please go home,100
+659,‫אתה מבין אותי ,No you may stay ,You understand me,62
+660,‫אנא לך הביתה ,Please go home ,Please go home,100
+661,‫לא אתה יכול לשהות ,No you may stay ,No you can stay,87
+662,‫למה לא לשתות ,Why did you not drink ,Why not drink,76
+663,‫איש צעיר  ‫  איפה למדת הנימוסים שלך ,Young man where did you learn your manners ,Young man where did you learn your manners,100
+664,‫הסבא שלי אדוני ,My grandfather sir ,"My grandfather, sir",100
+665,‫הוא לימד אותך היטב ,He taught you well ,He taught you well,100
+666,‫תגיד לי ,Tell me ,Tell me,100
+667,מה שמך ,What is your name ,What is your name,100
+668,‫קוואי צ'אנג קיין ,Kwai Chang Caine ,Kwai Chang Kane,71
+669,‫לא שם סיני ,Not a Chinese name ,Not a Chinese name,100
+670,‫האבא שלי היה אדוני נכבדים אמריקאים ‫ ,My father was an American venerable sir ,My father was a distinguished American gentleman,60
+671,"‫""איפה ההורים שלך עכשיו ",-Where are your parents now ,"""Where are your parents now?",100
+672,‫ -both מת ,-Both dead ,-both is dead,86
+673,‫הסבא והסבתא שלך ,Your grandparents ,Your grandparents,100
+674,‫המלח ,-The desert ,the salt,67
+675,כולם מת ,Everyone  ,Everyone is dead,67
+676,‫Ln בית המקדש שאולין  ‫  יש לנו מעולם לא קיבל אף אחד ‫של אחרים מאשר לידה הסינית מלאה ,In the Shaolin Temple we have never accepted anyone of other than full Chinese birth ,Ln the Shaolin Temple we have never received any of other than a full Chinese birth,87
+677,‫יש ראשון לכל דבר ,There is a first for everything ,There is a first for everything,100
+678,‫בוא לכאן ,Come here ,come here,100
+679,‫במהירות ככל שאתה יכול ‫לחטוף את האבן מהיד שלי ,Quickly as you can snatch the pebble from my hand ,As fast as you can snatch the stone from my hand,70
+680,‫כאשר אתה יכול לקחת את האבן מ ‫היד שלי זה יהיה זמן שתעזוב ,When you can take the pebble from my hand it will be time for you to leave ,When you can take the stone from my hand it will be time for you to leave,94
+681,‫אנא סלח לי ,Please go home ,Please forgive me,71
+682,‫ -Some מים אם זה לא יותר מדי בעיות ,-Some water if it's not too much trouble ,-Some water if it is not too much trouble,94
+683,‫מים ,Water ,water,100
+684,‫מים ,Water ,water,100
+685,שכל מה שאתה רוצה ,That all you want ,That everything you want,68
+686,מים ,Water ,water,100
+687,‫אה זה בסדר ,Is that fair ,Oh that's okay,62
+688,‫המים של חופשי כאן ,Water's free around here ,The water of free here,70
+689,‫איפה אתה בא ,Where'd you come from ,Where are you coming from?,78
+690,‫ -Desert ,-Desert ,-Desert,100
+691,"‫""מה ",What ,what,100
+692,‫איך קיבלת פני ,You have waited one week ,How you were received,62
+693,‫ -Walked ,-Walked ,-Walked,100
+694,‫'אתה הלך ,-You walked ,'You went,67
+695,!,!,!,100
+696,‫שקרן ,Liar ,liar,100
+697,שמעת מה   ,Did you hear what  ,You heard what,84
+698,‫היי!,Hey!,Hey!,100
+699,אתה בכובע המצחיק ,You in the funny hat ,You're in the funny hat,93
+700,‫עכשיו אתה יודע אני לא אוהב את כל ‫מלוכסן עיניים בסלון של אדם לבן ,Now you know I don't like any slant-eyes in a white man's saloon ,Now you know I do not like all the slanted eyes in the living room of a white man,77
+701,‫אתה יודע אני קיבלתי את האף לסינים ,You know I got a nose for Chinamen ,You know I got my nose into the Chinese,68
+702,‫ואתה ,And you ,And you,100
+703,היי ,Hey!,Hey,100
+704,‫אתה ,-You walked ,are you,71
+705,‫אתה מריח קצת צהוב אליי ,You smell a little yellow to me ,You smell a little yellow to me,100
+706,‫ובכן אני לא מדבר Chinee ,Well I don't speak Chinee ,Well I'm not speaking Chinee,72
+707,‫L LF עשה l'd להגיד לך לצאת ,If I did I'd tell you to get out ,L LF did l'd tell you to go out,86
+708,‫עכשיו לצאת ,Now get out ,Now get out,100
+709,‫אה אתה רוצה שאני אעזור לך הא ,Oh you want me to help you huh ,Ah you want me to help you ha,78
+710,‫L מעולם לא ראה דבר כזה ‫מה שעשית לאיש הזה ,I have never seen anything like what you did to that man ,L never seen anything like what you did to this man,90
+711,‫L שמע ,I have heard ,L heard,63
+712,‫L ביקש רק להזהיר אותך ‫מה שעלול לקרות  ‫  הבנתי שהייתם זר ‫לעיר הזאת ,I sought only to warn you of what might happen realizing you were a stranger to this town ,L only wanted to warn you what might happen I realized you were a stranger to this city,84
+713,‫וכך הביא צרות על עצמך ,And so brought trouble on yourself ,And thus brought trouble upon yourself,83
+714,‫בוקר l אסיר תודה ,I am grateful ,Morning l grateful,65
+715,‫שמי האן פיי ,My name is Han Fei ,My name is Han Fei,100
+716,ושלך ,And yours ,And yours,100
+717,‫בוקר l נקרא בשמות רבים ,I am called many names ,Morning l is called by many names,73
+718,‫אתה צריך לעבוד ,Have you work ,You have to work,90
+719,‫הנה כולם חייבים להיות עבודה ,Here everyone must have work ,Here everyone must have a job,81
+720,‫L אני מחכה למהנדס ש ‫מפקח על בניית מסילות הברזל ,I am waiting for the engineer who supervises the railroad construction ,I'm waiting for an engineer to oversee the construction of the railroads,77
+721,‫כאשר הוא סיים את ענייניו ‫נחזור למחנה ,When he has finished his business we will return to camp ,When he has finished his business we will return to the camp,97
+722,‫אתה יכול לבוא יחד אם תרצה בכך ,You may come along if you wish ,You can come along if you want,77
+723,‫הרכבת צריכה גברים ,The railroad needs men ,The train needs men,63
+724,‫לא אכפת לך רכבת נכון ,You think I cannot see ,You do not care train right,61
+725,‫מס ‫איך זה צריך l המוח ,No How should I mind it ,Tax how it should l mind,77
+726,‫מהי רכבת ,What is a railroad ,What is a train,79
+727,‫ובכן רכבת is-- ‫אתה תראה בעצמך ,Well a railroad is-- You will see for yourself Mr McKay!,Well train is-- you will see for yourself,74
+728,‫ -זהו הוא קיין חבר ‫,-This is Caine a friend ,- This is Kane's friend,65
+729,-כיצד אתה עושה ,-How do you do ,-How do you do,100
+730,‫הוא מבקש את רשותך לרכוב איתנו ,He seeks your permission to ride with us ,He asks your permission to ride with us,86
+731,‫ -כדי המחנה ‫,-To the camp ,-To the camp,100
+732,-הוא צריך לעבוד ,-He needs work ,- He needs to work,90
+733,‫האם הוא יודע מה שהוא נכנס ,Does he know what he's getting into ,Does he know what he is getting into,93
+734,‫אתה לא יכול למצוא שום דבר אחר ,Can't you find anything else ,You can not find anything else,97
+735,‫בוא ,Come ,Come on,73
+736,‫ -Thanks האן פיי ,-Thanks Han Fei ,-Thanks Han Fei,100
+737,‫ההנאה -A ,-A pleasure ,Pleasure -A,100
+738,‫כן ,Yes ,Yes,100
+739,‫אה מקיי ,Oh McKay ,Oh McKay,100
+740,‫ -Got בעיה מלפנים אדוני ,-Got a problem up ahead sir ,-Got a problem up front sir,81
+741,‫'כן מה זה ,-Yeah what's that ,'Yes what is it,73
+742,‫תוכניות לקרוא פיצוץ מנהרה ‫דרך גבעות אלה ממש כאן ,Plans call for blasting a tunnel through these hills right here ,Plans call for a tunnel blast through these hills right here,98
+743,‫ככל הנראה אף אחד לא הבין ש ‫הם היו במערך אבן חול ,Apparently nobody realized that they were a sandstone formation ,Apparently no one understood that they were in a sandstone formation,79
+744,‫רק כדי להיות בטוח אני לקחתי כמה דגימות ‫ושלחתי אותם למעבדה לניתוח ,Just to be sure I took a few samples and sent them off to the lab for analysis ,Just to be sure I took some samples and sent them to the lab for analysis,90
+745,‫ואם זה במערך אבן חול ‫מה אז ,And if it is a sandstone formation what then ,And if it's in a sandstone array what then,84
+746,‫Lt מה שהם מכנים במערך בלזה ,It's what they call a balsa formation ,Lt what they call in the balsa array,77
+747,‫מושלם לכיסים לכודים של גז טבעי ,Perfect for trapped pockets of natural gas ,Perfect for trapped pockets of natural gas,100
+748,‫חותך לאחד מהכיסים אלה ‫הניצוץ הקטן יכול להגדיר אותו מייד ,Cut into one of those pockets the smallest spark could set it right off ,Cutter for one of these pockets The small spark can set it right away,80
+749,‫למרבה המזל אנחנו עדיין ‫ארבעה או חמישה שבועות משם ,Fortunately we're still four or five weeks away from there ,Luckily we're still four or five weeks away,73
+750,‫יהיה לנו ‫התוצאות של דגימות הבדיקה לפני ש ,We'll have the results of the test samples before that ,We will have the results of the test samples before Q.,86
+751,‫ -מה אם זה חוזר כמו שאמרת ‫,-What if it comes back like you said ,-What if it comes back like you said,100
+752,-Balsa היווצרות ,-Balsa formation ,-Balsa formation,100
+753,‫כן ,Yes ,Yes,100
+754,‫אתה רק צריך לקרוא את המודדים ‫ולהוציא תוואי חלופי ,You'll just have to call out the surveyors and lay out an alternate route ,You just need to read the gauges and take out an alternate route,72
+755,‫כמה זמן ,How long ,How long,100
+756,‫שנים וחצי שלושה חודשים ,Two and a half three months ,Two and a half to three months,95
+757,‫מר מקיי רכבת זה 48 000 $ ‫מקבלת עבור כל קילומטר של מסלול ששכבנו  ‫  ו 20 קילומטרים של אדמת ‫בכל צד של הזכות קדימה ,Mr McKay this railroad is getting $48 000 for every mile of track that we lay and 20 miles of land on each side of the right of way ,"Mr. McKay Train this $ 48,000 gets for every mile of track we lay and 20 miles of land on each side of the right forward",85
+758,‫איך אתה חושב שהם הולכים להרגיש ‫על לקיחת שלושה חודשים מחדש מסלול ,How do you think they're gonna feel about taking three months to re-route ,How do you think they're going to feel about taking a three-month re-route,95
+759,‫עם חייהם של הגברים אנו עוסקים כאן ,We're dealing with men's lives here ,With the lives of men we are dealing here,84
+760,‫אתה רוצה את זה על המצפון שלך ,You want that on your conscience ,You want it on your conscience,87
+761,‫אתה מדבר אנגלית ,You speak English ,Do you speak English,92
+762,‫כן ,Yes ,Yes,100
+763,‫תגיד משהו יותר ,Say something more ,Say something more,100
+764,‫כן אני מדבר אנגלית ,Yes I speak English ,Yes I speak English,100
+765,‫חבילת היא 75 סנט ליום ומזון ,Pay is 75 cents a day and food ,The package is 75 cents a day and food,85
+766,‫שים אותו לעבודה ,Put him to work ,Put it to work,90
+767,‫היי!,Hey!,Hey!,100
+768,‫להתנהג בעצמך שנסתדר ,Behave yourself we'll get along ,Behave yourself that we will manage,67
+769,‫קרקע פורה ,Fertile land ,Fertile soil,75
+770,‫אדם יכול לגדול הרבה דברים כאן ,A man could grow many things here ,A person can grow a lot of things here,65
+771,‫מצטרף חדש למה אתה לא מדבר ,Newcomer why don't you speak ,New joins why you do not speak,76
+772,‫אדם ללא מילות ‫הוא אדם בלי המוח ,A man without words is a man without brains ,A person without words is a person without the mind,72
+773,‫המילים של LF אחד לא יותר טובות מן השתיקה  ‫  אחד צריך לשתוק ,If one's words are no better than silence one should keep silent ,The words of one LF are no better than the silence one should keep silent,86
+774,‫ציוד נמצא בספקים נמצאים ב,Supplies are in Supplies are in ,Equipment found in suppliers are in,64
+775,‫גברים חדשים ,New men ,New men,100
+776,‫למה כל כך הרבה ,Why so many ,Why so much,73
+777,‫אתה התלמיד החדש ,You are the new student ,You're the new student,84
+778,‫אתה לא יכול לראות ,You cannot see ,You can not see,97
+779,‫אתה חושב שאני לא יכול לראות ,You think I cannot see ,You think I can not see,89
+780,‫מכל הדברים  ‫  לחיות בחושך חייב להיות הגרוע ביותר ,Of all things to live in darkness must be the worst ,Of all things living in the dark must be the worst,85
+781,‫הפחד הוא רק חושך ,Fear is the only darkness ,Fear is just darkness,78
+782,‫קח המטאטא שלך ולהכות בו אותי ,Take your broom and strike me with it ,Take your broom and hit me with it,85
+783,‫האם כאני אגיד לך ,Do as I tell you ,Will I tell you,65
+784,שביתה!,Strike!,strike!,100
+785,‫שוב ,Again ,again,100
+786,‫כאן ,Here ,Here,100
+787,‫לעולם אל תניח שבגלל שיש לאדם ‫אין עיניו לא יכולות לראות ,Never assume that because a man has no eyes he cannot see ,Never assume that because a person has no his eyes can not see,82
+788,‫עצם את עיניכם ,Close your eyes ,Close your eyes,100
+789,‫מה אתם שומעים ,What do you hear ,What do you hear,100
+790,‫אני שומע את המים ,I hear the water ,I hear the water,100
+791,‫אני שומע את ציפורים ,I hear the birds ,I hear the birds,100
+792,‫האם אתה שומע פעימות לב שלך ,Do you hear your own heartbeat ,Do you hear your heartbeat,93
+793,‫מס ‫האם אתה שומע את החגב ‫אשר לרגליך ,No Do you hear the grasshopper which is at your feet ,No. Do you hear the grasshopper at your feet,91
+794,‫איש ישן  ‫  איך זה שאתה שומע את הדברים האלה ,Old man how is it that you hear these things ,Old man how is it that you hear these things,100
+795,‫איש צעיר  ‫  איך זה שאין לך ,Young man how is it that you do not ,Young man how is it that you do not have,93
+796,‫רגיל של lt הוא אינו זקוק לחברה ,It's plain he needs no company ,Normal of lt he does not need company,69
+797,‫כומר שאולין הוא באחד עם עצמו ,A Shaolin priest is at one with himself ,Pastor Shaolin is in one with himself,82
+798,‫למה הוא כאן ,Why is he here ,Why he's here,96
+799,‫מה מביא ‫נזיר שאולין למדינה הזאת  ‫  בבגדים המסתירים את מה שהוא ,What brings a Shaolin monk to this country in clothes that conceal what he is ,What brings a Shaolin monk to this country in clothes that hide what he is,91
+800,‫מספיק ,Enough ,enough,100
+801,אתה עובד על התשתית ,You work on the roadbed ,You're working on the infrastructure,61
+802,‫הבגדים שלך הם לא כל כך שונים משלו ,Your clothes are not so different from his ,Your clothes are not so different from his own,95
+803,‫אבל אני לא כומר,But I am no priest ,But I'm not a priest,89
+804,‫כמה זמן זה שאתה כבר כאן ,How long is it that you've been here ,How long have you been here?,70
+805,‫הרבה מאוד זמן אדוני ,A very long time sir ,A very long time sir,100
+806,‫כמה זמן ,How long ,How long,100
+807,‫זמן לא רב מאוד ,Not very long ,Not very long time,84
+808,‫בקרוב תוכל ללמוד ,Soon you will learn ,You will soon be able to learn,78
+809,‫כדי לפגוע במטרה באופן זה ‫היא לממש את הכוח הפנימי ‫ואכן יש שני סוגים של כוח ‫הכוח החיצוני ברור,To hit a target in this manner is to exercise the inner strength Indeed there are two kinds of strength The outer strength is obvious ,To hit the target in this way is to exercise the inner force and indeed there are two types of external force and the obvious,67
+810,‫זה נמוג עם גיל ‫ונכנעה למחלה ‫ואז יש את צ'י ‫העצמה הפנימית,It fades with age and succumbs to sickness Then there is the chi the inner strength ,It fades with age and succumbs to the disease and then there is the inner strength qi,88
+811,‫כולם מחזיק את זה יותר מדי ‫אבל זה אכן הרבה יותר קשה ‫לפתח,Everyone possesses it too But it is indeed much more difficult to develop ,Everyone holds it too much but it is indeed much harder to develop,72
+812,‫הכוח הפנימי נמשך עד ‫כל חום וכל קר  ‫  דרך זקנה ומעבר,The inner strength lasts through every heat and every cold through old age and beyond ,The inner strength lasts until every heat and every cold through old age and beyond,94
+813,‫לכו נייר האורז בשקט כפי שאתה יכול ,Walk the rice paper softly as you can ,Walk the rice paper as quietly as you can,79
+814,‫תסתובב ,Turn around ,Turn around,100
+815,‫כאשר אתה יכול ללכת נייר האורז ללא ‫קורע אותה ולאחר מכן הצעדים שלך לא שמעו ,When you can walk the rice paper without tearing it then your steps will not be heard ,When you can walk the rice paper without tearing it and then your steps are not heard,93
+816,‫לכל אדם יש מקום ראוי ,For every man there is a proper place ,Every person has a proper place,71
+817,‫אבל אתה אדם כמוך ‫צריך לעשות את מה שהוא ייעודו ,But you a man like yourself should do what is his calling ,But you a person like you should do what he is destined to do,73
+818,‫אולי l טעה בהבאתך כאן ,Perhaps I was wrong in bringing you here ,Maybe l was wrong in bringing you here,82
+819,‫מה קורה בחייו של אדם ‫כבר נכתב ,What happens in a man's life is already written ,What happens in a person's life has already been written,82
+820,‫אדם חייב לעבור דרך החיים ‫כגורלו צוואות ,Man must move through life as his destiny wills ,A person must go through life as his destiny wills,78
+821,‫כן עדיין כל אדם הוא חופשי לחיות ‫כפי שהוא בוחר ,Yes yet each man is free to live as he chooses ,Yes still every person is free to live as he chooses,76
+822,‫למרות שהם נראים הפוכים ‫שניהם נכונים ,Though they seem opposite both are true ,Although they look opposite both are true,68
+823,‫אני לא מבין את זה ,I do not understand it ,I do not understand that,83
+824,‫אתה לוקח בהרבה זקן  ‫  כמו מי טאו ,You have taken in much old man like the waters of the Tao ,You take a lot of beard like Tao water,63
+825,‫דבר הראשון היצוק הצעיר הצידה הוא נימוסים ,First thing the young cast aside is manners ,The first thing the young cast aside is manners,96
+826,‫אתה מעריך את הנימוסים איש זקן ,You value manners old man ,You appreciate the old man manners,71
+827,‫אנו מעריכים את הדברים אחרים ,We value other things ,We value other things,100
+828,‫כן אם הוא יקבל אותנו אוכל הגון לאכול  ‫  לספק לנו דרך להישאר חם ,Yes if he will get us decent food to eat provide us with a way to stay warm ,Yes if he gets us decent food to eat provide us with a way to stay warm,96
+829,‫או שהוא יושב שם עימו ‫נימוסים טובים וחיוך מנומס  ‫  בזמן שאנחנו נגווע ברעב ואת הישנים ‫למות מקור ,Or will he sit there with his good manners and polite smile while we starve and the old ones die of cold ,Or he sits there with him good manners and a polite smile while we starve and the old die of cold,93
+830,‫במקדש שאולין ‫יש שלושה סוגים של גברים:,In the Shaolin Temple there are three kinds of men:,The Shaolin Temple has three types of men:,79
+831,‫סטודנטים תלמידים ומורים ,-Yes student Caine ,Students Students and teachers,60
+832,‫פיתוח של המוח יכול להיות מושגת ‫רק כאשר הגוף כבר ממושמע ,Development of the mind can be achieved only when the body has been disciplined ,Development of the brain can be achieved only when the body is already disciplined,86
+833,‫כדי להשיג זאת  ‫  הקדמונים לימדו אותנו ‫לחקות יצוריו של אלוהים ,To accomplish this the ancients have taught us to imitate God's creatures ,To achieve this the ancients taught us to imitate the creatures of God,84
+834,‫זה יום ראשון ‫מאסטר של מערכת המנוף הלבנה ,This is Sun master of the white crane system ,It's a Sunday master of the white crane system,84
+835,‫מהמנוף  ‫  אנו לומדים חסד ושליטה עצמית ,From the crane we learn grace and self-control ,From the lever we learn grace and self-control,87
+836,‫הנחש מלמד אותנו גמישות ‫וסיבולת קצבית ‫הגמל השלם מלמד אותנו ‫מהירות וסבלנות ,The snake teaches us suppleness and rhythmic endurance The praying mantis teaches us speed and patience ,The snake teaches us flexibility and rhythmic endurance The whole camel teaches us speed and patience,77
+837,‫ומהנמר שאנו לומדים עקשנות  ‫  וכוח ‫ומדרקון ,And from the tiger we learn tenacity and power ,And from the tiger we learn stubbornness and strength and dragon,65
+838,‫אנו לומדים לרכב על הרוח ‫כל יצורים הנמוך וגבוה  ‫  ,And from the dragon we learn to ride the wind All creatures the low and the high are one with nature ,We learn to ride on the wind all the low and high creatures,74
+839,אחד עם הטבע ‫אם יש לנו את החוכמה ללמוד  ‫  ,If we have the wisdom to learn all may teach us their virtues ,One with nature if we have the wisdom to learn,67
+840,כל יכול ללמד אותנו את מעלותיהם ‫בין היופי השביר ‫של הגמל השלם  ‫  ,If we have the wisdom to learn all may teach us their virtues ,All can teach us their virtues amidst the fragile beauty of the whole camel,62
+841,והאש והתשוקה של ‫ דרקון המכונף אין מחלוקת ‫בין השתיקה גמישה של הנחש ‫והטפרים של הנשר  ‫  ,Between the fragile beauty of the praying mantis and the fire and passion of the winged dragon there is no discord ,And the fire and passion of the winged dragon There is no dispute between the flexible silence of the serpent and the claws of the eagle,74
+842,יש הרמוניה רק ‫כמו שאין שני אלמנטים של הטבע ‫נמצא בסכסוך ‫לכן כאשר אנו תופסים ‫הדרכים של הטבע  ‫  ,So when we perceive the ways of nature we remove conflict within ourselves and discover a harmony of body and mind in accord with the flow of the universe ,There is harmony just as no two elements of nature are in conflict so when we perceive the ways of nature,62
+843,אנו מסירים סכסוך בתוך עצמנו  ‫  and לגלות הרמוניה ‫של גוף ונפש  ‫  ,So when we perceive the ways of nature we remove conflict within ourselves and discover a harmony of body and mind in accord with the flow of the universe ,We remove conflict within ourselves and discover harmony of body and mind,64
+844,‫האם זה יכול להיות נכון ,Can it be true ,Can this be true,87
+845,‫L שמע את הסיפור משני גברים  ‫  אחד בן דוד ש ‫היה בזמן האחרון מגיע מסין ,I heard the story from two men one whose cousin had lately come from China ,L heard the story from two men and one cousin who was recently coming from China,78
+846,‫באם זה נכון זה לא אומר ‫הכומר הזה הוא אותו האדם ,If it is true it is not to say this priest is the same man ,Is this true it does not mean this pastor is the same person,75
+847,‫Lt הוא ,It is he ,Lt is,62
+848,‫למה הוא היה בא לכאן ,Why would he come here ,Why would he come here,100
+849,‫אדם פועל דרך ארוכה ‫עם מחיר על ראשו  ‫  לרצח ,Man runs a long way with a price on his head for murder ,A man works a long way with a price on his head for murder,88
+850,‫LF שהוא כל כך שהוא שווה הרבה יותר ‫יותר מכולנו אי פעם יראו ,If that is so he is worth much more than any of us will ever see ,LF that he is so worth much more than all of us will ever see,91
+851,‫רק למי שיכול להרוג אותו ,Only to one who could kill him ,Only to those who can kill him,73
+852,‫ -Another עם אותו הכישורים ,-Another with the same skills ,-Another with the same skills,100
+853,‫כן לבוא ב,Yeah come in ,Yes come b,64
+854,‫למה הנה כי הנער שהייתי אומר לך ‫על ,Why here's that boy I was telling you about ,Why is that the boy I was telling you about,88
+855,‫עזור לעצמך ,Help yourself ,Help yourself,100
+856,‫אין סיבה שמישהו ‫עושה לנו טובה צריך ללכת רעב ,No reason why anyone doing us a favor has to go hungry ,There is no reason anyone should do us a favor should go hungry,74
+857,‫הרבה יותר במקום ממנו באו ,Plenty more where that came from ,Much more where they came from,77
+858,‫כלומר אם מה שיש לך לומר ‫שווה משהו ,That is if what you have to say is worth anything ,That is if what you have to say is worth something,81
+859,‫דילון!,Dillon!,Dillon!,100
+860,‫גברים אתה חייב ‫פיצוץ בגבעות עד כאן!,You've got men blasting in the hills up here!,Men you must blast the hills up here!,78
+861,‫תוכניות לקרוא לשים מנהרה דרך ,Plans call for putting a tunnel through ,Call plans to put a tunnel through,85
+862,‫אנחנו רוצים את זה דרך ומוכן ל ‫מסלול עד שהאנשים האלה להגיע אליו ,We want it through and ready for track by the time these men reach it ,We want it through and ready to track until these people get to it,73
+863,‫זה היווצרות אבן החול היא בטוחה יהיה ‫מלא מתאן ,That sandstone formation is sure to be filled with methane ,This sandstone formation is sure to be full of methane,79
+864,"יש לך את הדו""ח שלי ",You've got my report ,You have my report,74
+865,‫מה דוח ,What report ,What a report,92
+866,‫מה שלא עשה עם שלך עדיין יש לי ‫l שני עותקים ,Whatever you did with yours I still have two copies ,What I did not do with yours I still have two copies,83
+867,‫אחד לא הולך למשרד ראש ‫בסן פרנסיסקו  ‫  והשני ליועץ שליש ‫בוושינגטון ,One is going out to the head office in San Francisco and the other to the adjutant general in Washington ,One does not go to a head office in San Francisco and the other to a third adviser in Washington,76
+868,‫אם את לחפור מנהרה ושכל דבר שקורה ‫הולך אני רואה אותך נתלה לייבוש ,If you dig that tunnel and anything happens I'm gonna see you hung up to dry ,If you dig a tunnel and everything that happens goes I see you hung to dry,80
+869,‫ -Master Teh ,-Master Teh ,-Master Teh,100
+870,‫ -כן תלמיד קיין ,-Yes student Caine ,-Yes student no,84
+871,‫מהי הדרך הטובה ביותר להתמודד עם כוח ,What is the best way to deal with force ,What is the best way to deal with power,85
+872,‫כפי ששלום הפרס ושקט ‫מעל הנצחון  ‫  יש שיטה פשוטה ומועדפת ,As we prize peace and quiet above victory there is a simple and preferred method ,As the prize of peace and quiet over victory there is a simple and preferred method,87
+873,‫מה זה אדוני ,What is that sir ,What is it sir,73
+874,‫תופס את דרכו של הטבע ‫ואין לו כוחו של האדם יכולים לפגוע בך ‫אל תיפגש ראש בראש גל ,Perceive the way of nature and no force of man can harm you Do not meet a wave head-on ,Grasps the way of nature and has no power of man can hurt you do not meet head to head wave,79
+875,להימנע מכך ‫אתה לא צריכה לעצור בכוח ‫קל יותר להפנות אותו,Avoid it You do not have to stop force It is easier to redirect it ,To avoid this you should not stop by force and it is easier to turn it around,69
+876,‫לכל החיים יקר ‫ולא  יכול להיות מוחלף כל,For all life is precious nor can any be replaced ,Lifelong expensive and can not be replaced at all,66
+877,‫תאונה ,Accident ,accident,100
+878,‫לקבור אותו ,Bury him ,Bury him,100
+879,‫קבל כמה אתים ,Get some shovels ,Get some shovels,100
+880,‫טוב אולי אתה רוצה ‫לומר כמה מילות כומר ,Well maybe you'd like to say a few words priest ,Well maybe you want to say a few words to the pastor,75
+881,‫אתה כומר לא לך ,You are a priest ain't you ,"You are a priest, not you",80
+882,‫אתה מפריע לי סיני ,You bother me Chinaman ,You're bothering me Chinese,73
+883,‫L מקבל את ההרגשה שאתה חושב ‫אתה טוב יותר מכל השאר ,I get the feeling that you think you're better than the rest of them ,L get the feeling that you think you are better than everyone else,70
+884,‫אולי אתה יכול להניח את קשרי ‫מסביב לשעון ,Maybe you can lay ties around the clock ,Maybe you can put your knots around the clock,76
+885,‫אולי אתה לא מרגיש את הקור ‫הדרך שהם עושים ,Maybe you don't feel the cold the way they do ,Maybe you do not feel the cold the way they do,97
+886,‫אבל l'מ 'הולך להראות לך ‫אתה יכול לדמם הדרך שהם עושים ,But I'm gonna show you you can bleed the way they do ,But l 'm going to show you you can bleed the way they do,92
+887,‫המנהרה דרך הגבעות ,The tunnel through the hills ,The tunnel through the hills,100
+888,‫המהנדס הזהיר אותם ,The engineer warned them ,The engineer warned them,100
+889,‫אני תוהה איך ‫רב של האנשים שלנו נמצא שם ,I wonder how many of our people are in there ,I wonder how many of our people are there,96
+890,‫זה העשייה שלנו ,This is our own doing ,This is our doing,89
+891,‫הראה להם רק חולשה ,We showed them only weakness ,Show them only weakness,90
+892,‫החלש תמיד יהיה התעללות ,The weak will always be abused ,The weak will always be abused,100
+893,רק כאשר ‫איש חזק וחשש שהוא בטוח!,Only when a man is strong and feared is he safe!,Only when a man is strong and fears he is safe!,97
+894,‫דיבורים מסוכנים ,Dangerous talk ,Dangerous talk,100
+895,‫אתה מדבר על סכנה איש זקן ,You talk of danger old man ,You're talking about danger old man,75
+896,‫מחר הם יהיו להזמין אותנו ‫כדי לנקות את הכניסה למנהרה  ‫  וכאשר זה נעשה ‫יותר מאיתנו יישלח בלמות!,Tomorrow they will order us to clear the entrance to the tunnel and when that is done more of us will be sent in to die!,Tomorrow they will be inviting us to clean the entrance to the tunnel and when that is done more of us will be sent in brakes!,86
+897,‫הוא צודק ,It is he ,He is right,84
+898,כי אנחנו לא לבנים ‫הם רואים אותנו חסרי ערך ,Because we are not white they consider us worthless ,Because we are not white they see us as worthless,84
+899,‫אנחנו רבים הם מעטים LF אנחנו נלחמים ב ‫לפחות אנו בוחרים את אופן המוות שלנו!,We are many they are few lf we fight at least we choose the manner of our deaths!,We many are few LF we fight in at least we choose our mode of death!,82
+900,‫חכה חכה ,Wait wait ,wait wait,100
+901,‫איך אתה נלחם ,How will you fight ,How you fight,84
+902,ומה ‫יהיה לך להשתמש נגד הרובים שלהם ,And what will you use against their guns ,And what will you use against their guns,100
+903,‫Rocks!,Rocks!,Rocks!,100
+904,הידיים שלנו!,Our hands!,Our hands!,100
+905,‫אתה תוביל את האנשים האלה ‫לשחיטה ככבשים ,You will lead these people to be slaughtered like sheep ,You will lead these people to slaughter like sheep,95
+906,‫האם עלינו להישאר ולחפור קברות שלנו ,Should we stay and dig our own graves ,Should we stay and dig our graves,94
+907,‫האם הם צודקים ,Are they right ,Are they right,100
+908,‫האם אנחנו פחות מאשר גברים ,Are we less than men ,Are we less than men,100
+909,‫גברים לא מכים בתופים ‫לפני שהם לצוד נמרים ,Men do not beat drums before they hunt for tigers ,Men do not hit drums before they hunt tigers,88
+910,‫מה היית לנו לעשות כומר ,What would you have us do priest ,What would you have us to do pastor,87
+911,‫המתן ,Wait ,wait on,73
+912,‫בשביל מה ,For what ,for what,100
+913,המנהרה ,The tunnel ,The tunnel,100
+914,‫האם המוות שלנו יהיה פחות בטוח ,Will our deaths be any less certain ,Will our death be less certain,92
+915,‫הזמן להילחם הוא עכשיו!,The time to fight is now!,The time to fight is now!,100
+916,בואו!,Come!,Come!,100

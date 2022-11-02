@@ -1,0 +1,958 @@
+,hebrewFromSub,englishFromSub,englishTranslation,ratio
+0,הוא נכנס מתחת לספינה ,He's gone under the boat ,He got under the ship,76
+1,אני חושב שהוא נכנס מתחת לספינה ,I think he's gone under the boat ,I think he got under the ship,82
+2,כן זה יותר מדיי קל ,Yeah it's too easy ,Yes it's too easy,91
+3,הוא דג חכם ,He is a smart big fish ,He's a smart fish,87
+4,הוא נכנס מתחת לספינה ,He's gone under the boat ,He got under the ship,76
+5,יש לי משהו מאוד גדול ,I got somethin' very big ,I have something very big,83
+6,אני לא חושב ,I don't think so ,I do not think so,79
+7,צ'יף שים את הכפפות שלך ,Chief put your gloves on ,Chief put on your gloves,100
+8,שימו שניכם את הכפפות ,You put your gloves on both of you ,Put on both of your gloves,87
+9,מתכונן לברוח שוב ,Getting ready to run out again ,Getting ready to run away again,85
+10,הופר אולי אתה מצוין במעבדה אבל כאן אתה סתם אפס ,You may be big in the lab but out here you're just cargo ,Hopper maybe you are excellent in the lab but here you are just zero,68
+11,אם אתה לא רוצה לשחות הביתה אני ממליץ שתבוא ותעזור ,If you don't want to backstroke home you get down here ,If you do not want to swim home I recommend you come and help,63
+12,טוב אם אתה לא רוצה להקשיב לי אל תקשיב ,You don't want to listen to me don't listen to me ,Well if you do not want to listen to me do not listen,80
+13,-זה לא כריש ,- It's not a shark ,- It's not a shark,100
+14,-לך לצד השני ,- Get the other side ,- Go to the other side,84
+15,-זה טונה או דג חרב ,- It's a tuna or swordfish ,- It's tuna or swordfish,96
+16,אולי זה דג חנית או דג צורב  אבל זה בהחלט דג פשוט  ,It's a marlin or a stingray but it's definitely a game fish ,Maybe it's a spearfish or a stinging fish but it's definitely a simple fish,72
+17,-אתה חזור חזרה להגה ,- You get back on the bridge ,- You're back at the wheel,64
+18,-קווינט זה לא מוכיח שום דבר ,- Quint that doesn't prove a damn thing ,- This quintet proves nothing,62
+19,זה מוכיח דבר אחד ,It proves one thing ,It proves one thing,100
+20,זה מוכיח שלכם הילדים העשירים והמלומדים אין מספיק שכל  כדי להודות  מתי שאתם טועים ,It proves that you wealthy college boys don't have the education enough to admit when you're wrong ,It proves to you rich and learned children there is not enough common sense to admit when you are wrong,65
+21,מה הטעם ,What's the point ,What's the point,100
+22,קרסים וחוטים ,Hooks and lines ,Hooks and wires,87
+23,אתה מאבד אחד אתה עושה אחד ,You lose one you rig one ,You lose one you make one,82
+24,שתיים עשר דקות דרום דרום מזרח עכשיו ,Twelve minutes south southeast now ,Twelve minutes south southeast now,100
+25,אתה מבין מה שאני עושה צ'יף זה לעלות אותו למעלה ,You see what I do Chief is I trick 'em to the surface ,You see what I'm doing Chief is raising him up,65
+26,אני לא הולך לגרור אותו למעלה כמו דגי חתול ,I'm not gonna haul 'em up like a lot of catfish ,I'm not going to drag him up like a catfish,76
+27,הראש שלך מדמם ,Your head's bleeding ,Your head is bleeding,98
+28,יש שם ערכת עזרה ראשונה ,First aid there ,There's a first aid kit there,68
+29,תן להופר לנסות ,Let Hooper take a turn ,Let Hopper try,67
+30,תפסיק לשחק עם עצמך הופר ,Stop playin' with yourself Hooper ,Stop playing with yourself Hopper,95
+31,תאט קצת בבקשה ממך ,Slow ahead if you please ,Slow down a bit please,65
+32,שמעת אותו ,You heard him ,You heard him,100
+33,אני יכול להאט קצת ,I can go slow ahead ,I can slow down a bit,70
+34,כבה את המנוע ,Shut off that engine ,Turn off the engine,72
+35,אנחנו נצטרך ספינה גדולה יותר נכון ,We're gonna need a bigger boat right ,We'll need a bigger ship right,70
+36,צריך לחזור לעבודה ,Gotta get to work ,Need to get back to work,63
+37,בוא קדימה מרטין ,- Come on Martin! Move!,Come on Martin,85
+38,אני צריך אותך ,I need you ,I need you,100
+39,"""אורקה"" כאן תחנת המגדל של אמיטי ",Amity Point Light Station to Orca ,"""Orca"" here is Amiti's tower station",69
+40,כאן תחנת המגדל של אמיטי לאורקה ,This is Amity Point Light Station to Orca ,Here is the Amiti Orca Tower Station,68
+41,"עבור ""אורקה"" ",- What for ,"For ""Orca""",62
+42,עבור -יש לי כאן את אשתו של מרטין ברודי ,- I have Mrs Martin Brody here ,For - I have Martin Brody's wife here,83
+43,-קדימה מרטין!,- Come on Martin! Move!,- Come on Martin!,85
+44,זוז! -אני לא הולך לשם!,- I'm not goin' out there!,Move! - I'm not going there!,83
+45,בקצה החביות ,Beyond the edge of the barrels ,At the end of the barrels,80
+46,לך לקצה של החביות עוד יותר בקצה ,Go to the end of the barrels further out ,Go to the edge of the barrels even further at the edge,79
+47,אולי תלך כבר לסוף הדוכן ,- Will you go to the end of the pulpit ,You may already be going to the end of the stand,62
+48,-מה -אולי תלך לסוף הדוכן ,Will you go to the end of the pulpit - What ,-What -Maybe go to the end of the stand,69
+49,אני צריך משהו בחזית כדי לאמוד את הגודל שלו ,I need something in the foreground to give it some scale ,I need something on the front to gauge its size,74
+50,בתחת של החזית!,Beyond the edge of the barrels ,In the ass of the front!,64
+51,בעלך בסדר ,Your husband's okay ,Your husband's fine,74
+52,הוא דג ,He's fishin' ,Is a fish,60
+53,נחזיר אותו לארוחת ערב ,We'll bring 'em for dinner ,We'll bring him back for dinner,79
+54,עוד לא ראינו שום דבר ,We ain't seen anything yet Over ,We have not seen anything yet,77
+55,סוף -אני לא נשאר כאן!,- I'm not staying here!,End - I'm not staying here!,91
+56,-אני מתחנן אלייך!,- I'm begging you!,- I beg you!,75
+57,לעזאזל!,Goddamn it!,damn it!,82
+58,בוא הנה בוא הנה יקירי ,Come here come here darlin' ,Come here come here darling,98
+59,קשור את קצה החבל הזה לחבית הראשונה ,Go to the end of the barrels further out ,Tie the end of this rope to the first barrel,74
+60,מה עם החבית ,Free another barrel ,What about the barrel,60
+61,-אולי תמהר קצת ,Hurry it up ,-Maybe hurry up a little,65
+62,-התור שלך קווינט ,- Your turn Quint ,"- Your turn, Quint",100
+63,הופר איפה אתה ,Hooper where are you ,Hopper where are you,95
+64,תמהר עכשיו קשור את זה ,Hurry it up now tie it on ,Hurry up now and tie it,79
+65,הוא בא ישר לקראתנו!,He's comin' straight for us!,He came straight towards us!,64
+66,אל תחכה לי ,Don't wait for me ,Do not wait for me,91
+67,קדימה ,- What for ,forward,67
+68,תמהר ,Hurry it up ,hurry up,84
+69,קשור את זה ,Tie it on ,Tie it,80
+70,עכשיו ,Now ,now,100
+71,עכשיו ,Now ,now,100
+72,הרוג אותו!,Kill it!,Kill him!,80
+73,עכשיו!,Now ,now!,100
+74,תירה!,Shoot!,Shoot!,100
+75,זמן ,Time ,time,100
+76,מה כבר עשית שמה ,What were you doin' anyway ,What have you done there?,65
+77,לא קיבלתי זווית טובה כדי לפגוע לו בראש ,I didn't get a clean shot right in the head ,I did not get a good angle to hit him in the head,65
+78,בואו נראה כמה זמן ייקח לחבית הזאת לעלות אותו למעלה ,Let's see how long that barrel takes to bring him up ,Let's see how long it will take for this barrel to go up,78
+79,שחרר עוד חבית ,Free another barrel ,Release another barrel,88
+80,מה אנחנו נעשה עכשיו ,What do we do now ,What we will do now,78
+81,אנחנו פורשים נכון ,We're quitting' right ,We are retiring right,63
+82,יש לנו חבית אחת עליו ,We got one barrel on him ,We have one barrel on it,79
+83,אנחנו נשאר כאן עד שנמצא אותו שוב ,We stay out here until we find him again ,We will stay here until we find him again,89
+84,אנחנו יכולים להתקשר ולהביא ספינה יותר גדולה  אין לך מה לדאוג בקשר לזה צ'יף ,We could radio in and get a bigger boat  Don't you worry about it Chief ,We can call and bring a bigger ship you have nothing to worry about this Chief,70
+85,אתה רוצה לראות צלקת ,You see that ,You want to see a scar,65
+86,אתה רוצה להרגיש צלקת ,You want to see something permanent ,You want to feel a scar,62
+87,רק שים את היד שלך מתחת לכובע שלי ,Just put your hand underneath my cap ,Just put your hand under my hat,81
+88,אתה מרגיש את הבליטה הקטנה ,You feel that little lump ,You feel the little bump,73
+89,נוקו נולאנס חג פטריק הקדוש בוסטון ,Knocko Nolans St Paddy's Day Boston ,Noko Nulans St. Patrick's Holiday Boston,78
+90,יש לי משהו יותר טוב ,I got something for you ,I have something better,61
+91,זה צלופח ארסי ,It's a moray eel ,It's a poisonous eel,67
+92,הוא נשך אותי דרך חליפת הצלילה שלי ,It bit right through my wet suit ,He bit me through my wetsuit,63
+93,אני לא יודע בקשר לזה אבל השתתפתי בתחרות הורדת ידיים  בבר של אוקי בסן-פרנסיסקו  ,I don't know about that but I entered an arm wrestling' contest in an Oakie bar in San Francisco ,I do not know about this but I participated in a hands-down contest at an Okay bar in San Francisco,71
+94,רואה את זה ,You see that ,see that,80
+95,אתה יודע למה ,You know why ,you know why,100
+96,גלל שבחצי גמר'  תוך כדי חגיגת מותה  של אשתי השלישית  הגיע בחור סיני גדול   והפיל אותי ישר לרצפה ,'Cause in the semi-final celebrating my third wife's demise big Chinese fella he pulled me right over ,Because in the semi-finals' while celebrating the death of my third wife a big Chinese guy came and knocked me straight to the floor,65
+97,תביט בזה ,Look at that ,Look at that,100
+98,זה כריש שור ,- It's a shark ,It's a bull shark,83
+99,הוא שפשף אותי בזמן שלקחתי דגימות ,He scraped me when I was takin' samples ,He rubbed me while I took samples,62
+100,יש לי משהו בשבילך ,I got something for you ,I have something for you,85
+101,זה מורט ,It's a moray eel ,It's a mortar,76
+102,רואה את זה ,You see that ,see that,80
+103,-זה כריש ,- It's a shark ,- It's a shark,100
+104,-רוצה לשתות ,- You want a drink ,-Do you want to drink,83
+105,לשתות לחיי הרגל שלך ,Drink to your leg ,Drink to your foot life,80
+106,-אני אשתה לחיי הרגל שלך ,- I'll drink to your leg ,- I will drink to your foot life,69
+107,אז נשתה לחיי הרגליים שלנו ,So we drink to our legs ,So we will drink to the life of our feet,67
+108,החזק את זה ,Hold on ,Hold it,71
+109,אתה לובש סוודר ,You're wearin' a sweater ,You're wearing a sweater,98
+110,מארי אלן מופיט ,Mary Ellen Moffit ,Marie Allen Moffitt,83
+111,היא שברה את ליבי ,She broke my heart ,She broke my heart,100
+112,מה זה ,What is it ,What is,82
+113,-מה ,- What ,-what,100
+114,-זה ששם ,Right there ,- It's there,76
+115,על הזרוע שלך ,On your arm ,On your arm,100
+116,קעקוע ,A tattoo ,tattooing,71
+117,אל תגיד לי ,Don't tell me ,do not tell me,89
+118,"אל תגיד לי ""אמא"" ","Don't tell me ""Mother ""","Do not tell me ""mom""",79
+119,מה זה ,What is it ,What is,82
+120,"זה ספינת ארה""ב אינדיאנפוליס ",That's the U S S Indianapolis ,It's a US ship Indianapolis,71
+121,היית על האינדיאנפוליס ,You were on the Indianapolis ,You were on Indianapolis,92
+122,מה קרה ,What happened ,What happened,100
+123,"שתי פצצות טורפדו פגעו בה מהצד ע""י צוללת יפנית ",Japanese submarine slammed two torpedoes into her side Chief ,Two torpedo bombs hit it from the side by a Japanese submarine,69
+124,בדיוק חזרנו מהאי טיניאן לכיוון לייט  בדיוק מסרנו את הפצצה   הפצצה של הירושימה ,I was comin' back from the island of Tinian to Leyte just delivered the bomb the Hiroshima bomb ,We had just returned from the island of Tinyan in the direction of Lite and had just handed over the bomb of Hiroshima,63
+125,כמות של 1 100 אנשים נפלו למים ,1 100 men went into the water ,"A quantity of 1,100 people fell into the water",61
+126,הכריש הראשון הופיע רק אחרי חצי שעה ,Didn't see the first shark for about half an hour ,The first shark appeared only after half an hour,70
+127,כריש נמר 3 מטר ,Tiger 13-footer ,3 meter tiger shark,65
+128,אתה יודע איך יודעים זאת כשנמצאים במים ,Know how you know that when you're in the water ,You know how you know it when you're in the water,88
+129,ובכן אנחנו לא ידענו ,Well we didn't know ,Well we did not know,92
+130,בגלל שהמשימה הייתה כול כך סודית  לא שידרנו  אות מצוקה ,Because our bomb mission had been so secret no distress signal had been sent ,Because the mission was so secretive we did not broadcast a distress signal,64
+131,הם התחילו לחפש אחרינו רק אחרי שבוע ,They didn't even list us overdue for a week ,They started looking for us only after a week,61
+132,הכרישים באים ממש באור השמש הראשון  אז אנחנו התקבצנו  ,Very first light sharks come cruisin' so we formed ourselves into tight groups ,The sharks come right in the first sunlight so we gathered,62
+133,ממש כמו ריבוע קטן בתוך לוח שנה  בדיוק כמו  בקרב ב,Kinda like old squares in a battle like you see on a calendar like the Battle of Waterloo ,Just like a small square within a calendar just like in battle b,63
+134,"-""וואָטֶרלו"" הרעיון היה הכריש יבוא לאדם הקרוב ביותר  והוא יתחיל לבעוט   להשתולל ולצעוק ",The idea was the shark comes to the nearest man and he starts poundin' hollerin' and screamin' ,"- ""Waterloo"" the idea was that the shark would come to the nearest person and he would start kicking wild and screaming",72
+135,לפעמים הכריש בורח  אבל לפעמים  הוא לא בורח ,Sometimes the shark would go away but sometimes he wouldn't go away ,Sometimes the shark escapes but sometimes he does not escape,61
+136,לפעמים הכריש הזה מסתכל ישר אלייך  ישר לתוך העיניים שלך  ,Sometimes that shark he looks right into you right into your eyes ,Sometimes this shark looks straight at you right into your eyes,78
+137,אתה יודע מה שיש לכריש יש לו  זה עיניים  חסרות חיים ,You know a thing about a shark he's got lifeless eyes ,You know what a shark has it has lifeless eyes,71
+138,עיניים שחורות ממש כמו לבובה ,Black eyes like a doll's eyes ,Black eyes just like a doll,86
+139,מתי שהוא בא אלייך הוא לא נראה חיי  עד אשר הוא  ,When he comes at you he doesn't seem to be livin' until he bites you ,Whenever he comes to you he does not seem to live until he is,77
+140,העיניים השחורות והקטנות הללו נהפכות ללבן ואז  ואז אתה שומע את הצרחה  הגבוהה והנוראה מכול ,Those little black eyes roll over white and then then you hear that terrible high-pitched screamin' ,These little black eyes turn white and then and then you hear the loudest and most horrible scream of all,70
+141,האוקיאנוס נהפך לאדום  למרות כול הבעיטות והצרחות   הם כולם באים ,The ocean turns red in spite of the pounding' and the hollerin' they all come in ,The ocean turned red despite all the kicks and screams they all come,66
+142,הם קורעים אותך לגזרים ,They rip you to pieces ,They tear you to pieces,89
+143,אתה יודע עד סוף אותו השחר  איבדנו 100 אנשים  ,You know by the end of that first dawn we lost 100 men I don't know how many sharks ,You know by the end of that dawn we lost 100 people,67
+144,אולי 1 000 ,Maybe 1 000 ,"Maybe 1,000",100
+145,אני לא יודע כמה אנשים הממוצע היה 6 בשעה ,I don't know how many men they averaged six an hour ,I do not know how many people the average was 6 at,69
+146,ביום חמישי בבוקר נתקלתי בחבר שלי  הרבי רובינסון   מקליבלנד ,On Thursday mornin' I bumped into a friend of mine Herbie Robinson from Cleveland ,On Thursday morning I came across my friend Rebbe Robinson of Cleveland,72
+147,שחקן בייסבול השותף של בוסון ,Baseball player Bosun's mate ,Boson's partner baseball player,88
+148,חשבתי שהוא ישן ,I thought he was asleep ,I thought he was asleep,100
+149,הוא צף במים למעלה ולמטה ממש כמו פקק ,He bobbed up and down in the water just like a kind of top ,It floats in the water up and down just like a cork,72
+150,הוא נאכל למחצה מתחת למותניים ,He'd been bitten in half below the waist ,It is half eaten below the waist,75
+151,הוא טס נמוך וראה אותנו ,He swung in low and he saw us ,He flew low and saw us,75
+152,הוא היה טייס צעיר ,He was a young pilot ,He was a young pilot,100
+153,צעיר יותר ממר הופר ,Younger than Mr Hooper ,Younger than Mr. Hopper,95
+154,הוא ראה אותנו  והוא הנמיך טוס   ושלוש שעות לאחר מכן  מסוק גדול ושמן הגיע  והתחיל לאסוף אותנו ,He saw us and he came in low and three hours later a big fat PBY comes down and starts to pick us up ,"He saw us and he lowered a fly and three hours later a big, fat helicopter came and started picking us up",76
+155,זה היה הזמן שהכי פחדתי בו ,That was the time I was most frightened ,It was the time I was most afraid of,77
+156,לחכות לתור שלי ,Waitin' for my turn ,Wait for my turn,94
+157,אני בחיים לא אשים שוב חגורת הצלה ,I'll never put on a life jacket again ,I'll never wear a lifebelt again,70
+158,אז 1 100 אנשים נפלו למים  רק 316 אנשים  ,So 1 100 men went into the water 316 men come out ,"So 1,100 people fell into the water and only 316 people",67
+159,יצאו מהמים הכרישים לקחו את השאר ה-29 ליוני 1945 ,The sharks took the rest June the 29th 1945 ,"Out of the water the sharks took the gate on June 29, 1945",78
+160,בכול אופן אנחנו מסרנו את הפצצה ,Anyway we delivered the bomb ,Anyway we handed over the bomb,83
+161,מה זה היה ,What's that ,what was that,75
+162,זה ליוויתן ,It's a whale ,It's a whale,100
+163,"""הראה לי את הדרך הביתה","""Show me the way to go home","""Show me the way home",87
+164,"""התעייפתי ואני רוצה לישון","""I'm tired and I want to go to bed","""I'm tired and I want to sleep",74
+165,"""שתיתי משקה לפני כשעה","""I had a little drink about an hour ago","""I drank a drink about an hour ago",79
+166,"""וזה עלה לי ישר לראש","""And it's gone right to my head","""And it went straight to my head",75
+167,"""לא משנה היכן אשוטט","""Wherever I may roam","""No matter where I roam",73
+168,"""באוויר בים או ביבשה","""By land or sea or foam","""By air at sea or on land",70
+169,"""הראה לי את הדרך הביתה","""Show me the way to go home","""Show me the way home",87
+170,"""התעייפתי ואני רוצה לישון","""I'm tired and I want to go to bed","""I'm tired and I want to sleep",74
+171,"""שתיתי משקה לפני כשעה","""I had a little drink about an hour ago","""I drank a drink about an hour ago",79
+172,"""וזה עלה לי ישר לראש","""And it's gone right to my head","""And it went straight to my head",75
+173,"""לא משנה היכן אשוטט","""Wherever I may roam","""No matter where I roam",73
+174,"""באוויר בים או ביבשה","""By land or sea or foam","""By air at sea or on land",70
+175,""" --תוכל תמיד לשמוע אותי שר את""","""You can always hear me singing this  ""","""--You can always hear me sing""",87
+176,הפעל את המנועים ,Start the engines ,Start the engines,100
+177,תניע אותה!,More left ,Move it!,62
+178,-נקז את המים ,Don't waste your time ,- Drain the water,61
+179,-כולם לסיפון ,- Everybody on deck ,-Everyone on board,65
+180,-הוא אכל את החשמל ,- He ate the light ,- He ate the electricity,63
+181,קווינט מה אתה עושה ,Quint what are you doing ,Quint what are you doing,100
+182,אל תבזבז את הזמן שלך ,Don't waste your time ,Do not waste your time,93
+183,הופר קח את ההגה ,Hooper take the wheel ,Hopper Take the wheel,95
+184,ברודי עקוב אחרי זה ,Brody follow that ,Brody follow it,88
+185,תביט בחבית ,Grab the boat hook ,Look at the barrel,67
+186,אתה בסדר ,You okay ,Are you okay,80
+187,אתה בסדר ,You okay ,Are you okay,80
+188,משוך את היד השמאלית שלך למטה ,Pull your left hand down ,Pull your left hand down,100
+189,אני לא יכול ,I can't ,I can not,88
+190,זה יורד רק 7 סנטימטר ,It'll only go about three inches ,It drops only 7 inches,63
+191,כן הצינורות התעקמו אפשר לשמוע את זה ,Yeah the housing's bent you can hear it ,Yes the pipes warped you can hear it,64
+192,נסה שוב לסובב את ההגה שמאלה ,Try the left rudder again ,Try turning the steering wheel left again,64
+193,מה אתה אומר צ'יף ,What do you say Chief ,What do you say Chief,100
+194,החבית צפה זה ממש בזרם ,The barrel is up it's right in the stern ,The float barrel is literally in the stream,67
+195,אני חושב שהוא בדיוק מתחת לחבית ,I think he's right under the keg ,I think he's just under the barrel,73
+196,תפוס את הקרס של הספינה ,Grab the boat hook ,Grab the hook of the ship,60
+197,אם נצליח להתקרב מספיק  נוכל להרוג אותו עם הדברים שיש לי על הספינה קדימה ,If we can get close enough I've got things on board that'll kill it ,If we get close enough we can kill him with the things I have on the ship ahead,74
+198,כשהוא יברח עזוב את החבל אחרת תאבד את הידיים שלך ,When he runs you drop that rope or you'll lose your hands ,When he escapes leave the rope otherwise you will lose your hands,70
+199,ראיתי אצבעות קרועות עד למפרק ,I've seen fingers torn out at the knuckles ,I saw fingers torn to the joint,63
+200,כול הים מלא בעצמות ,Whole sea's bones full of 'em ,The whole sea is full of bones,79
+201,תן את זה לשנייה ,Give it to me a minute ,Give it a second,63
+202,הפעל את המנועים ,Start the engine ,Start the engines,97
+203,-לאן אתה הולך ,- Where are you goin' ,-Where are you going,97
+204,-אני הולך לטלפן ,- I'm gonna make a phone call ,- I'm going to call,64
+205,הלו הצילו אורקה למשמר החופים ,Coast Guard this is the Orca ,"Hello, save Orca for the Coast Guard",70
+206,משמר החופים כאן אורקה ,Coast Guard this is the Orca ,The Coast Guard here is Orca,82
+207,משמר החופים --כאן האורקה ,Coast Guard this is the Orca ,Coast Guard - here's the orca,76
+208,סלח לי צ'יף ,Excuse me Chief ,Forgive me Chief,65
+209,עכשיו איפה אנחנו לעזאזל ,Now where the hell are we ,Now where the hell are we?,100
+210,אתה לא שפוי קווינט ,You're certifiable Quint ,You're not sane Quint,62
+211,אתה יודע את זה ,You know that ,you know that,100
+212,אתה משוגע ,You're certifiable ,You're crazy,67
+213,-אתה משוגע ואני אגיד לך מה!,- You're certifiable but I'll tell you this!,- You're crazy and I'll tell you what!,71
+214,אני חושב שהוא חוזר לארוחת הצהריים שלו ,I think he's come back for his noon feeding ,I think he's coming back for his lunch,84
+215,חבר לי עוד חבית ,Hook me up another barrel ,Connect me another barrel,76
+216,חמש מעלות שמאלה ,Five degrees port ,Five degrees to the left,68
+217,חמש מעלות שמאלה עכשיו ,Five degrees port now ,Five degrees left now,76
+218,-דג מהיר ,- Fast fish ,-Fast fish,100
+219,עקוב אחריי ,Follow me ,follow me,100
+220,עקוב אחרי ,Follow me ,follow me,100
+221,אני לא מאמין ,I can't believe it ,I do not believe,71
+222,שתי חביות והוא עדיין יכול לצלול ,Two barrels and he's going down again ,Two barrels and he can still dive,69
+223,-הן עלו שוב!,- They're up again!,-They went up again!,76
+224,-מה עכשיו ,- Now what ,-What now,100
+225,למה שלא נוביל את הכריש לחוף במקום שהוא יוביל אותנו לתוך הים ,Why don't we lead the shark into shore instead of him leading us out to sea ,Why not lead the shark to shore instead of leading us into the sea,87
+226,זהירות ,Cut it!,Caution,62
+227,בסדר רבותיי הביאו אותם ,All right gentlemen snag them ,Okay gentlemen brought them,61
+228,עכשיו קישרו אותם לווים של הירכתיים ,Now then tie them to the stern cleats ,Now the borrowers of the stern linked them,61
+229,ברודי תקשור את הקצה שלך מסביב ליתד ,Brody bring your end around the cleat ,Brody will tie your tip around the peg,64
+230,ברודי תן לו מקום ,Give him room Brody ,Brody give him a place,73
+231,התרחקו מהיתדות הללו ,Stand away from those stern cleats ,Stay away from these pegs,64
+232,הוא יקבל התקף לב כשיראה מה אני הבאתי לו ,He gonna have a heart attack when he sees what I brought him ,He will have a heart attack when he sees what I brought him,91
+233,מצערת לאחור ,Throttle back ,Throttle backwards,84
+234,אתה מאבד את היתדות ,You're losing the cleats ,You lose the pegs,63
+235,אלוהים גם זה ,My God this one too ,God is that too,65
+236,-הוא אוכל את החבל כדי ליברוח ,Now then tie them to the stern cleats ,- He eats the rope to escape,60
+237,קדימה קווינט ,Come on Quint ,Come on Quint,100
+238,תמהר!,Hurry!,hurry up!,77
+239,זוז מהדרך ,Out of my way ,Get out of the way,71
+240,עשה את זה מהר ,Make it fast ,Do it fast,64
+241,אני לא מצליח ,I can't ,I can not,88
+242,הוא מנסה לברוח ,It's trying to run ,He's trying to escape,67
+243,משוך חתיכת בן זונה!,Pull you son of a bitch!,Pull a piece of son of a bitch!,72
+244,זה בלתי אפשרי!,It's impossible!,it's impossible!,100
+245,חתוך את זה!,Cut it!,Cut it!,100
+246,שימרו על הידיים שלכם!,Watch your hands!,Take care of your hands!,62
+247,חתוך את זה כבר ,Cut it!,Cut it already,60
+248,אני לא יכול להחזיק עוד!,I can't hold it!,I can not hold any more!,68
+249,הוא לא יכול לצלול עם שלוש חביות עליו ,He can't with three barrels on him ,He can not dive with three barrels on him,85
+250,לא עם שלוש חביות אין סיכוי ,Not with three barrels he can't ,Not with three barrels there is no chance,81
+251,תוציא את המשאבה שבארונית מולך בסדר ,Get the pump out of the locker in front of you will you ,Take out the pump in the locker in front of you fine,75
+252,אנחנו הולכים לטבוע נכון ,We're gonna sink aren't we ,We're going to drown right,62
+253,שים עין על החביות ,Keep an eye on the barrels ,Keep an eye on the barrels,100
+254,תוציא את המים החוצה צ'יף ,Not with three he can't ,Take the water out Chief,64
+255,הוא לא יכול עם שלוש חביות עליו ,He can't with three barrels on him ,He can not with three barrels on him,91
+256,אין סיכוי עם שלוש חביות ,Not with three barrels he can't ,No chance with three barrels,88
+257,היה לך פעם מקרה כזה ,- You ever had a great white do that ,Have you ever had such a case,63
+258,לא ,No ,No,100
+259,הוא מתגרה בנו ,He's chasin' us ,He teases us,62
+260,אני לא מאמין ,I don't believe it ,I do not believe,82
+261,אני אמשוך אותו לרדודים ,Draw him into the shallow water ,I'll pull him to the shallows,63
+262,אמשוך אותו למים רדודים ,Draw him into the shallow water ,I will pull it into shallow water,62
+263,-אנחנו מסתדרים עם זה ברודי ,- We're headin' in Brody ,"- We'll get on with it, Brody",60
+264,-האם היה לך פעם כריש לבן שעשה ככה ,- You ever had a great white do that ,- Have you ever had a white shark do this?,77
+265,-לא ,No ,-No,100
+266,-לעזאזל ,- Goddamn it ,-damn it,82
+267,-שתוק ,- Shut up ,-Shut,73
+268,חזור לשם ,Get back there ,Go back there,89
+269,"""כי קיבלנו הוראה לשוט בחזרה לבוסטון","""For we received order for to sail back to Boston""","""Because we were instructed to sail back to Boston",62
+270,אידיוט שרפת את המנוע ,You idiot you burned out the bearings ,An idiot burned the engine,60
+271,בסדר עצור את הספינה ,Stop the boat ,Okay stop the ship,71
+272,עצור את הספינה ,Stop the boat ,Stop the ship,69
+273,עצור אותה ,Stop it ,Stop her,67
+274,מה בדיוק אתה יכול לעשות עם הדבר הזה שלך ,What exactly can you do with these things of yours ,What exactly can you do with this thing of yours,92
+275,אם אוכל להתקרב אליו מספיק ,If I can get close enough ,If I can get close enough to him,88
+276,להכניס את המחט הקטנה הזאת דרך העור שלו ,Get this little needle through his skin ,Insert this small needle through its skin,75
+277,לא אני לא יכול לעשות את זה ,I can't hold it!,No I can not do it,73
+278,אם אוכל לקרב אותו מספיק לכלוב אוכל לפגוע בו בפה ,If I can get him close to the cage I can get him in the mouth ,If I can bring him close enough to the cage I can hit him in the mouth,85
+279,זהירות ,Cut it!,Caution,62
+280,הינה היא עולה ,Up she goes ,Here she goes,67
+281,נסו להרחיק אותו ממני עד שתורידו אותי ,Try and keep him off me until I'm lower ,Try to keep him away from me until you take me down,64
+282,משוך את זה ,Pull it ,Pull it,100
+283,משוך ,Pull it ,Pull,73
+284,תאלתר משהו!,Rig something!,Improvise something!,75
+285,זה בא ,It's comin' ,It's coming,95
+286,לאט ,Slower ,slowly,67
+287,תחייך חתיכת בן-זונה!,Smile you son of a bitch!,"Smile, son of a bitch!",91
+288,קווינט ,Quint ,Quint,100
+289,לא ,- No ,No,100
+290,אנחנו יכולים להשתמש באלה ,I used to hate the water ,We can use these,60
+291,איזה יום היום ,What day is this ,what day is it today,72
+292,רביעי ,It's Wednesday ,Wednesday,78
+293,יום חמישי אני חושב ,It's Tuesday I think ,Thursday I think,78
+294,אני חושב שהגאות איתנו ,I think the tide's with us ,I think the tide is with us,98
+295,תמשיך לבעוט ,Keep kicking ,Keep kicking,100
+296,נהגתי לשנוא את המים ,I used to hate the water ,I used to hate water,91
+297,אני לא יכול לתאר למה ,No I can't do that ,I can not describe why,65
+298,להיות מוצא להורג על פשע שלא ביצעתי ,To be executed for a crime I never committed ,To be executed for a crime I did not commit,85
+299,חשבתי כמובן שכולנו בסירה אחת ,Of course isn't all mankind in the same boat ,I thought of course we were all in one boat,67
+300,את כולם מוציאים להורג בסופו של דבר על פשע שמעולם לא ביצעו ,To be executed for a crime I never committed ,They are all eventually executed for a crime they never committed,73
+301,ההבדל הוא שכולם מתים בסופו של דבר אני אמות מחר ב-6 בבוקר ,The difference is that all men go eventually but I go six o'clock tomorrow morning ,The difference is that everyone dies eventually I'll die tomorrow at 6am,68
+302,"זה היה אמור לקרות ב-5 אבל העו""ד החכם שלי השיג דחיה ",I was supposed to go at five o'clock but I have a smart lawyer Got leniency ,It was supposed to happen at 5 but my smart lawyer got a postponement,71
+303,יש לי תשוקה עזה להיות שוב צעיר ,I've a tremendous yearning to be young again A boy ,I have a strong desire to be young again,60
+304,אלוהים איזה דוחה הוא היה ,God he was repulsive ,God how repulsive he was,91
+305,והיו גם סבא וסבתא שגם אחרי 50 שנות נישואין עדיין הרגישו מאוהבים כמו ביום שהכירו ,There was Grandpa and Grandma who had been married for 50 years and still felt as deeply about one another as the day they met ,And there were also grandparents who even after 50 years of marriage still felt in love as on the day they met,70
+306,ואבי אדם נאה ונדיב שבנוסף לבתי הקיץ והחורף שלנו היתה לו גם פיסת אדמה יקרה ,And my own father a handsome and generous man In addition to our summer and winter estate he owned a valuable piece of land ,"And a handsome and generous father who, in addition to our summer and winter homes, also had an expensive piece of land",78
+307,נכון פיסה קטנה למדי אבל הוא לקח אותה לכל מקום שהלך ,True it was a small piece But he carried it with him wherever he went ,True a pretty small piece but he took it everywhere he went,62
+308,דימיטרי פטרוביץ' אני מעוניין לקנות את האדמה שלך ,Dimitri Pietrovich! I would like to buy your land ,Dmitry Petrovich I'm interested in buying your land,67
+309,היא לא למכירה ,This land is not for sale ,It's not for sale,67
+310,אני מקווה לבנות עליה יום אחד ,Some day I hope to build on it ,I hope to build on it one day,95
+311,הוא היה אידיוט אבל אהבתי אותו ,He was an idiot But I loved him ,He was an idiot but I loved him,100
+312,והיתה גם אמא שהכינה את הבלינצ'ס הכי טובים בעולם ,Then there was mother who made the most delicious blintzes in the world ,And there was also a mother who made the best blinches in the world,75
+313,והיו גם גרגור הזקן ובנו גרגור הצעיר ,Of course there was Old Gregor and his son Young Gregor ,And there was also old Gregor and his young son Gregor,84
+314,באופן מוזר בנו של גרגור הצעיר היה מבוגר יותר מגרגור הזקן ,Young Gregor's son was older than Old Gregor ,Oddly enough young Gregor's son was older than old Gregor,87
+315,שני אחיי איבן ומיכאיל אהבו לשחק במשחקים משעשעים ,My two brothers Ivan and Mikhail used to play amusing little games ,My two brothers Ivan and Mikhail loved to play fun games,80
+316,אבל לי היתה תפיסה שונה לגמרי של עצמי בתור ילד ,But I had a completely different concept of myself as a child ,But I had a completely different perception of myself as a child,85
+317,מפגשי הראשון עם המוות היה עם מותו של נחמקין הזקן אחד האריסים שלנו ,My first experience with death was with one of our serfs Old Nehamkin ,My first encounters with death were with the death of old Nahmkin one of our heresies,73
+318,הוא עלה להתקין כליא-ברק על הגג ואז פרצה סופה ,Old Nehamkin was on the roof putting up a lightning rod when a storm broke out ,He went up to install a lightning rod on the roof and then a storm broke out,68
+319,כשהוא לא הגיע לארוחת הערב אמי יצאה לחפשו ,After he failed to show up for dinner Mother went to look for him ,When he did not come to dinner my mother went out to look for him,68
+320,מה קרה נחמקין הזקן ,What is it Old Nehamkin ,What happened old Nahmkin,67
+321,הכול בסדר ,Is there a hell ,All is well,62
+322,אתה מרגיש טוב ,You feel all right ,are you feeling well,63
+323,בלילה שבו קברנו את נחמקין היה לי חלום מוזר וברור מאוד ,We laid Old Nehamkin to rest and that night I had a strange and vivid dream ,The night we buried Nachmkin I had a very strange and obvious dream,72
+324,ידעתי שאחרי החלום הזה לא אגדל להיות אדם רגיל ,I knew that after that dream I would not grow up to be an ordinary man ,I knew that after this dream I would not grow up to be an ordinary person,90
+325,היו לי שיחות ארוכות עם האב ניקולאי שתמיד לבש שחורים והיה לו זקן שחור ,I spoke often with Father Nikolai who was always dressed in black with a black beard ,I had long conversations with Father Nikolai who always wore black and had a black beard,70
+326,במשך שנים חשבתי שהוא אלמנה איטלקייה ,For years I thought he was an Italian widow ,For years I thought he was an Italian widow,100
+327,לכל פעולה יש סיבה ,Every action has a cause ,Every action has a reason,73
+328,אלוהים ברא את היקום לכן הוא קיים ,It follows God created the universe therefore He exists ,God created the universe therefore He exists,89
+329,מצד שני שפינוזה לא האמין בשילוש המקודש ,And yet Spinoza didn't believe in the Holy Trinity ,"Spinoza, on the other hand, did not believe in the Holy Trinity",76
+330,שפינוזה היה יהודי ,- Spinoza was a Jew ,Spinoza was a Jew,100
+331,-מה זה יהודי ,- What's a Jew ,- What is a Jew?,80
+332,אף פעם לא ראית יהודי ,You never saw a Jew Here ,You've never seen a Jew,72
+333,אלה יהודים ,- There are Jews ,These are Jews,93
+334,-מה אתה אומר ,- Who are you ,-what are you saying,67
+335,-לא זה יהודי רוסי ,- No this is the Russian Jew ,- This is not a Russian Jew,86
+336,ליהודי גרמני יש פסים ,The German Jew has these stripes ,A German Jew has stripes,79
+337,אני זוכר את החזיון המיסטי הראשון שלי ,I recall my first mystical vision ,I remember my first mystical vision,85
+338,אם הוא היה נגר וכמה היה מבקש עבור מדף לספרים ,If he was a carpenter I wondered what He'd charge for book shelves ,If he was a carpenter and some would ask for a bookshelf,61
+339,כשלפתע  מי אתה ,- Who are you ,When suddenly who you are,61
+340,-מה קורה לנו אחרי המוות ,- Death What happens after we die ,-What happens to us after death,82
+341,יש גהינום ,Is there a hell ,There is hell,93
+342,יש אלוהים ,Is there a God ,there is a God,100
+343,טוב יש לי שאלת מפתח אחת:,All right Let me ask one key question ,Well I have one key question:,62
+344,יש בנות ,- Are there girls ,There are girls,100
+345,אתה איש צעיר ומעניין ,- You're an interesting young man ,You are a young and interesting man,85
+346,אנו נשוב וניפגש ,We'll meet again ,We'll meet again,100
+347,אל תטרח ,- Don't bother ,do not bother,88
+348,-זו לא טירחה ,- It's no bother ,- It's not a hassle,65
+349,גדלתי ונעשתי גבר ,I grew to full manhood ,I grew up to be a man,65
+350,בעצם רק מטר ושבעים טכנית זה לא נחשב גבר ברוסיה אבל מותר לך לקנות בית ,Actually five foot six which is technically not full manhood in Russia but you can own property ,In fact only seventy meters technically it is not considered a man in Russia but you are allowed to buy a house,60
+351,היינו שלושה גברים בריאים ,We were three healthy men ,We were three healthy men,100
+352,אחי איבן ,My brother Ivan ,My brother Ivan,100
+353,אחי מיכאיל ,My brother Mikhail ,My brother Mikhail,100
+354,בנוסף להיותה האישה הכי יפה שראיתי מעודי היא היתה גם אחד האנשים הבודדים שיכולתי לנהל איתם שיחה מעמיקה ,In addition to being the most beautiful woman I had ever seen she was one of the few people I could have deep conversations with ,In addition to being the most beautiful woman I have ever seen she was also one of the few people I could have an in-depth conversation with.,93
+355,בוריס תראה את העלה הזה ,Boris look at this leaf ,Boris will see this leaf,68
+356,נכון שהוא מושלם ,Isn't it perfect ,It's true he's perfect,68
+357,תראה ,Look ,Look,100
+358,אני בהחלט חושבת שזה הטוב שבכל העולמות ,I definitely think that this is the best of all possible worlds ,I definitely think it's the best of all worlds,83
+359,-בטוח שזה היקר ביותר ,- It's certainly the most expensive ,- Sure it's the most expensive,75
+360,-סוניה ומה אם אין אלוהים ,Sonja what if there is no God ,-Sonia and what if there is no God,90
+361,'בוריס דימיטריוביץ אתה מתלוצץ ,Boris Dimitrovitch are you joking ,'Boris Dmitryovich you'm joking,86
+362,מה אם כולנו סתם חבורת בני אדם מגוחכים שמסתובבים ללא סיבה או מטרה ,What if we're just a bunch of absurd people who are running around with no rhyme or reason ,What if we're all just a bunch of ridiculous people hanging around for no reason or purpose,67
+363,-אבל אם אין אלוהים לחיים אין משמעות ,But if there is no God then life has no meaning ,-But if there is no God for life there is no meaning,86
+364,לא עדיף להתאבד ,Why not just commit suicide ,It is not better to commit suicide,72
+365,אין צורך להיות היסטרית ,Well let's not get hysterical ,No need to be hysterical,68
+366,ייתכן שאני טועה ,I could be wrong ,I may be wrong,67
+367,לא הייתי רוצה לפוצץ לעצמי את המוח ואז לקרוא שגילו משהו ,I'd hate to blow my brains out then see they found something Boris ,I would not want to blow my mind and then read that they have discovered something,62
+368,מה ימנע בעדך מלרצוח מישהו ,What prevents you from murdering somebody ,What will stop you from murdering someone?,71
+369,-רצח זה לא מוסרי ,- Murder's immoral ,- Murder is immoral,85
+370,מוסר זה עניין סוביקטיבי ,- Immorality is subjective ,Morality is a subjective matter,76
+371,-כן אבל הסוביקטיביות אוביקטיבית ,Yes but subjectivity is objective ,-Yes but subjectivity is objective,100
+372,-אבל כשאתה בא להעריך כל מערכת או קשר א-פריורי בין תופעות תמצא ניגוד הגיוני או מטפיסי או לפחות הכרתי עם המושג המופשט או האמפירי של הקיום של 'להיות' בתוך הדבר עצמו או לנבוע ממנו ,But judgment of any system of phenomena exists in any rational metaphysical or epistemological contradiction to an abstracted empirical concept such as being or to be or to occur in the thing itself or of the thing itself ,-But when you come to evaluate any system or a priori connection between phenomena you will find a logical or metaphysical contrast or at least familiar with the abstract or empirical concept of the existence of 'being' within the thing itself or deriving from it,67
+373,-בוריס חובה עלינו להאמין באלוהים ,Boris we must believe in God ,-Borris We must believe in God,98
+374,לו רק הייתי רואה נס נס קטן אחד ,If I could just see a miracle just one miracle ,If only I could see one small miracle miracle,75
+375,-עלינו לחזור למטה ,We should go back downstairs ,- We have to go back downstairs,84
+376,ברגעים אלה קרני הזהב האחרונות של השקיעה נמוגות מאחורי ההרים במערב ,By now the last golden streaks of the sunset are vanishing behind the western hills ,In these moments the last golden rays of the sunset fade behind the mountains in the west,66
+377,את יוצאת עם איזה רוסי שאני צריך לדעת עליו ,Hey are you dating any Russians I should know about ,You're dating a Russian I need to know about,69
+378,אבל הפרש הגילים גדול מדי ,But the age difference is too great ,But the age difference is too great,100
+379,81 אני בת 28 והוא בן ,I'm 28 and he's 81 ,81 I am 28 years old and he is a boy,63
+380,-כשאהיה בת 103 הוא יהיה בן ,- When I'm 50 he'll be 103 ,-When I'm 103 he's going to be a boy,64
+381,הם נעשים איטיים מאוד ,They slow up ,They become very slow,61
+382,ידעת שהוא קנה לי בושם בניחוח הרינג ,He even bought me herring-scented cologne ,You knew he bought me a herring-scented perfume,64
+383,באמת בטח זו הסיבה שהחתולים רודפים אחרייך ,That's probably why the cat follows you around ,That's probably the reason the cats are chasing you,70
+384,אני רוצה להכיר גבר ולהגביה אל פסגות התשוקה ,I wanna meet some man and scale the heights of passion ,I want to meet a man and elevate him to the peaks of passion,68
+385,גבר שיגלם בתוכו את שלושת מרכיבי היסוד של האהבה:,Some man who embodies the three great aspects of love ,A man who will embody the three basic elements of love:,69
+386,שכל רוחניות וחושניות ,Intellectual spiritual and sensual ,That all spirituality and sensuality,63
+387,אין הרבה כמונו בעולם אבל זה אפשרי בהחלט ,I definitely think that this is the best of all possible worlds ,There is not much like us in the world but it is certainly possible,60
+388,נשים רבות מדי מתפשרות ,- So many women settle cheaply ,Too many women compromise,60
+389,-אני יודע ,- I know ,-I know,100
+390,המסכנות ,Poor things ,The poor thing,80
+391,הן מתחתנות בשביל כסף ,- They marry for money - Money!,They get married for money,77
+392,-כסף ,Well money ,-Of money,67
+393,טוב כסף  אני רק יודעת שארגיש שאני מבזבזת את חיי אם לא אהיה מאוהבת בגבר שאת שכלו אני מכבדת שהרוחניות שלו משתווה לשלי ושיש לו אותו הלהט הבוער ותשוקה מינית כמו זו שמכלה אותי!,But I feel as though my life would be wasted if I didn't love deeply with a man whose mind I respected whose spirituality equaled mine and who had the same lustful appetite for sensual passion that drives me insane ,Good money I just know I'll feel like I'm wasting my life if I'm not in love with a man whose mind I respect whose spirituality equals mine and who has the same burning passion and sexual desire as the one that consumes me!,73
+394,את אישה מורכבת מאוד ,You're an incredibly complex woman ,You are a very complex woman,71
+395,אפשר לומר שאני חצי קדושה וחצי זונה ,I guess you could say I'm half saint half whore ,You could say I'm half holy and half whore,76
+396,אני מקווה שאזכה בחצי שאוכל ,Here's hoping I get the half that eats ,I hope I get half that I can,70
+397,-בוריס כן ,Boris Medals  ,- Boris Yes,76
+398,-יש לי וידוי קטן ,- Yes I have a confession to make ,- I have a little confession,77
+399,אני מאוהבת באחיך איבן ,I've been in love with your brother Ivan ,I'm in love with your brother Ivan,89
+400,זה רק טבעי  ,It's only nat  ,It's only natural,87
+401,משיכה חייתית כל הדיבורים על אהבה מושלמת ואת מאוהבת באיבן -הוא נישק אותי ,All that talk about some perfect love and you're hot for Ivan ,Animal attraction All the talk about perfect love and you are in love with Ivan - he kissed me,63
+402,זה חימם את מעמקי לבי ,- It warmed the cockles of my heart ,It warmed the depths of my heart,86
+403,אני חושבת שהוא יציע לי נישואים ,I think he's going to propose to me ,I think he's proposing marriage to me,69
+404,-הוא מהמר ושתיין יש לו מנטליות של אדם קדמון ,But he's a gambler and a drinker with a Neanderthal mentality ,-He gambler and drinker has the mentality of an ancient man,67
+405,אל תביני אותי לא נכון אני אוהב אותו כמו אח אבל לא כמו אח שלי ,I mean I love him like a brother Just not one of mine ,Do not get me wrong I love him like a brother but not like my brother,67
+406,שומע את המהומה ,Do you hear that commotion ,Hear the commotion,77
+407,מה קורה שם למטה ,What's going on downstairs ,What's going on down there,77
+408,שמעתם את החדשות ,Have you heard the news ,You heard the news,88
+409,נפוליאון פלש לאוסטריה!,Napoleon has invaded Austria - Why ,Napoleon invaded Austria!,86
+410,-תודיעו לי כשזה ייגמר ,Check with me when it's over  ,- Let me know when it's over,67
+411,-לא בוריס ,- No Boris ,- Not Boris,94
+412,אתה הולך להילחם אני אתה צריך פסיכיאטר ,You're going to fight ,You're going to fight. I need a psychiatrist,66
+413,חבר'ה אני פציפיסט ,- Fellas I'm a pacifist ,"Guys, I'm a pacifist",80
+414,אני לא מאמין במלחמות ,- I don't believe in war ,I do not believe in wars,91
+415,הוא לא מאמין במלחמות  ,- He doesn't believe in war ,He does not believe in wars,92
+416,נפוליאון כן מאמין בהן!,Napoleon he believes in war ,Napoleon does believe in them!,79
+417,מה תעשה כשהחיילים הצרפתיים יאנסו את אחותך ,What are you going to do when the French soldiers rape your sister ,What will you do when the French soldiers rape your sister?,85
+418,אין לי אחות ,- I don't have one ,I do not have a sister,68
+419,-זו לא תשובה ,- That's no answer ,- This is not an answer,65
+420,-את מי יאנסו את איבן ,- They won't rape Ivan ,- Who will rap Ivan?,65
+421,-אל תבייש אותי בפני חבריי!,- Don't disgrace me in front of my friends ,- Do not embarrass me in front of my friends!,71
+422,מה התועלת במלחמה ,What good is war ,What is the use of war?,63
+423,נהרוג כמה צרפתים הם יהרגו כמה רוסים ולפני שנרגיש יגיע חג הפסחא ,We kill Frenchmen they kill Russians then it's Easter ,We will kill some French they will kill some Russians and before we know it Easter will come,65
+424,-בוריס אתה לא רציני נכון מדובר כאן באמא רוסיה!,Boris you're talking about Mother Russia ,-Borris you are not serious right this is about Mother Russia!,68
+425,-היא לא אמא שלי ,She's not my mother ,- She's not my mother,100
+426,תסתלק ממני!,- Get away from me ,Get away from me!,100
+427,-אני לא מאמין למראה עיניי!,- I don't believe in war ,- I do not believe what I see!,78
+428,בוריס אתה פחדן!,- Boris you're a coward ,Boris you are a coward!,84
+429,-נכון אבל פחדן מיליטנטי ,- Yes but a militant coward ,-True but a militant coward,90
+430,בוריס  ,- Boris ,Boris,100
+431,נקבל מדליות!,We'll get medals ,We'll get medals!,100
+432,הוא יילך להילחם!,You're going to fight ,He's going to fight!,80
+433,אני מקווה שישלחו אותו לחזית ,And I hope they will put him in the front lines ,I hope they send him to the front,70
+434,תודה אמא ,Thanks a lot Mum ,Thanks Mom,69
+435,כולם זו אמא שלי ,My mother folks ,Everyone is my mother,67
+436,אני לא מסוגל לירות באקדח ,I can't shoot a gun ,I can 't shoot a gun,100
+437,נועדתי לכתוב שירה ,I was meant to write poetry ,I was meant to write poetry,100
+438,סוניה אני לא מתאים לצבא!,Sonja I'm not the army type ,Sonia I'm not fit for the army!,74
+439,30 ישנתי עם אור דולק עד גיל!,I slept with the light on till I was 30 ,30 I slept with a light on until age!,77
+440,אני לא יכול להתקלח ליד גברים אחרים ,I can't shower with other men ,I can not shower near other men,73
+441,כיוון שאנו יוצאים לקרב ואולי לא נשוב לראות את יקירינו רציתי להודיע לכם שבכוונתי להתחתן מחר ,Because we go into battle perhaps never to see our loved ones again I wish to announce that tomorrow I intend to marry ,Since we are going into battle and we may not see our loved ones again I wanted to let you know that I intend to get married tomorrow,72
+442,אני עומד לקחת לי לאישה מישהי שגדלתי איתה ,I'm going to take as my bride a woman I have grown up with ,I'm about to take as a wife someone I grew up with,61
+443,אנה איבנובה!,Anna Ivanova ,Anna Ivanova!,100
+444,-צר לי ,I'm sorry ,-I'm sorry,100
+445,הייתי צריך לספר לך ,I should have told you ,I had to tell you,67
+446,גם אני מתחתנת מחר!,Tomorrow I too get married ,I'm getting married tomorrow too!,90
+447,כן ,Yes  ,Yes,100
+448,כן  ,Yes  ,Yes,100
+449,התכוונתי לליאוניד ווסקובק סוחר ההרינג ,I mean Leonid Voskovec the herring merchant ,I meant the herring merchant Leonid Vascovek,92
+450,אתה!,Are you OK ,are you!,82
+451,אתה החייל הכי גרוע שנתקלתי בו ,You're the worst soldier I ever seen - You ignoramus!,You're the worst soldier I've ever encountered,65
+452,-רוצה שיעיפו אותך מהצבא ,- You want to make a career in the army ,- I want you thrown out of the army,66
+453,'כן ,Yes  ,'Yes,100
+454,-לעזאזל איתך!,Goddamn you!,- Damn you!,84
+455,אתה אוהב את רוסיה לא ,You love Russia don't you ,You do not like Russia,68
+456,-כן המפקד ,- Yes sir ,-Yes sir,100
+457,-יותר חזק! כן המפקד!,- Yes sir ,-stronger! Yes sir!,61
+458,-אתה נהנה כאן נכון ,Three is next if you're having any trouble ,- You're having fun here right,60
+459,-כן המפקד ,- Yes sir ,-Yes sir,100
+460,אתה רוצה קריירה צבאית נכון ,- You want to make a career in the army ,You want a true military career,68
+461,-טוב בוא לא ניסחף ,- Well let's not get carried away ,"- Well, let's not get carried away",100
+462,איך אבדיל ביניהם המפקד ,How will I tell the difference OK ,"How will I differentiate between them, sir?",68
+463,-בסדר  אחת-שתיים!,One two!,-Only one-two!,74
+464,אחת-שתיים  ,One two!,one two,100
+465,מובן שהמלחמה משפיעה על עסקי ההרינג ,Naturally the war affects the herring industry ,"Of course, the war affected the herring business",60
+466,הנמלים חסומים ,The ports are blockaded ,The ants are blocked,70
+467,וכמובן כשמשהו פוגע בהרינג זה כואב לי ,And of course when something hurts herring it hurts me ,And of course when something hurts herring it hurts me,100
+468,אתה מבין מה שאנשים לא יודעים זה שיש מאות סוגי הרינג לכל אחד מהם הסטוריה מעניינת משלו ,What people don't understand is that there are hundreds of types of herring each with its own interesting history ,You see what people do not know is that there are hundreds of types of herring each with its own interesting history,87
+469,סוניה ,Sonja ,Sonia,80
+470,את בסדר ,Are you OK ,you are fine,73
+471,-דיברתי מספיק ,But I've talked long enough ,- I've talked enough,80
+472,אחשוב לעצמי: איזה טיפש ,I'd think what a mad fool he is ,I will think to myself: what a fool,65
+473,ומה תגידי אם פתאום אחבק אותך ,And what would you say if I suddenly put my arms around you ,And what do you say if I suddenly hug you?,74
+474,אחשוב: איזה טיפש חסר סבלנות ,I'd think what a mad fool he is ,I will think: What an impatient fool,70
+475,-ומה תגידי אם אנשק אותך ,And what would you think if I kissed you ,- And what will you say if I kiss you?,80
+476,אחשוב: איזה טיפש חסר סבלנות ונהדר הוא!,I'd think what a mad impetuous fool he is ,I will think: What an impatient and great fool he is!,72
+477,לא!,No ,No!,100
+478,-אני חייב ,- I must!,-I must,100
+479,-כרגע אכלנו ,- We just ate ,- We just ate,100
+480,העור שלך נפלא -אני יודעת ,- Your skin it is so beautiful ,Your skin is wonderful - I know,60
+481,הוא מכסה את כל גופי ,Yes I know It covers my whole body ,It covers my whole body,81
+482,אני חייב לשכב איתך!,I should have told you ,I have to sleep with you!,70
+483,-לא כאן לא על הפסנתר ,No not on the piano ,-Not here not on the piano,86
+484,הוא מושכר ,It's a rented piano ,He's rented,60
+485,יקירתי  יקירתי  ,Darling my darling my  ,My dear my dear,72
+486,-סוניה ,Sonja ,-Sonia,80
+487,סוניה ראית צנצנת עם רוטב יין ,Sonja did you see a jar of wine sauce ,Sonia saw a jar with wine sauce,71
+488,3-בואי לחדרי מחר ב ,- Come to my quarters tomorrow at three ,3-Come to my rooms tomorrow b,70
+489,-אני לא יכולה ,- I can't - Please!,-I can not,61
+490,-אנא! זה לא מוסרי ,- It's immoral ,-please! It's not moral,61
+491,באיזו שעה אמרת ,- Well what did you think of the play ,What time did you say,68
+492,מי יקבע מה מוסרי ,- Who is to say what is moral ,Who will determine what is moral,64
+493,-מוסר זה עניין סוביקטיבי ,- Morality is subjective ,Morality is a subjective matter,83
+494,סוביקטיביות היא עניין אוביקטיבי ,Subjectivity is objective ,Subjectivity is an objective matter,83
+495,-אני נורא מצטער ,- I'm terribly sorry ,- I'm so sorry,67
+496,עדיף שתלך ,- You'd better go ,You better go,93
+497,מטרתנו תהיה להרוג כמה שיותר צרפתים ,The object will be to kill as many Frenchmen as possible ,Our goal will be to kill as many French as possible,82
+498,מן הסתם הם ינסו להרוג כמה שיותר רוסים ,Naturally they are going to try and kill as many Russians as possible ,They will probably try to kill as many Russians as possible,70
+499,אם נהרוג יותר מהם ניצחנו ,If we kill more Frenchmen we win ,If we kill more of them we will win,66
+500,אם הם יהרגו יותר משלנו הם ניצחו ,If they kill more Russians they win ,If they killed more than us we won,72
+501,-מה נקבל אם ננצח ,What do we win Private ,-What will we get if we win,62
+502,מה נקבל טוראי ,What do we win Private ,What will we get a private,79
+503,נסה לדמיין את אהוביך נכבשים בידי נפוליאון וחיים תחת שלטון צרפתי ,Imagine your loved ones conquered by Napoleon and forced to live under French rule ,Try to imagine your loved ones being conquered by Napoleon and living under French rule,88
+504,אתה רוצה שהם יאכלו מזון עשיר מדי עם רטבים כבדים כאלה ,Do you want them to eat that rich food and those heavy sauces ,You want them to eat food that is too rich with such heavy sauces,81
+505,לא!,No ,No!,100
+506,היית רוצה שהם יאכלו סופלה בכל ארוחה וקרואסונים ,Do you want them to have souffle every meal and croissant No ,You would like them to eat souffle at every meal and croissants,80
+507,דוק יש לי בליטה על השפה ,Doc I have this sore on my lip ,Doc I have a bump on the lip,69
+508,-יש לך מחלה 'חברתית' ידידי ,- You have a social disease my friend ,- You have a 'social' illness my friend,77
+509,-אם לא תטפל בה תתעוור ,If you do not treat it you will go blind ,"- If you do not take care of her, you will go blind",77
+510,תיהנו בחופשה שלכם רק תיזהרו ,Couldn't you be careful ,Enjoy your vacation just be careful,66
+511,למרות שהרופא שוחק היטב והבחורה היתה טובה בתור קישוט ,Although the doctor was played with gusto The girl had a delightful cameo role ,Although the doctor played well and the girl was good as a decoration,72
+512,אישית אני הולך לשהות בבית זונות בשלושת הימים הבאים ,I'm planning to spend the next three days in a brothel ,Personally I'm going to stay in a brothel for the next three days,74
+513,הייתי בבית זונות רק פעם אחת בחיים ,- No I went to a brothel once in my life ,I've only been to a brothel once in my life,79
+514,חטפתי שיהוק אתה מבין ,I got hiccups ,"I got a hiccup, you see",69
+515,אתה תגלה ש'חליל הקסם' היא האופרה הטובה ביותר של מוצרט ,I think the Magic Flute is Mozart's greatest opera ,You will find that The Magic Flute is Mozart's best opera,67
+516,אתה יודע תמיד היית האחיין המועדף שלנו ,You were always our favourite nephew ,You know you've always been our favorite nephew,77
+517,למרות שאתה פחדן לא נורמלי ,Even though you are an incredible coward ,Even though you're an abnormal coward,78
+518,-תודה רבה ,Thank you so much ,-Thank you,69
+519,-מאהבים!,Oh lovers Hey ,- Lovers!,63
+520,תגידי מי זאת ,Who is that ,Tell me who it is,64
+521,זאת הרוזנת אלכסנדרובנה ,That's the Countess Alexandrovna ,This is Countess Alexandrovna,85
+522,אחת הנשים המפתות ביותר בעיר ,One of the most enticing women in Saint Petersburg ,One of the most seductive women in town,63
+523,חזה שופע מה ,- What about the dybbuk ,Abundant chest what,60
+524,היא התאלמנה לא מזמן ,She's recently widowed ,She was widowed recently,87
+525,מספרים שהרוזן בעלה מת בזרועותיה כשניסה לספק את תשוקתה המינית האגדתית ,They say her husband the Count died in her arms trying to satisfy her prodigious sexual desires ,The husband is said to have died in her arms when he tried to satisfy her legendary sexual desire,74
+526,-אנטון איבנוביץ' לבדקוב המאהב הנוכחי שלה ,That's Anton Ivanovich Lebedokov her current lover ,-Anton Ivanovich Lebedkov her current lover,91
+527,למרות שאיך שהיא מסתכלת עליך  אני בטוח שאפשר יהיה לסדר איתו משהו ,Although the way she's staring at you  I could work something out with him ,Although the way she looks at you I'm sure something can be arranged with him,75
+528,אתן לו לחמם אותה קצת ,I'd let him warm her up ,I will let him warm it up a bit,70
+529,-באמת ,- Really ,-really,100
+530,הוא הרג כמה גברים בדו-קרב ,- He has killed several men in duels ,He killed several men in a duel,89
+531,כולם בשל קנאתו העזה לרוזנת ,All in a jealous rage over the Countess ,All because of his intense jealousy of the Countess,67
+532,אני שמח שהזכרת את זה ,Glad you mentioned it ,I'm glad you mentioned that,83
+533,נראה שאעבור לצפות באופרה ,Think I'll watch the opera ,Looks like I'm going to watch the opera,68
+534,יש משהו במוצרט ,Ah there is something about Mozart!,There's something in Mozart,79
+535,אני סבורה שהלובי של  אני סבורה שהלובי של בית האופרה של סנט פיטרסבורג הוא אחד המרשימים באירופה ,I believe that the lobby of  I believe that the lobby of the St Pete  Opera House is one of the most beautiful in Europe ,I think the lobby of I think the lobby of the St. Petersburg Opera House is one of the most impressive in Europe,75
+536,מי החייל הנאה והמסתורי הזה ,Who is this attractive and mysterious soldier ,Who is this handsome and mysterious soldier,84
+537,-בוריס גרושנקו ,Boris Grushenko ,-Boris Groshenko,93
+538,סליחה ,- Sorry ,Sorry,100
+539,-יש לו פנים שקטות מה ,- He has quite a sensitive face ,- He has a quiet face what,75
+540,-גרושנקו ,Grushenko ,-Grushenko,100
+541,האין זה הפחדן הצעיר שכל העיר מדברת עליו ,Isn't he the young coward all Saint Petersburg is talking about ,Isn't this the young coward that the whole town is talking about,65
+542,-יש לו מצב רוח רע מה ,He is in a bad mood ,- He's in a bad mood,86
+543,אתה יושב במקום שלא מוצא חן בעיניך אתה חייב לקפוץ אליי לכוס תה ,And you Sonja you look more beautiful standing here than you do in person ,You're sitting in a place you do not like. You must jump to me for a cup of tea,60
+544,אני בטוחה שנמצא הרבה נושאים לדבר עליהם -אין בעיה ,I'm sure we'd have a lot to talk about ,I'm sure we'll find a lot of topics to talk about - no problem,67
+545,אביא איתי שקיות-תה ,OK I'll bring the tea bags ,I will bring tea bags with me,73
+546,'אבל מה עם ה'דיבוק ,- What about the dybbuk ,'But what about the' obsession ',69
+547,למה את ממשיכה לענות אותי בפומבי ,- Why do you always taunt me in public ,Why do you keep torturing me in public?,73
+548,אם רק תתקרב אל הרוזנת אני אוודא שלא תראה יותר אור יום!,If you so much as come near the Countess I'll see that you never see daylight again ,If you just get close to the Countess I'll make sure you do not see more daylight!,67
+549,אם גבר היה אומר לי דבר כזה הייתי מולק את צווארו ,If a man said that to me I'd break his neck!,If a man were to say such a thing to me I would be licking his neck,64
+550,אני גבר ,- I am a man ,I'm a man,74
+551,-התכוונתי לגבר הרבה יותר נמוך ,- Well I mean a much shorter man ,-I meant a much lower man,63
+552,'בוריס!,Boris!,'Boris!,100
+553,בוריס דימיטריוביץ!,Boris Dimitrovitch!,Boris Dimitriovitz!,89
+554,-סוניה!,Sonja!,- Sonia!,80
+555,תראה אותך!,Look at you ,look at you!,100
+556,אתה נראה כל כך יפה במדים ,You look so handsome in your uniform ,You look so beautiful in uniform,71
+557,טוב יש לי גוף מושלם לכל בגד ,Well  Dress warmly Boris and have a nice time ,Well I have a perfect body for any outfit,61
+558,מידה 28 לגמדים ,I'm a 28 dwarf ,Size 28 for dwarves,61
+559,סוניה אלוהים! את יותר יפה עכשיו ממה שאת באמת ,And you Sonja you look more beautiful standing here than you do in person ,Sonia God! You're more beautiful now than you really are,66
+560,בוריס אני אומללה מאוד ,- Oh Boris I'm so unhappy ,Boris I am very unhappy,65
+561,בשבועות האחרונים אני מבקרת בחדרו של סרצקי ,I've been visiting Seretsky in his room ,For the past few weeks I have been visiting Saretzky's room,65
+562,למה ,Why ,Why,100
+563,מה יש בחדר שלו ,What's in his room ,What's in his room?,100
+564,לפני סרצקי אלכסיי ,And before Seretsky Alexei ,Before Saretzky Alexei,83
+565,לפני אלכסיי היה אלגוריאן ולפניו אסימוב ,- And before Alegorian Asimov ,Before Alexei was Algorian and before him Asimov,72
+566,-כמה מאהבים היו לך ,- How many lovers do you have ,- How many lovers did you have?,95
+567,-סוניה  בוריס חיי נהרסו ,- Oh Sonja - Boris my life is ruined ,- Sonia Boris My life was ruined,81
+568,נגמרו ,Over ,Are over,67
+569,אני לא סובלת את ווסקובק!,I can't stand Voskovec ,I can not stand Vascoque!,70
+570,כל היופי בעולם מתמצה בעיניו בדג קטן ומעושן ,His mentality has reduced all the beauty of the world to a small pickled fish ,"All the beauty in the world is summed up in his eyes in a small, smoky fish",65
+571,סוניה את צריכה מישהו שירחיק אותך ממנו ,Sonja you need somebody to take you away from Voskovec ,"Sonia, you need someone to keep you away from him",71
+572,מישהו שאוהב אותך ,Someone who loves you ,Someone who loves you,100
+573,מישהו שמאז ומתמיד אהב אותך בכל ליבו ודאג לך ,Someone who's always loved you and cared for you ,Someone who has always loved you with all his heart and cared for you,79
+574,מה שלום אחיך איבן ,How is your brother Ivan ,How is your brother Ivan?,100
+575,אחרי שבועיים טירונות הוא נעשה רב-סרן ,He did his basic training in two weeks Became a major ,After two weeks of training he became a major,78
+576,הוא מדבר עליי לפעמים ,He must speak of me sometimes ,He talks about me sometimes,64
+577,-אז מה לא ייתכן שהוא לא מדבר עליי!,- Exactly what did he say about me ,-So what can he not talk about me!,66
+578,-תירגעי טוב ,Really ,- Relax well,62
+579,זה רכוש צבאי ,This is army property ,It's military property,65
+580,באמת ,Really ,really,100
+581,אז יש תקווה ,Then there's hope ,So there is hope,79
+582,מה הוא אמר עליי בדיוק -סוניה!,- Exactly what did he say about me ,What exactly did he say about me - Sonia!,91
+583,לאן אמרת שאתם הולכים ,- Sonja! Now where did you say you were going ,Where did you say you were going?,86
+584,אה כן  למלחמה ,Oh yes the war ,Oh yes to the war,90
+585,ובכן בוריס תתלבש חם ,Well  Dress warmly Boris and have a nice time ,Well Boris will dress warm,60
+586,הרעיון הוא לא להיבהל ולרוץ אז הם יורים לך בגב ,The idea is not to panic and run then they shoot you in the back ,The idea is not to panic and run so they shoot you in the back,95
+587,אני לא רוצה שסוס ידרוס אותי ,I don't want to be trampled by a horse ,I do not want a horse to run over me,62
+588,מה איתך בוריס ,And you Boris ,What about you Boris,67
+589,אני בכלל לא רוצה להילחם ,I don't even want to fight ,I do not want to fight at all,73
+590,שניהם נוכלים ,They're both crooks ,Both are crooks,65
+591,הצאר טיפה יותר גבוה ,The Tsar's taller ,The Tsar is a little taller,77
+592,אם אתה שונא את שניהם מי לדעתך צריך לנהל את המדינה ,If you don't like Napoleon and you don't like the Tsar who do you think should run the country ,If you hate both who do you think should run the country,64
+593,אתה באמת רוצה לדעת ,- Do you really wanna know ,You really want to know,81
+594,האריסים ,The serfs ,The irises,74
+595,-האריסים ,The serfs ,-The erises,74
+596,הוא רוצה שהאריסים ינהלו את המדינה ,He wants the serfs to run the country ,He wants the Aryans to run the country,83
+597,-באמת בוריס אז למה לא הפושעים ,Why not the criminal element ,-Really Boris so why not the criminals,65
+598,או היהודים ,Or the Jews ,Or the Jews,100
+599,-יש יהודים חכמים ,Some Jews are smart ,- There are smart Jews,82
+600,שמעתי שנשותיהם לא מאמינות ביחסי מין לאחר הנישואים ,Though I hear their women don't practice sex after marriage ,I heard their wives do not believe in sex after marriage,68
+601,אתה נשוי בוריס ,- Are you married Boris - Me No ,You're married to Boris,84
+602,-לא -יש לך חברה ,- Are you married Boris - Me No ,- No - you have a girlfriend,67
+603,-לא ,- No ,-No,100
+604,אני מאוהב במישהי שנשואה למישהו ומאוהבת במישהו אחר שגם הוא נשוי ,I'm in love with a girl She's married She's in love with someone and he's married ,I am in love with someone who is married to someone and in love with someone else who is also married,73
+605,-מה יש לך שם ,- What have you got there ,- What do you have there?,93
+606,תלתל משיערה של אישתי ,- I got a lock of my wife's hair ,A curl from my wife's hair,64
+607,אל תפיל אותו!,Don't drop it ,Do not drop it!,89
+608,יש לך תלתל משיערה של אהובתך ,Have you got a lock of your sweetheart's hair ,You have a curl from your lover's hair,65
+609,-לא ,- No ,-No,100
+610,אהובתי נשואה ,- Are you married Boris - Me No ,My beloved is married,62
+611,יש לי תלתל של בעלה זה הכי טוב שהשגתי ,But I got a lock of her husband's hair ,I have her husband's curl it's the best I've gotten,61
+612,הוא מהכפר שלי ,He was from my village ,He's from my village,86
+613,הוא היה שוטה הכפר ,He was from my village ,He was a village fool,79
+614,ואתה הסגן שלו ,Hey get your red-hots ,And you're his deputy,62
+615,אם הוא בוחן אותנו למה זה לא בכתב ,If he's gonna test us why doesn't he give us a written ,If he examines us why it's not in writing,63
+616,הקרב נראה שונה לגמרי למי שנמצא בתוכו מאשר לגנרלים על הגבעות ,The battle looks completely different in the middle of it than it does to the generals up on the hill ,The battle looks quite different to whoever is in it than to the generals on the hills,75
+617,הבחור עם הבירות בדרך ,- The guy with the beer's coming ,The guy with the beers on the way,70
+618,פתחנו את הקרב עם 12 אלף 14 חיילים ,We started the battle with 12 000 men ,We started the battle with 12 thousand 14 soldiers,71
+619,קיבלנו הודעה מהצאר שלשונה: כל הכבוד תמשיכו כך ,"We got a message from the Tsar saying ""Keep up the good work ""","We received a message from the Tsar who said: Congratulations, keep it up",66
+620,בלילה ההוא כשעסקתי בקבירת הגופות היה לי חזיון מיסטי נוסף  ,That night as I was burying bodies I had another mystical experience ,That night when I was burying the corpses I had another mystical vision,72
+621,כן בטח היה הרבה יותר גרוע אם לא ,It could have gone a lot worse if he wasn't ,Yes it probably would have been a lot worse if not,60
+622,'גרושנקו!,Grushenko!,Groshenko!,89
+623,-ולדימיר מקסימוביץ ,- Vladimir Maximovitch ,-Vladimir Maximovich,97
+624,אתה חי!,You're alive ,You live!,80
+625,לא אני מת ,- No I'm dead ,No I'm dead,100
+626,תראה את החור ,Look at this hole ,Look at the hole,91
+627,זה כואב ,- Oh does it hurt ,It hurts,61
+628,-אני לא מרגיש כלום ,- I feel nothing ,-I feel nothing,100
+629,תקשיב אני צריך טובה ,- Listen do me a favour ,Listen I need a favor,76
+630,-בטח מה שתבקש ,- What have you got there ,- Sure what you'll ask for,60
+631,טבעת האירוסין הזאת עמדתי לתת אותה לנערתי ,This engagement ring I was gonna give it to my girlfriend ,This engagement ring I was going to give to my girl,85
+632,זו הפתעה ,A surprise ,This is a surprise,71
+633,אתה רוצה שאתן לה אותה ,- You want me to give it to her ,You want me to give it to her,100
+634,-לא מה הטעם ,- No what's the point ,- Not what the point is,85
+635,תחזיר אותה לצורף בסמולינסק -כן ,Take it back to the jeweler's in Smolensk ,Return it to the jeweler in Smolinsk - yes,72
+636,-שמו ולדימיר פטרושניק ,Vladimir Petroshnik ,- His name is Vladimir Petrushnik,72
+637,-1 600 רובל ,- 1600 rubles ,-1 600 rubles,96
+638,-1 600רובל בשביל זה ,- 1600 rubles ,-1 600 rubles for it,73
+639,תראה יש כאן יהלום ושני  ,You don't look so bad for a guy who's dead ,Look there's a diamond and a second here,61
+640,איך שלא יהיה קח את הפקדון ,Listen take the deposit - Go to Kiev ,Either way take the deposit,72
+641,סע לקייב תמסור אותו לאישה בשם נטשה פטרובנה ,- Right - Give it to a woman Natasha Petrovna ,Go to Kiev and hand it over to a woman named Natasha Petrovna,67
+642,קח קבלה ,Get a receipt ,Take a receipt,67
+643,לצורכי מס ,You're dead - Tax purposes ,For tax purposes,65
+644,-נכון ,- Right OK ,-Right,77
+645,מה קרה ,- What happened ,What happened,100
+646,הקליע נתקע בליבו ,- The bullet has lodged in his heart ,The bullet got stuck in his heart,75
+647,-זה רציני ,- Is it serious ,- It's serious,80
+648,עם טיפול רפואי נאות הוא יחזיק עוד 10 דקות ,With proper medical care he could last another ten minutes ,With proper medical care it will last another 10 minutes,82
+649,למה בשביל מה ניקית את האקדח ,What did you give him for this ,Why did you clean the gun for what?,66
+650,עמדתי לצאת לדו קרב להגן על כבודך ,I was going to fight a duel to defend your honor ,I was about to go into a duel to defend your honor,80
+651,קצין פרשים טורקי הכפיש את שמך ,A Turkish cavalry officer cast aspersions on it ,A Turkish cavalry officer tarnished your name,61
+652,ידעתי שהוא משקר  ידעתי שאת טהורה ,I knew he was lying that you were pure ,I knew he was lying I knew you were pure,85
+653,ליאוניד אני יודעת שהייתי יכולה להיות אישה יותר טובה ,Yes well  Leonid I know I could have been a better wife to you ,Leonid I know I could have been a better woman,80
+654,הייתי יכולה לשכב איתך יותר ,I could have made love with you more often ,I could have slept with you more,76
+655,-היית בעל אדיב ואוהב ,You were a kind and loving husband ,- You were a kind and loving husband,100
+656,נדיב ותמיד מתחשב ,Generous and always considerate ,Generous and always considerate,100
+657,לשחות בים הפתוח כמו הרינג גדול ונועז  ברור לי שזו מכה אנושה בשבילך סוניה ,Swimming out to the open sea like the great wild herring I realise this must be a great blow to you Sonja ,Swimming in the open sea like a big and daring herring is clear to me that this is a fatal blow for you Sonia,69
+658,אני מניחה שאתה צודק ,I guess you're right ,I guess you'm right,92
+659,איפה תרצו לאכול ,Why were you cleaning your pistol ,Where you would like to eat,63
+660,בואו נלך לרייקוף ,- Let's go to Rykoff's ,Let's go to Reykjavík,75
+661,-למה לא ,- Why ,-Why not,60
+662,ובינתיים המלחמה נמשכה ,Meanwhile the war continued ,And meanwhile the war continued,93
+663,הגדוד שלי הושמד ומצאתי את עצמי אבוד מאחורי קווי האויב ,My regiment had been wiped out and I found myself lost behind enemy lines ,My battalion was destroyed and I found myself lost behind enemy lines,70
+664,הסתתרתי במקום הראשון שמצאתי ואז התעלפתי ,The dead pass on and life is for the living ,I hid in the first place I found and then fainted,61
+665,כשהתעוררתי הבנתי שעשיתי טעות איומה ,When I came to I realised I had made a terrible mistake ,When I woke up I realized I had made a terrible mistake,85
+666,הגורל רצה שאנחת על קבוצה של גנרלים צרפתיים הם נכנעו מיד ואני הפכתי לגיבור ,As fate would have it I landed on a group of French generals causing their immediate surrender and making me a hero ,Fate wanted me to sigh over a group of French generals they immediately surrendered and I became a hero,73
+667,לאחי איבן לא היה מזל כזה ,My brother Ivan was not so lucky ,My brother Ivan was not so lucky,100
+668,את מתפללת עבור איבן ,You're praying for Ivan Yes ,You pray for Ivan,77
+669,אהבתי את בעלך כידוע לך ,I loved him as you know ,I loved your husband as you know,76
+670,רציתי לתת לך כמה מחפציו האישיים ,I wanted you to have some of his possessions ,I wanted to give you some of his personal belongings,75
+671,-יפה מצידך ,You're alive ,-Nice of you,61
+672,שמרתי לעצמי את חרבו ואת שעון הזהב שלו ,I kept his sword and gold watch ,I kept his sword and his gold watch to myself,82
+673,הנה ,But here ,here,67
+674,את יכולה לקחת את שפמו ,I'm giving you his mustache ,You can take his mustache,69
+675,אני יודעת ,I know ,I know,100
+676,זו אחת הסיבות שאהבתי אותו ,It was one of the reasons why I loved him ,That's one of the reasons I loved it,81
+677,-אני מבינה ,I understand that ,-I understand,83
+678,גם אני אהבתי אותו בזכות החוט שלו ,I loved him for his string too ,I loved him too thanks to his thread,70
+679,-עוד משהו בשבילי ,Also some string ,- Something else for me,65
+680,חשבתי שנחלק בינינו את המכתביםשלו ,I thought we should divide his letters ,I thought we would share his letters with us,66
+681,אותיות) את רוצה את התנועות או את העיצורים ,Do you want the vowels or the consonants ,Letters) you want the movements or the consonants,73
+682,תשאירי לך את העיצורים ,You keep the consonants ,Leave the consonants to you,84
+683,-החיים קשים מנשוא ,Life is unbearable ,- Life is unbearable,100
+684,הנה אנו שוב נפגשים ,- So we meet again ,Here we meet again,76
+685,-הרוזנת אלכסנדרובנה ,- Countess Alexandrovna ,- Countess Alexandrovna,100
+686,הלוואי שידעתי איך להודות לך על מה שעשית למען המולדת ,I wish there was a way to thank you for what you've done for Russia ,I wish I knew how to thank you for what you did for the homeland,67
+687,אני יכול לחשוב על משהו ,- I may be able to think of something ,I can think of something,75
+688,-אולי ניפגש בחדרי מאוחר יותר ,- Maybe we could meet in my room later ,- Maybe we'll meet in my room later,87
+689,כרצונך ,As you wish ,as you please,67
+690,בעוד 5 דקות זה טוב ,How's five minutes ,In 5 minutes it's good,60
+691,נו מה יש לנו כאן ,Well What have we here ,Well what do we have here,94
+692,חזרת מהמלחמה מה -כן ,- Back from the war I see ,You're back from the war,81
+693,רציתי להישאר יותר אבל נגמרו להם המדליות ,I'd have stayed longer but they ran out of medals ,I wanted to stay longer but they ran out of medals,81
+694,אצטרף אליך בעוד רגע ,I'll join you momentarily ,I'll join you in a moment,80
+695,-מושלם ,- Perfect ,-perfect,100
+696,-גם את תהיי שם ,Will you be there too - Naturally ,- You'll be there too,76
+697,-חצות ,Midnight ,-midnight,100
+698,12-אולי ברבע ל ,- Make it a quarter to twelve ,12-maybe a quarter to,67
+699,-חצות ,Midnight ,-midnight,100
+700,-חצות ,Midnight ,-midnight,100
+701,כמובן בוריס לא נגעת ב'בליני' שלך ,- Boris you hardly touched your blini!,Of course Boris did not touch your 'Bellini',65
+702,אני במצב הרוח המתאים מאז המאה שעברה ,Oh I've been in the mood since the late 1700s ,I'm in the right mood since the last century,72
+703,אתה מגעיל אבל אני מתה עליך ,You're disgusting but I love you ,You're disgusting but I love you,100
+704,בטח היית בודד מאוד בחזית ,It must be lonely at the front ,You must have been very lonely up front,67
+705,מה היום יום רביעי ,What's today Monday Tuesday  ,What is today Wednesday,72
+706,בערך שנתיים ,- Two years ,About two years,75
+707,-שנתיים ,- Two years ,-two years,100
+708,-תראי לי איך מתחילים זה יחזור אליי ,Well if you start me it'll all come back ,- Show me how to start it will come back to me,64
+709,זוכר את זה -כן ,Remember that ,Remember that -yes,87
+710,זה כמו להתנשק נכון ,Yes That was just like kissing right ,It's like kissing right,75
+711,אתה המאהב הכי טוב שהיה לי ,You're the greatest lover I've ever had ,You're the best lover I've ever had,81
+712,-התאמנתי הרבה כשהייתי לבד ,Well I practice a lot when I'm alone ,- I practiced a lot when I was alone,89
+713,חיללת את כבודה של הרוזנת -למה ,You have insulted the Countess' honor ,You desecrated the Countess' honor - why,71
+714,נתתי לה לגמור ראשונה ,- Why I let her finish first ,I let her cum first,71
+715,הפעם השניה שלה תפיל אותך!,- Her seconds will call on you ,Her second time will knock you down!,70
+716,טוב הסיבוב השני שלי יצא ,My seconds will be out ,Well my second round came out,75
+717,בוריס הוא רציני ,He's serious!,Boris is serious,71
+718,אתה חייב לפגוש אותו בשדה הכבוד ,You must meet him on the field of honor ,You must meet him in the field of honor,92
+719,לא אתמודד נגדו בדו קרב ,I'm not gonna duel with him ,I will not face him in a duel,71
+720,הוא צלף רוצח ,He's a marksman and a killer ,He's a killer sniper,62
+721,הכבוד שלך בסכנה!,- Your honor is at stake!,Your honor is in danger!,71
+722,-מה קורה כאן ,Well What have we here ,-what's happening here,65
+723,מחלקים סטירות לבוריס ,Slap Boris Day ,Slaps are dealt to Boris,68
+724,אתה גיבור מלחמה ,You are a war hero ,You're a war hero,80
+725,אין לך סיבה לחשוש מדו קרב עם אנטון ,Surely a duel with Anton Lebedokov is nothing to fear ,You have no reason to fear a duel with Anton,68
+726,אני רק לא רוצה לבזבז כדורים זה הכול ,Look I just don't wanna waste a good bullet ,I just do not want to waste pills that's all,62
+727,אם לא אעבור לפינלנד ,If he doesn't I'll move to Finland ,If I do not move to Finland,82
+728,נחשי מי זה ,Guess who ,Guess who it is,75
+729,אני מכירה את הידיים האלה  ,Oh I'd know those hands anywhere ,I know these hands,68
+730,אתה נחמקין הזקן ,You are a war hero ,You're the old man,61
+731,לא ,No ,No,100
+732,-בוריס ,- Boris!,-Boris,100
+733,מה שלומך הבאתי לך מתנה ,- I brought you a present ,How are you? I brought you a present,79
+734,-מה מה ,What is it ,-What what,63
+735,זוכרת את העגילים הארוכים שתמיד רצית ,You know those earrings you always wanted The long ones ,Remember the long earrings you always wanted,77
+736,-תודה רבה דודני בוריס ,Thank you cousin Boris ,-Thank you very much Cousins ​​Boris,80
+737,למרות שייתכן שמחר בבוקר יפתחו' אותי סופית' ,By tomorrow morning I may be removed completely ,Although 'me finally' may open tomorrow morning,61
+738,אתה נראה מודאג ,You look so worried ,You look worried,91
+739,סוניה את פוחדת למות ,Sonja are you scared of dying ,"Sonia, you're scared to death",67
+740,אני חוששת מזה ,- I'm afraid so ,I'm afraid of that,77
+741,-אבחנה מעניינת ,It's an interesting distinction ,-Interesting diagnosis,62
+742,לו רק אלוהים היה נותן לי סימן ,If only God would give me some sign ,If only God would give me a sign,90
+743,שידבר אליי פעם אחת!,If he would just speak to me once ,Let him talk to me once!,64
+744,משהו ,- Nothingness ,something,60
+745,משפט אחד ,One sentence ,one sentence,100
+746,שתי מילים ,Two words ,Two words,100
+747,שישתעל לפחות ,At last ,At least cough,67
+748,מובן שיש אלוהים ,Of course there's a God ,Of course there is a God,89
+749,אנו נבראנו בצלמו ,We're made in his image ,We were created in His image,67
+750,את חושבת שנבראתי בצלם אלוהים תסתכלי עליי ,You think I was made in God's image ,Do you think I was created in the image of God? Look at me,70
+751,את חושבת שיש לו משקפיים ,You think he wears glasses ,Do you think he has glasses?,75
+752,-לא עם מסגרת כזאת ,- Not with those frames ,- Not with such a framework,70
+753,ריקנות  ,Black emptiness ,emptiness,75
+754,חוסר קיום  ,Non-existence ,Non-existence,100
+755,ריקנות שחורה  מה אמרת ,- What did you say ,Black emptiness what did you say,67
+756,תיכננתי את העתיד שלי ,- Oh I was just planning my future ,I planned my future,67
+757,למה אתה מוטרד כל כך מהמוות ,Why are you so preoccupied with death ,Why are you so worried about death?,65
+758,מחר בבוקר אני יוצא לדו קרב עם אנטון לבדקוב ,Sonja tomorrow morning I'm gonna fight a duel with Anton Lebedokov ,Tomorrow morning I'm going to a duel with Anton Lebedkov,87
+759,רציתי לנצל את ההזדמנות למקרה שלא אראה אותך יותר לומר לך שאני אוהב אותך ,In case I don't see you again I wanted to say that I love you ,I wanted to take this opportunity in case I never see you again telling you I love you,72
+760,-בוריס!,- Boris!,-Boris!,100
+761,תמיד אהבתי אותך מאז שהיינו ילדים ,- I've loved you ever since we were kids ,I've always loved you since we were kids,87
+762,למה לא אמרת כלום ,- What did you say ,Why did you not say anything,64
+763,-זה היה משנה משהו ,- Would it have mattered ,- It would change something,64
+764,אם יקרה מחר נס ולא אמות את מוכנה להינשא לי ,If by some miracle I'm not killed tomorrow would you marry me ,"If a miracle happens tomorrow and I do not die, you are ready to marry me",65
+765,-אני עומד למות לפני הקציר!,To die before the harvest  ,- I'm about to die before the harvest!,83
+766,השיבולים הגרעינים  ,- Is that clear ,The nuclear oats,69
+767,שדות של חיטה בשלה ,Fields of rippling wheat ,Fields of ripe wheat,86
+768,כל מה שיש לנו בחיים זה חיטה ,Wheat All there is in life is wheat ,All we have in life is wheat,73
+769,סוניה זו ההזדמנות שלך לעשות טובה לבחור גוסס ,Sonja here's your chance to do something kind for a dying boy ,Sonia is your chance to make a good choice for dying,71
+770,אבל את לא באמת אוהבת את בוריס ,But I don't really love Boris ,But you do not really like Boris,79
+771,כלומר את אוהבת אותו אבל אינך מאוהבת בו -חיטה  ,I mean I love him but I'm not in love with him ,I mean you love him but you are not in love with him -wheat,77
+772,המון חיטה ,Fields of wheat ,Lots of wheat,79
+773,שדות שלמים ,Fields of wheat ,Whole fields,74
+774,כמויות עצומות של חיטה!,Cream of wheat ,Huge amounts of wheat!,63
+775,-מצד שני הוא אוהב אותי ,And yet he loves me ,-On the other hand he loves me,75
+776,נקים משפחה ,We'd have a family ,We'll start a family,68
+777,אולי לא משלנו אפשר להשכיר אחת ,Maybe we could rent one ,Maybe not our own can rent one,60
+778,אלמד לאהוב אותו ,I could learn to love him ,I will learn to love him,78
+779,אני בוריס ושישה ילדים שכורים ,Me Boris and six rented children ,I'm Boris and six hired kids,70
+780,ואם ארגיש לכודה ,Or would I feel trapped ,And if I feel trapped,68
+781,תפתחו חלון!,Open a window!,Open a window!,100
+782,לא! לא את זה!,No not that one!,No! Not that!,85
+783,את החלון באמבטיה!,The one in the bathroom ,The window in the bathroom!,78
+784,חיטה צהובה אדומה  ,Yellow wheat Red wheat ,Red-yellow wheat,84
+785,חיטה עם נוצות ,Wheat with feathers ,Wheat with feathers,100
+786,קרם חיטה מסכן ,Cream of wheat ,Poor wheat cream,87
+787,יוצא לדו קרב עם לבדקוב ,Poor boy dueling with Anton Lebedokov ,Goes into a duel with Lebedkov,66
+788,מחר בשעה כזאת בן דודי האהוב ייראה כמו גבינה שויצרית ,By tomorrow my beloved cousin Boris will look like a Swiss cheese ,Tomorrow at a time like this my beloved cousin will look like Swiss cheese,81
+789,ואם ארגיש לכודה ,Or would I feel trapped ,And if I feel trapped,68
+790,חנוקה ,Suffocated ,Suffocated,100
+791,נעוריי אבדו!,My youth gone ,My youth was lost!,67
+792,אני חיה עם פיסת גבינה שויצרית וילדים בהשכרה!,Living with a Swiss cheese and rented children ,I live with a piece of Swiss cheese and kids for rent!,73
+793,מובן שאתחתן איתך בוריס ,Of course I'll marry you Boris ,Of course I'll marry you Boris,100
+794,זה ייחשב לי לכבוד גדול ,It would be an honor for me ,That would be a great honor for me,75
+795,אנטון לבדקוב הזה נחשב לקלע טוב נכון ,This Anton Lebedokov he is a good shot isn't he ,This Anton Lebedkov is considered a good slingshot right,68
+796,-חוששני שכן ,- I'm afraid so ,- I'm afraid so,100
+797,טוב מאחר וזה אולי הלילה האחרון שלך עלי אדמות בוא נעלה לחדרי ונתעלס ,- Well since this may be your last night on earth let's go back to my room and make love ,Well since this may be your last night on earth let's go up to my room and make love,95
+798,אביא רוטב סויה ,I'll bring the soy sauce ,I will bring soy sauce,78
+799,אתה מאחר גרושנקו ,You're late Grushenko ,You're late for Groshenko,87
+800,חשבנו שלא תגיע ,We thought you weren't coming ,We thought you would not come,76
+801,אני שונא לירות באנשים לפני כוס התה של הבוקר ,I hate to shoot anybody before my morning tea ,I hate shooting people before this morning's cup of tea,68
+802,וגם קיבלתי הרבה מכתבי שטנה מהאריסים שלי ,I get a lot of bad mail from the serfs ,And I also got a lot of hate mail from my coffins,60
+803,אני מפציר בשניכם תנהגו בהגיון ,I implore both of you come back to your senses ,I urge both of you to act sensibly,65
+804,אתה מבין יש לי אולקוס ,I have an ulcer condition ,You see I have an ulcer,62
+805,הוא קורא עליך תיגר ,You have been challenged ,He challenges you,78
+806,-רק אחד ,- Just one ,-just one,100
+807,גם הוא מקבל אחד  ,Oh he gets one!,He also gets one,73
+808,יהי האל עם שניכם ,And God be with you both ,May God be with you both,83
+809,-שמעת אותו ,- I'm afraid so ,- You heard him,62
+810,אחת שתיים שלוש ארבע חמש שש שבע שמונה תשע עשר!,One two three four five six seven eight nine ten ,One two three four five six seven eight eight nineteen!,86
+811,-אתה חייב לירות ,- You must shoot ,- You must shoot,100
+812,לא אני לא רוצה לירות ,- No no I don't wanna shoot ,No I do not want to shoot,88
+813,אלה הכללים!,The crops the grains ,These are the rules!,62
+814,אם זה החוק אירה באוויר ,Well if it's the law then I'll shoot in the air ,If this is the law shot in the air,77
+815,הנה ,There ,here,89
+816,בוריס דימיטרוביץ' לימדת אותי לקח חשוב מאוד היום ,Boris Dimitrovitch I've learnt a great lesson here today ,Boris Dimitrovich taught me a very important lesson today,73
+817,כן גם אני ,Me too ,Yes me too,75
+818,היית יכול להרוג אותי אבל לא עשית כך ,You could have killed me And you didn't ,You could have killed me but you did not,89
+819,איך אוכל לגמול לך ,How can I ever repay you ,How can I repay you,88
+820,-תתחיל מזה שתזוז מהרגל שלי ,You can start by getting off my toe ,- Start by moving off my leg,66
+821,בוריס דימיטרוביץ' מהיום אפתח בחיים חדשים ,Boris Dimitrovitch from this day on I will lead a new life ,Boris Dimitrovich from today I will start a new life,78
+822,אטיף למעשים טובים! אולי אצטרף לכנסיה!,I will preach goodness perhaps join the church ,I will preach good deeds! Maybe I'll join the church!,74
+823,אקדיש את עצמי שוב כמו בילדותי לשירה ,Devote myself as I did in my childhood to my singing ,I will dedicate myself again as in my childhood to poetry,66
+824,יש לו קול נהדר מה הייתי צריך לירות בו ,He's got a great voice hasn't he ,He has a great voice what I should have shot him,65
+825,וכך נישאתי לסוניה ,And so Sonja and I married ,And so I married Sonia,88
+826,-אני מכריז עליכם בעל ואישה ,And he would make a devoted husband ,- I declare you husband and wife,62
+827,אני כל כך מאושר!,I'm so happy ,I'm so happy!,100
+828,תראו את הילדה ,Look at the kid ,Look at the girl,84
+829,אני חף מהרגלים רעים ,- I'm afraid so ,I'm free of bad habits,63
+830,אני לא אוכל דבר שמתחיל באות פ' כמו עוף למשל ,I won't eat any food that begins with the letter F Like chicken ,I do not eat anything that starts with the letter F like chicken for example,75
+831,בוריס אני פשוט לא אוהבת אותך ,Boris I just don't love you ,Boris I just do not like you,87
+832,-סוניה  אני אוהבת אותך אבל לא מאוהבת בך ,- Oh Sonja - I love you But I'm not in love with you ,-Sonia I love you but not in love with you,90
+833,סוניה את בכלל יודעת מהי אהבה ,Sonja do you even know what love means ,"Sonia, do you even know what love is?",85
+834,יש אהבה בין גבר לאישה ,There's love between a man and a woman ,There is love between a man and a woman,94
+835,אהבה בין אם לבנה ,Love between a mother and a son ,Love between mother and son,93
+836,אהבת נשים ,Two women ,Love of women,64
+837,בואי לא נשכח את הסוג החביב עליי ,Let's not forget my favourite ,Let's not forget my favorite kind,90
+838,-כן ,Yes ,-Yes,100
+839,-סוניה  בוריס לא ,- Oh don't Boris ,- Sonia Boris does not,65
+840,בבקשה ,Are you listening ,you are welcome,62
+841,סקס בלי אהבה זו חוויה חסרת משמעות ,Please Sex without love is an empty experience ,Sex without love is a meaningless experience,80
+842,אבל יחסית לחוויות חסרות משמעות היא בין הטובות שיש!,Yes but as empty experiences go it's one of the best ,But relative to meaningless experiences it is among the best there is!,60
+843,בהתחלה נוצר בינינו מתח מסוים ,At first things were a little tense between us ,At first a certain tension developed between us,62
+844,לא כאן ,Not here ,not here,100
+845,די מהר סוניה התרגלה אליי ,Soon Sonja got more used to me ,Pretty soon Sonia got used to me,87
+846,כמו בזמן שהיא אפתה את הסופלה הראשון שלה ,Like the time she baked her first souffle ,Like while she was baking her first souffle,81
+847,לא היה לנו הרבה כסף סוניה למדה להכין מטעמים משלג ,Money was scarce and Sonja learned to make wonderful dishes out of snow ,We did not have much money Sonia learned to make delicacies from snow,64
+848,-זה היה בתנור שעה וחצי ,- I baked it for an hour and a half ,- It was in the oven for an hour and a half,73
+849,באמת ,Really ,really,100
+850,כי זה נראה קצת  ,Cos it looks  ,Because it looks a bit,65
+851,מה יש לקינוח ,What's for dessert ,What's for dessert?,100
+852,בערבים ניגנו בצוותא ועם הזמן היא התאהבה בי ,Evenings we played music together And as time passed I won her heart ,In the evenings they played together and in time she fell in love with me,62
+853,בוריס ,Oh Boris ,Boris,77
+854,אני אוהבת אותך אהבה עמוקה יותר ממה שאי פעם חשבתי שאוכל ,I love you Boris in a deeper way than I ever thought was possible ,I love you deeper love than I ever thought I could,77
+855,באמת ,Really ,really,100
+856,אני רוצה לעשות איתך ילדים ,I wanna have children with you ,I want to have kids with you,66
+857,-מאיזה מין ,- What kind ,- What kind,100
+858,-ילדים קטנים ,- Little children Of course ,-little children,75
+859,כמובן הגדולים איטיים יותר מבחינה מנטלית ,The big ones are mentally slower ,Of course the big ones are mentally slower,86
+860,אני רוצה שלושה ילדים ,- I wanna have three children ,I want three children,83
+861,-אחד מכל מין ,- One of each ,- One of a kind,67
+862,הוי בוריס  ,Oh Boris ,Oh Boris,100
+863,אני באמת מאושרת!,I'm so happy ,I'm really happy!,71
+864,אני לא רוצה להגיד 'אמרתי לך' אבל יש גברים שיש להם את זה ויש כאלה שאין להם ,Well I hate to say I told you so but some men have it and some men don't ,I do not want to say 'I told you so' but there are men who have it and there are those who do not,67
+865,החודשים הבאים היו המאושרים בחיי ,Those next months were the happiest time of my life ,The following months were the happiest in my life,72
+866,ואז יום אחד כשהייתי בשיא תחושת הכיף שלי לפתע פתאום ללא סיבה הגיונית כלשהי עלה בי הדחף להתאבד ,Then one day at the height of my sense of wellbeing I suddenly and for no apparent reason was seized with an urge to commit suicide ,Then one day when I was at the peak of my sense of fun all of a sudden for no logical reason I had the urge to commit suicide,74
+867,למה לא אתה בריא יש לך אישה מקסימה ,You're healthy you have a beautiful wife your work is going well ,Why are you not healthy? You have a lovely wife,60
+868,אתה מצליח בעבודה אני יודע אבל חסר לי משהו ,I know but something's missing ,You're successful at work I know but I'm missing something,66
+869,-מה ,- What ,-what,100
+870,הרגשתי חלל מלא לפני חודש אבל זה היה סתם משהו שאכלתי ,I felt the full void a month ago but it was something I ate ,I felt full space a month ago but it was just something I ate,87
+871,תראה! הנה מלאך המוות!,- Look there's Death ,Look! Here is the angel of death!,61
+872,-מה ,- What ,-what,100
+873,-באמת ,Really ,-really,100
+874,כן ועוד אישה  ,- Yeah and a woman ,Yes and another woman,70
+875,זו לא גברת קרופטקין ,- Ooh it's not Mrs Krapotkin ,This is not Mrs. Croftkin,68
+876,-לא ,No ,-No,100
+877,לאן אתה לוקח את קרופטקין -הרחק מכאן ,- Where are you taking Krapotkin ,Where are you taking Croftkin - far from here,74
+878,תשמע אם תראה את אישתי תגיד לה שאני אצלך ,Listen if you run into my wife tell her I'm with you!,"Listen, if you see my wife, tell her I'm with you",89
+879,תכתוב אם ייצא לך ,If you get a chance write ,Write if you can,78
+880,האב אנדרה הקדוש מכולם החכם מכל אדם אתה האיש הכי מקומט במדינה ,Father Andre holiest of holies aged and wise you are the most wrinkled man in the entire country ,"The most holy Father of all, the wisest of all men, you are the most wrinkled man in the country",71
+881,-אני עומדת ,- I'm standing ,- I'm standing,100
+882,כולם אומרים שאתה סנילי אבל רק אתה יכול לעזור לי ,Everyone says you're senile with age but you're the only one that can help me ,Everyone says you're senile but only you can help me,81
+883,אני לא חושבת שאתה סנילי ,I don't think you're senile ,I do not think you are senile,79
+884,-איפה אמרת שתפסו את הדג ,Where did you say the fish was caught ,- Where did you say you caught the fish?,89
+885,איזה דג ,- What fish ,What a fish,90
+886,-לא אמרת משהו על דג ,- Didn't you say something about fish ,- You did not say anything about fish,63
+887,-אבי בוריס מנסה להתאבד!,Father Boris is trying to commit suicide ,- Avi Boris is trying to commit suicide!,86
+888,חייתי הרבה מאוד שנים ולאחר שאלות ותהיות רבות הגעתי למסקנה ,I have lived many years and after many trials and tribulations ,"I lived many, many years and after many questions and doubts I came to the conclusion",67
+889,שהדבר הכי טוב בחיים הוא  ,I have come to the conclusion that the best thing is  ,That the best thing in life is,63
+890,-כן ,Yes ,-Yes,100
+891,ילדות בלונדיניות בנות 12 ,blonde 12-year-old girls ,12 year old blonde girls,100
+892,אני בטחתי בך ,Did you ,I trusted you,60
+893,אני סולח לך  ,I forgive you ,I forgive you,100
+894,-תודה רבה הוד מסריחותך ,I forgive you Thank you Your Grubbiness ,-Thank you very much for your stink,66
+895,רציתי לחבק אותה לבכות על כתפה ואז 'לרדת' לה באותו הרגע גמלה בי החלטה לחיות ,It was then that I made the decision to live to live and become a great poet ,I wanted to hug her and cry on her shoulder and then 'get off' her at that moment I made a decision to live,64
+896,לחיות ולהיות משורר דגול ,Love between a mother and a son ,To live and be a great poet,62
+897,הלואי שהייתי זוג טפרים חדים מפליג על רצפת  הים השקט  זה רגשני מדי!,I should have been a pair of ragged claws scuttling across the floors of silent seas Too sentimental ,I wish I was a pair of sharp claws sailing on the Pacific floor it's too sentimental!,62
+898,מצאנו חבר חדש ברצ'יקוב שוטה הכפר ,We found a new friend Berdykov the village idiot ,We found a new friend in Rachikov the village fool,76
+899,הוא נהג לשבת שעות ולחייך כשהוא מלטף פיסת קטיפה ,Berdykov would sit smiling for days and stroke a little piece of velvet ,He used to sit for hours and smile as he stroked a piece of velvet,67
+900,ציפינו בקוצר רוח לבוא האביב שאז נוכל להביא ילד לעולם ,We looked forward to the spring when we could have a child of our own ,We were looking forward to the coming of spring when we could have a child,83
+901,מלחמה!,War!,war!,100
+902,נפוליאון פלש לרוסיה! פרצה מלחמה!,Napoleon has invaded Russia!,Napoleon invaded Russia! a war has started!,79
+903,תיכננו להפוך השנה להורים ,We were gonna be parents this year!,We planned to become parents this year,69
+904,עלינו לקחת הכול ולהימלט על נפשנו ,- We have to take everything and flee ,We must take everything and flee for our souls,69
+905,אני טוב בזה ,I'm very good at that ,I'm good at it,69
+906,הייתי אלוף בהימלטות בסגנון חופשי שנתיים ברציפות ,I was the men's freestyle fleeing champion for two years ,I was a freestyle champion for two years in a row,78
+907,צריך לזכור לשרוף את האוכל שלא ייפול לידי הצרפתים ,We have to burn the food so the French don't get it ,One must remember to burn the food that will not fall into the hands of the French,62
+908,-מה יש לי רעיון ,- Boris I have an idea ,- What idea do I have?,67
+909,-מה ,- What ,-what,100
+910,בוא נתנקש בחיי נפוליאון ,Let's assassinate Napoleon ,Let's assassinate Napoleon,100
+911,זה מעניין מאוד ,Yeah Interesting ,This is very interesting,65
+912,כבר מאוחר רוצה להתחיל להכין ארוחת ערב ,Do you want to start knitting dinner ,It's too late to start making dinner,69
+913,-אני רצינית ,- I'm serious ,-I'm serious,100
+914,-שאתה ואני נתנקש בנפוליאון ,Let's assassinate Napoleon ,- That you and I will assassinate Napoleon,67
+915,תגידי שתית מהכוס של שוטה הכפר ,You been drinking from the glass we use for the village idiot ,Say you drank from the glass of the village fool,73
+916,לא ,No ,No,100
+917,שני טיפוסים תמימים כמונו יוכלו להגיע אליו ולירות בו ,- Sonja! Two innocent-looking types like us could get in and shoot him ,Two innocent guys like us will be able to reach him and shoot him,64
+918,זו ההזדמנות שלנו לבצע מעשה גבורה אמיתי ,Boris it's our chance to perform a truly heroic act ,This is our chance to perform a true act of heroism,80
+919,ממתי רצח זה מעשה גבורה ,Since when is murder a heroic act ,Since when is murder an act of heroism,85
+920,אטילה ההוני ,- Who said that - Attila the Hun ,Attila the Hun,67
+921,-את מצטטת לי הונים ,You're quoting a Hun to me ,- You're quoting me Huns,88
+922,שכחת שב'לא תרצח' יש הכרח מוסרי שהוא מעבר לכל ביטוי אחר של הרצון החופשי האוניברסלי ,Don't you know that murder carries with it a moral imperative that transcends any notion of inherent universal free will ,You have forgotten that 'thou shalt not kill' has a moral necessity that is beyond any other expression of the universal free will,60
+923,אני נחשב אחד האנשים הכי פחות זייני שכל ברוסיה ,I am one of the most june people in all of the Russias ,I am considered one of the least fucking people in Russia,67
+924,יש לי את האקדח הישן של איבן!,I have Ivan's old pistol ,I have Ivan's old gun!,76
+925,אלימות מולידה אלימות ,Violence leads to violence ,Violence breeds violence,84
+926,מי שחי על חרבו ימות על חרבו ,He who lives by the sword dies by the sword ,He who lives on his sword will die on his sword,62
+927,טוב נגמרו לי הקלישאות ,Well I'm out of clichés now ,Well I ran out of clichés,80
+928,מה אתה מציע התנגדות פסיבית -לא ,- Are you suggesting passive resistance ,What do you offer passive resistance -no,68
+929,אני מציע בריחה אקטיבית ,- No I'm suggesting active fleeing ,I suggest an active escape,66
+930,לא תוכל לברוח כל חייך ,- You can't run away all your life ,You will not be able to escape all your life,66
+931,אבל רצח  הפשע המתועב מכולם ,The most foul of all crimes ,But the most heinous crime murder of all,72
+932,לא רצח במובן המופשט כמו לירות בחייל אויב אלמוני בשדה הקרב לעמוד בחדר סגור עם בן אדם חי וללחוץ על ההדק בדם קר ,And not abstract murder like shooting an unknown enemy on the battlefield but standing in a closed room with a live human being and pulling the trigger face to face ,Not murder in the abstract sense like shooting an anonymous enemy soldier on the battlefield standing in a closed room with a living person and pulling the trigger in cold blood,77
+933,ועוד בן אדם מפורסם מצליח אחד שמרוויח יותר ממני ,And a famous human being a successful one one who earns more than I do ,And another successful famous person who earns more than me,78
+934,מינימום ,That's minimum ,minimum,67
+935,מי אני בכלל ,And me what am I ,Who am I anyway,65
+936,הוא אדם גדול ,He's a great man ,He is a great man,85
+937,מי אנחנו שנהרוג מישהו ,Sonja Who are we to kill somebody ,Who are we to kill someone?,85
+938,לראשונה בחיי אני מרגישה חופשיה!,Boris for the first time in my life I feel free ,For the first time in my life I feel free!,93
+939,חסרת משקל!,Weightless ,Weightless!,100
+940,-זה נקרא גיליוטינה ,It's called the guillotine ,-It's called a guillotine,88
+941,תראה בוריס  ,Oh look Boris ,Look at Boris,77
+942,תיזהרי ייתכן שהאקדח טעון ,Careful cos that gun may be loaded ,Be careful the gun may be loaded,85
+943,כמה ימים אחר כך יצאנו למוסקבה ,Several days later we set out for Moscow ,A few days later we left for Moscow,64
+944,ברצ'יקוב בא איתנו חלק מהדרך ,We took Berdykov with us partway ,Berchikov came with us part of the way,66
+945,הוא היה בדרכו למינסק לכינוס של שוטי-הכפר שהתקיים שם ,He was on his way to Minsk There was a village idiots' convention in Minsk Berdykov was planning to attend ,He was on his way to Minsk for a gathering of village-whips held there,62
+946,שוטי כפר מכל רחבי רוסיה התאספו שם ,Village idiots from all over Russia were meeting there ,Village whips from all over Russia gathered there,78
+947,נסענו דרך כפרים קטנים וישובים זעירים ,We drove through small villages and tiny hamlets ,We drove through small villages and tiny settlements,90
+948,לא היתה לנו תוכנית אך כשעצרנו לנוח בפונדק אחד הגורל זימן לנו תוכנית ,We had no great plan but when we stopped at an inn fate provided one ,We had no plan but when we stopped to rest in one inn fate summoned us to a plan,72
+949,סליחה אתה יכול לומר לי מי האנשים שמאחורי המסך ,Pardon me Could you tell me who those people are behind that screen ,Sorry can you tell me who the people behind the screen are,78
+950,דון פרנסיסקו מספרד ואחותו ,That's Don Francisco of Spain and his sister ,Don Francisco from Spain and his sister,82
+951,הם בדרכם לפגישה עם נפוליאון ,They're en route to meet Napoleon ,They are on their way to a meeting with Napoleon,67
+952,דון פרנסיסקו אני מניח ,- Don Francisco ,Don Francisco I guess,76
+953,-אתה מכיר אותי סניור ,- Do you know me senor ,"- You know me, senior",89
+954,ואת בטח אחותו של הדון הרוזנת הספרדיה הידועה ,And you must be the Don's sister the noted Spanish countess and mieskeit ,And probably the sister of the well-known Spanish Countess Don,67
+955,-מי אתה ,Who are you ,-Who are you,100
+956,מלצר!,Later ,a waiter!,62
