@@ -19,13 +19,15 @@ class YouTube(Screen):
         if(self.urlValidator.is_empty_url(url)):
             MyPopUp("Invalid URL","Received Empty URL")
             
-        # internet connection is valid and url is valid
-        elif(self.internet_coonction_validator.is_cnx_active() and self.urlValidator.is_valid_url(url)):
-            self.open_downloader(url)
+        if(not self.urlValidator.is_valid_url(url)):
+            MyPopUp("Invalid URL","Received Empty URL")
             
-        # error popup
+        elif not self.internet_coonction_validator.is_cnx_active():
+            MyPopUp("Error","No Internet Connection available")
+            
+        # internet connection is valid and url is valid
         else:
-            MyPopUp("Invalid Url","URL is invalid:\n {}".format(url))    
+            self.open_downloader(url)
         
         self.url.text = ""
 

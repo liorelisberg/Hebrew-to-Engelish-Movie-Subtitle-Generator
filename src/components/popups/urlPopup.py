@@ -29,23 +29,39 @@ class UrlPopup(Popup):
             yt = YT(self.url_input,on_progress_callback=self.download_progress,on_complete_callback=self.download_complete)
         except Exception as e:
             print(e)
+            
+        title = yt.title   
              
         print('Captions Available: ', yt.captions)
        
+        caption_code = ''
         try:
-            caption = yt.captions['en']
+            captions = yt.captions['en']
+            caption_code = 'en'
         except:
             try:
-                caption = yt.captions['a.en']
+                captions = yt.captions['a.en']
+                caption_code = 'a.en'
             except Exception as e:
                 raise e
         
-        title = yt.title    
-        subtitle = caption.generate_srt_captions()
+        # xml_captions = captions.xml_captions
+        
+        # print(xml_captions)
+        
+        # srt_format = captions.xml_caption_to_srt(captions.xml_captions)
+
+        captions = yt.captions.get_by_language_code(caption_code)
+        
+        print(captions.generate_srt_captions())
+        self.test_captions(captions)
+        
+        subtitles = captions.generate_srt_captions()        
+        
         completeName = os.path.join(self.subtitles_output_folder, title + '.srt')
         completeName = self.remove_invalid_chars(completeName)
         try:
-            open(completeName, 'w').write(subtitle)
+            open(completeName, 'w').write(subtitles)
         except Exception as e:
             raise e
         
@@ -61,6 +77,20 @@ class UrlPopup(Popup):
             
         self.video_file_path = self.video_output_folder.replace(".\\",'') +"\\" +video.default_filename
         print("Here")
+    
+    def test_captions(self,captions):
+        caption_list = []
+        index = 0
+        for line in str(captions.generate_srt_captions()).split('\n'):
+            if index == 0:
+                caption_list.append({})
+            if index in (1, 2):
+                caption_list[len(caption_list)-1][('time', 'caption')[index-1]] = line
+            index += 1
+            if line == '':
+                index = 0
+        for dic in caption_list:
+            print('{} : {}'.format(dic['time'], dic['caption']))
         
     def download_progress(self,stream = None, chunk = None, remaining = None):
         self.progress_value = self.get_download_percent(self.file_size,remaining)

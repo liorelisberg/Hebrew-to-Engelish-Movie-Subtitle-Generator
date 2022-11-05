@@ -32,18 +32,23 @@ class MyPC(Screen):
         self._popup = Popup(title="Choose your file", content=content, size_hint=(1, 1))
         self._popup.open()
         
-    def load_list(self, path:str, filename:list=[]):
+    def load_list(self, video_path:str, filename:list=[]):
         if filename != []:
             if self.mfv.is_valid_format(file=filename[0]):
-                print("Valid path recieved: {}\nfull file path: {}".format(path,filename[0]))
+                print("Valid path recieved: {}\nfull file path: {}".format(video_path,filename[0]))
             else:
-                print("Invalid Format")
+                MyPopUp("Invalid Format","video format should be mp4")
         else:
             print("Recieved Empty File path")
-        
+
+        self.get_subtitles(video_path)
+
         self._popup.dismiss()
         
-        
+    
+    def get_subtitles(self,video_path):
+        print(f"here, {video_path}")
+       
     def dismiss_popup(self):
         self._popup.dismiss()        
 
