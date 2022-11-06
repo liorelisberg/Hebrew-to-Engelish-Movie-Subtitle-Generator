@@ -29,6 +29,8 @@ MANIFEST
 *.manifest
 *.spec
 *.mp4
+*.mp3
+*.srt
 /Video_Downloads
 
 # Installer logs
