@@ -1,4 +1,3 @@
-from concurrent.futures import thread
 import os
 from threading import Thread
 from kivy.uix.popup import Popup
@@ -44,12 +43,6 @@ class UrlPopup(Popup):
                 caption_code = 'a.en'
             except Exception as e:
                 raise e
-        
-        # xml_captions = captions.xml_captions
-        
-        # print(xml_captions)
-        
-        # srt_format = captions.xml_caption_to_srt(captions.xml_captions)
 
         captions = yt.captions.get_by_language_code(caption_code)
         
@@ -69,12 +62,12 @@ class UrlPopup(Popup):
         
         video = yt.streams.filter(progressive=True, file_extension='mp4').order_by('resolution')[-1]
         self.file_size = video.filesize
-            
+
         try:
             video.download(self.video_output_folder)
         except Exception as e:
             print(e) 
-            
+
         self.video_file_path = self.video_output_folder.replace(".\\",'') +"\\" +video.default_filename
         print("Here")
     
@@ -101,9 +94,6 @@ class UrlPopup(Popup):
         """A new thread object will be created each time this method is revoked. But be careful about the threads already created."""
         Thread(target = self.start_download).start()
 
-    # def on_dismiss(self):
-    #     self.url_input = ""
-    #     self.has_started = False
         
      # Gets the percentage of the file that has been downloaded.
     def get_download_percent(self,total, left):

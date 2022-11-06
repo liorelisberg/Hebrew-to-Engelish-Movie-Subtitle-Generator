@@ -12,4 +12,7 @@ class MyPopUp:
         self.popup.message.text = msg_text
         self.popup.title = title_text
         self.popup.open()
+    
+    def dismiss(self):
+        self.popup.dismiss()
         

@@ -40,11 +40,6 @@ class YouTube(Screen):
         url = self.url.text
         self.create_popup(url)
         
-        # if self.UrlPopup.has_ended:
-        #     sleep(2)
-        #     print(f"download has ended for {url}")
-        #     self.UrlPopup.dismiss()
-        
     def on_popup_dismiss(self, mypopup):
 
         print(mypopup.has_ended)
@@ -53,10 +48,7 @@ class YouTube(Screen):
         
         if(not mypopup.has_started and not mypopup.has_ended):
             print("here")
-            # mypopup.dismiss()
-        
 
-        
         if mypopup.has_ended and mypopup.has_started:
             # open the srt file,    V
             # extract all text,     V

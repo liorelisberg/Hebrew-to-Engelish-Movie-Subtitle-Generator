@@ -1,3 +1,4 @@
+import sys
 from kivy.app import App
 from kivy.uix.screenmanager import ScreenManager
 
@@ -22,7 +23,6 @@ Builder.load_file('app.kv')
 class MyApp(App):
     def build(self):
         self.title = 'Hebrew Subtitles Maker'
-        
         # translator = Translator()
         
         sm = ScreenManager()
@@ -31,7 +31,7 @@ class MyApp(App):
         sm.add_widget(MyPC(name='MyPC'))
         sm.add_widget(AboutUs(name='AboutUs'))
         
-        sm.current = 'MyPC'
+        sm.current = 'Main'
         
         return sm
 

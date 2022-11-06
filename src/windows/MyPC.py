@@ -1,4 +1,5 @@
-import os
+import subprocess
+import threading
 from kivy.uix.popup import Popup
 from kivy.core.window import Window
 from kivy.uix.screenmanager import Screen
@@ -8,6 +9,8 @@ from components.validators.mediaFormatsValidator import MediaFormatValidaor
 
 import moviepy.editor as mp
 from components.generators.SrtGenerator import to_srt
+
+from scripts.engSrtTanslate import engSrtToHebSrt
 
 import pvleopard
 #TODO - delete the key because it is private
@@ -19,7 +22,6 @@ except Exception as e:
     print(f"unable to connect to leopard using access key: {access_key}",e)
     
 audio_files_destionation_path = "src\\Audio_Files\\"
-subtitle_files_destionation_path = "src\\Subtitles_Files\\"
 
 class MyPC(Screen):
     def __init__(self, **kw):
@@ -47,22 +49,43 @@ class MyPC(Screen):
         self._popup = Popup(title="Choose your file", content=content, size_hint=(1, 1))
         self._popup.open()
         
-    def handle_chosen_file(self, video_path:str, filename:list=[]):
-        if filename != []:
-            if self.mfv.is_valid_format(file=filename[0]):
-                print("Valid path recieved: {}\nfull file path: {}".format(video_path,filename[0]))
-            else:
-                MyPopUp("Invalid Format","video format should be mp4")
-        else:
-            print("Recieved Empty File path")
-
-        audio_path = self.get_audio_from_video(filename[0])
-        eng_subtitles = self.get_subtitles(audio_path)
-        translated_subtitles = self.translate_subs(eng_subtitles)
-        print(translated_subtitles) 
-
-        self._popup.dismiss()
+    def handle_chosen_file(self, _:str, filename:list=[]):
         
+        if filename != []:
+            filename = filename[0]
+            if not self.mfv.is_valid_format(file=filename):
+                MyPopUp("Invalid Format","video format should be mp4")
+                return
+        else:
+            MyPopUp("Empty path","Recieved Empty File path")
+            return
+        
+        thread = threading.Thread(target=self.proccess_video,args=(filename,))
+        thread.start()
+        thread.join()
+        MyPopUp("Process video","Done Processing.")    
+        
+
+    
+    def proccess_video(self,filename):
+        print("proccessing ...")
+        # get audio from video
+        audio_path = self.get_audio_from_video(filename)
+        # get subtitles from audio file using speech-to-text
+        eng_subtitles_path = self.get_subtitles(audio_path)
+        # translate subtitles using NMT tranlator
+        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,destPath=eng_subtitles_path)
+        # embed translated subtitles to video, and save it.
+        self.embed_subtitles_to_video(filename,translated_subtitles_path)
+        print("Done proccessing")
+        
+        
+    def embed_subtitles_to_video(self,video_path,translated_subtitles_path):
+        trans_video_path = video_path.replace(".mp4","-translated.mp4")
+        translated_subtitles_path = translated_subtitles_path.replace("\\","/")
+        command = f"ffmpeg -threads 8  -i \"{video_path}\" -vf subtitles=\"{translated_subtitles_path}\" -y -movflags +faststart -preset ultrafast \"{trans_video_path}\""
+        subprocess.call(command,shell=True)
+    
     
     def get_audio_from_video(self,video_path):
         video = mp.VideoFileClip(video_path)
@@ -70,18 +93,12 @@ class MyPC(Screen):
         video.audio.write_audiofile(audio_path)
         return audio_path
     
-    
     def get_subtitles(self,audio_path):
         print(f"here, {audio_path}")
-        transcript, words = leopard.process_file(audio_path)
-        print(words)
-        srt = to_srt(words)
-        print(srt)
-        ############ TODO FIX HERE
-        dirname = os.path.dirname(__file__)
-        filename = os.path.join(dirname, subtitle_files_destionation_path)
-        subtitle_path = subtitle_files_destionation_path + audio_path.split("\\")[-1].replace(".mp3",".srt")
-        ############ TODO FIX HERE
+        _, words = leopard.process_file(audio_path)
+
+        subtitle_path =  "Subtitles_Files\\"+audio_path.split("\\")[-1].replace(".mp3",".srt")
+
         try:
             with open(subtitle_path, 'w+') as f:
                 f.write(to_srt(words))
