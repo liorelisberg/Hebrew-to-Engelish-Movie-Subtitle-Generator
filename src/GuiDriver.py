@@ -31,8 +31,7 @@ class MyApp(App):
         sm.add_widget(MyPC(name='MyPC'))
         sm.add_widget(AboutUs(name='AboutUs'))
         
-        sm.current = 'Main'
-        
+        sm.current = 'MyPC'
         return sm
 
 if __name__ == "__main__":

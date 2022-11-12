@@ -1,6 +1,9 @@
 import pvleopard
 from typing import Sequence, Optional
 
+MAX_WORD_LIMIT = 10
+MAX_PAUSE_TIME = 0.5
+
 def second_to_timecode(x: float) -> str:
     hour, x = divmod(x, 3600)
     minute, x = divmod(x, 60)
@@ -11,8 +14,8 @@ def second_to_timecode(x: float) -> str:
 
 def to_srt(
         words: Sequence[pvleopard.Leopard.Word],
-        endpoint_sec: float = 1.,
-        length_limit: Optional[int] = 16) -> str:
+        endpoint_sec: float = MAX_PAUSE_TIME,
+        length_limit: Optional[int] = MAX_WORD_LIMIT) -> str:
     def _helper(end: int) -> None:
         lines.append("%d" % section)
         lines.append(

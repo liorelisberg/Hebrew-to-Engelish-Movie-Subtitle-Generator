@@ -352,7 +352,7 @@
                 text: "Load"
                 on_release: root.load(filechooser.path, filechooser.selection)
 
-<UrlPopup>:
+<TYDonwloadPopUp>:
     title: 'YouTube Video Downloader'
     size_hint: .76, .5
     height: "450dp"
@@ -371,7 +371,6 @@
             value: root.progress_value
             max: 100
             
-
         Label:
             id: progress_label
             text: "Downloading file...{}%".format(root.progress_value) if root.has_started else ""
@@ -381,10 +380,56 @@
             height: dp(48)
 
             Button:
+                id: download_button
                 text: 'Download'
+                disabled: False
                 on_release: root.download()
 
             Button:
+                id: close_button
                 text: 'Close'
+                disabled: False
+                on_press: 
+                    root.dismiss()
+
+
+
+<PCDownloadPopUp>:
+    title: 'My PC Video Downloader'
+    size_hint: .76, .5
+    height: "450dp"
+
+    BoxLayout:
+        orientation: "vertical"
+
+        Label:
+            text: root.filename_input
+            size_hint_y: None
+            height: "64dp"
+            font_size: "16sp"
+
+        ProgressBar:
+            pos_hint: {"center_x" : 0.5}
+            value: root.progress_value
+            max: 100
+            
+        Label:
+            id: progress_label
+            text: "Downloading file...{}%".format(root.progress_value) if root.has_started else ""
+
+        BoxLayout:
+            size_hint_y: None
+            height: dp(48)
+
+            Button:
+                id: download_button
+                text: 'Download'
+                disabled: False
+                on_release: root.download()
+
+            Button:
+                id: close_button
+                text: 'Close'
+                disabled: False
                 on_press: 
                     root.dismiss()

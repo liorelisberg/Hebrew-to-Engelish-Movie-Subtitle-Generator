@@ -4,6 +4,7 @@ from kivy.uix.popup import Popup
 from kivy.core.window import Window
 from kivy.uix.screenmanager import Screen
 from kivy.properties import ObjectProperty
+from components.popups.PCDownloadPopUp import PCDownloadPopUp
 from components.popups.popup import MyPopUp
 from components.validators.mediaFormatsValidator import MediaFormatValidaor
 
@@ -16,10 +17,11 @@ import pvleopard
 #TODO - delete the key because it is private
 access_key = "j2HYl+0AhFWnswwxXtdkpQjXND8NchN0d4nELfi8WNbOlDvCrGMDRQ=="
 
+
 try:
     leopard = pvleopard.create(access_key=access_key)
-except Exception as e:
-    print(f"unable to connect to leopard using access key: {access_key}",e)
+except Exception:
+    MyPopUp(f"unable to connect to leopard using access key: {access_key}")
     
 audio_files_destionation_path = "src\\Audio_Files\\"
 
@@ -49,8 +51,7 @@ class MyPC(Screen):
         self._popup = Popup(title="Choose your file", content=content, size_hint=(1, 1))
         self._popup.open()
         
-    def handle_chosen_file(self, _:str, filename:list=[]):
-        
+    def handle_chosen_file(self, path:str, filename:list=[]):
         if filename != []:
             filename = filename[0]
             if not self.mfv.is_valid_format(file=filename):
@@ -60,32 +61,17 @@ class MyPC(Screen):
             MyPopUp("Empty path","Recieved Empty File path")
             return
         
-        thread = threading.Thread(target=self.proccess_video,args=(filename,))
-        thread.start()
-        thread.join()
-        MyPopUp("Process video","Done Processing.")    
-        
+        self.open_downloader(filename)
 
-    
-    def proccess_video(self,filename):
-        print("proccessing ...")
-        # get audio from video
-        audio_path = self.get_audio_from_video(filename)
-        # get subtitles from audio file using speech-to-text
-        eng_subtitles_path = self.get_subtitles(audio_path)
-        # translate subtitles using NMT tranlator
-        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,destPath=eng_subtitles_path)
-        # embed translated subtitles to video, and save it.
-        self.embed_subtitles_to_video(filename,translated_subtitles_path)
-        print("Done proccessing")
-        
+    def open_downloader(self,filename):
+        self.UrlPopup = PCDownloadPopUp(filename)
+        self.UrlPopup.open()
         
     def embed_subtitles_to_video(self,video_path,translated_subtitles_path):
         trans_video_path = video_path.replace(".mp4","-translated.mp4")
         translated_subtitles_path = translated_subtitles_path.replace("\\","/")
         command = f"ffmpeg -threads 8  -i \"{video_path}\" -vf subtitles=\"{translated_subtitles_path}\" -y -movflags +faststart -preset ultrafast \"{trans_video_path}\""
         subprocess.call(command,shell=True)
-    
     
     def get_audio_from_video(self,video_path):
         video = mp.VideoFileClip(video_path)
@@ -110,7 +96,6 @@ class MyPC(Screen):
        
     def dismiss_popup(self):
         self._popup.dismiss()        
-
 
 class LoadFileChooser(Screen):
     load = ObjectProperty(None)
