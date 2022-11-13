@@ -27,11 +27,12 @@ class PCDownloadPopUp(Popup):
     progress_value = NumericProperty(0) # To capture the current progress.
     has_started = BooleanProperty(False) 
         
-    def __init__(self, filename):
+    def __init__(self, filename,translator):
         super().__init__()
         print(f"filename: {filename}")
         self.filename_input = filename.split("\\")[-1]
         self.filename = filename
+        self.translator = translator
         
     def download(self,):
         Thread(target = self.start_download).start()
@@ -60,7 +61,9 @@ class PCDownloadPopUp(Popup):
         
         # translate subtitles using NMT tranlator
         self.ids.progress_label.text = "Translating English captions to Hebrew ..."
-        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,destPath=eng_subtitles_path)
+        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,
+                                                   destPath=eng_subtitles_path,
+                                                   t=self.translator)
         if translated_subtitles_path == "":
             self.ids.progress_label.text = "Exception while tranlating captions to Hebrew"
             self.ids.close_button.disabled = False
@@ -97,6 +100,7 @@ class PCDownloadPopUp(Popup):
         try:
             _, words = leopard.process_file(audio_path)
         except Exception as e:
+            print(e)
             self.ids.progress_label.text = "Exception while creating captions from video :("
             # self.ids.close_button.disabled = False
             return ""

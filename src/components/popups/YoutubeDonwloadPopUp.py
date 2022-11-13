@@ -28,9 +28,10 @@ class TYDonwloadPopUp(Popup):
     progress_value = NumericProperty(0) # To capture the current progress.
     has_started = BooleanProperty(False) 
        
-    def __init__(self,url):
+    def __init__(self,url,translator):
         super().__init__()
         self.url_input = url
+        self.translator = translator
     
     def start_download(self):
         self.has_started = True
@@ -63,7 +64,9 @@ class TYDonwloadPopUp(Popup):
         
         # translate subtitles using NMT tranlator
         self.ids.progress_label.text = "Translating English captions to Hebrew ..."
-        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,destPath=eng_subtitles_path)
+        translated_subtitles_path = engSrtToHebSrt(sourcePath=eng_subtitles_path,
+                                                   destPath=eng_subtitles_path,
+                                                   t=self.translator)
         if translated_subtitles_path == "":
             self.ids.progress_label.text = "Exception while tranlating captions to Hebrew"
             self.ids.close_button.disabled = False
@@ -81,12 +84,11 @@ class TYDonwloadPopUp(Popup):
         
         self.ids.progress_label.text = "Done processing video !\nFile is saved in original location."
         self.ids.close_button.disabled = False
-        self.has_started = False      
          
     def get_audio_from_video(self,video_path):
         try:
             video = mp.VideoFileClip(video_path)
-            audio_path = self.audio_output_folder + video_path.split("\\")[-1].replace(".mp4",".mp3")
+            audio_path = self.audio_output_folder + "\\" + video_path.split("\\")[-1].replace(".mp4",".mp3")
             video.audio.write_audiofile(audio_path)
             return audio_path
         except Exception as e:

@@ -1,7 +1,7 @@
 import pvleopard
 from typing import Sequence, Optional
 
-MAX_WORD_LIMIT = 10
+MAX_WORD_LIMIT = 7
 MAX_PAUSE_TIME = 0.5
 
 def second_to_timecode(x: float) -> str:

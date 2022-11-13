@@ -6,11 +6,11 @@ from components.validators.validate_internet_connection import InternetConnectio
 
 class YouTube(Screen):
     
-    def __init__(self ,**kw):
+    def __init__(self ,translator,**kw):
         super().__init__(**kw)
         self.urlValidator = UrlValidator()
         self.internet_coonction_validator = InternetConnectionValidator()
-        # self.translator =  translator
+        self.translator =  translator
 
     def create_popup(self,url):
         # empty url
@@ -30,7 +30,7 @@ class YouTube(Screen):
         self.url.text = ""
 
     def open_downloader(self,url):
-        self.UrlPopup = TYDonwloadPopUp(url)
+        self.UrlPopup = TYDonwloadPopUp(url,self.translator)
         self.UrlPopup.open()
         
     def submit_url(self):
